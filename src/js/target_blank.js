@@ -7,3 +7,18 @@
     }
   }
 })();
+
+(function(){
+    var blocks = document.getElementsByClassName('auto-img');
+    
+    for(var i = 0; i < blocks.length; i++){
+      var className = blocks[i].className;
+      className = className.substr(9);
+      
+      var div = document.createElement('div');
+      div.innerHTML = '<img class="logo-char" src="../assets/img/lms/avatar-'+className+'.png" />';
+      blocks[i].appendChild(div);
+      
+    }
+     
+})();

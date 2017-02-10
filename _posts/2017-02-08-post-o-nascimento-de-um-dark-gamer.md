@@ -12,6 +12,10 @@ categories:
 - lms
 twitter_text:
 introduction:
+tradutor: Giovane Kauer
+revisor: Giovane Kauer
+editor: Giovane Kauer
+fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-1-chapter-1.html
 ---
 
 Apenas imagine uma nobre, elegante e pitoresca vida de pobreza que você encontra em uma novela, e não importa o quão pobre você fosse, isso ainda não lhe desencoraja a mostrar amor incondicional para estranhos ou mesmo dividir seu pedaço de pão com um sorriso caloroso.
@@ -34,15 +38,15 @@ Ele viveu essa vida de exploração até os vinte anos de idade e, graças a iss
 
 Ao colocar o cartão ID em sua carteira, Lee Hyun murmurou:
 
-“Eu terei que trabalhar até meu corpo praticamente se quebrar. Eu devo ser capaz de lidar com 3 empregos por dia”.
+- Eu terei que trabalhar até meu corpo praticamente se quebrar. Eu devo ser capaz de lidar com 3 empregos por dia.
 
 Quando ele era uma criança, seus pais tinham morrido em um acidente e agora a sua família consistia apenas de sua avó e de sua irmãzinha.
 
-“Tudo bem. De agora em diante nós seremos ricos”.
+- Tudo bem. De agora em diante nós seremos ricos.
 
 Lee Hyun comprometeu-se a isso e então retornou para casa.
 
-“Lee Hyun, você voltou agora mesmo?”
+- Lee Hyun, você voltou agora mesmo?
 
 Sua avó perguntou enquanto deitava-se aconchegada em suas cobertas.
 
@@ -50,23 +54,20 @@ Sua avó tinha caído das escadas há poucos dias e deslocou o seu quadril, torn
 
 Toda vez que Lee Hyun entrava em casa, ele se sentia sufocado. Era uma casa sem vida com uma irmã mais nova distante e a sua avó idosa. Mesmo se ele não soubesse o que causava isso, era provavelmente porque ele não gostava mais de voltar para casa.
 
-“Hayan?”
-
-“Eu não tenho ideia. Ela saiu e não voltou. Ela deve estar andando por aí com aquelas más companhias de novo, eu não tenho certeza”.
+- Hayan?
+- Eu não tenho ideia. Ela saiu e não voltou. Ela deve estar andando por aí com aquelas más companhias de novo, eu não tenho certeza.
 
 Lee Hayan era a sua irmãzinha. Ele não viu o seu rosto com muita frequência recentemente.
 
-“Dará tudo certo. O que poderia acontecer?”
-
-“Você é o primeiro e único irmão dela. Um irmão deve proteger a sua irmãzinha”.
-
-“Sim”.
+- Dará tudo certo. O que poderia acontecer?
+- Você é o primeiro e único irmão dela. Um irmão deve proteger a sua irmãzinha.
+- Sim.
 
 Lee Hyun sorriu ironicamente e foi para o seu quarto. Mesmo se ele fosse forçado a algum trabalho físico ou a dirigir um táxi, ele ainda queria que sua irmãzinha fosse para a faculdade.
 
 Já fazia um tempo que ela estava saindo dos trilhos, mas ela era brilhante e inteligente, diferentemente de Lee Hyun. Ele acreditava que na faculdade ela encontraria um bom marido e seria capaz de viver bem. Ele também queria retribuir a sua velha e doente avó por tudo que ela havia sacrificado para criar os dois.
 
-“Certo, irei procurar por trabalho amanhã. Haverá provavelmente algum teste de emprego também…”
+- Certo, irei procurar por trabalho amanhã. Haverá provavelmente algum teste de emprego também…
 
 Murmurando para si mesmo, Lee Hyun ligou o computador. O velho computador zumbiu e veio a vida. Assim que ele conectou a internet, como era a sua rotina, ele entrou no jogo. O jogo era o Continent of Magic. Um jogo clássico lançado há 20 anos. Um jogo online que outrora criou um frenesi entre os jogadores na República da Coréia.
 
@@ -94,7 +95,7 @@ Você poderia aproveitar qualquer aventura que você desejasse ou mesmo ir para 
 
 A liberdade em escala monumental era impressionante, mas o melhor de tudo era o maravilhoso sistema do jogo. Royal Road tinha a reputação de induzir a diversão absoluta que um humano pudesse aproveitar em um jogo.
 
-“Bem, mas para mim é apenas um pássaro no céu”.
+- Bem, mas para mim é apenas um pássaro no céu.
 
 O que Lee Hyun poderia esperar de um computador que ficava lento ao acessar uma página da internet um pouco mais complicada?
 
@@ -116,13 +117,13 @@ Para conseguir dinheiro diligentemente, Lee Hyun tinha decidido deletar a sua co
 
 Lee Hyun colocou o ponteiro do mouse sobre a opção ‘Sim’. Agora, com um simples click do botão do mouse, o seu precioso personagem, o qual ele havia criado, desapareceria para sempre. Por um momento ele flexionou seu dedo para baixo, até que uma ideia passou por sua cabeça.
 
-‘Será que eu posso vender o meu personagem por dinheiro? Acho que se chama venda de conta…’
+*Será que eu posso vender o meu personagem por dinheiro? Acho que se chama venda de conta…*
 
 Ele se lembrou de ler um jornal ou algo do tipo, que dizia que comprar e vender personagens era uma prática comum nos dias atuais. Essa história significava dinheiro! E ocorreu a Lee Hyun, que se ele iria apagar o seu personagem de qualquer jeito, não seria uma má ideia vende-lo para outra pessoa, ao invés disso.
 
 Lee Hyun começou a procurar pela internet por um site de venda de personagens. Em uma única pesquisa ele encontrou dezenas de sites e, entre eles, ele identificou e entrou naquele que tinha o maior volume de trocas.
 
-“Então é só eu colocar o meu personagem aqui por um preço e está feito?”
+- Então é só eu colocar o meu personagem aqui por um preço e está feito?
 
 Lee Hyun deu upload nas imagens junto de seu personagem.
 
@@ -148,19 +149,19 @@ Atualmente o nível máximo era de 200.
 
 No servidor inteiro, ninguém que havia alcançado tal feito foi encontrado, provavelmente porque o feito por si só era praticamente impossível para qualquer pessoa viva e agora, alguém havia colocado em leilão um personagem com o nível mais alto para venda.
 
-“Alguém está tentando fazer uma pegadinha com a gente”.
+*- Alguém está tentando fazer uma pegadinha com a gente.*
 
-“Que tipo de imbecil anunciou esta coisa tão sem graça?”
+*- Que tipo de imbecil anunciou esta coisa tão sem graça?*
 
-“Isso acontece tantas vezes que nem é mais engraçado”.
+*- Isso acontece tantas vezes que nem é mais engraçado.*
 
 Várias pessoas fizeram comentários deste tipo. Alguns davam conselhos para ninguém ser enganado enquanto outros agradeciam por fazê-los rir.
 
 Desde o começo do século 21, técnicas de phishing para roubar informações dos usuários tinham virado moda e, por causa deles serem enganados tantas vezes, muitos estavam pensando que este seria o caso novamente.
 
-“Não, nunca…”
+*- Não, nunca…*
 
-“Não pode ser”.
+*- Não pode ser.*
 
 Os internautas tentaram ignorar a postagem do leilão, mas a curiosidade deles não podia ser resistida e eles entraram para ver de novo e de novo.
 
@@ -168,35 +169,35 @@ As postagens do leilão exigiam incondicionalmente que se anexasse imagens da te
 
 Cada um dos arquivos anexados à postagem foi aberto. As informações do personagem eram verdadeiramente excepcionais. Várias estatísticas haviam atingido o máximo e os itens de equipamento eram fantásticos.
 
-“Mas onde infernos é que ele conseguiu essas armas?”
+*- Mas onde infernos é que ele conseguiu essas armas?*
 
-“O conjunto completo da Armadura Red Dragon junto com o Escudo Red Dragon’s Backbone? Wow…….”
+*- O conjunto completo da Armadura Red Dragon junto com o Escudo Red Dragon’s Backbone? Wow…….*
 
-“Ele disse que esses itens foram outorgados pelo Black God of Valor.”
+*- Ele disse que esses itens foram outorgados pelo Black God of Valor.*
 
 As pessoas admiraram um bocado. De algum modo aquela não parecia ser uma postagem de phishing comum. Para forjar imagens tão detalhadas seria necessário um esforço tremendo.
 
-“Esse cara com certeza gastou muito tempo com isso”.
+*- Esse cara com certeza gastou muito tempo com isso.*
 
-“A interface é do Continent of Magic, mas de que jogo ele importou os equipamentos?”
+*- A interface é do Continent of Magic, mas de que jogo ele importou os equipamentos?*
 
 Entre aqueles que visualizavam a postagem, estavam alguns designers gráficos. Olhando para a foto eles tentaram achar algum ponto cego.
 
-“Não interessa quão bem-feita a imagem for, traços microscópicos permanecerão se a imagem for editada. Mesmo que possa parecer perfeita para o público comum, quando você aplica a tecnologia mais moderna as partes falsas serão reveladas”.
+*- Não interessa quão bem-feita a imagem for, traços microscópicos permanecerão se a imagem for editada. Mesmo que possa parecer perfeita para o público comum, quando você aplica a tecnologia mais moderna as partes falsas serão reveladas.*
 
 E os designers ampliaram as imagens em um fator de 10.000 para rastrear os pixels editados, estudando cada sombra e eles até mesmo digitalizaram os arquivos da imagem em um formato 3D, tentando provar que era uma falsificação. Mas as suas tentativas se provaram inúteis. Finalmente eles foram forçados a reconhecer.
 
-“Todas essas imagens são reais”.
+*- Todas essas imagens são reais.*
 
-“Eu sou o designer chefe da LK Co. Eu garanto para vocês que essas imagens não foram alteradas de modo algum.”
+*- Eu sou o designer chefe da LK Co. Eu garanto para vocês que essas imagens não foram alteradas de modo algum.*
 
 Ao contrário das expectativas deles, os designers gráficos começaram a confirmar a autenticidade das imagens.
 
 Então os verdadeiros usuários de Continent of Magic apareceram. No momento em que eles viram as imagens, eles gritaram em surpresa. Desde o começo eles não tinham suspeitas.
 
-“São reais. O nome do personagem é ‘Weed’. Esse usuário é muito famoso.”
+*- São reais. O nome do personagem é ‘Weed’. Esse usuário é muito famoso.*
 
-“O equipamento é o dele, mas eu não sabia que ele havia alcançado o nível máximo, isso é realmente impressionante”.
+*- O equipamento é o dele, mas eu não sabia que ele havia alcançado o nível máximo, isso é realmente impressionante.*
 
 Lee Hyun sempre jogou sozinho e intencionalmente evitava pontos de caça com muitas pessoas. Ele nunca participou de cercos e disputas menores eram normalmente ignoradas e transpassadas, mas os rumores sobre ele nunca pararam.
 
@@ -204,9 +205,9 @@ Massacrando dragões e krakens que eram simplesmente invencíveis e cruzando atr
 
 Não se associar com outros jogadores não significava que eles não o reconheciam. Entre aqueles usuários que continuaram jogando CoM, ele era uma lenda. Apenas Lee Hyun não se tocava do fato de que ele era uma celebridade.
 
-“Então os equipamentos são de verdade?”
+*- Então os equipamentos são de verdade?*
 
-“Então isso só pode ser considerado uma sorte grande…”
+*- Então isso só pode ser considerado uma sorte grande…*
 
 O preço inicial do leilão era de 50.000 Won. Excluindo o valor do personagem ou dos equipamentos, apenas possuir a conta de acordo com os preços atuais, o valor era muito baixo.
 
@@ -224,23 +225,17 @@ Em algum momento, quando o jogo era recém-criado, Continent of Magic manteve bo
 
 Aqueles mais espertos entre os trabalhadores de escritório rapidamente ligaram para os seus chefes de idade similar.
 
-“Senhor Diretor, é você?”
-
-“Por que você está me ligando à meia-noite? Você quer ser demitido?”
-
-“Ahn? Bem, é que…. Diretor-nim, o senhor não costumava jogar Continent of Magic no passado?”
-
-“Sim, o que é que tem?”
-
-“Exatamente agora, o personagem de nível mais alto do jogo está em leilão. Eu pensei que o Diretor-nim estaria interessando nele…”
-
-“O que? Você quer dizer W-We-Weed?”
-
-“Sim. Então o Diretor-nim sabe sobre ele. O personagem dele está no nível 200. As estatísticas e equipamentos também estão no máximo”.
+- Senhor Diretor, é você?
+- Por que você está me ligando à meia-noite? Você quer ser demitido?
+- Ahn? Bem, é que…. Diretor-nim, o senhor não costumava jogar Continent of Magic no passado?
+- Sim, o que é que tem?
+- Exatamente agora, o personagem de nível mais alto do jogo está em leilão. Eu pensei que o Diretor-nim estaria interessando nele…
+- O que? Você quer dizer W-We-Weed?
+- Sim. Então o Diretor-nim sabe sobre ele. O personagem dele está no nível 200. As estatísticas e equipamentos também estão no máximo.
 
 Em seguida da explicação, ele disse:
 
-“Agora mesmo. Com o seu próprio dinheiro faça uma oferta de 30.000.000 Won. Eu estou indo para casa nesse exato momento para conferir isso, tente ter a oferta mais alta!”
+- Agora mesmo. Com o seu próprio dinheiro faça uma oferta de 30.000.000 Won. Eu estou indo para casa nesse exato momento para conferir isso, tente ter a oferta mais alta!
 
 Na época atual, as pessoas que detém cargos chave nas companhias pertenciam a geração que jogou jogos online em sua juventude. Graças a isso, eles impulsionaram o preço ainda mais.
 
@@ -250,7 +245,7 @@ Nos grandes portais da internet e em cada site relacionado a jogos, o assunto pr
 
 Nesse meio tempo, Lee Hyun dormia pesado, completamente ignorante a tudo isso.
 
-“Trabalho físico… 50.000 Won por dia. Lavar pratos em restaurantes: 30.000 Won. Café da manhã, presunto…”
+- Trabalho físico… 50.000 Won por dia. Lavar pratos em restaurantes: 30.000 Won. Café da manhã, presunto…
 
 Ele estava ocupado em seus sonhos resumindo o que fazer no dia seguinte.
 
@@ -262,11 +257,11 @@ Até agora ninguém sabia quem era o nível mais alto em Continent of Magic, mas
 
 Nesse ponto, a propriedade excedia o valor de mercado das posses individuais e de equipamentos. Algumas pessoas lamentaram sobre a sua falta de dinheiro e desistiram do leilão.
 
-“Eu acho que o cara vendendo esse personagem é um grande esquisitão”.
+*Eu acho que o cara vendendo esse personagem é um grande esquisitão.*
 
-“Como ele pode configurar o período de leilão para tal personagem de valor inestimável para apenas um dia?”
+*Como ele pode configurar o período de leilão para tal personagem de valor inestimável para apenas um dia?*
 
-“Ele estava com a maldita certeza de que receberia o maior valor possível por ele?”
+*Ele estava com a maldita certeza de que receberia o maior valor possível por ele?*
 
 E, desta maneira, muitas pessoas comentaram na postagem do leilão para aliviar as suas tristezas. Rapidamente o número de comentários foi além dos 900.
 
@@ -284,41 +279,36 @@ No fim, cinco grandes companhias de transmissão de jogos lutaram entre si pelo 
 
 ***
 
-“Alô?”
+- Alô?
 
 Lee Hyun recebeu uma ligação telefônica o acordando de seu sono pela manhã.
 
 O emprego na obra do dia anterior o deixou exausto e ele caiu no sono. Ele havia ganho apenas 30.000 Won. Era menos do que a média porque ele foi demitido por ser incompetente.
 
-“Alô”.
+- Alô.
 
 Inesperadamente, a voz vinda do telefone era a voz de uma bela mulher.
 
-“Hmmm.. parece que você ligou no número errado”.
+- Hmmm.. parece que você ligou no número errado.
 
 Lee Hyun, certo de que ninguém em sã consciência ligaria em sua casa tentou desligar o telefone o mais rápido possível.
 
 Contudo, antes de o fazer, a voz da mulher falou novamente, perguntando:
 
-“Você tentou vender a sua conta pela internet, não foi?”
-
-“Sim, isso mesmo…”
-
-“Aqui é da empresa CTS Mídia. Eu sou a secretária do presidente e me chamo Yoon Nahee. Nós depositamos o valor do lance bem-sucedido do leilão em sua conta, você pode confirmar isso no site de troca de itens? Por favor, não hesite em nos contatar se você tiver qualquer problema”.
-
-“Esp-Espere um momento! Quer dizer que teve uma oferta bem-sucedida?”
-
-“Hmm, sim, houve. Posso lhe perguntar se você ainda não verificou?”
-
-“Não, eu estava um pouco ocupado…”
+- Você tentou vender a sua conta pela internet, não foi?
+- Sim, isso mesmo…
+- Aqui é da empresa CTS Mídia. Eu sou a secretária do presidente e me chamo Yoon Nahee. Nós depositamos o valor do lance bem-sucedido do leilão em sua conta, você pode confirmar isso no site de troca de itens? Por favor, não hesite em nos contatar se você tiver qualquer problema.
+- Esp-Espere um momento! Quer dizer que teve uma oferta bem-sucedida?
+- Hmm, sim, houve. Posso lhe perguntar se você ainda não verificou?
+- Não, eu estava um pouco ocupado…
 
 Yoon Nahee da CTS Mídia era a secretária do presidente. Mesmo indo tão longe quanto trabalhar na área de recursos financeiros, ela também era fluente em 8 idiomas. Ela não era de modo algum uma mulher comum e todos aqueles ao seu redor estavam ocupados bajulando-a. Porém, o fato de que ele não havia verificado que o leilão alcançou tal fortuna foi o suficiente para oprimir Yoon Nahee.
 
-“De quanto foi a oferta vencedora?”
+- De quanto foi a oferta vencedora?
 
 Lee Hyun ficou ansioso. Esperando por pelo menos 200.000 Won para pagar as contas médicas. Ele imaginou que deveria perguntar, mas a voz que Lee Hyun escutou do outro lado do telefone o deixou em choque.
 
-“3.090.000.000 Won”.
+- 3.090.000.000 Won.
 
 Inicialmente, o personagem ‘Weed’ de Lee Hyun, de acordo com os preços de mercado deveria valer algo em torno de 150.000.000 Won.
 
@@ -328,15 +318,13 @@ Entretanto, graças a uma combinação de diversos fatores, incluindo o tempo li
 
 No entanto, Lee Hyun respondeu grosseiramente:
 
-“Você está brincando comigo?”
-
-“O quê?”
-
-“Eu não acredito que você me ligou apenas para falar algo estúpido como isso. Eu estou desligando agora”.
+- Você está brincando comigo?
+- O quê?
+- Eu não acredito que você me ligou apenas para falar algo estúpido como isso. Eu estou desligando agora.
 
 Depois de desligar o telefone, Lee Hyun riu amargamente.
 
-“Como ela sabia sobre o leilão? E como ela conseguiu o meu número para fazer tal pegadinha?”
+- Como ela sabia sobre o leilão? E como ela conseguiu o meu número para fazer tal pegadinha?
 
 Lee Hyun não acreditava em nada disso. Isso era para lá de absurdo.
 
@@ -346,53 +334,41 @@ Lee Hyun conseguiu não desmaiar apenas por causa de sua sinistra tenacidade.
 
 Ele pensou:
 
-‘Se isso é um sonho, eu espero nunca acordar’.
+*Se isso é um sonho, eu espero nunca acordar.*
 
 E, no dia seguinte, Lee Hyun confirmou o dinheiro recebido de mais de 3.000.000.000 Won que havia sido depositado em sua conta.
 
 Ele beliscou seu corpo até que sangue pudesse ser visto. Isso era sem qualquer erro a realidade! Lee Hyun correu para mostrar para a sua avó o extrato da conta. Ele ainda não ousava contar a ela toda a história.
 
-“Vó, eu consegui fazer algum dinheiro”.
-
-“Sim?”
+- Vó, eu consegui fazer algum dinheiro.
+- Sim?
 
 Sua avó respondeu desamparadamente. Fazia apenas 3 dias desde que o seu cartão ID tinha sido emitido. Ele não poderia ter ganho muito.
 
-“Bem, bom trabalho Hyun”.
-
-“Não foi nada vó”.
+- Bem, bom trabalho Hyun.
+- Não foi nada vó.
 
 Lee Hyun deu a ela o extrato.
 
-“O que é isso?”
-
-“Olha. Este é o dinheiro que eu recebi”.
+- O que é isso?
+- Olha. Este é o dinheiro que eu recebi.
 
 Sua avó esfregou seus já cansados olhos uma par de vezes enquanto olhava o extrato. O valor impresso na conta e a reação foram de incredulidade.
 
-“Você! Você roubou isso?! Não, não, esse tanto de dinheiro não pode ser roubado….”
-
-“Tudo o que eu fiz foi vender a minha conta do jogo”.
-
-“Conta?”
-
-“É muito complexo para explicar… de qualquer jeito, eu obtive esse dinheiro legalmente”.
-
-“Então, realmente…”
-
-“Sua avó, preenchida com a emoção crescente, soluçou suavemente.
-
-“Hyun, assim como os outros, nós iremos viver sem nos preocuparmos mais com as contas de água e luz?”
-
-“É claro. Nós podemos até mesmo ter a nossa própria casa”.
-
-“Você poderá voltar para a escola… e Hayan pode ir para a faculdade. Nós não teremos mais que viver invejando os outros.
+- Você! Você roubou isso?! Não, não, esse tanto de dinheiro não pode ser roubado….
+- Tudo o que eu fiz foi vender a minha conta do jogo.
+- Conta?
+- É muito complexo para explicar… de qualquer jeito, eu obtive esse dinheiro legalmente.
+- Então, realmente…
+- Sua avó, preenchida com a emoção crescente, soluçou suavemente.
+- Hyun, assim como os outros, nós iremos viver sem nos preocuparmos mais com as contas de água e luz?
+- É claro. Nós podemos até mesmo ter a nossa própria casa.
+- Você poderá voltar para a escola… e Hayan pode ir para a faculdade. Nós não teremos mais que viver invejando os outros.
 
 Sua avó foi as lágrimas e foi o mesmo para Lee Hyun, enquanto se lembravam de todo o sofrimento e amargura que eles haviam recebido.
 
-“Nós podemos viver felizes juntos vó!”
-
-“Sim, é claro.”
+- Nós podemos viver felizes juntos vó!
+- Sim, é claro.
 
 Por causa de todos os momentos difíceis juntos, os dois ficaram muito mais emocionados do que o normal. Depois de vários dias eles conseguiram uma casa nova e a sua avó finalmente pôde receber o tratamento apropriado no hospital. Eles descobriram que além do quadril, ela estava doente de muitas outras maneiras e teria que ficar no hospital por um certo período. Sua irmãzinha Hayan também estava encantada. Porém, é claro, que a felicidade deles duraria pouco.
 
@@ -404,19 +380,16 @@ Todos os outros pacientes entraram em pânico de medo e, com a ajuda dos enferme
 
 Eventualmente restaram apenas Lee Hyun, sua avó e os homens. Lee Hyun pensou na sorte que era a sua irmã não estar ali no momento em que eles entraram. Nada de bom poderia vir desses homens de terno. Ele esperava nada diferente do que era antes.
 
-“Lee Hyun. Eu recentemente ouvi que a boa sorte caiu sobre a sua família…”
+- Lee Hyun. Eu recentemente ouvi que a boa sorte caiu sobre a sua família…
 
 O homem loiro falou.
 
 Lee Hyun disparou de volta, certeiro.
 
-“Então?”
-
-“No passado o seu pai pegou um empréstimo conosco e agora nós estamos aqui para coletar essa dívida.”
-
-“Dívida?”
-
-“Sim. E agora que você tem o dinheiro, eu acredito que você está pronto para pagar de volta”.
+- Então?
+- No passado o seu pai pegou um empréstimo conosco e agora nós estamos aqui para coletar essa dívida.
+- Dívida?
+- Sim. E agora que você tem o dinheiro, eu acredito que você está pronto para pagar de volta.
 
 Lee Hyun engoliu a sua saliva. Quando os seus pais morreram, Lee Hyun herdou toda a dívida de 100.000.000 Won que eles haviam feito.
 
@@ -424,29 +397,22 @@ Teria sido bom se ele houvesse renunciado à herança, mas naquela época Lee Hy
 
 Portanto, Lee Hyun ficou em débito com os agiotas por uma dívida vencida de colossais 100.000.000 Won. Ele também sabia o quão cruel eles eram na hora de coletar o dinheiro. Porém, agora ele tinha muito dinheiro. Não havia necessidade alguma de ter medo.
 
-“Eu pagarei a dívida. Quanto é?”
-
-“Pagar? Suas palavras não são suficientes. Bem, está certo. Nós estimamos os nossos queridos clientes. O valor que você tem que pagar é em torno de 3.000.000.000 Won”.
+- Eu pagarei a dívida. Quanto é?
+- Pagar? Suas palavras não são suficientes. Bem, está certo. Nós estimamos os nossos queridos clientes. O valor que você tem que pagar é em torno de 3.000.000.000 Won.
 
 Com as palavras daquele homem, as têmporas de Lee Hyun pulsaram de raiva.
 
-“Absurdo! O dinheiro que meu pai pegou emprestado era obviamente 100.000.000 Won”.
-
-“Hey, faz 8 anos já. Conforme o tempo passa os juros vão se acumulando”.
-
-“Que coisa ridícula… Eu denunciarei vocês para a polícia!”
-
-“Denunciar? Caia na real. Você acha mesmo que a polícia ficará do seu lado?”
-
-“A policia são os defensores do povo”.
-
-“Puhahahaha.”
+- Absurdo! O dinheiro que meu pai pegou emprestado era obviamente 100.000.000 Won.
+- Hey, faz 8 anos já. Conforme o tempo passa os juros vão se acumulando.
+- Que coisa ridícula… Eu denunciarei vocês para a polícia!
+- Denunciar? Caia na real. Você acha mesmo que a polícia ficará do seu lado?
+- A policia são os defensores do povo.
+- Puhahahaha.
 
 Os homens riram das palavras de Lee Hyun. Em especial o homem loiro que, ao ouvir aquele absurdo, colocou a mão em sua testa e gargalhou. O homem que estava quieto atrás do loiro falou. Considerando o clima, ele parecia ser o líder.
 
-“Explique para o moleque diretamente. Não cause qualquer problema desnecessário”.
-
-“Sim, Hyung-nim. Me desculpe. Bem moleque, ouça atentamente. O que nós estamos fazendo não é contra a lei, pois nós recebemos juros legítimos. Para começar, a taxa de juros é de 50% do montante principal ao ano. Você quer que eu calcule? Em um ano ela subiu de 100.000.000 Won para 150.000.000 Won; no segundo ano para algo próximo a 220.000.000 Won; no terceiro ultrapassou 330.000.000 Won; no quarto perto de 500.000.000 Won”.
+- Explique para o moleque diretamente. Não cause qualquer problema desnecessário.
+- Sim, Hyung-nim. Me desculpe. Bem moleque, ouça atentamente. O que nós estamos fazendo não é contra a lei, pois nós recebemos juros legítimos. Para começar, a taxa de juros é de 50% do montante principal ao ano. Você quer que eu calcule? Em um ano ela subiu de 100.000.000 Won para 150.000.000 Won; no segundo ano para algo próximo a 220.000.000 Won; no terceiro ultrapassou 330.000.000 Won; no quarto perto de 500.000.000 Won.
 
 Com o relatório de cálculo, Lee Hyun entrou em desespero. A dívida aumentou 5 vezes em apenas 4 anos. Nos 8 anos que se passaram, deveria ser em torno de 2.500.000.000 Won, mas o tempo que passou era mais do que exatos 8 anos, então não era errado dizer que estava em 3.000.000.000 Won.
 
@@ -458,19 +424,15 @@ Outros com uma dívida de 3.000.000.000 Won iriam preencher um formulário de fa
 
 Lee Hyun não poderia nem mesmo se dar ao luxo de pedir falência. Na verdade, mesmo se você tivesse o dinheiro para isso, não deveria acreditar que os agiotas, cruéis como são, permitiriam você preencher os papéis.
 
-“Nós queremos os 3.000.000.000”.
-
-“De-de jeito nenhum!”
-
-“De jeito nenhum? Ponha-se no seu lugar. Se você não quiser, nós voltamos amanhã para recolher. No caso, o valor que você terá de pagar irá aumentar um pouquinho a mais, mas é por sua conta”.
+- Nós queremos os 3.000.000.000.
+- De-de jeito nenhum!
+- De jeito nenhum? Ponha-se no seu lugar. Se você não quiser, nós voltamos amanhã para recolher. No caso, o valor que você terá de pagar irá aumentar um pouquinho a mais, mas é por sua conta.
 
 Os homens de terno preto exalavam confiança. A confiança do livre arbítrio, a confiança do poder e Lee Hyun também sabia que era melhor pagar o débito assim que ele pudesse. Em primeiro lugar ele não tinha outra alternativa, eles vieram sabendo que ele tinha o dinheiro. Eles riram com um sorriso malicioso.
 
-“Pobre vovó que está machucada e hospitalizada, mas tenho certeza que ela parece confortável no hospital. Assim como a sua irmã mais nova no corredor. Que irmãzinha linda, eu aposto que ela pode ser vendida por um bom valor na ilha…”
-
-“Não ouse tocar na Hayan!”
-
-“Relaxa, nada aconteceu… ainda. Por enquanto nós estamos apenas conversando moleque. Mas e se essa família de três pessoas for internada no hospital de uma vez? Seria uma cena tocante”.
+- Pobre vovó que está machucada e hospitalizada, mas tenho certeza que ela parece confortável no hospital. Assim como a sua irmã mais nova no corredor. Que irmãzinha linda, eu aposto que ela pode ser vendida por um bom valor na ilha…
+- Não ouse tocar na Hayan!
+- Relaxa, nada aconteceu… ainda. Por enquanto nós estamos apenas conversando moleque. Mas e se essa família de três pessoas for internada no hospital de uma vez? Seria uma cena tocante.
 
 Lee Hyun não conseguia mais aguentar as ameaças disfarçadas, mas não podia ser evitado. Já seria o suficiente se eles fossem embora.
 
@@ -478,43 +440,36 @@ Aqueles incapazes de pagar o dinheiro emprestado, ele já havia visto nas favela
 
 Nem mesmo sendo capaz de contar com a lei, Lee Hyun abriu mão de sua caderneta bancária. Os homens receberam a caderneta no local e tiraram 90.000.000 Won em dinheiro de uma mochila. Com isso o IOU (documento que reconhece o débito – um comprovante de quitação) de 100.000.000 Won, feito há 8 anos pelos pais de Lee Hyun, foi passado a ele. Desde o começo eles sabiam de tudo e vieram preparados.
 
-“Muito obrigado e desculpe-nos pelos transtornos”.
+- Muito obrigado e desculpe-nos pelos transtornos.
 
 Assim que os homens saíram do quarto do hospital, Lee Hyun gritou:
 
-“Espere um minuto!”
-
-“Por que moleque? O que foi?”
-
-“Algum dia, eu com certeza farei vocês pagarem por isso!”
-
-“O quê?”
-
-“Porque o dinheiro foi pago, vocês acham que é o fim de tudo, mas isso apenas significa que no futuro ficaremos quites”.
+- Espere um minuto!
+- Por que moleque? O que foi?
+- Algum dia, eu com certeza farei vocês pagarem por isso!
+- O quê?
+- Porque o dinheiro foi pago, vocês acham que é o fim de tudo, mas isso apenas significa que no futuro ficaremos quites.
 
 Os homens estavam prestes a rir novamente. No entanto, ao verem os olhos de Lee Hyun as risadas cessaram antes de surgirem.
 
 Um jovem, uma fera selvagem. O miasma de seus olhos fez com que eles tivessem um calafrio na espinha.
 
-“Eu vejo que você ainda tem algum espírito sobrando. Nós precisamos ensinar uma criança sem medo como você sobre o mundo”.
+- Eu vejo que você ainda tem algum espírito sobrando. Nós precisamos ensinar uma criança sem medo como você sobre o mundo.
 
 Os homens arregaçaram suas mangas, mas Lee Hyun não ficou nem um pouco com medo e nem ao menos recuou.
 
-“Já chega. Nós já recolhemos o dinheiro, não façam nada desnecessário”.
-
-“Mas…”
-
-“Você realmente quer fazer uma cena em um hospital?”
-
-“Entendido, Hyung-Nim”.
+- Já chega. Nós já recolhemos o dinheiro, não façam nada desnecessário.
+- Mas…
+- Você realmente quer fazer uma cena em um hospital?
+- Entendido, Hyung-Nim.
 
 Os homens estavam saindo estrondosamente.
 
-“E moleque”.
+- E moleque.
 
 O líder daqueles homens olhou para Lee Hyun e lhe deu um conselho:
 
-“Eu sou Han Jinsup da Myongdong. Você realmente acha que essa sua ousadia funcionará nesse mundo venenoso? Se você acha isso injusto, faça 3.000.000.000 Won em cinco anos e me procure. Então eu irei lhe servir como o meu Hyung-nim”.
+- Eu sou Han Jinsup da Myongdong. Você realmente acha que essa sua ousadia funcionará nesse mundo venenoso? Se você acha isso injusto, faça 3.000.000.000 Won em cinco anos e me procure. Então eu irei lhe servir como o meu Hyung-nim.
 
 Os agiotas foram embora. Lee Hyun sentou-se no chão imponente e, ao som da sua irmãzinha chorando no corredor, sua avó deu um pesado suspiro.
 
@@ -526,7 +481,7 @@ Ainda havia esperança. Então, ele não podia apenas sentar e hesitar. Um sorri
 
 Durou apenas um momento, mas a tocante experiência de possuir uma grande quantia de dinheiro parecia tê-lo iluminado sobre como realmente viver nesse mundo.
 
-‘Está certo. Se eu ganhei uma vez, posso ganhar duas’.
+*Está certo. Se eu ganhei uma vez, posso ganhar duas.*
 
 Lee Hyun estava ocupado. 90.000.000 Won não foram tomados, mas isso não significava dizer que ele poderia usar tudo, até porque o contrato da casa já havia sido feito no valor de 50.000.000 de won.
 
@@ -558,7 +513,7 @@ O jogo de realidade virtual, no fim, era como o esperado. Royal Road, como o pr�
 
 Especialmente durante a guerra dos reis, chegou a um ponto onde ele oprimiu a audiência de qualquer outra rede. O único jogo no mundo onde qualquer um poderia obter fama, poder e dinheiro. Royal Road era o resultado de um engenhoso sistema aliado com a realidade virtual.
 
-‘Ótimo. Tudo de acordo com o plano’.
+*Ótimo. Tudo de acordo com o plano.*
 
 Os olhos frios de Lee Hyun encaravam o monitor.
 
@@ -576,6 +531,6 @@ O dia em que ele havia comprado a cápsula usada para conectar-se a Royal Road p
     </table>
 </div>
 
-When the message came, Lee Hyun shouted without any hesitation.
+Quando essa mensagem apareceu, Lee Hyun gritou sem hesitação.
 
-“Sim!”
+- Sim!
