@@ -1,5 +1,6 @@
 ---
 layout: post
+novel-title: The Legendary Moonlight Sculptor
 title: "O Nascimento de um Dark Gamer"
 date: 2017-02-08 17:10:30
 image: '/assets/img/'

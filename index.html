@@ -14,11 +14,14 @@ layout: default
                     <time itemprop="datePublished" datetime="{{ post.date }}" class="date">{{ post.date | date_to_string }}</time>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">
-                            {{ post.title }}
+                            {{post.novel-title}}
                         </h2>
+                        <h3 class="post-title" itemprop="name">
+                            {{post.description}}
+                        </h3>
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                        <p class="description">{{ post.introduction }}</p>
+                        <p class="description">{{ post.title }}</p>
                     </a>
                     <div class="tags">
                         {% for tag in post.tags %}

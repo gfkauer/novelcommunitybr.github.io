@@ -1,5 +1,6 @@
 ---
 layout: post
+novel-title: The Legendary Moonlight Sculptor
 title: "Uma Besta Selvagem Aparece"
 date: 2017-02-09 01:44:48
 image: '/assets/img/'
