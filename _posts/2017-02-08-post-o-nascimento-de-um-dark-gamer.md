@@ -522,12 +522,12 @@ O dia em que ele havia comprado a cápsula usada para conectar-se a Royal Road p
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-<tr>
-    <td>
-        <p align="center">Conectar ao Royal Road?</p>
-        <p align="center">Sim / Não</p>
-    </td>
-</tr>
+            <tr>
+                <td>
+                    <p align="center">Conectar ao Royal Road?</p>
+                    <p align="center">Sim / Não</p>
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
