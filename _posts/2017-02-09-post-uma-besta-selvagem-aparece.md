@@ -19,214 +19,214 @@ editor: Giovane Kauer
 fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-1-chapter-2.html
 ---
 
-<div align="center" class="quest-center">
-    <table border="1" cellspacing="3" cellpadding="0">
-        <tbody>
+<div align="center" class="quest-center"><table border="1" cellspacing="3" cellpadding="0"><tbody>
 <tr>
     <td>
-        <p align="center">The scan on your iris and vein has determined that you are an unregistered user. Do you want to create a new account?</p>
-        <p align="center">Sim / Não</p>
+        <p align="center">A varredura da sua íris e nervos determinou que você ainda é um usuário não registrado. Você gostaria de criar uma nova conta?</p>
+        <p align="center">Sim | Não</p>
     </td>
 </tr>
-        </tbody>
-    </table>
-</div>
+</tbody></table></div>
 
-When Lee Hyun was connected to Royal Road, the first sound that reached his ears was a feminine voice.
+Quando Lee Hyun conectou-se a Royal Road, o primeiro som que chegou aos seus ouvidos foi o de uma voz feminina.
 
-He looked around to see who had spoken to him, but there was no one else; a space within the universe. Then he realized that he was in the middle of the activation process of a new account.
+Ele olhou ao redor para ver quem havia falado com ele, mas não havia ninguém. Era um espaço dentro do universo. Então ele percebeu que estava no meio do processo de ativação de uma nova conta.
 
-- Yes!
+- Sim!
 
-<div align="center" class="quest-center">
-    <table border="1" cellspacing="3" cellpadding="0">
-        <tbody>
+<div align="center" class="quest-center"><table border="1" cellspacing="3" cellpadding="0"><tbody>
 <tr>
     <td>
-        <p align="center">Select the name of your avat...</p>
+        <p align="center">Selecione o nome do seu persona…</p>
     </td>
 </tr>
-        </tbody>
-    </table>
-</div>
-- Weed. - Weed, the lowliest of the low in the plant kingdom. To Lee Hyun, it sounded most suitable for him.
+</tbody></table></div>
 
-<div align="center" class="quest-center">
-    <table border="1" cellspacing="3" cellpadding="0">
-        <tbody>
-<tr>
-    <td>
-        <p align="center">Select your gender from male, female or neutr...</p>
-    </td>
-</tr>
-        </tbody>
-    </table>
-</div>
-- Male!
+- Weed.
+
+Weed, a mais baixa entre as baixas plantas do mundo. Para Lee Hyun, era o que mais combinava com ele.
 
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
 <tr>
     <td>
-        <p align="center">Royal Road has forty-nine races. You may select your race from the primary twenty-nine...</p>
+        <p align="center">Selecione seu gênero entre o masculino, feminino ou neutr…</p>
     </td>
 </tr>
         </tbody>
     </table>
 </div>
-- Human!
+- Masculino!
 
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
 <tr>
     <td>
-        <p align="center">You may alter your appearan...</p>
+        <p align="center">Royal Road possui quarenta e nove raças.Você pode selecionar a sua raça dentre as vinte e nove primárias.</p>
     </td>
 </tr>
         </tbody>
     </table>
 </div>
-- The way I am.
+- Humano!
 
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
 <tr>
     <td>
-        <p align="center">Your account has been activated. Your stats and class shall be determined while you are playing Royal Road...</p>
+        <p align="center">Você pode alterar a sua aparênc…</p>
     </td>
 </tr>
         </tbody>
     </table>
 </div>
-- Pass!
+- Do jeito que eu sou.
 
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
 <tr>
     <td>
-        <p align="center">Select a city and kingdom you want to start.</p>
+        <p align="center">Sua conta foi ativada.</p>
+        <p align="center">Seus atributos e classe serão determinados enquanto você estiver jogando Royal Road…</p>
     </td>
 </tr>
         </tbody>
     </table>
 </div>
-- The Citadel of Serabourg, Rosenheim Kingdom!
+- Passar!
 
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
 <tr>
     <td>
-        <p align="center">Welcome to Royal...</p>
+        <p align="center">Selecione a cidade e o reino onde você deseja começar.</p>
     </td>
 </tr>
         </tbody>
     </table>
 </div>
-- Pass!
+- Cidade de Serabourg, Reino de Rosenheim!
 
-Afraid to waste even a second, Lee Hyun skipped the tutorial stage and made quick decisions according to his prearranged plan. 300,000.00 won monthly bill for the game was a great expense to him.
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Bem-vindo a Royal…</p>
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
+- Passar!
+
+Com medo de perder até mesmo um segundo, Lee Hyun pulou todas as etapas do tutorial e tomou decisões rápidas de acordo com seu plano pré-estabelecido. Os 300.000 won de custo mensal do jogo eram uma grande despesa para ele.
 
 *****
 
-In Royal Road, there are over a hundred major cities and thousands of towns. A new player begins his adventure in a capital or a major city of comparable size.
+Em Royal Road, há mais de uma centena de grandes cidades e milhares de vilarejos. Um novo jogador começa a sua aventura em uma capital ou em uma cidade de tamanho comparável.
 
-Similar to where Weed is starting out.
+Similar à onde Weed está começando.
 
 *Flash*
 
-With a flash of light, he appeared in the Citadel of Serabourg, Rosenheim.
+Em um flash de luz, ele apareceu na Cidadela de Serabourg, Rosenheim.
 
-- This is…
+- Isto é...
 
-Weed was swayed by the sight of countless avatars, users and NPCs alike, that he thought he was lost in the middle of Seoul.
+Weed foi influenciado pela visão de incontáveis personagens, usuários e NPCs semelhantes, de modo que ele pensou que estava perdido no meio de Seul.
 
-- Where am I? Unbelievable!
+- Onde eu estou? Inacreditável!
 
-Astonished, Weed couldn’t believe his eyes as he looked around. The racket of those haggling and chattering rang in his ears. The view unfolding before his eyes was exactly the same as the real world, with people busily coming and going.
+Surpreso, Weed não acreditava no que seus olhos viam em sua volta. O barulho das pessoas pechinchando e conversando soava em seus ouvidos. A visão que se revelou diante de seus olhos era exatamente a mesma do mundo real, com as pessoas ocupadas indo e vindo.
 
-He lowered his eyes to his legs standing on the ground. His senses told him that it felt absolutely solid. Strangers passed him by as he stood still in a daze.
+Ele olhou para as suas pernas, que estavam firmes no chão. Seus sentidos lhe diziam que aquilo era absolutamente sólido. Estranhos passavam por ele enquanto ele ainda estava em choque.
 
-- Look at him. I’m sure he’s a newbie.
-- It looks like he’s never played a virtual reality game before.
+- Olhe para ele. Tenho certeza de que é um newbie
+- Até parece que ele nunca jogou um jogo de realidade virtual antes.
 
-While passing by, some users threw fleeting remarks over their shoulders. They stung him enough to pull himself together.
+Enquanto passavam, alguns usuários lançaram comentários maldosos. Esses comentários o atingiram o suficiente para ele recobrar a sua compostura.
 
-They’re right. It’s Royal Road here. The world of virtual reality, and my new workplace.
+*Eles estão certos. Isso é Royal Road. O mundo de realidade virtual e o meu novo trabalho*
 
-No matter how thoroughly Weed had prepared, his knowledge of virtual reality and his research into the game system came second to the strange experience he was having now.
+Não importava o quanto Weed havia se preparado, o seu conhecimento sobre realidade virtual e sua pesquisa sobre o sistema do jogo, tudo ficou em segundo plano com a estranha experiência que ele estava passando agora.
 
-He had been bewildered, but it was temporary, and he soon calmed down, differences also began to catch his eye.
+Ele estava perplexo, mas era apenas temporário e ele logo se acalmou e começou a notar as diferenças com seus olhos.
 
-His senses were consistent with reality, yet people around him were clad in armor or wearing leather vests.
+Seus sentidos eram consistentes com a realidade, no entanto as pessoas ao redor estavam vestidas com armaduras ou roupas de couro.
 
-Close to the spot where he had shown up was a bulletin board exhibiting maps and descriptions of Rosenheim Kingdom, and directions for using the basic interface.
+Perto de onde ele estava, ele notou que havia um quadro de avisos exibindo mapas e as descrições do Reino de Rosenheim, além de orientações para o uso da interface básica.
 
-*It’s time that I start.*
+*Esta na hora de começar.*
 
-Weed clenched his fist, and then he started to exercise. He sat down and stood up, and then proceeded with standing high jumps, tumbling, kicking and punching.
+Weed apertou seu punho e, em seguida, começou a se exercitar. Ele agachou e levantou e então continuou com pulos altos, agachamentos, chutes e socos
 
-He twisted his waist around and carefully tested one joint after another. He wiggled fingers and toes, and jerked his head back and forth.
+Ele girou ao redor da cintura e com cuidado testou cada uma de suas juntas, uma após a outra. Ele contorceu os dedos dos pés e das mãos e balançou a cabeça para trás e para frente.
 
-Even though a tsunami of humiliating comments gushed forth from other users nearby, Weed was determined to overcome it.
+Mesmo com um tsunami de comentários humilhantes vindos a partir de outros usuários, Weed estava determinado a superar isso.
 
-- What the heck is he doing now?
-- It looks like he’s moving his body. I guess he’s still uncomfortable with the virtual reality game.
-- Oh, I see. But what’s the point of making a show in the middle of a crowded street?
+- Mas o que diabos ele está fazendo?
+- Parece que ele está movendo o seu corpo. Imagino que ele ainda está desconfortável com o jogo em realidade virtual.
+- Oh, é verdade. Mas qual é a ideia de fazer um show no meio de uma rua lotada?
 
-The sense of humiliation which Weed had been fighting so hard to keep back prevailed over his determination. What a scene he’d been making in front of strangers!
+O senso de humilhação contra o qual Weed tinha lutado tão duro para manter-se afastado, prevaleceu sobre a sua determinação. Mas que cena que ele estava fazendo na frente de estranhos!
 
-- Dammit! - Weed left in a hurry and headed elsewhere.
+- Droga!
 
-As a newcomer in Royal Road, he was confined to the city of origin for a week in the real world and four weeks in the game (a four to one ratio), thanks to the parallax between one place and the other.
+Weed saiu com pressa e se dirigiu para outro lugar.
 
-A great majority of newcomers were getting down to basics, like taking on simple quests, or learning crafting skills, such as tailoring, blacksmithing and cooking, which are relatively easy to acquire.
+Como um recém-chegado em Royal Road, ele estava confinado à cidade de origem por uma semana do tempo real e quatro semanas dentro do jogo (razão de quatro para um), graças as diferenças entre um lugar e o outro.
 
-The game boast of its unrestricted flexibility and freedom, almost to the extent of complete disorder and anarchy, and currently while all the highest ranking positions are still occupied by NPCs instead of users it is possible to get these jobs, this reinforces the need for personal contacts within Royal Road.
+A grande maioria dos novatos ficava apenas no básico, como pegar missões simples ou aprender alguma habilidade de artesanato, como alfaiataria, ferraria ou culinária, as quais eram relativamente simples de conseguir.
 
-On the other hand, a considerable number of users work in libraries or stores to make money.
+O jogo se orgulhava da sua flexibilidade e liberdade irrestritas, as quais eram quase ao ponto da completa desordem e anarquia e, atualmente enquanto todas as posições mais altas dos rankings ainda eram ocupadas por NPCs ao invés de usuários, era possível obter essas classes, o que reforçava a necessidade de contatos pessoais dentro Royal Road.
 
-The Central Square brims with merchant wannabes who set up kiosks to buy and sell with fellow users and many new parties in pursuit of adventure are formed on the spot every minute.
+Por outro lado, um considerável número de usuários trabalhava em bibliotecas ou lojas para fazer dinheiro.
 
-After watching them casually, Weed didn’t hesitate to head for the Training Hall.
+A Praça Central transbordava com aspirantes a mercadores que montavam seus quiosques para comprar e vender com outros usuários e muitos grupos em busca de aventuras estavam sendo formados a todo minuto naquele lugar.
 
-The Training Hall is open to any user for as long as he or she pleases, and most users visit the hall to experiment with newly acquired skills.
+Após assisti-los casualmente, Weed não hesitou e dirigiu-se para o Centro de Treinamento.
 
-It is nearly impossible to find someone who, like Weed, would go straight to the Training Hall to train as soon as he created a new avatar.
+O Centro de Treinamento está aberto para qualquer usuário por quanto tempo ele desejasse e a maioria dos usuários visitava o centro para testar as suas habilidades recém adquiridas.
 
-It’s not only that newcomers are more interested in finding out what the kingdom and city where they were born look like, but it’s also largely because training in the Training Hall is deemed rather ineffective in the end.
+Era quase impossível encontrar alguém como Weed, que seguiria direto para o Centro de Treinamento tão logo ele criasse um novo personagem.
 
-The moment the instructor saw Weed walk in the entrance, his eyes glared fiercely.
+Não era apenas porque os novatos estavam mais interessados em descobrir como parecia o reino e a cidade, na qual eles haviam acabado de nascer, mas principalmente porque o treinamento no Centro de Treinamento era considerado algo ineficaz no fim.
 
-- Young adventurer, I presume you have arrived at the Versailles continent very recently,” the instructor said.
-- Yes, Sir - Weed said shortly. He was still upset that he had made a laughing stock of himself on the first day.
-- You shall find sword training absolutely necessary when you come to confront monsters. Do you need my guidance? I tell you, take any unattended scarecrow and strike him in any way you want. A wooden sword is placed in front of a scarecrow, and it is all yours.
-- Thank you, sir. That’s enough. I don’t need any more guidance.
-- Godspeed.
+No momento em que o instrutor viu Weed passar pela entrada, seus olhos brilharam ferozmente e ele disse:
 
-Weed clutched the wooden sword and walked to a scarecrow standing alone in the most remote comer. Then, he began beating it, once, twice, thrice. His hands were gradually getting accustomed to the weight of the wooden sword and the sense of hitting the scarecrow.
+- Jovem aventureiro, eu presumo que você tenha chegado no Continente de Versalhes muito recentemente.
+- Sim senhor
 
-In Royal Road, a new avatar’s level is locked for the first four weeks, for he is forbidden to travel beyond the city’s gate and to hunt monsters in the field.
+Weed respondeu brevemente. Ele ainda estava bravo porque ele havia sido motivo de piadas logo no primeiro dia.
 
-It is most common to carry out as many quests as possible, thus building up favorable public service points, earning money and forming your own web of personal contacts.
+- Você deve achar que o treinamento com espadas é absolutamente necessário quando vier a enfrentar os monstros. Você precisa da minha orientação? Eu lhe digo, escolha qualquer espantalho vazio e ataque-o do jeito que quiser. Uma espada de madeira foi colocada na frente do espantalho e ela é toda sua”.
 
-Nonetheless, Weed silently carried on striking the scarecrow with the wooden sword.
+- Muito obrigado senhor. Isso é suficiente. Eu não preciso de mais conselhos.
+- Boa sorte.
 
-There are about a thousand scarecrows in the Training Hall of the Citadel of Serabourg, and an unlimited supply of wooden swords on the walls, which could come in handy. The Hall is usually frequented by users who crave to test their skills.
+Weed agarrou a espada de madeira e caminhou até o espantalho que estava sozinho no canto mais remoto. Então, ele começou a bater nele, uma, duas, três vezes. Suas mãos estavam gradualmente se acostumando com o peso da espada de madeira e com a sensação de acertar o espantalho.
 
-At this moment, however, everyone’s eyes were fixed on somewhere in particular.
+Em Royal Road, um novo personagem tem o seu nível bloqueado pelas primeiras quatro semanas, onde ele é proibido de viajar para além dos portões da cidade e de caçar monstros nos campos.
 
-- This guy’s definitely got iron guts.
-- He’s freaking tough.
-- Can’t believe any sane man is going so far.
+Era mais comum tentar cumprir o maior número de missões possível e, com isso, estabelecer pontos favoráveis de serviço público, ganhando dinheiro e fazendo a sua própria rede pessoal de contatos.
 
-Weed was soaked in sweat.
+No entanto, Weed silenciosamente continuou golpeando o espantalho com a espada de madeira.
 
-The white shirt and pants issued to him in the beginning had absorbed sweat and stuck fast to his body. He still dealt one blow after another to the scarecrow without a minute’s break.
+Há cerca de mil espantalhos no Centro de Treinamento da Cidadela de Serabourg e um suprimento ilimitado de espadas de madeira nas paredes, o que poderia vir a calhar. O Centro é normalmente frequentado por usuários que desejam testar as suas habilidades.
+
+Naquele momento, contudo, os olhos de todos estavam fixados em um lugar em particular.
+
+- Esse cara realmente tem nervos de aço.
+- Ele é assustadoramente forte.
+- Não acredito que nenhum homem são possa ir tão longe.
+
+Weed estava empapado em suor. Sua camisa branca e as suas calças dadas a ele no começo tinham absorvido todo o suor e impregnaram em seu corpo. Ele ainda dava um golpe seguido do outro no espantalho sem um minuto de folga.
 
 *Ting*
 <div align="center" class="status-up">
@@ -234,401 +234,436 @@ The white shirt and pants issued to him in the beginning had absorbed sweat and 
         <tbody>
 <tr>
     <td>
-        <p align="center">Strength has risen by 1 point (+1 STR)</p>
+        <p align="center">Sua força subiu em 1 ponto (+1 STR)</p>
     </td>
 </tr>
         </tbody>
     </table>
 </div>
 
-After six hours of striking the scarecrow, Weed heard good news. He felt as if the muscles in his hands that were clutching the wooden sword were getting lighter.
+Depois de seis horas batendo no espantalho, Weed ouviu boas notícias. Ele sentiu como se os músculos em suas mãos, que estavam segurando a espada de madeira, tivessem se tornado mais fortes.
 
-- Open Stats Window. - Weed mumbled while striking the scarecrow.
+Weed murmurou enquanto atingia o espantalho:
+
+- Abrir janela de estatísticas.
 
 <div align="center" class="status-windows">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td class="status-label">Personagem</td>
-                <td class="status-value">Weed</td>
-                <td class="status-label">Alinhamento</td>
-                <td class="status-value">Neutro</td>
-            </tr>
-            <tr>
-                <td class="status-label">Level</td>
-                <td class="status-value">1</td>
-                <td class="status-label">Profissão</td>
-                <td class="status-value">Nenhum</td>
-            </tr>
-            <tr>
-                <td class="status-label">Titulo</td>
-                <td class="status-value">Nenhum</td>
-            </tr>
-            <tr>
-                <td class="status-label">Fama</td>
-                <td class="status-value">0</td>
-            </tr>
-            <tr>
-                <td class="status-label">Vida</td>
-                <td class="status-value">100</td>
-                <td class="status-label">Mana</td>
-                <td class="status-value">100</td>
-            </tr>
-            <tr>
-                <td class="status-label">Força</td>
-                <td class="status-value">11</td>
-                <td class="status-label">Agilidade</td>
-                <td class="status-value">10</td>
-            </tr>
-            <tr>
-                <td class="status-label">Vitalidade</td>
-                <td class="status-value">10</td>
-            </tr>
-            <tr>
-                <td class="status-label">Sabedoria</td>
-                <td class="status-value">10</td>
-                <td class="status-label">Inteligência</td>
-                <td class="status-value">10</td>
-            </tr>
-            <tr>
-                <td class="status-label">Sorte</td>
-                <td class="status-value">0</td>
-                <td class="status-label">Liderança</td>
-                <td class="status-value">0</td>
-            </tr>
-            <tr>
-                <td class="status-label">Ataque</td>
-                <td class="status-value">3</td>
-            </tr>
-            <tr>
-                <td class="status-label">Defesa</td>
-                <td class="status-value">0</td>
-            </tr>
-            <tr>
-                <td class="status-group">Resistência Mágica</td>
-            </tr>
-            <tr>
-                <td class="status-label">Fogo</td>
-                <td class="status-value">0%</td>
-                <td class="status-label">Água</td>
-                <td class="status-value">0%</td>
-            </tr>
-            <tr>
-                <td class="status-label">Terra</td>
-                <td class="status-value">0</td>
-                <td class="status-label">Magia Negra</td>
-                <td class="status-value">0</td>
-            </tr>
+<tr>
+    <td class="status-label">Personagem</td>
+    <td class="status-value">Weed</td>
+    <td class="status-label">Alinhamento</td>
+    <td class="status-value">Neutro</td>
+</tr>
+<tr>
+    <td class="status-label">Level</td>
+    <td class="status-value">1</td>
+    <td class="status-label">Profissão</td>
+    <td class="status-value">Nenhum</td>
+</tr>
+<tr>
+    <td class="status-label">Titulo</td>
+    <td class="status-value">Nenhum</td>
+</tr>
+<tr>
+    <td class="status-label">Fama</td>
+    <td class="status-value">0</td>
+</tr>
+<tr>
+    <td class="status-label">Vida</td>
+    <td class="status-value">100</td>
+    <td class="status-label">Mana</td>
+    <td class="status-value">100</td>
+</tr>
+<tr>
+    <td class="status-label">Força</td>
+    <td class="status-value">11</td>
+    <td class="status-label">Agilidade</td>
+    <td class="status-value">10</td>
+</tr>
+<tr>
+    <td class="status-label">Vitalidade</td>
+    <td class="status-value">10</td>
+</tr>
+<tr>
+    <td class="status-label">Sabedoria</td>
+    <td class="status-value">10</td>
+    <td class="status-label">Inteligência</td>
+    <td class="status-value">10</td>
+</tr>
+<tr>
+    <td class="status-label">Sorte</td>
+    <td class="status-value">0</td>
+    <td class="status-label">Liderança</td>
+    <td class="status-value">0</td>
+</tr>
+<tr>
+    <td class="status-label">Ataque</td>
+    <td class="status-value">3</td>
+</tr>
+<tr>
+    <td class="status-label">Defesa</td>
+    <td class="status-value">0</td>
+</tr>
+<tr>
+    <td class="status-group">Resistência Mágica</td>
+</tr>
+<tr>
+    <td class="status-label">Fogo</td>
+    <td class="status-value">0%</td>
+    <td class="status-label">Água</td>
+    <td class="status-value">0%</td>
+</tr>
+<tr>
+    <td class="status-label">Terra</td>
+    <td class="status-value">0</td>
+    <td class="status-label">Magia Negra</td>
+    <td class="status-value">0</td>
+</tr>
         </tbody>
     </table>
 </div>
 
-Weed’s avatar was so feeble that there was nothing remarkable.
+O personagem de Weed era tão fraco que aquilo não era nada extraordinário.
 
-*Five hours later*
+*Cinco horas depois*
 
 *Ting*
 <div align="center" class="status-up">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Vitality has risen by 1 point (+1 VIT)</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p align="center">Agility has risen by 1 point (+1 AGI)</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Vitalidade subiu em 1 ponto (+1 VIT)</p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p align="center">Agilidade subiu em 1 ponto (+1 AGI)</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-The two stats rose almost at the same time.
+Os dois atributos subiram quase ao mesmo tempo.
 
-- Whew.
+- Wow.
 
-Weed finally put down the wooden sword and took a short break. Without eating or drinking, he had been hitting the scarecrow nonstop for nearly eight straight hours now.
+Weed finalmente colocou a espada de madeira de lado e fez um pequeno intervalo. Sem comer ou beber, ele estava batendo no espantalho por quase oito horas sem parar até agora.
 
-He was physically fatigued, and worse, his throat was burning with thirst, his stomach empty and hollow.
+Ele estava fisicamente fatigado e pior, a sua garganta estava queimando de sede e o seu estômago estava completamente vazio.
 
-- Open Inventory
+- Abrir inventário.
 
-Given the preset keyword, the semi-transparent images of all the belongings in Weed’s inventory floated in front of his eyes. The only objects inside his inventory were a canteen and ten pieces of rye bread. That was all.
+Dada a combinação de palavras, imagens semitransparentes de todos os pertences no inventário de Weed flutuaram em frente de seus olhos. Os únicos objetos dentro de seu inventário eram um cantil de água e dez pedaços de pão de centeio. Isso era tudo.
 
-In Royal Road, you have to get hold of what you need on your own. Other users make money by carrying out easy quests for the four weeks, but Weed could not spare even a minute.
+Em Royal Road, você tinha que conquistar tudo àquilo que você precisasse por contra própria. Outros usuários faziam dinheiro cumprindo missões fáceis pelas quatro semanas, mas Weed não podia perder nem mesmo um minuto.
 
-He took out a piece of rye bread and the canteen, and nibbled a mouthful of bread. As he ate food, it appeased his hunger and the satisfaction factor rose.
+Ele tirou um pedaço de pão de centeio e o cantil e deu uma abocanhada no pão. Conforme ele comia, isso acalmou a sua fome e o fator de satisfação subiu.
 
-- I’m supposed to have a meal every five hours. I’d better eat more often if I exercise intensely, but I don’t need to raise the satisfaction factor to the full. All I need to do is just stay away from death.
+- Suponho que eu tenha de fazer uma refeição a cada cinco horas. É melhor eu comer mais vezes se eu me exercitar mais intensamente, mas eu não preciso subir o fator de satisfação ao máximo. Tudo que preciso é apenas me manter afastado da morte.
 
-Once Weed finished the meal swiftly, he took the wooden sword in his grip and stood in front of the scarecrow.
+Assim que ele terminou de comer rapidamente, ele pegou a espada de madeira em um aperto e ficou de frente ao espantalho.
 
-- He’s at it again.
-- He’s nuts.
-- I think he holds a grudge against it or something.
-- I don’t think he’ll stop until he breaks that scarecrow into pieces.
+- Lá vai ele de novo.
+- Ele é louco.
+- Eu acho que ele tem um rancor contra o espantalho ou algo do tipo.
+- Eu não acho que ele parará enquanto ele não quebrar o espantalho em pedaços.
 
-Was it an illusion that the scarecrow looked like it shivered at that very moment? Weed’s wooden sword struck every inch of the scarecrow. The same type of questions arose among all the spectators.
+Era uma ilusão que o espantalho parecia tremer naquele momento? A espada de madeira de Weed atingiu cada centímetro do espantalho. Os mesmos tipos de indagações surgiram entre os espectadores.
 
-- Why the heck is that guy striking the scarecrow?
-- I don’t think it will help at all—if he wants to raise the expertise rating for a skill, it’s much better to go out to the field and use it on a rabbit than the scarecrow here.
-- Look at what he’s doing. He’s not using any skill. To me, it looks more like he’s beating up the scarecrow on impulse.
-- Maybe he’s bringing up his stats, - a knight in dazzling armor commented, immediately attracted the attention of everyone else on the scene.
-- Can you improve your stats by just hitting the scarecrow? - a dark-skinned ranger asked.
-- Huh? Ah, yes, that’s right, - the knight said.
-- Then, why don’t you just keep hitting a scarecrow instead of sweating hard to raise your level? - the ranger asked again.
+- Mas por que diabos que esse cara está batendo no espantalho?
+- Eu não acho que vai adiantar em nada. Se ele quer melhorar a taxa de aptidão de uma habilidade, é muito melhor ir lá fora para o campo e usa-la em um coelho do que em um espantalho aqui.
+- Olha o que ele está fazendo. Ele não está usando nenhuma habilidade. Para mim, mais parece que ele está espancando o espantalho por impulso.
+- Provavelmente ele está subindo os seus atributos.
 
-The knight named Pluto had a considerably high level, so he has learned a wealth of information from reliable sources. He was also the only man who correctly guessed the motive of Weed’s actions.
+Foi um comentário de um cavaleiro em uma armadura deslumbrante e que, imediatamente, atraiu a atenção de todos para a cena.
 
-If an avatar uses up his stamina, his vitality and stamina will develop as a consequence, and if a wizard casts a great many spells, his wisdom and intelligence will rise.
+- Você pode melhorar os seus atributos apenas batendo no espantalho? - perguntou um ranger de pele escura.
+- Huh? Ah, sim, é isso aí - o cavaleiro respondeu.
+- Então por que você não continuou batendo no espantalho ao invés de suar muito para subir o seu nível? - perguntou o ranger novamente.
 
-But such an increase is trivial compared to stat bonus points accompanied by a level up.
+O cavaleiro chamado Pluto era de um nível consideravelmente alto, então ele tinha aprendido valiosas informações por fontes confiáveis. Ele era a única pessoa que adivinhou corretamente o motivo das ações de Weed.
 
-Half a day of hitting a scarecrow without a rest might yield one or two stats. Considering that the number of stat bonus points as reward for a level up is five, what Weed was doing looked idiotic.
+Se um personagem consome a sua estamina, a vitalidade e a resistência irão se desenvolver como consequência e, se um mago lançar um grande número de feitiços, a sua sabedoria e inteligência subirão.
 
-- It really is silly.
+Porém, tal incremento era mínimo se comparado com o bônus de atributos que eram concedidos por subir de nível.
 
-A sorceress shook her head when she heard Pluto’s explanation. But he thought otherwise.
+Metade de um dia batendo em um espantalho sem qualquer descanso poderia resultar em um ou dois pontos de atributo. Considerando que o número de pontos de atributo por subir de nível eram cinco, o que Weed estava fazendo parecia idiota.
 
-- It works, - Pluto said.
-- Excuse me?
-- You can earn only small amount of experience points if you kill a weaker monster than your current level. You know that, right?
-- Of course
-- In other words, the higher your level is, the harder it is to gain a level. But if you improve your strength by undergoing such a drill in the initial phase, you can hunt monsters easier later on. It will take effect throughout the game.
-- You know this method, so I guess you went through the same training? No, wouldn’t everyone do the same if they knew about it?
-- Not really. Even if people knew, no one would do it. Back to the point, is there anyone who wants to keep hitting that scarecrow for ten hours to improve their strength by one point?
-- …
-- There are limits to how far you can increase your stats by working on a scarecrow that’s known as the weakest opponent. In the case of strength, I estimate it’s forty or so. Is there anyone who wants to keep hitting the scarecrow for at least a month to raise forty points in strength? I would get sick and tired of it, and give it up in days.
+- Isso é realmente estúpido.
 
-The crowd watching Weed nodded in unison.
+Uma feiticeira sacudiu a sua cabeça quando ouviu a explicação de Pluto. Porém, ele pensava o contrário.
 
-You’d rather look for a cool weapon than to strike a scarecrow ceaselessly for a full month in order to bring up your strength by forty points. An item that keeps up strength by forty points is unique, yet far from rare.
+- Isso funciona - disse Pluto.
+- Desculpe-me?
+- Você pode ganhar apenas uma pequena quantidade de pontos de experiência se você matar um monstro mais fraco do que o seu nível atual. Você sabe disso, certo?
+- É claro.
+- Em outras palavras, quanto mais alto for o seu nível, mais difícil é para você ganhar um nível. Porém, se você melhorar os seus atributos passando por tal treinamento na fase inicial, você pode caçar monstros mais facilmente no futuro. Isso ganhará efeito ao longo do jogo.
+- Se você sabe desse método, então eu deduzo que você passou pelo mesmo treino, não é? Não, todo mundo não faria o mesmo se soubessem disso?
+- Na verdade, não. Mesmo se as pessoas soubessem, ninguém faria isso. Indo direto ao que interessa, será que há alguém que iria querer manter-se batendo em um espantalho por dez horas apenas para melhor sua força em 1 ponto?
+- ...
+- Há limites para o quão longe você pode aumentar os seus atributos ao lutar contra um espantalho, que é conhecido como o adversário mais fraco. No caso da força, eu estimo que ela é quarenta aproximadamente. Há alguém que quer se manter batendo no espantalho por pelo menos um mês para aumentar quarenta pontos em força? Eu provavelmente ficaria enjoado e cansado disso, e desistiria em dias.
 
-- This works only for newbies who can’t go beyond the walls. It was once popular to beat a scarecrow like this, but it was quickly abandoned because, when you weigh against it what you can get in the long run, it’s way too boring, and painstaking.
+A multidão observava Weed em uníssono.
 
-Weed overheard the heated discussion that those around him were having. He wished he could have trained somewhere else, but so long as he wasn’t allowed to leave the Citadel, he could not avoid attracting unfavorable attention in the Hall.
+Você iria procurar por uma arma legal ao invés de bater em um espantalho incessantemente por um mês inteiro apenas para subir a sua força em quarenta pontos. Um item que elevasse a força por quarenta pontos é único, mas longe de ser raro.
 
-What makes you call this boring and painstaking? Weed swung the wooden sword at full strength.
+Isto funciona apenas para iniciantes que não podem ir além dos muros. Outrora foi popular bater em um espantalho como este, mas foi rapidamente abandonado porque, quando você pondera contra o que você pode obter em longo prazo, é um caminho muito chato e trabalhoso.
 
-If you work hard, your avatar gets stronger step by step. When your avatar evolves, it can defeat stronger monsters and make more money. For Weed, this was the ultimate entertainment of  his lifetime.
+Weed ouviu a discussão acalorada que aqueles ao seu redor estavam tendo. Ele gostaria de poder ter treinado em outro lugar, mas enquanto ele não fosse autorizado a deixar a Cidadela, ele não poderia evitar de atrair a atenção desfavorável no Centro de Treinamento.
 
-Weed was inherently inclined to routine physical labor. All this time, the instructor was watching him with awfully gratified eyes.
+*O que faz você chamar isso de chato e trabalhoso?*
 
-*****
+Weed brandiu a espada de madeira com força total.
 
-Three weeks had passed in game time. Weed logged on to Royal Road on a daily basis, it was almost to the point of addiction for him, except for the minimum sleeping hours he woudn't stop playing. Thanks to his vastly improved physical condition, which he had resolved to build up before he started playing Royal Road, it enabled him to get by with no more than four hours sleep a day. Now that he looked back at the last three weeks, it made him sick to even think of it.
+Se você trabalhar duro, o seu personagem fica mais forte passo a passo. Quando o seu personagem evolui, ele pode derrotar monstros mais fortes e ganhar mais dinheiro. Para Weed, esta era a maior diversão de toda a sua vida.
 
-Once he signed into the game, he spent nearly eighty hours on average striking the scarecrow monotonously, which had mentally worn him out. Had it not been for the occasional pop-up messages encouraging him, he would have given up.
+Weed estava inerentemente inclinado a uma rotina de trabalho físico. Todo esse tempo, o instrutor estava observando ele com os olhos muito gratificantes.
+
+***
+
+Três semanas se passaram no tempo de jogo. Weed conectou-se diariamente em Royal Road, quase ao ponto de ser um vício para ele. Exceto para um mínimo de horas de sono, ele não pararia de jogar.
+
+Graças à sua excelente melhoria de condição física, que ele havia resolvido desenvolver antes de começar a jogar Royal Road, ela o permitia conseguir não mais do que quatro horas de sono por dia.
+
+Agora que ele olhava para trás dessas três últimas semanas, elas o fizeram ficar doente só de pensar pelo que ele passou.
+
+Uma vez que ele entrava no jogo, ele gastava cerca de dezoito horas em média batendo no espantalho monotonamente, o que tinha lhe desgastando mentalmente. Não era incomum uma janela de mensagem brotar em sua frente o encorajando, ou então ele já teria desistido.
 
 *Ting*
 <div align="center" class="status-up">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Vitality has risen by 1 point (+1 VIT)</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p align="center">Agility has risen by 1 point (+1 AGI)</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p align="center">New stat: Fighting Spirit</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p align="center">New stat: Endurance</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Vitalidade subiu em 1 ponto (+1 VIT)</p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p align="center">Agilidade subiu em 1 ponto (+1 AGI)</p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p align="center">Novo Atributo: Fighting Spirit</p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p align="center">Novo Atributo: Perseverança</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-In Royal Road, a new stat is sometimes created besides the original ones.
+Em royal Road, um novo atributo poderia ser criado além dos originais.
 <div align="center" class="skill-description">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="left">Fighting Spirit</p>
-                    <p align="left">You can call on superhuman strength temporarily, or bring weaker monsters to their knees with your force of will from your eyes alone. You are prohibited from distributing any bonus points to this stat, and it will rise spontaneously, depending on the avatar’s action, or especially if you're fight monsters for a long time, or often confront monsters stronger than your current level.</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="left">Fighting Spirit</p>
+        <p align="left">Você pode invocar uma força sobre-humana temporariamente, ou fazer com que monstros fracos caiam de joelhos perante a força de vontade transmitida por seus olhos.</p>
+        <p align="left">Você está proibido de distribuir quaisquer pontos bônus neste atributo e ele crescerá espontaneamente dependendo das ações do seu personagem, ou especialmente se você estiver enfrentando monstros por um longo período, ou se você enfrentar monstros mais fortes que o seu nível atual com certa frequência.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-Pop-up messages related to the skill occasionally appeared, too.The only skill Weed had at that point was Sword Mastery.
-
+Mensagens relacionadas às habilidades ocasionalmente apareciam também. A única habilidade que Weed tinha algum ponto era na Maestria com a Espada.
 *Ting*
 <div align="center" class="status-up">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Level Up: Sword Mastery (Beginner Lv: 3 | 0%):</p>
-                    <p align="center">Increases Attack Power with a sword (+30% ATK)</p>
-                    <p align="center">Increases Attack Speed with a sword (+9% ATK SPD)</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Level Up: Maestria com Espada (Iniciante Lv: 3 | 0%):</p>
+        <p align="center">Aumenta o poder de ataque com espada (+30% ATK)</p>
+        <p align="center">Aumenta a velocidade de ataque com espada (+9% ATK SPD)</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 <div align="center" class="skill-description">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="left">Endurance</p>
-                    <p align="left">You’re likely to use less stamina from an action. You are prohibited from distributing any bonus points to this stat.</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="left">Perseverança</p>
+        <p align="left">É provável que você use menos estamina a partir de uma ação.</p>
+        <p align="left">Você está proibido de distribuir quaisquer pontos bônus neste atributo.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
  
-Every time a pop-up message appeared, Weed was secretly delighted by the progress he was making. But what was deeply troubling him was a sense of frustration that he had been falling behind in his goals.
+Toda vez que brotava uma mensagem, Weed ficava secretamente maravilhado com o progresso que ele estava fazendo, mas o que lhe preocupava profundamente era o senso de frustação que ele tinha, de estar atrasado em suas metas.
 
-For the last three weeks, as he devoted himself to beating down the scarecrows, his strength had increased only by twenty-eight points, agility twenty-five, and vitality twenty-two.
+Pelas últimas três semanas, ele se devotou a espancar os espantalhos e a sua força havia subido em apenas 28 pontos, agilidade em 25 pontos e vitalidade em 22 pontos.
 
-- Unless I pick up my pace, I’ll end up wasting more precious time on this scarecrow even after the four week restriction is lifted. I must finish it before I can leave the Citadel.
+- A não ser que eu acelere meu ritmo, eu acabarei gastando mais do precioso tempo nesses espantalhos mesmo depois da restrição de quatro semanas acabar. Eu devo terminar isso antes de sair da cidadela.
 
-Weed’s eyes burned with determination.
+Os olhos de Weed brilharam com determinação.
 
-*Rumble*
+*Growl* (ronco)
 
-At that moment, Weed’s stomach decided it was time to eat. Aside from the slow progress with his stats, he was tormented by the fact that he was running out of bread.
+Naquela hora, o estômago de Weed havia decidido que era a hora de comer. Fora o seu progresso lento com os seus atributos, ele era atormentado pelo fato de que estava ficando sem pão.
 
-He could run to a nearby fountain and fill the canteen with water, but bread was different – he had to pay money for it.
+Ele poderia correr para a fonte mais próxima e encher o cantil com água, mas o pão era diferente, ele tinha de usar dinheiro para isso.
 
-*Sniff* 
+*Sniff* (farejando)
+
 *Sniff*
 
-He smelled an appetizing scent coming from somewhere.
+Ele sentiu um cheiro apetitoso vindo de algum lugar.
 
-Weed, swinging the wooden sword, paused and caught a glimpse of the instructor, who was taking out his lunch box for the lunch break.
+Weed, que estava brandindo a sua espada, parou e notou um vislumbre do instrutor, que estava tirando para fora a sua marmita para a pausa do almoço.
 
-- Hehe, Honorable Instructor. - Weed said, as he wagged his invisible tail, he walked to the instructor.
-- Hmm, who is this, none other than Weed-nim? What has brought you here? - the instructor said warmly.
-- Wouldn’t it be lonely to have lunch alone? I am here to keep you company, - Weed said obsequiously.
+- Hehe, honrado instrutor.
+
+Weed disse, balançando a sua cauda invisível, conforme caminhava até o instrutor.
+
+- Hmmm, olha quem é, ninguém menos que o Weed-nim? O que te traz aqui?
+
+O instrutor disse amigavelmente.
+
+- Não seria um tanto solitário almoçar sozinho? Eu estou aqui para lhe fazer companhia”.
+
+Weed disse educadamente.
 
 *Growl*
 
-While his stomach growled, Weed lied with a straight face, but he could not deceive the instructor.
+Enquanto seu estômago roncava, Weed mentia na cara dura, mas ele não podia enganar o instrutor.
 
-- I take it that you are hungry. Sit beside me! I have brought plenty of food, sufficient to feed two mouths.
-- Thank you, sir!
-- Enough with your humility! It is my honor to serve a meal to a would-be great adventurer like you, Weed-nim. I assure you that your reputation will someday resound beyond the bounds of the Citadel of Serabourg. When that day comes, please remember me!
-- Yes, Sir. I certainly will.
+- Vou entender isso como se você estivesse com fome. Sente-se comigo! Eu trouxe bastante comida, o suficiente para alimentar duas bocas.
+- Muito obrigado, senhor!
+- Já chega da sua modéstia! É uma honra para mim servir uma refeição para aquele que poderia vir a ser um grande aventureiro como você, Weed-nim. Eu garanto a você que a sua reputação um dia ressoará além das muralhas da Cidadela de Serabourg. Quando esse dia chegar, por favor lembre-se de mim!
+- Sim senhor. Eu certamente irei.
 
-After flattering the instructor lightly, Weed enjoyed lunch together with him. It was kind of a sad scene, yet he was grateful that with little effort, he could stuff his belly.
+Depois de adular levemente o instrutor, Weed saboreou o almoço com ele. Era um tipo de cena triste, mas ele estava grato que, com pouco esforço, ele pôde encher a sua barriga.
 
-He wasn’t sucking up to a real man, anyway. What was the big deal about smooth-talking an NPC with artificial intelligence?
+Ele não estava se aproveitando de uma pessoa real, de qualquer forma. Que grande mal havia em levar um NPC com inteligência artificial na conversa fiada?
 
-Beside the stats that Weed had increased while beating the scarecrow to death for the last three weeks, he'd established an affinity with the instructor. This supplementary effect was somewhat admirable.
+Além dos atributos que Weed havia aumentado enquanto batia no espantalho pelas últimas três semanas, ele havia conseguido uma certa afinidade com o instrutor. Esse efeito suplementar era algo admirável.
 
-While Weed was busy devouring lunch, the instructor suddenly asked, 
+Enquanto Weed estava ocupado devorando a sua comida, o instrutor perguntou subitamente:
 
-- By the way, Weed-nim, what do you think of Sculpture Mastery?
+- A propósito, Weed-nim, o que você pensa sobre o domínio da habilidade em esculpir?
 
-Sculpture mastery? What the heck is sculpture mastery?
+*Habilidade em esculpir? Mas que diabos é habilidade em esculpir?*
 
-Weed chewed a mouthful of boiled rice and swallowed it before he asked back, 
+Weed mastigou um bocado de arroz cozido e engoliu antes de perguntar de volta:
 
-- What do you mean by Sculpture Mastery?
-- I am merely curious of your opinion. I wonder what sort of view you have about Sculpture Mastery in general, - the instructor said.
+- O que você quer dizer com a habilidade em esculpir?
+- Eu estou meramente curioso com a sua opinião. Eu me pergunto que tipo de ponto de vista você tem sobre a habilidade em esculpir - o instrutor disse.
 
-At that moment, the speed of Weed’s brain racking which could be heard and despite it being absurd to try to convert it to a numerical value, was multiplied roughly by five.
+Naquele momento, a velocidade de pensamento se passando no cérebro de Weed poderia ser ouvida e, apesar de ser um absurdo tentar converter em um valor numérico, ela foi multiplicada por cinco.
 
-I’ve so far figured out that the instructor is a simple-minded and near-sighted kind of guy. He sincerely believes that the sword is invincible, and to him, it’s the highest virtue to exercise hard enough to break out in a sweat in the Training Hall. And now he’s asking me what I think about Sculpture Mastery?
+Até então ele imaginava que o instrutor era apenas um cara simples e sem qualquer outra opinião. Ele sinceramente acreditava que a espada era invencível e, para ele, não haveria virtude maior do que se exercitar-se duramente no Centro de treinamento, o suficiente para se empapar em suor.
 
-As soon as Weed collected his thoughts, he frowned.
+*Agora ele está me perguntando o que eu penso sobre a habilidade em esculpir?*
 
-- Honorable Instructor! I can’t believe you even mentioned it. I am a man of the sword. Did you ask for my opinion upon, God forgive me, Sculpture Mastery? I am most disappointed. This is my answer—never, ever, not even once has such a lowly handicraft crossed my noble mind.
+Assim que Weed retomou seus pensamentos ele franziu a testa.
 
-Despite Weed’s offensive tone, which would have enraged him in other situations, the instructor unexpectedly clapped his hands in delight.
+- Honrado instrutor! Eu não acredito que você mencionou isso. Eu sou um cara do mundo da espada. Por que você perguntou a minha opinião? Deus me perdoe, mas sobre a habilidade em esculpir? Eu estou desapontado. Esta é a minha resposta: nunca, jamais, nem ao menos uma vez tais pensamentos sobre uma habilidade tão baixa cruzou a minha nobre mente.
 
-- I knew you would say so!
-- It is out of question. The likes of Sculpture Mastery are nothing but awful mistakes of God which do not deserve a second of our attention. Why do I, a man of the sword, need to ever think of it?
-- You are most agreeable, Weed-nim - Weed sensed that, though it was invisible, his friendship with the instructor moved to a higher degree at that moment.
+Apesar do tom ofensivo de Weed, o que poderia tê-lo deixado nervoso em outras situações, o instrutor inesperadamente bateu suas mãos em deleite.
 
-This is the way to make friends with somebody. You don’t need to shed blood with them. You don’t need to squander time and money on them. You just join them in speaking ill of something or someone at the first opportunity presented, and it will invoke their sympathy.
+- Eu sabia que você diria isso!
+- Está fora de questão. Coisas como a habilidade em esculpir não são nada além de erros de Deus, os quais não merecem nem mesmo um segundo da nossa atenção. Por que eu, alguém devotado à espada, iria sequer pensar sobre algo como isso?
+- Você é o mais agradável, Weed-nim.
 
-Weed expected the instructor to change the topic of the conversation, but he rubbed the back of his head and stayed on the subject.
+Weed percebeu que, embora fosse invisível, a sua amizade com o instrutor havia chego a um nível mais elevado naquele momento.
 
-- It is rumored that the unknown man who mastered sculptural and once carved the moonlight, - the instructor said.
-- I doubt it, sir. A rumor is always prone to distortion. How can anyone learned in worthless Sculpture Mastery carve the moonlight? Perhaps it was a pebble in the shape of a moon? - Weed said cheerfully.
-- You think so, too? But I was told by my predecessor. His honorable name is Mellium, currently a Royal Knight…
+Este é o jeito de fazer amizade com alguém. Você não precisa derramar sangue com eles. Você não precisa desperdiçar tempo e dinheiro com eles. Você apenas precisar juntar-se a eles para falar mal de algo ou de alguém na primeira chance que aparecer e, assim, você conseguirá a sua simpatia.
 
-Sculpting was perceived as a fruitless skill, no more than trimming a small block of wood to produce a fine ornament.
+Weed esperava que o instrutor fosse mudar o assunto da conversa, mas ele coçou atrás de sua cabeça, se manteve no tópico e disse:
 
-Rumor had it that if you elevated the craft beyond a certain stage, you would be capable of making projectile weapons of metal. But it was undoubtedly one of those obsolete skills that nobody bothered learning.
+- É que existe um rumor sobre um homem desconhecido que dominou a arte de esculpir e uma vez esculpiu a luz do luar.
 
-- On that account Weed-nim, this question of Sculpture Mastery intrigues me. It surely is beyond doubt that the craft cannot possibly rival our sword under any circumstances, but would you find out whether the rumor has a grain of truth? I am asking a favor of you because you are a trustworthy man. If you accept my request, I’d be happy to hear it, - the instructor said.
+Weed disse alegremente.
 
-Then a pop-up message appeared in front of Weed’s eyes.
+- Eu duvido disso senhor. Um rumor sempre aparece distorcido. Como pode alguém aprender a inútil habilidade de esculpir e entalhar a luz do luar? Talvez fosse apenas uma pedra com o formato da Lua?
+- Você também acha isso? Mas foi-me dito pelo meu antecessor. Seu nome honrado é Mellium, que atualmente é um Cavaleiro Real…
 
-*Ting*
-<div align="center" class="quest-center">
-    <table border="1" cellspacing="3" cellpadding="0">
-        <tbody>
-            <tr>
-                <td>
-                    <p align="center">Quest: A Mystery Sculptor Rumored to Have Visited the Royal Palace:</p>
-                    <p align="center">A rumor that a man who had mastered sculptural art did carve the moonlight has been prevalent in the royal court of Rosenheim Kingdom for a long time. Look into the rumor to determine whether it is true or not!</p>
-                    <p align="center">Difficulty level: E</p>
-                    <p align="center">Quest requirements:</p>
-                    <p align="center">Close friendship with instructor reserved only for those who have not acquired Sculpture Mastery.</p>
-                    <p align="center">Acknowledged as reliable by the instructor for a constant passion for Sword Mastery.</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+Esculpir era visto como uma habilidade infrutífera, nada além de aparar um bloco de madeira para produzir um belo enfeite.
 
-Weed barely held a whisper of triumph at bay. His instinct told him that this quest was the rarest of the rare.
+Havia um rumor que se você subisse o nível de artesanato além de certo ponto, você seria capaz de fazer projéteis de metal para armas. Mas isso era sem qualquer dúvida uma das habilidades mais obsoletas e ninguém perdia seu tempo aprendendo.
 
-This was because the quest had to meet very tricky conditions in order to get it started. Close friendship with the instructor— who would have ever thought of that?
+Seguindo, o instrutor disse:
 
-Most users in general don’t even know the location of the Training Hall, let alone visit it when they acquire a new skill, they don’t need to come all that way to practice it on a scarecrow of all things. Moreover, it is a rare occasion that anyone is willing to get stuck in the Hall and thrash the scarecrow over and over to bring up his stats in the crudest way, as Weed had done.
+- Por causa disso Weed-nim, essa questão da habilidade em esculpir me intriga. Ela certamente está além de qualquer dúvida de que tal arte possa rivalizar com a nossa espada sob quaisquer circunstâncias, mas você poderia descobrir se esse rumor tem um grão de verdade? Eu estou lhe pedindo esse favor porque você é um homem confiável. Se você aceitar o meu pedido, eu ficaria feliz em ouvir isso.
 
-If you dig out enough dirt, you might find a few users like that, but in Weed’s case, he had spent almost all of the last three weeks with the scarecrow. Who else could have toughed it out to such an extent?
-
-Speaking of close friendship with the instructor, it is nearly impossible to achieve unless someone like Weed approaches him, fawning to scam a share of his lunch.
-
-Even with all the conditions above met you still have to begin your new adventure at the Citadel of Serabourg in Rosenheim Kingdom against all odds, not to mention that you have to find the right moment to slander Sculpture Mastery along with the instructor.
-
-This is great. I’m about to go broke and starve to death. At difficulty level E, this quest looks like it’s easy to finish.
-
-Weed nodded at the instructor.
-
-- I am honored to accept it. Although I do not believe any of that nonsense, I will find out what it was like carving the moonlight.
+Então, uma mensagem apareceu na frente dos olhos de Weed.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">You have accepted the quest!</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Quest: Boatos de que um misterioso escultor visitou o palácio real:</p>
+        <p align="center">Um boato de que um homem tinha dominado a arte escultural e esculpido o luar tem predominado entre a Corte Real do Reino de Rosenheim por um longo tempo. Investigue o boato para determinar se ele é verdadeiro ou não!</p>
+        <p align="center">Dificuldade da Missão: E</p>
+        <p align="center">Requisitos:</p>
+        <p align="center">Amizade estreita com o instrutor.</p>	
+        <p align="center">Missão reservada apenas para aqueles que não adquiriram o domínio escultural.</p>
+        <p align="center">Ser reconhecido como alguém confiável pelo instrutor em razão da paixão constante pelo domínio da espada.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-- I appreciate it Weed-nim. I entrust you with this task. Take this money as a retainer, - the instructor said, handing over two silvers. - I give you my advice: visit the sculpture shop first and glean information from there
+Weed mal conteve seu sussurro de triunfo. Seus instintos lhe diziam que essa missão era a mais rara entre as raras.
 
-A piece or rye bread, while literally tasteless, was enough to fill the stomach, and costs three coppers. Since a silver coin equals a hundred coppers coins, it is safe to say Weed had just received the equivalent of sixty-six pieces or rye bread for the retainer, plus change.
+Isso porque a missão tinha muitas condições muito complicadas para começar. Uma amizade próxima com o instrutor, quem iria imaginar algo assim?
 
-He was certain that once the quest was completed, he could expect more rewards from the instructor.
+A maioria dos usuários nem ao menos sabiam a localização do Centro de Treinamento, quanto mais o visitavam quando adquiriam uma nova habilidade. Eles não precisavam se deslocar todo o caminho apenas para praticar em alguns espantalhos. Além disso, era uma ocasião muito rara que houvesse alguém disposto a ficar preso ali batendo nos espantalhos seguidamente para subir seus atributos da maneira mais rude como Weed havia feito.
 
-- Great! I don’t need to worry about running out of bread for the time being.
+Se você buscar o suficiente, poderia encontrar alguns poucos usuários como estes, mas no caso de Weed, ele gastou quase todas as últimas três semanas batendo no espantalho. Quem mais poderia aguentar isso por tal extensão?
 
-Many years of first-hand experience of habitual famine persuaded him to avoid being malnourished at any cost.
+Falando de uma amizade próxima com o instrutor, era quase impossível de conseguir a não ser alguém como Weed que se aproximou dele tentando filar uma parte do seu almoço.
+
+Mesmo cumprindo todos esses requisitos você ainda tinha que começar a sua nova aventura na Cidadela de Serabourg no Reino de Rosenheim contra todas as possibilidades, sem mencionar que você precisaria encontrar o momento certo para caluniar a habilidade em esculpir junto com o instrutor.
+
+*Isso foi ótimo. Eu estava quase ao ponto de ir à falência e morrer de fome. Com a dificuldade de nível ‘E’, essa missão parece ser fácil de concluir.*
+
+Weed acenou para o instrutor.
+
+- Eu estou honrado em aceita-la. Mesmo que eu não acredite em nada dessa baboseira, eu descobrirei o que é o esculpir a luz do luar.
+
+*Ting*
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Você aceitou a missão!</p>
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
+
+- Muito obrigado por isso Weed-nim. Vou lhe confiar esta tarefa. Pegue este dinheiro como um adiantamento.
+
+O instrutor disse lhe passando duas moedas de prata.
+
+- Vou lhe dar o meu conselho: visite a loja de esculturas primeiro e recolha informações a partir daí.
+
+Um pedaço de pão, mesmo sendo completamente sem sabor, era o suficiente para encher o estômago e custava três moedas cobres. Como uma moeda de prata era igual a cem moedas de cobre, era garantido dizer que Weed havia recebido o equivalente a sessenta e seis pedaços de pão como adiantamento, mais um trocado.
+
+Ele estava certo que uma vez que ele terminasse a missão, ele poderia esperar ainda mais recompensas do instrutor.
+
+- Ótimo! Eu não irei mais me preocupar em ficar sem pão por enquanto.
+
+Muitos anos de experiência em primeira mão em relação à fome habitual o convenceu a evitar a desnutrição a todo o custo.
