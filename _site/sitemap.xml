@@ -83,6 +83,10 @@
     
     
         <url>
+            <loc>http://0.0.0.0:8080/post-o-pedido-do-instrutor/</loc>
+        </url>
+  
+        <url>
             <loc>http://0.0.0.0:8080/post-uma-besta-selvagem-aparece/</loc>
         </url>
   
