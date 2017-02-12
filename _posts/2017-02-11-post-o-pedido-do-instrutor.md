@@ -19,425 +19,475 @@ editor: Giovane Kauer
 fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-1-chapter-2_2.html
 ---
 
-Weed first walked to the fountain and filled his canteen with water, and then headed for the sculpture shop. It was Weed’s first trip down the streets of the Citadel, and it was crammed with users and NPCs.
+Weed primeiro caminhou até a fonte e encheu o seu cantil com água e, em seguida, seguiu até a loja de esculturas. Esse era o primeiro passeio de Weed pelas ruas da cidadela, a qual estava cheia de usuários e NPCs.
 
-- We need a cleric at level 17 or above!
-- Hey, guys! We’re going to raid Cave Lasok. Anyone want to join us?
+- Nós precisamos de um clérigo de nível 17 ou acima!
+- Ei pessoal! Nós estamos indo para uma incursão na Caverna Lasok. Alguém quer se juntar a nós?
 
-Plenty of users were on the street, but none of them gave a passing glance at Weed. He didn’t mind it though. Wandering around in a traveler’s outfit, deprived of even a breastplate, revealed that he has yet to meet the minimum requirement of the four week game play needed before he could leave the Citadel.
+Muitos usuários estavam nas ruas, mas nenhum deles sequer deu uma olhada para Weed, ainda que ele não se importasse com isso. Caminhando ao redor apenas com as roupas de viajante, privado até mesmo de uma armadura para o peitoral, exibia que ele ainda precisava completar aos requisitos mínimos das quatro semanas de jogo necessárias antes que ele pudesse sair da cidadela.
 
-Among the innumerable stores that operate in the capital of Rosenheim Kingdom, the sculpture shop holds a special position.
+Entre as incontáveis lojas que funcionavam na capital do Reino de Rosenheim, a loja de esculturas tinha uma localização especial.
 
-Most ordinary adventurers can barely recall where the sculpture shop is located because if was meaningless to them. Only an extremely small number of users who learned the Sculpture Art visit periodically. But the sculpture shop stands right next to the jewelry store on Central Avenue, and is one of the few frequently visited shops by the noblemen/women.
+A maioria dos aventureiros comuns mal podiam se lembrar onde ficava a loja de esculturas porque ela era insignificante para eles. Apenas um pequeno número de usuários, que havia aprendido a arte de esculpir, a visitava com alguma frequência. Contudo, a loja ficava próxima a Joalheria na Avenida Central e era uma das poucas que eram frequentadas pela nobreza.
 
-*Chime*
+*Ding Dong*
 
-Weed entered the sculpture shop.
+Weed entrou na loja.
 
-- Welcome to— oh, what brings you here, stranger?
+- Bem-vindo a… oh! O que lhe traz aqui, estranho?
 
-The shopkeeper was receiving a new customer with a gentle smile, until he saw Weed’s outfit at that point, he suddenly changed the tone of his voice.
+O lojista estava recebendo o novo cliente com um sorriso gentil até que ele viu as roupas de Weed e bruscamente mudou o tom de sua voz.
 
-Weed looked around the shop, only to find that there was no other customer except for him. A blacksmith’s workshop or a grocery store is always full to the limit of occupancy, but the sculpture shop only entertains a few customers a day, if any.
+Weed olhou a sua volta na loja e percebeu que não havia nenhum outro cliente além dele. A oficina de ferraria e a mercearia sempre estavam cheias até o limite de ocupação, mas a loja de esculturas atendia poucos clientes por dia, se tivesse algum.
 
-If comparing daily revenues, however, the sculpture shop does lag behind the blacksmith’s workshop. In other words, the sculpture shop sells pretty expensive merchandises.
+Se comparar a receita diária, a loja de esculturas também ficava para trás da oficina de ferraria. Em outras palavras, a loja de esculturas vendia mercadorias muito caras.
 
-Weed adjusted his collar and asked politely,
+Weed arrumou o colarinho da roupa e perguntou educadamente:
 
-- I have come here to find an answer to the question which troubles me so dearly, sir.
-- So you want to ask me a question, stranger?
-- Yes, sir. If you could spare me a second.
-- I am busy right now, please leave.
+- Eu vim aqui para encontrar a resposta para a pergunta que muito me intriga, meu caro senhor.
+- Então você quer que eu a responda, estranho?
+- Sim senhor. Isso se o senhor puder me disponibilizar um segundo.
+- Eu estou ocupado agora, por favor, saia.
 
-The shopkeeper rejected him right away, sounding very annoyed. As Weed’s fame was zero, and they were unacquainted, the shopkeeper had every right to chase him out of the shop.
+O lojista o rejeitou imediatamente, soando bastante aborrecido. Como a fama de Weed era zero e eles eram desconhecidos, o lojista tinha todo o direito de expulsa-lo da loja.
 
-- Yes, sir. I will see you later.
-- Goodbye. - said the shopkeeper.
+- Sim, senhor. Vejo-te mais tarde.
+- Adeus - disse o lojista.
 
-Weed was taking his time to retreat to the doorway. Then, he casually shot a glance at the statues that were on display.
+Weed enrolou enquanto caminhava para a porta. Então, casualmente olhou para as estátuas que estavam em exibição.
 
-- How grand!
+- Que grandiosa!
 
-Weed exclaimed
+Weed exclamou.
 
-- The grandeur of this statue fascinates my soul. Do you supply this to the Rosenheim Court?
+- A grandiosidade dessa estátua fascina a minha alma. Você fornece isso para a Corte de Rosenheim?
 
-The shopkeeper could not help but lend an ear to Weed.
+O lojista não pôde evitar a não ser dar ouvidos a Weed.
 
-- Which one are you talking about, stranger?
-- This two-headed eagle made of pure gold. I dare not guess which master carved this, but I can sense the excellence of his workmanship. It is dignified beyond dispute. It is so full of life that I almost mistook it for a real eagle, and I am blessed in visiting this place. This store deserves this class of item. They have opened my humble eyes to a heavenly beauty that has descended to Earth
+- Sobre qual você está falando, estranho?
+- A águia de duas cabeças feita de ouro puro. Eu nem ouso adivinhar quem foi o mestre que esculpiu isso, mas posso sentir a excelência de seu trabalho. Ela é indiscutivelmente digna, tão cheia de vida que eu quase a tomei por uma águia de verdade. Eu sou afortunado de visitar este lugar. Esta loja merece esse tipo de item. Eles abriram meus humildes olhos para a beleza celestial que desceu à terra.
 
-Whether or not the shopkeeper realizes, his mouth was forming a horizontal crescent. “Are you interested in sculptural art, traveler?”
+Quer o lojista percebesse ou não, a sua boca estava formando um sorriso crescente horizontal.
 
-- I daresay I am— I am only wishing to feel peace of mind at the sight of outstanding statues, and my soul craves to be even a small part of the magnificent spirit embodied in them
-- Come over and sit down. You may be good company to arouse me from boredom.
-- Thank you, sir.
-- Would you like a cup of tea?
-- Only if you’re kind enough of offer me cold honeyed water. I will be satisfied with a cup of cold water.
-- Sure! Of course I have it.
+- Você está interessado na arte das esculturas, viajante?
+- Eu ouso dizer que estou. Eu apenas desejo sentir a paz de espírito que tais notáveis estátuas me trazem quando eu olho para elas, além de cravar em minha alma mesmo que uma pequena parte do magnifico espírito incorporado nelas.
+- Venha e se sente. Você pode ser uma boa companhia para me livrar do tédio.
+- Muito obrigado, senhor.
+- Você gostaria de uma xícara de chá?
+- Apenas se você for gentil o bastante para me oferecer água gelada adocicada. Eu ficarei satisfeito com um copo de água gelada.
+- Com certeza! É claro que eu tenho.
 
-Weed drank the honeyed water blended by the shopkeeper, which soothed the exhaustion that he had accumulated over the last three weeks.
+Weed bebeu a água adocicada preparada pelo lojista, o que lhe aliviou a exaustão que ele havia acumulado nas últimas três semanas.
 
-- Now tell me what has been troubling you so much? - Asked the shopkeeper.
-- Yes, sir. But can you please forgive me for asking for a brief tour of these statues on display before everything else? I have business that demands your guidance, yet it is less urgent than comforting my poor soul that wishes to have a good look at these masterpieces of art! - Weed said.
-- You may look at them for as long as you wish. Isn’t it the raison d’être  of fine statues to please those who appreciate their value? - The shopkeeper consented with a content smile.
+- Agora me diga o que é que o estava importunando tanto?
 
-Weed felt that he had won his goodwill, one scarcely disturbed by visitors and away from public attention. Suppose that you asked to look at various items in a grocery store— the next second you would be kicked out.
+O lojista perguntou.
 
-Weed relished the statues on display at leisure. But he had his own agenda. “I doubt sculpture mastery will make a pile of money.” The most expensive statue that is currently present is worth 30 silvers. The quality statues are made of stones or rare wood, and in spite of the impressive workmanship, the materials themselves were not costly in the first place. They were nothing more than wooden carvings, or engraved stones.
+Então, Weed disse:
 
-Weed knew that there would be money if he could create a gigantic lion statue or bronze status, but he wasn’t fooled by the possibility that was so far off. What kind of nobleman with so much money would order a new statue every year? He needed to reach the top of the ladder in order to do really well as a sculptor. Little competition guaranteed that it wouldn’t need too much effort to become the best in the industry.
+- Sim, senhor. Mas você poderia me perdoar se eu lhe pedir por um breve tour pelas estátuas em exibição, antes de mais nada? Eu tenho negócios que precisam da sua orientação, mas isso é menos urgente do que confortar a minha pobre alma que deseja olhar melhor para essas obras-primas de arte!.
+- Você pode olhar para elas a vontade o tanto que quiser. Não é essa a raison d’être (razão de ser – francês) das belas obras agradar aqueles que apreciam o seu valor?
 
-Still, it was a niche market, too small to count on. The guaranteed way to make a fortune was to target other users as potential consumers. They were always leveling up and demanding better equipment, so on and so forth.
+Disse o lojista com um sorriso feliz.
 
-Fire weapons, strong equipment enchanted bracelets and rings were popular among users, but statues were valueless to them except in rare instances.
+Weed sentiu que ele havia ganho a boa vontade dele, aquele que raramente era perturbado pelos visitantes e que estava longe da atenção do público. Imagine se você pedisse para olhar vários itens em uma loja/armazém – logo em seguida você seria enxotado.
 
-- Waste of time, waste of money. - he thought.
+Weed apreciou à vontade as estátuas em exibição, mas ele ainda tinha a sua própria convicção:
 
-Weed’s primary purpose for starting this game was to make money, with a capital M. He looked around the display for the last time and passed his verdict on the sculpture mastery.
+*Eu duvido que a habilidade de esculpir possa fazer um monte de dinheiro.*
 
-- This skill is worth a dime a dozen - Weed thought as he sat down across from the shopkeeper.
-- Now, what are you looking for? - asked the shopkeeper.
-- I am interested in a past event. I was told that someone had carved the moonlight in the Royal Palace fifty years ago. I would like to know if there’s any truth of that event -  Weed said.
-- Oh that event! It is legendary tale that has been passed down among the sculptors. I also heard it from some trustworthy patrons from the Royal Court
+A estátua mais cara em exibição valia apenas 30 moedas de prata. As estátuas de qualidade são feitas de pedras ou de madeiras raras e, fora a impressionante habilidade do escultor, os materiais por si só não eram muito custosos. Não eram nada além de madeira entalhada ou pedras gravadas.
 
-Weed had thought that carving the moonlight was impossible, another urban legend, but the owner of the sculptor shop also knew the rumor that the instructor at the Training Hall had claimed to have heard.
+Weed sabia que haveria dinheiro se ele pudesse criar uma estátua gigantesca de um leão, mas ele não foi enganado por essa possibilidade tão distante. Que tipo de nobre com tanto dinheiro encomendaria uma nova estátua a cada ano? Ele precisaria chegar ao ápice a fim de realmente se dar bem como um escultor. A baixa concorrência lhe garantiria que não precisaria de muito esforço para chegar ao topo da profissão.
 
-*Ting*
-<div align="center" class="quest-center">
-    <table border="1" cellspacing="3" cellpadding="0">
-        <tbody>
-            <tr>
-                <td>
-                    <p align="center">Quest Completed: A Mystery Sculptor Rumored to Have Visited the Royal Palace:</p>
-                    <p align="center">The rumor that had reached the instructor’s ear really took place. A sculptor carved the moonlight, and it was widely, yet secretly, known amongst the Serebourgians, though it remained an enigma how he carved the moonlight.</p>
-                    <p align="center">Reward:</p>
-                    <p align="center">Return to the instructor to claim it.</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+Mesmo assim, era um nicho de mercado, mas muito pequeno para contar com ele. Um jeito garantido de fazer uma fortuna era ter como alvo os outros usuários como consumidores em potencial. Eles estão sempre subindo de nível e exigindo equipamentos melhores e assim por diante.
 
-Weed grinned broadly. This was, after all, a simple quest with the lowest difficulty level of E. Although at the same time it could've turned out tricky if he had failed becoming a 'friend' with the shopkeeper.
+Armas e equipamentos fortes, braceletes e anéis encantados e coisas do tipo eram populares entre os usuários, mas estátuas não tinham valor algum para ele exceto em raras ocasiões.
 
-How that he was done with the quest, the next move was to return to the Training Hall and earn a reward from the instructor. As Weed was looking for the right moment to say his farewells and leave, the shopkeeper, absorbed in thought, finally spoke out.
+*Perda de tempo, perda de dinheiro*.
 
-- I have not heard how he carved the moonlight
-- Did the patrons from the Royal Court not tell you about it?
-- Hmm, they always omitted it in their tale. They refused to tell me about it. They said Queen Evane of Rosenheim, O may her soul rest in peace, was involve in the event. Can you do me a favor and look into this, so that my curiosity shall be gratified?
+Weed pensou.
+
+O objetivo principal de Weed em começar esse jogo era fazer Dinheiro, com D maiúsculo. Ele olhou uma última vez para a exibição e deu o seu veredito sobre a habilidade de esculpir:
+
+*Essa habilidade não vale um centavo.*
+
+Weed pensou enquanto sentava com o lojista.
+
+- Então, o que você está procurando?
+
+Perguntou o dono da loja.
+
+- Eu tenho interesse em um evento antigo. Foi-me dito que alguém esculpiu o luar no Palácio Real, cinquenta anos atrás. Eu gostaria de saber se tem alguma verdade nisso.
+- Oh! Aquele evento! Essa lenda tem sido passada entre os escultores a gerações. Eu também ouvi sobre ela de um cliente confiável da Corte Real.
+
+Weed pensou que esculpir a luz do luar fosse impossível, apenas outra lenda urbana, mas o dono da loja de esculturas também sabia do rumor que o instrutor no Centro de Treinamento havia afirmado ter ouvido.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Quest: The Sculptor’s Past:</p>
-                    <p align="center">The rumor has it that Queen Evane was involved in the event when the sculptor presented himself in the Royal Palace and carved the moonlight. The shopkeeper of the sculpture shop wondered what link existed between the two of them.</p>
-                    <p align="center">Difficulty Level: E</p>
-                    <p align="center">Warning:</p>
-                    <p align="center">If you are found to be investigating the rumor in question, you will be exposed to hostility from Royal Knights.</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Quest Completa: Boatos de que um misterioso escultor visitou o palácio real</p>
+        <p align="center">O rumor que alcançou os ouvidos do instrutor realmente aconteceu. Um escultor esculpiu o luar e isso foi amplamente conhecido, ainda que secretamente, entre os cidadãos de Serabourg, embora permaneça um enigma sobre como ele esculpiu o luar.</p>
+        <p align="center">Recompensa:</p>
+        <p align="center">Retorne ao instrutor para reivindicar.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-Weed’s clenched fists were shaking in excitement. ‘This, it’s a serial quest!’
+Weed sorriu abertamente. Essa era, antes de tudo, uma missão simples com o nível de dificuldade mais baixo, o ‘E’. Entretanto, ao mesmo tempo, ela poderia ter se complicado caso ele não conseguisse ficar ‘amigo’ do dono da loja.
 
-Even when the difficulty level of a quest is awfully low, the level of rewards shoot up in the case of serial quests. The more stages you complete, the more difficult the quest gradually becomes, and so most serial quests are likely to be highly difficult to solve for Weed at his current level.
+Como ele havia concluído a missão, seu próximo passo era voltar ao Centro de Treinamento e receber a recompensa do instrutor. Enquanto Weed estava tentando encontrar o momento certo de dizer até logo e sair, o lojista, absorto em seus pensamentos, finalmente disse algo:
 
-The only quests that Weed could complete are the ones that are inside the Citadel, asking around and gathering information from people.
-
-- I'm afraid that I am still incompetent. I believe that I may not be worthy of your request. - Weed replied.
-- I am certain you are up to this task. You prudence shall lead the way to safety. - The shopkeeper replied.
-- If you say so, I will take it willingly - Weed said.
+- Eu não ouvi sobre como ele esculpiu o luar.
+- Os clientes da Corte Real não lhe contaram sobre isso?
+- Hmm, eles sempre omitiram essa parte da história. Eles se recusaram a me dizer sobre isso. Eles dizem que a Rainha Evane de Rosenheim, que sua alma descanse em paz, estava envolvida no evento. Você poderia me fazer um favor e buscar isso para que a minha curiosidade possa ser satisfeita?
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">You have accepted the quest!</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Quest: O Escultor do Passado</p>
+        <p align="center">O rumor de que a rainha Evane estava envolvida no evento de quando o escultor se apresentou no Palácio Real e esculpiu o luar. O empregado da loja de esculturas lhe perguntou que ligação existia entre os dois.</p>
+        <p align="center">Dificuldade: E</p>
+        <p align="center">Aviso:</p>
+        <p align="center">Se você for encontrado investigando o rumor em questão, você será exposto à hostilidade dos cavaleiros da corte real.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-- Thank you traveler. A bard with knowledge in ancient tales and street gossip is the one whom you should ask about Queen Evane. Beware! This matter is extremely sensitive, so you should not cause trouble that might lead to any defamation of the Royal Family.
+Os punhos de Weed cerraram tremendo de excitação.
+
+*Isso, essa é uma missão em série!*
+
+Mesmo quando o nível de dificuldade de uma missão era ridiculamente baixo, os níveis das recompensas disparavam no caso de missões em série. Quanto mais etapas você completar, mais difícil a missão se torna e a maioria das missões em série provavelmente tinham uma dificuldade muito alta para serem resolvidas no seu nível atual.
+
+As únicas missões que Weed poderia completar eram aquelas de dentro da Cidadela, perguntando e coletando informações das pessoas ao redor.
+
+- Eu tenho medo de que eu ainda seja um incompetente. Eu acredito que talvez não seja digno do seu pedido.
+
+Weed respondeu.
+
+- Tenho certeza que você é a pessoa certa para a missão. Sua prudência irá lhe guiar pelos caminhos mais seguros. - O lojista respondeu.
+- Se é o que você diz, eu irie cumpri-la de bom grado. - Weed respondeu.
+
+*Ting*
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Você aceitou a missão!</p>
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
+
+- Muito obrigado viajante. Um bardo com conhecimento em histórias antigas e fofocas das ruas é uma das pessoas por quem você deveria perguntar sobre a Rainha Evane. Mas cuidado! Esse assunto é extremamente sensível, de modo que você não deve causar nenhum problema que possa trazer qualquer difamação à Família Real.
 
 *****
 
-Keeping down a sudden impulse to hum a tune, Weed headed straight to a pub across the street.
+Contendo o súbito impulso de cantarolar, Weed seguiu direto para um bar do outro lado da rua.
 
-- Good afternoon~! - Returning the greeting from a waitress, Weed looked around in search of a bard. There were a few conditions to meet. First, he discounted the bard users when he looked for the right man. It was a long shot that any user had even ever heard of such an event that had happened in the Royal Palace half a century before. Weed would be better off to find a Serabourgian native, possibly an elderly.
+- Bom dia!
 
-Whether he could sing ballads favorably or not, an old bard was reliable when it comes to worldly gossip. Weed stopped by several pubs until he found a bard who lived up to his expectations. It was a middle-aged bard in his forties, experienced with both charm and youth. Clapping both hands, Weed approached the bard.
+Disse Weed ao retornar o cumprimento da garçonete.
 
-- Thank you for a fine ballad, sir. Forgive me for interrupting you, but I want to ask you a few questions… Do you know what happened fifty years ago in the Royal Court of Rosenheim?
+Ele olhou a sua volta em busca de um bardo. Havia poucas condições para encontra-lo. Primeiro, ele desconsiderou todos os usuários bardos em sua busca. Era um chute dizer que um usuário teria ouvido falar de um evento que tinha acontecido no Palácio Real meio século atrás. Weed achou melhor encontrar um nativo de Serabourg, de preferência alguém já idoso.
 
-The bard’s thrust his palm out and Weed could not miss what this gesture implied. He frowned immediately, his mouth twitching with a grave sense of responsibility that he would not waste a penny.
+Quer ele pudesse cantar baladas favoráveis ou não, um bardo mais velho era confiável quando o assunto fosse fofocas do reino. Weed parou em diversos bares até que ele encontrou um bardo que correspondia às suas expectativas. Ele era um bardo de meia-idade, nos seus quarenta, perito em ambos: charme e juventude. Batendo palmas, Weed aproximou-se dele.
 
-- You sure have a charming voice. I appreciate your talent in writing both the lyrics and the music for that ballad. Also your skills in the instrument were more than impressive…
-- …
-- I bet you broke the hearts of many Serabourgian ladies back when you were a young ray of sunshine at the peak of your career. Of course, I do not doubt that you are still stealing ladies’ hearts… For a bard, adventure and romance is everything. I also love romance.
+- Muito obrigado pela bela balada senhor. Me desculpe por interrompe-lo, mas eu quero lhe fazer algumas perguntas… Você sabe o que aconteceu há cinquenta anos atrás na Corte Real de Rosenheim?
 
-The palm didn’t go away, and the bard snapped, “I’m sick and tired of cheap compliments from the likes of you, foreigner. Show me the money, or get lost!”
+O bardo bateu na palma de sua mão e Weed não deixou de perceber o que o gesto significava. Ele franziu a testa imediatamente, sua boca estava se contraindo com um grave senso de responsabilidade de quem não iria perder sequer um centavo.
 
-Weed was momentarily lost.
+- Você com certeza tem uma voz cativante. Eu admiro seu talento tanto na composição quanto na música da balada. Igualmente, as suas habilidades com o instrumento vão para além de impressionantes…
+- ...
+- Eu aposto que você partiu diversos corações das donzelas de Serabourg no tempo em que você era jovem e estava no auge da sua carreira. É claro, eu não duvido que você continue roubando corações… Para um bardo, aventuras e romance é tudo. Eu também amo o romance.
 
-- Do I just give up the quest in the middle? Anyway, the quest doesn’t penalize me even if I decide to drop out. But maybe it would give me sweet rewards later, and I would hate to miss out on them" Weed thought to himself.
+A palma não se moveu e o bardo estalou:
 
-Weed’s hand slipped into his pocket and fished out a coin before he realized his mistake. Two silvers! There were two silver coins in his pocket. That was everything that the instructor had given him as a retaining fee for the previous quest.
+- Estou de saco cheio de elogios baratos de pessoas como você, forasteiro. Me mostre o dinheiro ou saia daqui!
 
-The bard seized the silver coin from Weed’s palm.
+Weed ficou momentaneamente perdido e pensou consigo:
 
-It was a basic mistake that he had forgotten to exchange his money into smaller coins in advance.
+*Devo desistir da missão na metade? De qualquer jeito, a missão não irá me penalizar se eu decidir desistir. Porém, ela talvez possa me dar recompensas melhores no futuro e eu odiaria perder isso.*
 
-*I can’t believe I made such a silly mistake!* Weed’s body shook in distress and grief.
+A mão de Weed deslizou para dentro de seu bolso e pescou uma moeda antes que ele percebesse o seu erro. Duas moedas pratas! Havia duas moedas de pratas em seu bolso. Aquilo era tudo o que o instrutor havia lhe dado como adiantamento pela missão anterior.
 
-- Hmph, this is a secret, so you must keep it to yourself! - The bard said under his breath
-- Queen Evan and the sculptor had been on intimate terms since they were children.
-- What do you mean by intimate terms…? Weed asked
-- You fool! I know nothing else for intimate terms between a man and a woman—they loved each other.
-- Point taken Weed now realized why poking his nose into the rumor had to remain a secret from the Royal Court.
+E o bardo tomou a moeda de prata da mão de Weed. Foi um erro básico ele esquecer de trocar seu dinheiro por moedas menores antecipadamente.
 
-Given that if the former Queen’s sacred name was ever mentioned in that scandalous matter, the Royal Knights would probably be willing to silence anyone at any cost to keep her honor intact.
+*Eu não acredito que cometi um erro tão bobo!*
 
-The bard glanced around the pub and added cautiously “They were both born and raised in the same village, and grew up bearing each other dearly in mind. The boy’s name was Zahab. The girl was always carrying ornaments carved and given by him. When she was a child she held a dream that she would become his wife someday, but Destiny played a nasty trick on them, and the girl was chosen to be the Royal Maid. At which point the boy left her. But in the end, there was still the promise between them.”
+O corpo de Weed estava em choque devido a tristeza e ao sofrimento.
 
-- What promise, if I may ask? - Weed asked, now curious.
-- Zahab had promised to show the girl the most beautiful statue under heaven.
-- I guess it was not kept, then. The Queen must have a great number of beautiful, magnificent statues in her place.
-- No, he kept it. Many years later, Zahab presented himself at the request to the Royal Court. It was said that, at the sight of his work, she was most touched, saying it was the most beautiful creature under heaven.
-- Then, what statute, for Freya’s sake, did he present to Queen Evane? A Queen doesn’t easily cherish an ordinary piece.
-- True. Pay a visit to the lady’s maid who witnessed that day, and hear the rest of the story from her. This is as far as I can tell you because I also heard it from someone else.
-- Is she still alive?
-- Yes. - The bard told Weed the way to the house of the lady’s maid.
+- Hmph, isso é um segredo, então você deve guardar para si!
 
-Weed went to visit her. She had retired, and when he mentioned Queen Evane and the sculptor, she gave him a joyous welcome.
+O bardo sussurrou:
 
-- Her Highness was very virtuous and gracious lady. So do you want to hear about what happened back then?
-- Yes, ma’am.
-- You've found the right person to ask. I personally served Her Highness. She at first resented Zahab-nim when he first visited the palace.
-- Why so, if I may ask?
-- It was his promise. When they were young, they had made a promise, a promise that Zahab-nim would present Her Highness with the most beautiful statue under heaven. But when he appeared in the palace, he was carrying a sword, not an sculpting blade. To the eyes of everyone, he looked like a fine swordsman who was proficient in the sword. You should have seen how heartbroken Her Highness was. It was indescribable! Her Highness so believed in Zahab-nim that even if the world turned upside down, he would be the same eternally, and likewise, the promise between them was divine
-- …
-- On that day, Brent Kingdom, which bordered on Rosenheim, dispatched a band of assassins. They revealed their treacherous ambition to seize our Kingdom, and Freya only knows how shocked I was when assassins stormed in and assaulted Her and His Highness in the garden
-- Those wicked scoundrels!
-- Yes, young traveler, you can say that again. A couple of Royal Knights were trapped, thus incapable of holding them in check—and we were left to face death. At that very moment, Zahab-nim walked into the garden. As you can see, right in the middle of fighting, Her Highness warned him and ordered him to leave. But Zahab-nim only smiled—
-- He smiled in the middle of such a dangerous situation?
-- and he said he would show her the most beautiful statue that he had ever carved under heaven. To everyone’s surprise, the moonlight shattered into pieces at Zahab-nim’s sword. Its beauty was really striking. He was singing a song while he carved the moonlight. I cannot remember the lyrics word by word, but the title was A Sculptor’s Heart. Listening to the song, Her Highness was overflowing with tears. It was really the most beautiful statue Milady had ever seen. Had Zahab-nim only inscribed his name on a crude plank, but Her Highness would have taken it for the most beautiful sculpture in the world, but I tell you, the sight he was carving with the moonlight was literally heavenly. The assassins scattered at the inconceivable sight, and Zahab-nim kept his promised. Many years have since gone, but I still cherish that moving memory.
+- A Rainha Evane e o escultor estavam em termos íntimos desde que eles eram crianças.
+- O que você quer dizer com termos íntimos…?
 
-Then, a mysterious flashback flittered before Weed’s eyes.
+Weed perguntou.
+
+- Seu idiota! Eu não sei de nada mais íntimo entre um homem e uma mulher. Eles se amavam.
+- Entendido.
+
+Weed então percebeu o porquê de fuçar esse rumor teria que se manter em segredo da Corte Real.
+
+Dado que se o sagrado nome da antiga rainha fosse mencionado em um assunto tão escandaloso, os Cavaleiros Reais iriam provavelmente querer silenciar qualquer um a todo custo para manter a honra dela intacta.
+
+O bardo olhou ao redor do bar e adicionou cautelosamente:
+
+- Eles nasceram no mesmo vilarejo e cresceram tendo um ao outro carinhosamente em mente. O nome do garoto era Zahab. A garota sempre carregava enfeites esculpidos e dados por ele. Quando ela era criança ela tinha um sonho de que seria a mulher dele algum dia, mas o destino pregou uma peça neles e a garota foi escolhida para ser uma Donzela Real. Naquele ponto o garoto a abandonou, mas no fim, ainda havia a promessa entre eles”.
+- Qual promessa, eu posso perguntar?
+
+Weed perguntou, já curioso.
+
+- Zahab prometeu mostrar à garota a mais bela estátua sob os céus.
+- Imagino então que ele não manteve a promessa. A rainha deveria ter um grande número de belas e magnificas estátuas em sua morada.
+- Não, ele manteve a promessa. Muitos anos depois, o próprio Zahab se mostrou a pedido da Corte Real. Foi dito que, à vista do seu maravilhoso trabalho, ela foi a que mais se comoveu, dizendo que era a coisa mais bela sob os céus.
+- Então, que estátua, pelo amor de Freya, ele deu para a Rainha Evane? A rainha não iria gostar de uma peça comum.
+- É verdade. Preste uma visita à criada da rainha, a qual testemunhou aquele dia e ouça o resto da história por ela. Isso é o máximo que posso lhe contar porque eu também ouvi de outra pessoa.
+- Ela ainda está viva?
+- Sim.
+
+O bardo então contou à Weed o caminho para a casa dela.
+
+Weed foi visita-la. Ela tinha se aposentado e quando ele mencionou a Rainha Evane e o escultor, ela lhe deu uma calorosa boas-vindas.
+
+- Sua Alteza era uma senhora muito virtuosa e graciosa. Você quer ouvir sobre o que aconteceu naquele tempo?
+- Sim, madame.
+- Você encontrou a pessoa certa para perguntar. Eu servi a Sua Alteza pessoalmente. A princípio ela se ressentiu quando Zahab-nim fez sua primeira visita ao palácio.
+- Por quê? Se eu posso lhe perguntar.
+- Era a promessa dele. Quando eles eram jovens, eles fizeram uma promessa, uma promessa de que Zahab-nim presentearia Sua Alteza com a mais bela estátua sob os céus. Porém, quando ele apareceu no palácio, ele estava carregando uma espada e não uma lâmina de esculpir. Aos olhos de todo mundo, ele parecia como um bom espadachim, o qual era proficiente com a espada. Você deveria ter visto quão inconsolável a Sua Alteza ficou. Era indescritível! Sua Alteza até então acreditou em Zahab-nim e, mesmo que o mundo virasse de cabeça para baixo, ele seria o mesmo eternamente e, do mesmo modo, a promessa entre eles era algo divino.
+- ...
+- Naquele dia, o Reino Brent, que faz fronteira com Rosenheim, enviou um grupo de assassinos. Eles revelaram a traiçoeira ambição de capturar o nosso Reino e só Freya sabe o quão chocada eu estava quando os assassinos invadiram o palácio e atacaram ela e o rei no jardim.
+- Esses canalhas perversos!
+- Sim, jovem aventureiro, você pode dizer isso novamente. Alguns Cavaleiros Reais caíram numa armadilha e foram incapazes de restringir os assassinos e, nessa hora, nós fomos abandonados à morte. Naquele exato momento, Zahab-nim caminhou até o jardim. Como você pode ver, bem no meio da batalha, Sua Alteza o alertou e o mandou que saísse, mas Zahab-nim apenas sorriu.
+- Ele sorriu no meio de uma situação tão perigosa?
+- E ele disse que mostraria a ela a mais bela estátua que ele havia esculpido sob os céus. Para a surpresa de todos, a luz da lua foi dividida em pedaços pela espada de Zahab-nim. A beleza era realmente impactante. Ele estava cantando uma canção enquanto esculpia o luar. Eu não consigo lembrar da letra palavra por palavra, mas o título era ‘O Coração de um Escultor’. Ouvindo a música, Sua Alteza estava transbordando em lágrimas. Aquela era realmente a mais bela estátua que a minha Senhora já havia visto. Zahab-nim havia apenas inscrito seu nome em uma tábua crua, mas Sua Alteza entendeu isso como a mais bela escultura do mundo, mas eu vou lhe dizer, a visão dele esculpindo a luz do luar era literalmente celeste. Os assassinos dispersaram com tal visão inconcebível e Zahab-nim manteve a sua promessa. Muitos anos se passaram, mas eu ainda estimo essa memória tocante.
+
+Então, um misterioso flashback passou diante dos olhos de Weed.
+
+***
+
+*Whittle* (onomatopeia para talhar)
+
+Um garoto segurando uma pequena lâmina de entalhe em suas mãos. A lâmina de entalhe deslizava para cima e para baixo e uma peça de madeira tomava forma.
+
+Parecia que ele estava esculpindo uma donzela. Uma pequena e amável donzela.
+
+Através da sua habilidade, a peça de madeira ia tomando vida.
+
+Uma garota, corando até as orelhas, o estava observando.
+
+A mão do garoto movia a lâmina e seu olhar era sério.
+
+A garota amava ele e tudo que lhe era relacionado.
+
+Logo a mão do garoto completou a estátua. Parecia muito com a garota.
+
+- Por agora, tudo que eu posso esculpir é um pedaço de madeira. Mas, algum dia, eu lhe darei a mais bela estátua do mundo.
+- Muito obrigada Zahab. Eu aguardo ansiosa por esse dia!
+
+O garoto e a garota fizeram uma promessa entre eles, de mãos dadas.
+
+Conforme a garota crescia, ela floresceu em uma beleza rara. Ela chamou a atenção do rei e, eventualmente, se tornou a rainha. Porém, a garota não era feliz de verdade.
+
+Sua Alteza ainda estava infeliz no dia em que Zahab voltou para vê-la. Zahab trazia consigo uma espada e não a lâmina de esculpir.
+
+Caminhando sozinha no jardim, Sua Alteza deu lugar a sua paixão e apertou uma espinhosa rosa. Sua palma sangrou com um sangue vermelho rubi.
+
+- Por que você esqueceu a nossa promessa? Sua promessa era tudo para mim…
+
+Sua Alteza estava em pesar com a promessa quebrada.
+
+Naquela noite, os assassinos invadiram o palácio. O Reino Brent, um hostil vizinho como sempre, havia enviado assassinos.
+
+Os Cavaleiros do Reino de Rosenheim caíram um após o outro.
+
+Ela e o rei estavam temerosos por sua iminente e inevitável morte.
+
+Zahab apertou a sua espada e a luz do luar começou a dançar.
 
 *****
+*Ting*
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Quest Completa: O Escultor do Passado</p>
+        <p align="center">A promessa entre um garoto e uma garota foi honrada.</p>
+        <p align="center">A luz azul do luar foi partida em pedaços, os quais derrotaram os assassinos.</p>
+	    <p align="center">O Escultor do Luar Zahab, a sua habilidade em esculpir havia alcançado o nível de mestre, presenteando a mais bela estátua para a sua amiga de infância.</p>
+        <p align="center">Você subiu de nível!</p>
+        <p align="center">Você subiu de nível!</p>
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
 
-*Whittle*
-
-A boy is holding a tiny sculpting blade in his hands.
-
-As the sculpting blade slides up and down, a piece of wood is shaping into a form.
-
-It seems he is carving a maiden.
-
-A little, lovely maiden.
-
-Through his craftsmanship, the piece of wood is endowed with life.
-
-A girl, blushing up to her ears, is watching him.
-
-The boy’s hand moving the sculpting blade, and his serious look.
-
-The girl loves him, and everything about him.
-
-Soon the boy hands her the complete statue. It looks so much like the girl.
-
-- For now, all I can do is carve a piece of wood. But someday, I will give you the most beautiful statue in the world.
-- Thank you Zahab. I’m looking forward to that day!
-
-The boy and girl made a promise with each other, hand in hand.
-
-As the girl grows up, she blossoms into a rare beauty.
-
-She caught the eyes of the King and She eventually became Queen. But the girl is not happy at all.
-
-Her Highness is still unhappy the day Zahab comes back to see her.
-Zahab carried a sword, and not the sculpting blade.
-
-Talking a walk alone in the garden, Her Highness gives way to fit of passion and clutches a thorny rose. Her palm bleeds with ruby red blood.
-
-- Why did you forget our promise? Your promise was everything to me…
-
-Her Highness grieved over the broken promise.
-
-That evening, the assassins raid the palace.
-
-Brent Kingdom, a hostile neighbor as always, has sent assassins.
-
-Knights of Rosenheim Kingdom collapse one after another.
-
-She and His Highness are fearful of their imminent and inevitable death.
-
-Zahab clutches his sword, and the moonlight begins to dance.
-
-*****
+Para a surpresa de Weed, ele subiu dois níveis em uma única missão e não era só isso. Uma janela de mensagem apareceu e, para a sua surpresa novamente, era uma janela de mudança de classe.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Quest Completed: The Sculptor’s Past:</p>
-                    <p align="center">The promise between the boy and the girl was honored. The bluish moonlight shattered into pieces, which in turn defeated the assassins. Moonlight Sculptor Zahab— His Sculpture Mastery has reached the stage of a Master. Presenting the most beautiful statue to his childhood friend.</p>
-                    <p align="center">You have leveled up!</p>
-                    <p align="center">You have leveled up!</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Mudança de Classe: Escultor do Luar (Classe Secreta):</p>
+        <p align="center">Você pode se converter para uma classe secreta, o Escultor do Luar. Se você aceita-la, você poderá aprender habilidades exclusivas para a classe que são retidas das classes primárias.</p>
+        <p align="center">Você quer se converter para um Escultor do Luar?</p>
+        <p align="center">Sim | Não</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-To Weed’ surprise, two levels went up for a single quest, and that wasn’t the end of it. A message window popped up. To his surprise once again, it was a class conversion window.
+Uma infinidade de usuários buscava descobrir sobre classes secretas em Royal Road, mas menos de um em mil descobriam uma de verdade.
+
+Weed respondeu:
+
+- Eu recuso.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Class Change: Moonlight Sculptor (Hidden):</p>
-                    <p align="center">You can convert to a secret class Moonlight Sculptor. If you accept it, you can learn exclusive skills for the class that are withheld from the primary classes.</p>
-                    <p align="center">Do you want to convert to Moonlight Sculptor?</p>
-                    <p align="center">Sim | Não</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Por favor, confirme a sua decisão.</p>
+        <p align="center">Você pode se converter a uma classe secreta, o Escultor do Luar.</p>
+        <p align="center">Você quer se converter para Escultor do Luar?</p>
+        <p align="center">Sim | Não</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-An infinite number of users are bustling about to discover secret classes in Royal Road, but fewer than one out of a thousand actually discovers one.
+- Eu recuso.
 
-Weed answered, - I refuse.
+Weed respondeu novamente.
+
+Para Weed, ficar preso em um canto do armário fazendo estátuas indesejadas não valia nem a pena considerar. Ele tinha que admitir que ser um escultor poderia ser uma classe divertida se apropriadamente treinada, mas ele precisava de uma classe lucrativa para o seu ganho pessoal. Quando Weed voltou aos seus sentidos, a velha senhora o estava observando.
+
+- É uma história maravilhosa. Muito obrigado por compartilhar comigo madame.
+- De nada. Foi um prazer lhe contar a história deles assim. Então, jovem aventureiro, eu quero lhe dar um pequeno presente. Você poderia pegá-lo?
+
+Não seria uma ofensa rejeitar um presente dado de bom grado? Weed não era tão cruel ao ponto de rejeitar algo oferecido para ele. Um homem deveria aceitar qualquer presente com gratidão.
+
+- Eu recebo com prazer, madame.
+
+A velha senhora tirou algo empacotado do fundo de um guarda-roupas. Parecia um bisturi antigo.
+
+- Essa é a lamina de esculpir que costumava pertencer a Zahab-nim. Ele deixou para Sua Alteza e acontece que eu a mantive até agora, e essa estátua de madeira foi esculpida por Zahab-nim. Por favor pegue esses.
+
+A criada da Rainha disse e Weed respondeu:
+
+- Eu guardarei com carinho o seu presente.
+
+Ele recebeu dois itens dela.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Please confirm your decision. You can convert to a secret class Moonlight Sculptor.</p>
-                    <p align="center">Do you want to convert to Moonlight Sculptor?</p>
-                    <p align="center">Sim | Não</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Você recebeu:</p>
+        <p align="center">Item: Lâmina de Esculpir</p>
+        <p align="center">Item: O legado de Zahab</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-- I refuse, - Weed answered again.
+Weed pensou que esses itens eram incomuns já que eles foram deixados por um dos mestres da Arte de Esculpir. Mesmo a estátua de madeira parecia chique em um vislumbre casual.
 
-To Weed, being stuck in the corner of a closet and making unwanted statues wasn’t even worth considering. He had to admit that being a sculptor could make quite an amusing class if properly trained. But he needed a financially lucrative class for his personal gain. When Weed came to his senses, the old lady’s maid was watching.
+- Por favor, mantenha a lâmina de esculpir do Zahab-nim e a manuseie com cuidado.
+- Sim senhora.
 
-- It was a wonderful story. Thank you very much for sharing it with me ma’am.
-- You’re welcome. It was my pleasure to tell their story like this. So, young adventurer, I want to give you a small present. Will you please take it?
+Weed respondeu de forma obediente.
 
-Wouldn’t it be unkind to reject a present out of goodwill? Weed was not so cruel as to decline anything offered to him. A man should accept any present with gratitude.
+Weed calculou que esses itens poderiam vender bem, entregando um bom lucro. (NT = Nota João: Não pense nisso Weed)
 
-- I will gladly take it, ma’am.
+- A estátua de madeira irá lhe guiar até onde está localizado o descanso final de Zahab-nim. Eu espero que a sua habilidade em esculpir não tenha sido enterrada para sempre.
+- Eu também espero madame.
+- Se eu pudesse ouvir a canção daquele dia novamente… Tudo sobre a habilidade de esculpir está oculta nessa lâmina de esculpir.
+- Perdão?
+- Na lâmina de esculpir do Zahab-nim.
 
-The old maid took something bundled up from deep inside a drawer. It resembled an ancient scalpel.
-
-- This sculpting blade used to belong to Zahab-nim. He left it to Her Highness, and I happened to keep it now. And this wooden statue is carved by Zahab-nim. Please take these - The lady’s maid said.
-- I shall long treasure your present. - Weed said.
-
-He received two items from her.
+Naquele momento Weed olhou para a lâmina. Ele teve a sensação de que um destino irresistível se aproximava.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">You have received:</p>
-                    <p align="center">Item: Sculpting Blade</p>
-                    <p align="center">Item: Zahab’s Legacy</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Quest: Siga o último desejo de Zahab</p>
+        <p align="center">Zahab não morreu aquele dia. Ele partiu para um continente distante para testar o seu domínio em esculpir.</p>
+        <p align="center">Uma vez que você se graduar no domínio em esculpir, você deverá encontrar Zahab para aprender a canção: ‘O coração da escultura’ a partir dele.</p>
+        <p align="center">Em seguida, você deverá voltar aqui e cantá-la para esta velha empregada. A tradição diz que Zahab foi visto pela última vez se dirigindo para a Região da Gray Pass.</p>
+        <p align="center">Dificuldade: A</p>
+        <p align="center">Requisitos:</p>
+        <p align="center">Você deve completar essa missão antes da velha empregada morrer.</p>
+        <p align="center">Cancelamento não é permitido.</p>
+        <p align="center">Recompensas:</p>
+        <p align="center">Você poderá aprender: Identificar Item, Domínio Escultural, Reparação e Artesanato.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-Weed thought that these items were uncommon as they were left by one of the Masters of Sculptural Art. Even the wooden statue looked classy at a casual glance.
+Uma missão em cadeia com nível de dificuldade A, recompensando quatro habilidades. Weed não podia dizer se ele era sortudo ou não.
 
-- Please keep Zahab-nim’s sculpting blade and handle with great care.
-- Yes, ma’am. - Weed dutiful replied.
+Por um lado, ele sabia que era extremamente difícil adquirir habilidades não relacionadas à sua própria classe. Essas habilidades como Identificar Item e Reparação, as quais ele tinha aprendido sem se converter a classe de Escultor, poderiam vir de inúmeros modos, mas uma missão de dificuldade A era muito além da sua habilidade por um longo tempo, provavelmente muitos anos.
 
-Weed calculated that these might sell well and turn over a good profit.
+O nível médio dos usuários em Royal Road atualmente era de cem ou mais. Os maiores na classificação atual de níveis estavam no começo dos 300s. A dificuldade de uma missão, que exigia um grupo equilibrado próximo do nível 300 para concluí-la, era conhecida como sendo de nível de dificuldade B.
 
-- The wooden statue will show you where Zahab-nim’s resting place is located. I hope his sculpture mastery will not be buried forever.
-- I hope so too, ma’am
-- If only I could hear the song of that day again… Everything about sculpture mastery is concealed in that sculpting blade.
-- Excuse me?
-- In Zahab-nim’s sculpting blade.
+Isso quer dizer que Weed havia aceitado uma missão que necessitava que ele estivesse acima do nível 400 para conseguir lidar, quanto mais termina-la.
 
-That moment Weed looked at the sculpting blade. He had a gut feeling that an irresistible destiny was drawing near.
+Se isso não fosse ruim o suficiente, a região da Gray Pass era a área mais perigosa das perigosas, habitada pelos monstros mais fortes. Era uma das dez áreas proibidas do continente, onde você tinha a garantia absoluta de ser picotado em pedaços no momento em que você pisasse na área.
 
-*Ting*
-<div align="center" class="quest-center">
-    <table border="1" cellspacing="3" cellpadding="0">
-        <tbody>
-            <tr>
-                <td>
-                    <p align="center">Quest: Follow Zahab’s Last Wish:</p>
-                    <p align="center">Zahab did not die that day. He left for a faraway continent to test his Sculpture Mastery. Once you graduate in Sculpture Master, you should find Zahab to learn the song A Sculpture’s Heart from him. Then, you should come back here and sing it to this old lady’s maid. The tradition runs that Zahab’s was last seen heading for the Gray Pass Region.</p>
-                    <p align="center">Difficulty: A</p>
-                    <p align="center">Quest requirements:</p>
-                    <p align="center">You must complete this quest before the old maid passes away.</p>
-                    <p align="center">Cancellation is not permitted.</p>
-                    <p align="center">Acknowledged as reliable by the instructor for a constant passion for Sword Mastery.</p>
-                    <p align="center">Reward:</p>
-                    <p align="center">You can learn Item Identification Skill, Sculpture Mastery, Repair Skill, and Handicraft Skill.</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+*Droga!*
 
-A serial quest with a difficulty level of A, rewarding four skills. Weed couldn’t tell if he was lucky or not.
+Weed pensou amargamente.
 
-For one thing, he knew that it was extremely difficult to acquire skills unrelated to his own class. Those skills, such as Item Identification and Repair Skill, which he had learned without converting to the sculpture class, could come in handy in numerous ways, but an A level quest was far beyond his ability for a long time, possibly many years.
+O número de missões que um usuário podia guardar a qualquer hora era de apenas três. Agora uma delas estava ocupada pela missão: ‘Siga o Último Desejo de Zahab’ e Weed foi abandonado com apenas mais dois espaços para novas missões.
 
-The average level for Royal Road users is currently a hundred or so. The highest currently on the level ladder is in the low 300s. The difficulty of a quest that requires a balanced party of power rankers of about level 300 to finish is known to be B-level.
+Porém, no caso de missões em cadeia, era imprevisível quais recompensas aguardavam o usuário no fim. Essa série de missões introduzia uma classe secreta na segunda etapa. Mesmo que ele tenha recusado se converter para a classe, lhe foi dado quatro habilidades práticas. Imagine que recompensas aguardavam na etapa final.
 
-That means Weed had just accepted a quest that requires him to be above level 400 to be able to cope with the quest, let alone finish it.
+Weed não era estupido de dizer que não para uma boa oportunidade. Ainda, permanecia desconhecido quando e como isso se realizaria.
 
-As if it were not bad enough, the Gray Pass region is the most perilous of the perilous areas, inhabited by the most forceful monsters. It is one of the top Ten Forbidden Areas on the continent, where you are absolutely guaranteed to be chopped to pieces the moment you stepped into the area.
+Ele disse adeus para a velha criada e voltou para a loja de esculturas e o lojista disse:
 
-*Dammit!* Weed thought bitterly.
+- Oh Weed-nim, eu estou profundamente grato pelo seu trabalho duro em me trazer respostas tão rápido. Estou mais uma vez certo de que lhe garantir essa missão foi a coisa correta.
 
-The number of quests that a user can store at any given time is only three. Now that one of them was taken by the quest: ‘Zahab’s Last Wish’, Weed was left with only two spaces for new quests.
+O lojista pagou Weed com a recompensa pela missão. Weed recebeu duas moedas de prata, recuperando a moeda que havia sido roubada pelo bardo.
 
-But in case of serial quest, it is unpredictable what rewards await the user in the end. This serial quest introduced a secret class at the second stage. Even after he refused to convert to the class, he was given four practical skills. Imagine what rewards in the final stage would be like.
+Quando ele voltou até o Centro de Treinamento, ele recebeu outra moeda de prata, além de uma carta de recomendação do instrutor. Portanto, ele havia ganho um total de 5 moedas de prata até agora.
 
-Weed wasn’t stupid to say no to a good opportunity. Yet, it remained unknown when and how this would work out.
+Ele também subiu de nível duas vezes, chegando ao nível 3. Ele distribuiu os pontos ganhos igualmente em agilidade e força.
 
-He bid farewell to the old lady’s maid, and went back to the sculpture stop.
+*Por que você não está pegando outra missão?*
 
-- Oh Weed-nim, I deeply appreciate your hard work to bring me results so soon. I am once again assured that it was the right decision to entrust you with this quest - The shopkeeper said.
+Ele se perguntou.
 
-The shopkeeper paid Weed as a reward for the request.
-
-Weed received 2 silver coins, recovering the silver coin that had been virtually robbed by the bard.
-
-When he returned to the Training Hall, he received another silver coin, along with a word of commendation from the instructor. Therefore, it was a total of 5 silvers that Weed had earned so far.
-
-He also leveled up twice, to level 3. He distributed those earned stat bonus points equally to Agility and Strength.
-
-- Why aren’t you taking on another quest? - he asked himself.
-
-Weed wrestled with a sudden temptation, but picked up the wooden sword again. A quest that was undisclosed to the public similar to the quest he just undertook, was rare. That was why Weed earned generous rewards for his level.
+Weed lutou contra a súbita tentação, mas ele pegou a espada de madeira novamente. Uma missão, que não houvesse sido revelada ao público e que ele aceitou, era rara e era por isso que Weed havia ganho generosas recompensas para o seu nível.
