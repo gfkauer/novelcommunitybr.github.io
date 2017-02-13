@@ -1,5 +1,6 @@
 ---
 layout: post
+novel-title: The Legendary Moonlight Sculptor
 title: "A garrota que perdeu a fala"
 date: 2017-02-11 15:46:21
 image: '/assets/img/'
@@ -17,817 +18,600 @@ revisor: Giovane Kauer
 editor: Giovane Kauer
 fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-1-chapter-5.html
 ---
-“Damn… it’s day again.”
+- Droga… já é dia novamente.
 
+No início da manhã, Lee Hyun já estava desanimado.
 
-Early in the morning, Lee Hyun was already deflated.
+O parlamento sul coreano na sua infinita sabedoria, tinha aprovado um projeto de lei indesejado apelidado de ‘Leave No One Behind’, o qual foi concebido para eliminar párias antissociais e desajustados da sociedade coreana.
 
+Toda essa estupidez foi fundamentada sobre a teoria que insistia que aqueles que nasceram e foram criados com origens defeituosas criavam um risco maior de se tornarem pessoas que cometem crimes violentos e mais propensas a declarar divórcios, por exemplo. Eram aquelas famílias sem pais e que tinham enormes dívidas para pagar aos agiotas.
 
-The South Korean Parliament in their infinite wisdom, have passed an unwanted bill nicknamed 'Leave No One Behind', which was devised to weed out anti-social outcasts and misfits from Korean society.
+De acordo com a lei, todos os cidadãos coreanos que tinham vinte anos de idade ou mais com falhas visíveis na sua formação eram obrigados por lei a visitar um psiquiatra, ocasionalmente, para um exame mental.
 
+Em suma, Lee Hyun era elegível para isso, visto que ele havia perdido seus pais em sua infância e havia sido assombrado por agiotas em sua adolescência.
 
-This whole stupidity was founded on the theory that insisted that those who were born and brought up with defective backgrounds created a higher risk of people committing violent crimes and filing for divorces. e.g. Those families with no parents and had massive debts to pay off to loan sharks.
+Então Lee Hyun foi para o ‘Great Society Rehabilitation Center’(Grande Centro de Reabilitação da Sociedade - como é um nome não traduzirei).
 
+- Eu me sinto como se eu tivesse viajado no tempo de volta aos anos sessenta. Grande Sociedade minha bunda, que vergonha.
 
-According to the law, all Korean citizens who were twenty years or older with noticeable defects in their background were required by law to visit a psychiatrist occasionally for a mental exam.
+Murmurando queixas por todo o caminho, Lee Hyun entrou no Centro de Reabilitação. O nome sugeria um interior decorado de forma romântica. A sala de recepção estava cheia com jovens nos seus vinte anos de idade que também tinham vindo fazer os seus exames médicos sob a Lei dos Socialmente Inaptos, então ele teve que perder mais outra hora à espera de sua vez para se registrar.
 
+- Olá, eu sou Lee Hyun. Eu estou aqui para fazer o teste psicotécnico sob a lei ‘Leave No One Behind’.
+- Entendo. Por favor, preencha esse formulário.
 
-In short, Lee Hyun was eligible for it as he had lost his parents in his childhood, and his adolescence had been haunted by the loan sharks.
+Uma enfermeira em um uniforme branco entregou a Lee Hyun um pedaço de papel.
 
+- O que é isso?
+- Nós criaremos uma análise completa do seu estado mental com base em suas respostas a este questionário. Se você se enquadrar na categoria dos socialmente ineptos, você será obrigado a entrar no Centro de Reabilitação e a receber tratamento periódico. Nesse caso, o governo enviará um cheque mensal para sua família em compensação.
 
-So Lee Hyun went to the ‘Great Society Rehabilitation Center’.
+Que lei desumana. O governo tinha feito praticamente nada para apoiar os mais desfavorecidos quando eles estavam sofrendo infâncias terríveis, abusados por seus pais ou sendo expulsos da escola.
 
+Nããããão… agora eles tinham que aceitar uma desvantagem se eles quisessem se inscrever em uma universidade quando eles saíssem da escola. Pior ainda, eles não eram nem mesmo elegíveis para cargos no governo. A guerra ao terror apresentou uma desculpa viável para segregar os ricos dos pobres.
 
-“I feel like I’ve time traveled back to the sixties. Great Society my ass, how lame.” Muttering complaints all the way, Lee Hyun walked into the rehab center. The name suggested a romantically decorated interiors. The reception room was filled with the twenty year-olds who had also come to take their medical tests under the Socially Inept Law, so he had to waste another hour waiting for his turn to register.
+- Sim, madame.
 
+Lee Hyun pegou o formulário e o preencheu rapidamente. Nem uma vez a caneta deixou a superfície do papel. Lee Hyun tinha pensado naquelas perguntas por muitos anos, de modo que as respostas foram fluindo a partir de seu coração.
 
-“Hi, I’m Lee Hyun. I’m here to take a mental test under Leave No One Behind.”
+- Eu terminei. Posso sair agora?
+- É claro. Pegue isso para custear a tarifa do ônibus.
 
+Pelo menos, o governo mostrou um pequeno sinal de piedade. Lee Hyun levou as moedas e deixou o hospício. Enquanto isso, o questionário apresentado por ele começou a rodar entre os psiquiatras do centro.
 
-“I see. Please fill out this form.” A nurse in a white gown handed a piece of paper to Lee Hyun.
+***
 
+Cha Eunhee, Ph.D. em psiquiatria, estava rindo tanto que parecia que seu pescoço iria quebrar. A médica cuja atitude lhe rendeu o apelido de Ice Queen estava rindo negligentemente em público, o que era uma visão rara para as enfermeiras.
 
-“What is this?”
+- Será que ela finalmente teve sucesso em se comunicar com o seu cão de estimação?
+- Acho que sim. Nada é impossível para a Doutora.
 
+A Dra. Cha havia imigrado para os Estados Unidos com seus pais, ambos diplomatas, quando ela era jovem. Ela se formou com honras pela Universidade de Harvard com a idade de vinte anos e terminou o seu doutorado antes de completar vinte e três.
 
-“We will create a complete analysis of your mental state based on your answers to this questionnaire. If you fall into the category of the socially inept, you will be ordered to enter the rehab center and receive periodic treatment. In that case, the government will send a monthly check to your family in compensation.”
+Combinando beleza e cultura, mas cheia de orgulho, ela nunca havia demonstrado esse nível de humanidade anteriormente, o que se tornou um tópico na boca de todos.
 
+No final, a enfermeira chefe decidiu colocar a sua cabeça acima do parapeito e perguntar:
 
-What an inhumane law. The government had done virtually nothing to support the disadvantaged when they were suffering horrifying childhoods, abused by their parents or cast out from school.
+- Dra. Cha, o que é tão engraçado?
+- Olhe isso.
 
+Rindo tanto que ela já estava chorando, a Dra. Cha deu para a enfermeira chefe o que ela estava segurando em sua mão. Era uma única página de um formulário que alguém havia preenchido para a Lei Leave No One Behind. Sete perguntas curtas e com respostas igualmente curtas.
 
-Noooo..... now they had to accept a handicap if they wanted to apply to an undergraduate school when they were out of high school. Worse still, they were not even eligible for government jobs. The War on Terror presented a viable excuse to segregate the haves from the havenots.
+**Questionário**
 
+**Nome:** Lee Hyun
 
-“Yes, Ma’am.”
+**1. Qual é o seu nome?**
 
+R – Lee Hyun.	
 
-Lee Hyun took the form and filled it out quickly. Not once did the pen leave the surface of the paper. Lee Hyun had thought of those questions for many years, so the answers were flowing from his heart.
+**2. Qual é a sua profissão?**
 
+R – Um grande vilão que ameaçará a paz mundial.	
 
-“I’m done. Can I leave now?”
+**3. O que você está fazendo?**
 
+R – Preenchendo este questionário.	
 
-“Sure. Take this to cover your bus fare.”
+**4. Quais são as 3 coisas mais memoráveis ou valiosas que você tem feito em sua vida?**
 
+R – Ter atingido o nível máximo no jogo Continent of Magic; ter jogado um jogo online por 200 horas contínuas sem comer ou dormir; e ter vendido a minha conta.	
 
-At least, the government showed a small token of pity. Lee Hyun took the coins and left the asylum. Meanwhile, the questionnaire submitted by him started a row among the psychiatrists in the center.
+**5. O que você acha dos políticos no poder?**
 
+R – Por que nós não podemos apenas exportá-los para a China ou Japão?	
 
-*****
+**6. Quando você identificou a sua posição social?**
 
+R – Depois que eu assisti Planeta dos Macacos.	
 
-Cha Eunhee, Ph.D. in psychiatry was laughing her head off as if her neck was broken. The doctor whose attitude earned her the nickname of Ice Queen, was laughing mindlessly in public was a rare sight to nurses.
+**7. Como você descreveria a sua identidade em uma única frase?**
 
+R – Eu sou um dragão.
 
-“Did she finally succeed in communicating with her pet dog?”
+A enfermeira pareceu surpresa quando ela terminou de ler o documento.
 
+- Não me diga que isso é um resumo a partir de alguma graphic novel?
+- Não. Parece que um dos indivíduos preencheu isso esta manhã. Você não viu o selo de confirmação na parte inferior direita?
+- Um maluco típico.
+- Você está errada novamente. Se ele fosse um louco, ele não estaria observando a sociedade sarcasticamente e precisamente como ele fez neste questionário.
 
-“Guess so. Nothing is impossible for the Dr.”
+Contra o senso comum, a Dra. Cha concluiu que ele era mentalmente normal. Da perspectiva de um psiquiatra, ela quase podia ouvir um grito de desespero crescente a partir dessas respostas.
 
+Para ser capaz de ridicularizar a sociedade de tal forma, este jovem chamado Lee Hyun deve ter vivido uma vida incolor em um mundo de crueldade.
 
-Dr. Cha had immigrated to the United States with her parents, both diplomats, when she was young. She had graduated cum laude from Harvard University at the age of twenty, and earned her doctorate before she turned twenty-three.
+- Ufa.
 
+A enfermeira chefe não pôde fazer nada a não ser suspirar.
 
-(PR: ‘cum laude’, is latin and roughly means: graduated with honors)
+Ela não tinha nenhuma razão para contradizer a conclusão da médica. No entanto, ela pensou que tanto a Dra. Cha, que possuía um Ph.D. em psiquiatria nos Estados Unidos e era idolatrada em periódicos médicos mundialmente reconhecidos, estava acima das pessoas normais, ou esse cara chamado Lee Hyun estava abaixo dos normais.
 
+*Ambos são simplesmente anormais. Ou eles são normais e eu sou a única louca na sala. Talvez a dura verdade seja que o mundo inteiro enlouqueceu.*
 
-Combining beauty and culture, yet puffed up with pride, she had never shown this level of humanity before, which became a topic on everyone’s lips. In the end, the chief nurse decided to put her head above the parapet.
+A enfermeira chefe pensou enquanto sua cabeça girava.
 
+Dra. Cha pegou o formulário e se levantou.
 
-“Dr. Cha, what’s so funny?”
+- A sociedade precisa de diferentes tipos de pessoas. Que assim seja. Você não precisa olhar profundamente para isso. Falando nisso, eu mostrarei isso para Seoyoon.
+- A paciente Jeong Seoyoon?
+- Sim.
+- Você acha que ela lerá isso?
+- Ela lerá. Aqueles que fecham a sua mente são mais prováveis a aspirar pela atenção do exterior. Eu só espero que ela ria desta vez.
 
+A Dra. Cha pegou o questionário que Lee Hyun tinha preenchido e se dirigiu para a enfermaria. O destino dela era uma ala especial localizada no 12º andar.
 
-“Check this out.”
+Com instrumentos médicos novos e os melhores médicos, a ala estava equipada com uma piscina privativa e um ginásio, o quarto custava cerca de vinte milhões de won por dia.
 
+- Olá Seoyoon, eu estou aqui para vê-la.
 
-Laughing so hard she was crying, Dr. Cha gave the chief nurse what she was holding in her hand. It was a single page of a form that someone had filed out under Leave No One Behind. The Seven short questions and equally short answers.
+Sorrindo para a sua paciente, Cha Eunhee entrou na ala. Uma menina pálida levantou a cabeça a partir de um livro que ela estava lendo. Mesmo entre as supermodelos cujos olhares são seus únicos destaques, elas seriam ofuscadas pela beleza dela, mas seu rosto estava vazio de emoções. Como uma boneca francesa, ela parecia tão sem vida.
 
+*Deus acabou dando a ela mais beleza do que ela poderia viver com.*
 
-Questionnaire:
+A Dra. Cha pensou tristemente.
 
+Pelo fato da garota ser tão bonita, ela era excessivamente amada pelo seu pai protetor. A linha tênue de tabu entre um pai e uma filha nunca havia sido quebrada, mas a sua mãe era paranoica, desconfiada de seu marido e profundamente ciumenta em relação a beleza de sua própria filha, resultando em um abuso implacável na infância. Posteriormente, veio a tragédia daquele fatídico dia. Desde então, a menina tinha perdido o poder da fala.
 
-Name: Lee Hyun
+Quando ela era jovem, Seoyoon tinha sido um anjo preso em um corpo terrestre. A Dra. Cha, que costumava ser uma amiga próxima dela, sempre sentiu pena de Seoyoon ter sido privada de sua cota de amor e inocência.
 
+- Dê uma olhada nisso. Eu não estou autorizada a remover qualquer documento do meu escritório, mas eu queria mostrá-lo a você.
 
-1. What is your name?
-Lee Hyun.
+A Dra. Cha deu à menina o formulário apresentado por Lee Hyun.
 
+Os olhos sem vida e vazios de Seoyoon deslizaram sobre o papel e a Dra. Cha esperava que ela explodisse em um ataque de riso. Ela esperava que, contra todas as probabilidades, Seoyoon se abrisse mesmo que apenas um pouco.
 
-2. What is your profession?
-A great villain who will threaten world peace.
+*Você sabe que, se você rir desta vez ou mesmo sorrir, será a sua primeira em cerca de cinco anos?*
 
+A Dra. Cha pensou tristemente.
 
-3. What are you doing?
-Filling out this questionnaire.
+Porém, o rosto ainda assim destruiu as esperanças da médica. A menina examinou o questionário e apenas devolveu para ela. A médica mais uma vez sentiu o coração partido ao se lembrar de quão brilhante Seoyoon havia sido outrora.
 
+- Tudo bem… Você precisa de mais alguma coisa?
 
-4. What are the three most memorable, or valuable, things that you have done in your life?
-Hit maximum level in the Continent of Magick. Played the online game for 200 hours running without eating or sleeping. Sold my account.
+Dra. Cha perguntou.
 
+Seoyoon gentilmente sacudiu a sua cabeça.
 
-5. What do you think of politicians In power?
-Why can’t we just export them to China and Japan?
+- Então, não hesite em me chamar a qualquer momento se você precisar de algo.
 
+Dra. Cha saiu da sala em silêncio.
 
-6. When did you recognize your social position?
-After I watched ‘Planet of the Apes’.
+- Ela riu?
 
+A enfermeira perguntou, visto que ela não tinha autorização para entrar no quarto.
 
-7. How would you describe your Identity In a single sentence?
-I am Da Dragon.
+A Dra. Cha sorriu amargamente.
 
+- Não funcionou novamente.
 
-The nurse looked taken aback when she finished reading the document.
+A enfermeira disse, respondendo à sua própria pergunta, quando viu o sorriso amargo da Dra. Cha.
 
+- Não. Eu não consigo encontrar uma maneira de abrir o coração ou a mente dela.
 
-“Don’t tell me— is this an excerpt from some graphic novel?”
+A Dra. Cha disse e continuou:
 
+- Eu preciso reabilitar ela para manter a fé do presidente em mim… não, pelo bem da Seoyoon…
 
-“No. It looks like one of the subjects filled this out this morning. Can’t you see the stamp of confirmation right at the bottom?”
+Incontáveis psicólogos, psiquiatras e até mesmo xamãs tinham sido contratados para combater a condição de Seoyoon, sem sucesso. Nenhum deles pôde derreter o coração congelado. Agora, quase todo mundo tinha desistido de qualquer esperança de ajudar a menina.
 
+A enfermeira também estava chorosa. Ela estava triste que uma menina tão bonita nem falasse nem risse, presa sozinha em sua própria concha fechada.
 
-“A typical nutcase.”
+- Não há qualquer outra forma de terapia ou medicamentos para ajudá-la?
 
+A enfermeira perguntou.
 
-“You’re wrong again. If he were a nutcase, he wouldn’t be observing society as sarcastically and precisely as he did in this questionnaire.”
+- Um remédio psiquiátrico não funcionará enquanto o paciente se recusar a abrir a sua mente e aceitar a realidade
 
+A Dra. Cha disse.
 
-Against common sense, Dr. Cha concluded he was mentally normal. From a psychiatrist’s perspective, she could almost hear a scream of desperation rising from those answers.
+- Então, ela viverá assim para o resto da sua vida…
+- Nós temos que fazer algo para recuperá-la. Ela só precisa de um empurrão, algo que a conduzirá a enfrentar a realidade.
+- Mas já se passaram cinco anos. A consciência dela poderia estar presa até agora… ou pior ainda, já ter ido há muito tempo.
+- É o nosso trabalho não deixar que isso aconteça. Não importa o que, eu a trarei de volta.
 
+A determinação da Dra. Cha era feroz.
 
-To be able to ridicule society in such a way, this young man named Lee Hyun must have lived a colorless life in a world of cruelty.
+Ela tinha se formado em psiquiatria e voluntariamente veio a este hospital a fim de salvar Seoyoon.
 
+- Eu já comecei um novo tratamento há um ano.
+- Eu nunca ouvi sobre isso.
+- É claro que não. É porque eu tinha que manter isso em segredo. É Royal Road. Ela está passando seus dias e noites dentro do jogo, com exceção dos horários destinados à medicação e ao aconselhamento.
+- Então…
+- Exatamente. Deixe ela recomeçar no mundo imaginário e extraia ela da concha. Desta forma, ela seguirá em frente passo a passo onde poderá interagir com os outros. Eu espero que ela recupere a sua fé perdida nas pessoas e sinta emoções as quais ela nunca havia sentido antes, pelo menos na realidade virtual.
 
-“Whew.” The chief nurse could not help but sigh.
+***
 
+De volta para casa, Lee Hyun visitou o site de transação de itens antes de se conectar a Royal Road.
 
-She had no reason to contradict the doctor’s conclusion. Nevertheless, she thought that either Dr. Cha, who had earned a Ph.D. in psychiatry in the United States and been idolized in globally recognized medical periodicals, was above normal, or this Lee Hyun guy was below normal.
+Embora Lee Hyun tivesse trocado apenas um item por lá até agora, o seu status de conta era de triplo diamante. Isto se deu em razão da conta do jogo Continente da Magia, que ele havia vendido, ter sido avaliada em mais de três bilhões de won.
 
+Só ela o elevou para o status VIP de prestígio.
 
-‘Both of them are simply abnormal. Or they are normal, and I’m the only crazy one in the room. Maybe the hard truth is, the whole world has gone insane’, she thought as her head spun.
+**[Compro]** Espada de ferro +20 de Força por 400,000 Won.
 
+**[Compro]** Anéis para guerreiros. Ofertas.
 
-Dr. Cha picked up the form and got up.
+**[Compro]** Botas Azuis para a Classe Ranger. 300,000 won – negociável.
 
+**[Compro]** Brincos para Magos pelo valor do livro ‘Kelly Royal Road’ mais algo.
 
-“Society needs different kinds of people. Let it be. You don’t need to look deep into it. By the way, I’m going to show this to Seoyoon.”
+A lista de itens em demanda tinha milhares de páginas de extensão e a pesquisa por palavra chave resultava em milhões de resultados, mas poucos deles realmente fechavam negócio.
 
+Um número de usuários estava ávido para conseguir itens bons e a demanda era insanamente alta. Basicamente, os fornecedores não conseguiam suprir a demanda.
 
-“Patient Jeong Seoyoon?”
+O sistema favorecia os vendedores e quando um deles colocava um de seus itens, o leilão ficava lotado em minutos.
 
+**[Vendo]** Clava do Espírito Vermelho 105/105 Durabilidade c/ 96-105 DMG +15 STR [100,000 won]
 
-“Yes.”
+**[Vendo]** Anel da Bênção do Brilho: Raro / Cura 3 MP por seg por 5 min [A partir de 3,000,000 won]
 
+**[Vendo]** Brinco de Messias: Def. Mág. Melh. Magia de Fogo +8% exp. [4,000,000 won]
 
-“Do you think she will read it?”
+**[Vendo]** Martelo do Ferreiro Thomas: +15% de chance de sucesso em forjar armamentos. Permite você fabricar armas melhoradas por 5,000,000 won
 
+Os itens no top 10 do leilão alardeavam preços exorbitantes. Eles foram seguidos por itens menores abaixo, os quais ainda valiam pelo menos cem mil won.
 
-“She will. Those who shut their mind are more likely to yearn for attention from outside. I just hope she will laugh this time.” Dr. Cha took the questionnaire that Lee Hyun had filled in and headed to the ward. Her destination was a special ward located on the 12th floor.
+Este mercado inflacionado sinalizava que os itens estavam em falta.
 
+Se Weed não tivesse tido sorte suficiente de obter a espada de ferro no início, ele teria repetido missões comuns aqui e ali para recolher algumas moedas de cobre de cada vez e, posteriormente, corrido para a oficina de um ferreiro para comprar uma espada imperfeita antes de se dirigir ao campo.
 
-With the brand-new medical instruments and best doctors, furnished with a private swimming pool and an indoor gym, the room cost nearly twenty million won a day.
+Caso contrário, ele teria que socar os monstros, contando com os atributos que ele tinha acumulado golpeando o espantalho. Nesse caso, o seu poder de ataque teria sido reduzido para a metade sem os efeitos da mestria com espada. Comparado com armas e equipamentos que estavam altamente moldados, os itens criados por um ferreiro ou alfaiate eram baratos. Itens relevantes para a classe de escultor não estavam sequer disponíveis.
 
+Royal Road tinha aberto apenas quinze meses atrás e os usuários ainda estavam imersos em subir de nível e se aventurar. Até agora, Lee Hyun não tinha conhecimento de outros artesãos.
 
-“Hi, Seoyoon, I’m here to see you.”
+Setenta por cento do continente ainda era desconhecido, por isso muitas masmorras ainda estavam inexploradas e muitas missões sem solução. Com uma oportunidade infinita apresentada diante de seus olhos, apenas alguns usuários sonhavam em se tornar artesãos.
 
+O Reino de Rosenheim era uma porção relativamente nova do mundo que só tinha sido descoberto cerca de seis meses atrás (tempo do mundo real). O grupo de expedição que viu pela primeira vez o reino tinha ganho enormes lucros.
 
-Beaming at her patient, Cha Eunhee entered the ward. A pale-faced girl lifted her head from a book that she was reading. Who, even among supermodels whose looks are their only highlights, would be overshadowed by her beauty—but her face was empty of emotion. Like a French doll, she seemed just as lifeless.
+Rosenheim estava localizado longe do centro do continente, mas os territórios desconhecidos e as masmorras inexploradas estavam espalhadas por toda parte, bem como os monstros fortes que eram abundantes. Esta foi a principal razão pela qual Lee Hyun ter escolhido Rosenheim para começar a sua grande aventura.
 
+*Será que eu comecei tarde demais? Não, eu ainda tenho uma chance para recuperar o atraso.*
 
-‘God ended up giving her beauty, more than she could live with’ Dr. Cha thought sadly.
+Ele disse para si próprio.
 
+Lee Hyun sacudiu a sua cabeça. Enquanto os concorrentes estavam passando de nível e participando de aventuras, Lee Hyun tinha se exercitado e coletado informações durante um ano inteiro para se preparar. Ele não queria vender sua conta mais.
 
-For the girl was so beautiful, she was overly-loved by her protective father. The taboo blurring the line between father and daughter had never been broken, but her mother was paranoid, suspicious of her husband and deeply jealous of her own daughter beauty, resulting in relentless abuse in the early years, and then came the tragedy on that fateful day. Since then, the girl had lost the power of speech.
+O procedimento de transação de uma conta de um jogo online era mais complicado em um jogo de realidade virtual onde uma varredura da íris era usada para verificar a identidade do jogador. Além disso, Lee Hyun tinha que permanecer no negócio ao invés de fazer dinheiro rápido.
 
+Royal Road tinha que sustentar a sua família financeiramente pelo menos nos próximos cinco anos.
 
-Back when she was young, Seoyoon had been an angel trapped in an earthly body. Dr. Cha, who used to be a close friend of hers, always felt sorry that she was deprived of her fair share of love and innocence.
+*A este ritmo, Royal Road dará a minha família algo para viver pelos próximos cinco, não, dez anos. Então, eu posso me dar ao luxo de enviar Hayan para a faculdade. Estabilidade vem em primeiro lugar. Eu abandonei o ensino médio, mas Hayan merece uma vida melhor.*
 
-
-“Take a look at this. I’m not allowed to remove any document from my office, but I wanted to show it to you.” Dr. Cha gave the girl the form submitted by Lee Hyun.
-
-
-Seoyoon’s lifeless and empty eyes glided over the paper, and Dr. Cha had hoped that she would burst into a fit of laughter.
-
-
-Dr. Cha hoped, against all odds, that Seoyoon would open up if only just a little bit. 
-
-
-'Do you know that, if you laugh this time or even smile, it will be your first in about five years?' Dr. Cha thought sadly.
-
-
-But the still face shattered the doctor’s hopes. The girl looked over the questionnaire and just returned it to her. The doctor once more felt heartbroken as she remembered how bright Seoyoon had once been.
-
-
-“Alright… Do you need anything else?” Dr. Cha asked.
-
-
-Seoyoon gently shook her head.
-
-
-“Then, feel free to call me anytime you need something.”
-
-
-Dr. Cha slipped out of the room in silence.
-
-
-“Did she laugh?” the nurse asked; she wasn’t permitted to enter the room.
-
-
-Dr. Cha smiled bitterly. “It didn’t work again,” the nurse said, answering her own question when she saw the Dr. Cha bitter smile.
-
-
-“No. I can’t find a way to open her heart or mind,” Dr. Cha said. “I must rehabilitate her to maintain the president’s faith in me— no, on behalf of Seoyoon…”
-
-
-Countless of psychologists, psychiatrists and even shamans had been hired to tackle Seoyoon’s condition, to no avail. None of them could melt her frozen heart. Now, nearly everyone had given up any hope for helping the girl.
-
-
-The nurse was also tearful. She was sad that such a cute girl neither talked nor laughed, stuck alone in her own closed shell.
-
-
-“Isn’t there any other form of therapy or medicine to help her?” the nurse asked.
-
-
-“A psychiatric remedy won’t work as long as the patient refuses to open her mind and accept reality,” Dr. Cha said.
-
-
-“Then, she’s going to live like that for the rest of her life… ”
-
-
-“We must do something to get her back. She just needs a cue, something that will lead her to face reality.”
-
-
-“But it’s already been five years. Her consciousness might have gotten stuck by now—or worse yet be, long gone.”
-
-
-“It is our job to not let that happen. No matter what, I will bring her back.” Dr. Cha’s resolution was fierce.
-
-
-She had majored in psychiatry and voluntarily come to this hospital in order to save Seoyoon.
-
-
-“I already started a new treatment a year ago.”
-
-
-“I’ve never heard of it.”
-
-
-“Of course not. It’s because I had to keep it secret. It’s Royal Road. She’s spending her days and nights in the game, except for medication and counseling,”
-
-
-“Then—”
-
-
-“Exactly. Let her start over in the fictional world. Take her out of the shell, and she will move on step by step where she can interact with others. I hope she will regain her lost faith in people, and feel emotions that she had never felt before, at least in virtual reality.”
-
-
-*****
-
-
-Back home, Lee Hyun visited the item transaction site before he logged into Royal Road.
-
-
-Though Lee Hyun had traded only one item on there so far, his account status was triple diamond. This is because of the account in the Continent of Magick that he sold, that was valued at over three billion won.
-
-
-It alone elevated him to VIP prestige status.
-
-
-[Buy] Iron Sword +20 STR for 400,000 won.
-
-
-[Buy] Rings 4 warriors. Offer.
-
-
-[Buy] Blue Boots for Ranger Class. 300,000 won – negotiable.
-
-
-[Buy] Earrings for Mages. Royal Road Kelly book value plus extra.
-
-
-A list of items in demand was thousands of pages long, and keyword search yielded millions of search results, but only a few of them actually reached a deal.
-
-
-As plenty of users were eager to get hold of cool items, the demand was insanely high. Basicly, the suppliers couldn’t keep up with the demand.
-
-
-The system favored sellers, and when one of them posted his or her item, the auction was wrapped up in minutes.
-
-
-[Sell] Mace of Red Spirit 105/105 Durability w/ 96-105 DMG +15 STR [100,000 won]
-
-
-[Sell] Shine’s Blessing Ring: Rare / Heals 3 MP per sec for 5 min [From 3,000,000 won]
-
-
-[Sell] Messiah Earring: Mag def. up. Fire magic +8% exp. [4,000,000 won]
-
-
-[Sell] Blacksmith’s Hammer of Thomas: +15% for success rate in forging weaponry. Enables you to produce upgraded weapons at 5,000,000 won
-
-
-Items in the top 10% of the auction boasted outrageous prices.
-
-
-They were followed by lesser items beneath, which still amounted to at least a hundred thousand won.
-
-
-This bull market signaled that items were in short supply.
-
-
-If Weed had not been fortunate enough to obtain the iron sword in the beginning, he would have repeated commonplace quests here and there to collect a few coppers each time, and rushed to a blacksmith’s workshop to buy a crude sword before he headed to the field.
-
-
-Otherwise, he would have to punch monsters, relying on the stats that he had accumulated by striking the scarecrow.
-
-
-In that case, his attack power would have been halved without the effects of sword mastery. Compared to weapons and gear that were highly configured, craft items for blacksmith and tailoring were inexpensive. Items relevant to the sculptor class were not even available.
-
-
-Royal Road had opened only fifteen months before, and the users were still immersed in leveling up and adventuring. So far, Lee Hyun hadn’t seen any other craftsmen.
-
-
-Seventy percent of the continent was still uncharted, that is why many dungeons are still unexplored, and many quests unsolved. With an infinite opportunity presented before their eyes, only a few users dreamed of becoming craftsmen.
-
-
-Rosenheim Kingdom was a relatively new portion of the world that had only been discovered roughly six months before (according to real world time). Accordling, the expedition party who first spotted the kingdom had earned tremendous monetary gains.
-
-
-Rosenheim was far away from the center of the continent, but uncharted territories and unearthed dungeons were scattered everywhere, and strong monsters abounded. This was the primary reason why Lee Hyun chosen Rosenheim to start off his grand adventure.
-
-
-“Did I start too late? No, I still have a chance to catch up,” he told himself.
-
-
-Lee Hyun shook his head. While the competitors were leveling up and having adventure, Lee Hyun had worked out and collected information instead for one whole year to prepare. He didn’t want to sell his account anymore.
-
-
-The procedure of an online game’s account transaction was trickier in a virtual reality game where an iris scan was taken to verify the player’s identity. Plus, Lee Hyun had to stay in the business rather than making a quick buck.
-
-
-Royal Road had to support his family financially at least in the next five years.
-
-
-“At this rate, Royal Road will give my family something to live off of for the next five, no, ten years. Then, I can afford to send Hayan to college. Stability comes first. I’m a high school dropout, but Hayan deserves a better life—” he said to himself.
-
+Ele disse para si próprio.
 
 *Ring*
 
+O telefone começou a tocar de repente.
 
-The phone suddenly started ringing.
+Lee Hyun olhou em volta e percebeu que a avó e Hayan estavam fora de casa, então ele pegou o telefone com relutância.
 
+- Alô. Quem está falando?
+- Lee Hyun, é você? Você ainda soa áspero ao telefone, cara. Sou eu, Sanghoon.
+- Oh, é você, Sanghoon.
 
-Lee Hyun looked around and realized that Grandma and Hayan were out of the house, so he picked up the phone reluctantly.
+Lee Hyun não ouvia esta voz por um longo tempo.
 
+*Desde que eu saí da escola.*
 
-“Hello. Who’s speaking?”
+Ele pensou amargamente.
 
+- E aí, o que foi?
 
-“Lee Hyun, is that you? You still sound rough on the phone, man. It’s me, Sanghoon.”
+Lee Hyun perguntou.
 
-
-“Oh, it’s you. Sanghoon.”
-
-
-Lee Hyun had not heard this voice for a long time. Since I dropped out of high school, he thought bitterly.
-
-
-“Hey, what’s up?” Lee Hyun asked.
-
-
-“We have an alumni reunion tonight—”
-
-
-“I don’t give a shit about it. Isn’t it supposed be attended by the graduates only? It’s not even funny if a dropout like me shows up in the reunion.”
-
-
-“But—”
-
-
-“No buts. You know why I quit school. I don’t want anything to do with the school now. That’s it.”
-
-
-“…”
-
-
-“Do me a favor, Sanghoon. Don’t ever call me again.”
-
+- Nós temos uma reunião de ex-alunos esta noite…
+- Eu não dou a mínima para isso. Não é suposto ser frequentada apenas pelos formandos? Não é nem mesmo engraçado se um desistente como eu aparecer na reunião.
+- Mas…
+- Sem mas. Você sabe por que eu desisti da escola. Eu não tenho nada a ver com a escola agora. É isso aí.
+- ...
+- Me faça um favor, Sanghoon. Nunca mais me ligue.
 
 *Slam*
 
+Lee Hyun desligou o telefone e suspirou profundamente. Foi um telefonema que ele não queria, no mínimo.
 
-Lee Hyun dropped the phone and sighed deeply. It was a phone call that he didn’t want in the least.
+Se ao menos ele tivesse um apagador de memória tipo o do filme MIB, então, sem dúvidas, ele teria apagado todos os três anos de seu ensino médio…. a pior memória e um dos pontos mais baixos de sua vida.
 
+Naquela época, Lee Hyun tinha sido espancado e ameaçado pelos agiotas. Ele tinha que se esgueirar para ir à escola. Ele tinha ido à escola ao amanhecer e saia à meia-noite, como se estivesse brincando de esconde-esconde.
 
-If only he had been given an MIB-type memory eraser, then, without question, he would have erased the whole three years of high school— the worst memory and one of the lowest points of his life.
+Por um par de dias, Lee Hyun tinha evitado os agiotas, mas eles eram mais espertos do que ele pensava. Eles tinham contratado gângsteres de rua para pressionar os professores na escola.
 
+Lee Hyun tinha até mesmo sido informado pelo seu professor de sala de aula para pagar a sua dívida, bem na frente de seus colegas.
 
-Back then, Lee Hyun had been beaten and threatened by the loan sharks. He had to sneak in to school. He had gone to school at dawn and left at midnight as if he were playing hide and seek.
+O professor tinha se ajoelhado diante do estudante perdido, suplicando em meio a lágrimas que ele não queria se envolver naquela loucura.
 
+- Foi a gota d’água. Eu abandonei a escola no dia seguinte.
 
-For a couple of days, Lee Hyun had dodged the loan sharks, but they were smarter than he thought. They had hired street racketeers to pressure the teachers at the school.
+Ele murmurou para si mesmo.
 
+Lee Hyun estava um pouco curioso sobre como os seus velhos amigos de escola eram na faculdade, mas mostrar o rosto na reunião só reviveria aqueles momentos vergonhosos.
 
-Lee Hyun had even been told by his homeroom teacher to pay back his debt, right in front of his classmates.
+*A verdade inescapável é que a única coisa que me resta fazer é jogar o jogo de realidade virtual.*
 
+Lee Hyun acabou o almoço e entrou no jogo novamente.
 
-The teacher had knelt before the lost student, pleading amid tears that he didn’t want to get involved in that madness.
+***
 
+Weed nunca faltou a sua rotina diária de se estabelecer na frente da mansão de Rodriguez do amanhecer ao pôr do sol. Quem mais seria capaz de lidar com dias sem graça como estes?
 
-“It was the last straw. I quit school the next day,” he mumbled to himself.
+- O que você acha sobre ir caçar no Vale Ocidental? Harpias têm um nível elevado, mas se nós nos juntarmos, elas serão fáceis.
+- Eu ouvi que você se juntou a uma missão de escolta para as caravanas com destino a Aldeia Eline?
+- O preço do sangue de troll tem aumentado ultimamente por quase o triplo do valor habitual. Eu receio que uma grande guerra esteja chegando.
 
+Uma abundância de conversas entrava nos ouvidos de Weed.
 
-Lee Hyun was a little curious what his old school friends were like in college. But showing his face in the reunion would only revive those shameful moments.
+Cavalos relinchavam, carruagens passavam. Sentado na avenida principal, Weed podia pegar muita informação. Ele aprendeu o que estava acontecendo no mundo. Sem este tipo de diversão, ele já teria desistido.
 
+Quando Weed acertava o espantalho, ele estava pelo menos desfrutando de uma sensação de estar se tornando mais poderoso. Era uma autotortura ter que se sentar ainda sob o sol escaldante.
 
-‘The inescapable truth is, the only thing left for me to do is to play the virtual reality game.’ Lee Hyun finished lunch and slipped into the game again.
+*Buddha não ficou encarando uma parede por vários dias, meditando?*
 
+Ele se perguntou. Ele estava passando por uma experiência semelhante, decidido a ver Rodriguez.
 
-*****
+Nos últimos dois dias, Weed tinha encontrado Pale e Irene para irem caçar juntos. Eles não eram tão fortes quanto ele, de modo que eles ganharam experiência mais lentamente. Ainda assim, eles poderiam caçar monstros como quisessem, dia e noite. Graças ao horário flexível deles, eles alcançaram o nível de Weed.
 
+Os trinta por cento de bônus sobre a experiência na parte da noite é tecnicamente anulado pelo fato de que os monstros são cinquenta por cento mais fortes do que durante o dia. Na maioria das vezes, a caçada durante o dia é mais eficiente para os usuários de nível baixo.
 
-Weed never skipped his daily routine of settling down in front of Rodriguez's manor from dawn to sunset. Who else would be able to cope with boring days such as this?
+Além disso, Weed foi penalizado por estar indeciso quanto a classe, de modo que ele não podia aprender qualquer habilidade. Ele iria ficar para trás em níveis de habilidade se ele se convertesse a uma classe em um nível mais alto do que a média dos usuários. Por último, mas não menos importante, isso testou a sua paciência, pois ele estava desperdiçando um tempo precioso esperando no meio de uma rua.
 
+*O que eu posso fazer agora? Maestria em esculpir… esculturas…*
 
-“What do you think about going hunting in the West Valley? Harpies have a high level, but if we team up together, they’re piece of cake.”
+Weed olhou em volta. Ele encontrou um pedaço de madeira que parecia ter sido jogado fora a partir da roda de uma carruagem.
 
+Pegando o pedaço de madeira, Weed ativou a habilidade de esculpir:
 
-“I heard you joined an escort quest for the caravans bound for Eline Village?”
-
-
-“The price of troll blood has soared lately by almost triple the usual amount. I’m afraid a big war’s coming.”
-
-
-Plenty of conversations snuck into Weed’s ears.
-
-
-Horses whinnied, carriages wheeled by.
-
-
-Sitting by the main avenue, Weed could catch lots of information. He learned what was going on in the world. Without this type of fun, he would have given up already.
-
-
-When Weed struck the scarecrow, he was at least enjoying a sense of becoming more powerful. It was self-torturing that he had to sit still under the harsh sunlight.
-
-
-‘Didn’t Buddha face a wall for several days, meditating?’ he asked himself.
-
-
-He was going through a similar experience, resolved to see Rodriguez.
-
-
-For the last two days, Weed had met Pale and Irene to go hunting together. They were not as strong as he, so they earned EXPs more slowly.
-
-
-Still, they could hunt monsters as they pleased, day and night. Thanks to their flexible schedule, they caught up with Weed’s level.
-
-
-Thirty percent bonus on EXPs at night is technically canceled out by the fact that monsters are stronger by half than during daytime. More often than not, daytime hunting is more efficient for low-level users.
-
-
-Plus, Weed was penalized by being undecided class-wise, so that he could not learn any skills. He would lag behind in skill levels if he converted to a class at a higher level than an average user. Last but not least, it tested his patience that he was wasting valuable time waiting in the middle of a street.
-
-
-‘What can I do now? Sculpture mastery… sculptures…’ Weed looked around. He found a piece of wood that seemed to have been thrown off from a carriage’s wheel.
-
-
-Picking up the piece of wood, Weed activated the sculpture skill “Carve this.”
-
+- Esculpa isso.
 
 *Slide*
 
+À medida que a mão de Weed estava se movendo, a madeira foi cortada aqui e ali.
 
-As Weed’s hand was moving, the wood was cut here and there.
+- Que por…
 
+Quando a habilidade terminou de esculpir, Weed suspirou. A peça, outrora um quadrado de madeira, foi talhada em uma pequena peça circular.
 
-“What the—!”
+- É melhor eu fazer isso sozinho.
 
+Weed pegou outro pedaço de madeira e começou a cortá-lo com a lâmina de esculpir. Com a sua experiência passada ao trabalhar duramente em uma fábrica têxtil, a qual se focava em trabalho manual, a atividade de manufatura era como uma segunda natureza para ele.
 
-When the skill finished carving, Weed sighed. The once square piece of wood was whittled to a small circular piece.
-
-
-“I’d better do it myself.”
-
-
-Weed picked up another piece of wood and began cutting it with the sculpting blade. With his past experience of toiling in a textile factory focused his hands, and craft was like a second nature to him.
-
-
-The sculpting blade was so sharp that with just a touch, it carved through the wood. After a few attempts at trial and error, he finally carved the wooden piece into a short sword.
-
+A lâmina de esculpir era tão afiada que, com apenas um toque, ele esculpiu através da madeira. Depois de algumas tentativas e erro, ele finalmente esculpiu a peça de madeira em uma espada curta.
 
 *Ting*
-————————————————————————————————
-Sculpture Mastery proficiency has increased.
-Handicraft proficiency has increased.
-————————————————————————————————
+<div align="center" class="status-up">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">A proficiência em Sculpture Mastery subiu.</p></td></tr>
+<tr><td><p align="center">A proficiência em Handicraft aumentou.</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Duas janelas de mensagens apareceram em cascata.
 
-Two pop-up message windows appeared in cascade.
+Weed aprendeu algo: ele não precisava ter confiança em sua habilidade de esculpir para esculpir um objeto e que quando ele usasse a habilidade, ele tinha que reconhecer exatamente a forma com a qual ele estava trabalhando.
 
+É melhor eu praticar a habilidade em esculpir mais frequentemente.
 
-Weed learned something— that he didn’t need to rely on the sculpture skill to carve an object, and that when he used the skill, he had to recognize exactly what shape he was working on.
+Entediado, Weed reuniu vários pedaços de madeira e começou a esculpi-los.
 
+*É divertido de sua própria maneira.*
 
-I’d better practice sculpture more often.
+Então veio subitamente a Weed que quando ele estava na escola, seus professores de arte o haviam elogiado por ser bom em fazer as coisas. O que Weed esculpia normalmente acabava sendo inútil, mas alguns deles pareciam aceitáveis mesmo para os olhos dele.
 
-
-Bored, Weed gathered several pieces of wood and started carving them.
-
-
-‘It’s fun in its own way.’
-
-
-It suddenly struck Weed that when he was in grade school, his art teachers had praised him for being good at making things. What Weed carved usually turned out useless, but a few of them looked acceptable even to his eyes.
-
-
-He spent five hours carving wooden pieces. It seemed odd that a man should sit down cutting wood with an sculpting blade, but he felt it was better than killing time in vain.
-
+Ele passou cinco horas esculpindo pedaços de madeira. Parecia estranho ver um homem sentado cortando madeira com uma lâmina de esculpir, mas ele sentiu que era melhor do que matar o tempo em vão.
 
 *Ting*
-————————————————————————————————
-Level up: Sculpture Mastery (Beginner Lv: 2 | 0%):
+<div align="center" class="status-up">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td>
+<p align="center">Subiu de nível: Sculpture Mastery (Iniciante Nv: 2 | 0%)</p>
+<p align="center">Permite produzir trabalhos mais complicados.</p>
+<p align="center">Diminui a taxa de falha com a habilidade.</p>
+</td></tr>
+        </tbody>
+    </table>
+</div>
 
+A habilidade de artesanato e maestria em esculpir de Weed subiu de nível rapidamente porque o seu nível comparativamente baixo precisava de uma pequena quantidade de experiência para atingir o nível mais alto.
 
- Enables to produce more complicated works.
- Decreases the rate at which you fail the skill.
-————————————————————————————————
+- Uau.
 
+Weed ficou impressionado.
 
-Weed’s handicraft skill and sculpture mastery leveled up quickly because their comparatively low level needed a small amount of EXPs to reach the higher level.
+Como o seu nível em Sculpture Mastery aumentou, várias janelas apareceram enquanto ele estava cortando um pedaço de madeira.
 
+Dicas visuais eram dadas, tais como onde cortar em um círculo ou quais padrões estavam disponíveis. Weed poderia escolher uma das dicas, que eram automaticamente processadas. Mesmo que ele cometesse um erro, o domínio escultural complementava a escultura para refinar o produto final.
 
-“Wow.” Weed was awed.
+Agora ele estava fazendo estátuas de qualidade. Weed esculpiu uma raposa que ele havia caçado em outra noite e uma estátua de lobo, a qual foi mais fácil do que ele pensou. Ele colocou as estátuas concluídas que emanavam vida ao lado dele.
 
+O nível da habilidade de Weed estava atualmente em dois, mas a lâmina de esculpir de Zahab dobrou-a para quatro.
 
-As his level in sculpture mastery rose, various windows appeared while he was carving a piece of wood.
+A faca era um item exclusivo que qualquer escultor morreria desejando. O problema é que ninguém se importava.
 
+A classe de escultor estava perto da extinção. Mesmo que houvesse alguns aspirantes a escultor sobrando, seus níveis eram medíocres, por isso era impossível esperar um bom preço pela lâmina de esculpir de Zahab.
 
-Visual tips were given, such as where to cut in a circle or what patterns were available. Weed could choose one of the tips, which was automatically processed. Even if he made an error, the sculpture mastery supplemented it to refine the final product.
-
-
-Now he was making quality statues. Weed carved a fox that he had hunted the other night, and a wolf statue was easier than he had thought. He placed completed animated statues beside him.
-
-
-Weed’s skill level was currently two, but Zahab’s sculpting blade doubled it to four.
-
-
-The knife was unique item that any sculptor would die for willingly. The problem is no one cares.
-
-
-The sculptor class is near extinction. Even if there are some sculptor-wannabes left, their levels are mediocre, so it is hopeless to expect a good price for Zahab’s sculpting blade.
-
-
-When Weed finished one of the pieces of artwork—
-
+Quando Weed terminou uma das peças arte…
 
 *Ting*
-————————————————————————————————
-New Stat: Art
-————————————————————————————————
+<div align="center" class="status-up">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td>
+<p align="center">Novo Atributo: Arte</p>
+</td></tr>
+        </tbody>
+    </table>
+</div>
 
-
-“Art?”
-
-
-*Ting*
-————————————————————————————————
-Art Stat:
-A gift in comprehending and practicing in creating. Art renders meals and products elegant in an aesthetic and practical sense. Improves when you see, hear, smell, taste or touch beautiful things, or create artworks.
-————————————————————————————————
-
-
-“…”
-
-
-Weed fell silent. Calculating the infinite potential promised by the art stat. Then, he made a quick decision.
-
-
-“Delete the art stat!”
-
+- Arte?
 
 *Ting*
-————————————————————————————————
-This stat cannot be deleted!
-————————————————————————————————
+<div align="center" class="status-up">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td>
+<p align="center">Arte</p>
+<p align="center">Um presente na compreensão e na prática da criação. Arte cria produtos elegantes em um sentido estético e prático. Ela aumenta quando você vê, ouve, cheira, prova ou toca coisas bonitas, ou ao criar obras de arte.</p>
+</td></tr>
+        </tbody>
+    </table>
+</div>
+- ...
 
+Weed ficou em silêncio, calculando o potencial infinito prometido pelo atributo de arte. Em seguida, ele tomou uma decisão rápida:
 
-“Darn it!”
-
-
-A user cannot create stats infinitely. The maximum number of stat slots is fifteen.
-
-
-Weed found it intolerable that one of the slots was wasted on the art. Still, though he planned to fill them only with absolutely necessary ones.
-
-
-‘It can’t be helped!’ he thought bitterly.
-
-
-For Weed couldn't care less about the art stat. He swore that he would never distribute any bonus stat points to it.
-
-
-He was relieved to know that the stat would increase automatically, but he was skeptical about how it would work.
-
-
-Weed kept on carving wooden pieces. He was more interested in side effects than sculpture mastery itself, though.
-
-
-“Sculpture mastery is good for nothing. But handicraft skill is worth effort in many areas. It will increase the attack power of swords, and archery relies on the hands. I can work on sensitive crafts, too.”
-
-
-Handicraft skill is a necessity to influence everything everywhere.
-
-
-You gained expertise rating in Handicraft skill.
-
+- Excluir o atributo arte!
 
 *Ting*
-————————————————————————————————
-Level up: Handicraft (Beginner Lv: 3 | 0%):
+<div align="center" class="status-up">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td>
+<p align="center">Este atributo não pode ser excluído!</p>
+</td></tr>
+        </tbody>
+    </table>
+</div>
 
+- Maldição!
 
-Enables you to learn cooking and tailoring skills.
-Increases attack power with melee and long range weapons. (+3% ATK)
-Increases attack power with fists. (+5% ATK)
-————————————————————————————————
+Um usuário não pode criar atributos infinitamente. O número máximo de espaços de atributos é de quinze.
 
+Weed considerou insuportável que um dos espaços foi desperdiçado com arte. Até porque, ele planejava preenchê-los apenas com os absolutamente necessários.
 
-Weed’s handicraft skill level hit three as sculptural art helped him obtain EXPs faster.
+*Isso não pode ser evitado!* - Ele pensou amargamente.
 
+Para Weed, que não se importava com a estatística em arte. Ele jurou que nunca distribuiria quaisquer pontos de atributos nela.
 
-It really pays off.
+Ele ficou aliviado ao saber que o atributo aumentaria automaticamente, mas ele estava cético sobre como ele funcionaria.
 
+Weed continuou esculpindo pedaços de madeira. Embora ele estivesse mais interessado nos efeitos extras do que na maestria em esculpir em si própria.
 
-Weed was satisfied with a swift increase in his handicraft skill level. It was partly because the artworks that he had produced were, in fact, at level four thanks to Zahab’s sculpting blade, but sculpture mastery was the main factor.
+- Sculpture Mastery é algo inútil, mas a habilidade de artesanato vale a pena o esforço em muitas áreas. Ela aumentará o poder de ataque de espadas e arco e flecha, as quais se baseiam nas mãos. Eu posso trabalhar com artesanatos sensíveis também.
 
+A habilidade de artesanato era uma necessidade que influenciava em tudo quanto é lugar.
 
-Cooking and tailoring skills, for example, affect the handicraft skill greatly, yet they cannot rival sculpture mastery in delicacy and adeptness.
+*Ting*
+<div align="center" class="status-up">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td>
+<p align="center">Subiu de nível: Artesanato (Iniciante Nv: 3 | 0%)</p>
+<p align="center">Permite que você aprenda habilidades culinárias e de alfaiataria.</p>
+<p align="center">Aumenta o poder de ataque com armas de combate corpo a corpo e de longo alcance (+3% ATK).</p>
+<p align="center">Aumenta o poder de ataque com os punhos (+5% ATK).</p>
+</td></tr>
+        </tbody>
+    </table>
+</div>
 
+O nível da habilidade de artesanato de Weed atingiu o três com a arte de esculpir o ajudando a obter experiência mais rápido.
 
-Simply put, sculpture mastery is essential to improve handicraft skill. Needless to say, nobody would bother learning sculpture mastery in order to improve the handicraft skill.
+*Ela realmente vale a pena.*
 
+Weed estava satisfeito com um aumento rápido em seu nível de habilidade artesanal. Foi em parte porque as obras de arte que ele tinha produzidos estavam, de fato, no nível quatro graças a lâmina de esculpir de Zahab, mas a maestria em esculpir foi o fator principal.
 
-“Shit, I will never learn tailoring. I hate it!”
+Habilidades de culinária e alfaiataria, por exemplo, afetavam muito a habilidade de artesanato, mas elas não podiam rivalizar com a maestria em esculpir em delicadeza e proficiência.
 
+Simplificando, a maestria em esculpir era essencial para melhorar a habilidade de artesanato. Desnecessário dizer, ninguém se incomodaria aprendendo o domínio escultural a fim de melhorar a habilidade de artesanato.
 
-Weed considered it positive to master the basic cooking skills so that he could enjoy delicious food with online recipes.
+- Merda, eu nunca aprenderei a habilidade em alfaiataria. Eu odeio isso!
 
+Weed considerou positivo dominar as habilidades básicas de culinária para que ele pudesse desfrutar de uma deliciosa comida com as receitas on-line. Sem mencionar que comprar ingredientes diretamente de uma mercearia e cozinhá-los com as suas mãos era mais barato do que encomendar um prato em um restaurante fino.
 
-Not to mention that buying ingredients directly from a grocery store and cooking them with his hands was cheaper than ordering a meat in a fine restaurant.
+Igualmente, Weed poderia preservar melhor a estamina ao usar refeições caseiras quando ele saísse em uma missão de caça por uma ou mais semanas sem voltar para a civilização. Comida instantânea não conseguia recuperar a estamina ao máximo.
 
+Além disso, Weed estava tão assombrado pela memória de trabalhar arduamente em uma fábrica têxtil que ele estava decidido a abster-se de aprender a habilidade em alfaiataria.
 
-Also, Weed could preserve stamina better by use of hand-made meals when he went out on a hunting mission for one or more weeks without returning to civilization. Instant food could not restore the stamina stat to full.
+*Eu odeio costurar mais do que qualquer outra coisa. Eu nunca, nunca mais tocarei na maldita coisa*
 
+Absorvido ao trabalhar em suas estátuas, Weed não percebeu que ele estava rodeado por sombras até que seus ouvidos capturaram conversas estranhas.
 
-Besides, Weed was so haunted by the memory of toiling strenuously in a textile factory that he was resolved to refrain from learning the tailoring skill.
+- Uau, isso é tão adorável!
+- Parece que elas são reais.
+- Eu nunca vi obras de arte tão vivas antes.
 
+Weed procurou a direção das sombras. Havia um grupo de pessoas vendo as suas estatuas com admiração.
 
-“I hate tailoring more than anything else. I’ll never, ever touch the damned thing,” he told himself.
+Uma minúscula e bonita menina apontou o dedo para a estátua de coelho.
 
+- Oi, ajussi, ela está à venda?
 
-Absorbed in working on statues, Weed didn’t realize that he was shadowed by black figures until his ears caught strange conversations.
+Weed teria gentilmente corrigido ela de que ele era apenas um adolescente, mas essa era forma como uma mulher solteira, na casa dos seus trinta, reagiria a um rótulo de ‘senhora’.
 
+- Mas…
+- Sim. O que eu posso fazer por você, jovem dama?
 
-“Wow, it’s lovely~!”
+Weed disse, sorrindo educadamente, pois ele sentia o cheiro do dinheiro.
 
+- Eu quero aquela. Quanto ela custa?
 
-“It looks like they’re real.”
+Entregando a estátua de coelho, um pensamento de passagem veio à Weed.
 
+- É...
 
-“I’ve never seen such lively artwork before.”
+Weed foi pressionado a dar um preço justo.
 
+Desfazer-se daquelas estátuas com um lucro agora ou elas ficariam lá para sempre, acabando em uma lata de lixo. Ele mostrou dois dedos e disse:
 
-Weed looked up in the direction of the shadows. There was a group of people viewing his statutes with admiration.
+- Custará este tanto.
+- Duas moedas de prata? É mais barato do que eu pensava!
 
+A menina pagou duas moedas de prata e pegou a estátua.
 
-A tiny, cute girl pointed her finger at the rabbit-like statue.
+- Este coelho é realmente bonitinho. Eu manterei ele como uma lembrança.
 
+Estupefato, Weed olhou para as costas dela enquanto ela partiu agradavelmente. Dois dedos significavam duas moedas de cobre. Apenas dois cobres, mas a menina pagou cem vezes o valor pedido.
 
-“Hi, ajussi, is it on sale?”
+- Ei, eu quero comprar um também!
+- O mesmo aqui. Vou levar as duas raposas de lá.
 
+As pequenas estátuas de Weed venderam bem.
 
-(PR: The Korean word: ajhussi, is usually used when you're referring to a man older than you)
+As pequenas estavam cotadas em duas moedas de prata e as grandes em três. A estátuas de raposas e de coelhos que ele havia caçado na área em torno da Cidadela eram mais populares do que as em forma de espada ou de escudo.
 
+Os animais pareciam bonitinhos e os clientes preferiam eles como memória do seu tempo de novato.
 
-Weed would have gently corrected her that he was only a teenager, but the way a single woman in her thirties would react to an ‘old lady’ label.
+Um usuário de nível 100 poderia facilmente fazer algumas moedas de ouro por dia. Para eles, duas moedas de prata era uma pechincha.
 
+O estoque de estátuas se esgotou rapidamente.
 
-But­…
+- Você pode, por favor, nos fazer uma estátua em forma de raposa? Uma raposa com nove caudas. Você pode fazer isso?
 
+Weed contemplou e concordou.
 
-“Yes. What can I do for you, young lady?” Weed said, smiling politely, for he smelt money.
+O pedido não era tão difícil quanto parecia. O modelo padrão de uma raposa mais nove caudas. Por que não?
 
+- Sim, senhor. Porém, você tem que pagar um extra para uma versão personalizada.
+- Quanto isso custa?
+- Cinco moedas de prata resolveriam.
 
-“I want that one. How much is it?”
+Quando a palavra *cinco* saiu de sua boca, Weed lamentou que ele poderia ter exagerado, mas os compradores foram rápidos em responder:
 
+- Ótimo. Eu quero. Então, você deveria fazê-la parecer muito bonita. Por favor?
 
-Handing over the rabbit statue, Weed gave it a passing thought.
+Na Cidadela, há uma loja de esculturas, mas era especializada em estátuas em tamanho natural, às vezes adornadas com ouro e pedras preciosas, as quais não são acessíveis para a maioria dos usuários. Já que ninguém mais estava interessado em maestria em esculpir, aquelas estátuas que Weed esculpiu tinham um valor colecionável.
 
+- Uau, isso é tão legal!
 
-“It’s…” Weed was pressured to call for a fair price.
+Aqueles que compraram as estátuas estavam animados, adorando as suas compras recentes.
 
+- Posso pegar o seu nome? Então, quando eu quiser comprar outra, eu procurarei por você.
+- Weed – Escultor Weed. Se você quiser ter uma estátua ao seu gosto, não hesite em me chamar.
+- Obrigado. Até logo.
 
-Dump those statues at a profit now, or they would sit there forever, ending up in a trash bin. He showed two fingers.
+Antes do pôr do sol, os rumores do escultor se espalharam para as outras extremidades da Cidadela e as pessoas vieram visitar Weed.
 
+- Oh, lá está ele!
+- Eu quero que você faça algumas estátuas para nós.
 
-“I’ll take so much,” Weed said.
+Weed tinha ganho quatro moedas de prata a partir da caçada durante a noite de ontem e na de anteontem, mas uma ou duas estátuas faziam mais dinheiro agora. Levava apenas 10 minutos para esculpir uma estátua. Como os materiais custam quase nada, era um comércio muito lucrativo.
 
+No dia seguinte, Weed parou em uma carpintaria e comprou madeira aos montes. Ele começou a produzir estátuas em massa.
 
-“Two silvers? It’s cheaper than I thought!” The girl paid two silver coins and picked up the statue.
+Conforme a habilidade em artesanato e maestria em esculpir melhoravam, peças mais belas e delicadas estavam resultando.
 
+Desnecessário dizer que, abençoado por seu maior domínio nas habilidades, elas eram vendidas a um preço mais elevado e em um ritmo mais rápido.
 
-“This rabbit’s really cute. I’ll keep it as souvenir.”
+Obras-primas bem-sucedidas, uma ou duas a cada mil, foram até mesmo colocadas em leilão.
 
-
-Stupefied, Weed stared at her back as she left pleasantly. Two fingers meant two copper coins. Only two coppers. But the girl paid two hundred times his call.
-
-
-“Hey, I want to buy one too!”
-
-
-“Same here. I’ll take the two foxes over there.”
-
-
-Weed’s little statues sold well.
-
-
-Small ones were priced at two silvers, large ones three. Fox and rabbit statues that he had hunted in the field around the Citadel were more popular than sword- or shield-shaped ones.
-
-
-The animals looked cute, and customers preferred them in memory of their newbie-hood.
-
-
-A level 100 user could easily make a couple of gold a day. To them, two silvers was a bargain.
-
-
-The stock of statues quickly sold out.
-
-
-“Can you please make us a fox-shaped statue? A fox with nine tails. Can you do that?”
-
-
-Weed contemplated it and nodded.
-
-
-The request wasn’t as hard as it sounded. The standard form of a fox plus nine tails. Why not?
-
-
-“Yes, sir. But you have to pay extra for a customized version.”
-
-
-“How much is it?”
-
-
-“Five silvers would do it.”
-
-
-When the word ‘five’ came out of his mouth, Weed regretted that he might have gone overboard, but the buyers were quick to respond.
-
-
-“Great. I want it. Then, you should make it look very beautiful. Please?”
-
-
-In the Citadel, there is a sculpture shop, but it specializes in life-size statues, sometimes adorned with gold and gems, that are not affordable for most users. Since no one else was interested in sculpture mastery, those statues that Weed carved had a collectible value.
-
-
-“Wow, it’s so cool~!”
-
-
-Those who bought statues were excited, adoring their recent purchases.
-
-
-“Can I get your name? So when I want to buy another one, I’ll look for you.”
-
-
-“Weed – Sculptor Weed. If you ever want to have a statue to your liking, please feel free to contact me.”
-
-
-“Thank you. See you later.”
-
-
-Before sunset, rumors of the sculptor spread to the other ends of the Citadel and people came over to visit Weed.
-
-
-“Oh, there he is!”
-
-
-“I want you to make some statues for us.”
-
-
-Weed had earned four silvers from overnight hunting the other night, but one or two statues made more money now. It took only ten minutes to carve a statue. As materials cost almost nothing, it was a very lucrative trade.
-
-
-The next day, Weed stopped by a carpenter’s shop and bought wood in bulk. He began to mass produce statues.
-
-
-As the handicraft skill and sculpture mastery upgraded, more beautiful and delicate pieces were churned out.
-
-
-Needless to say, blessed by his higher skill mastery, they sold at a higher price and at a quicker pace.
-
-
-Successful masterpieces, one or two in every thousand, were even put up for auction.
-
-
-His opinion of sculpture mastery changed slightly in the process­– a part time job to secure a satisfactory amount of pocket money.
+A sua opinião a respeito da Sculpture Mastery mudou um pouco no processo. Um trabalho de meio-período para garantir uma quantidade satisfatória de dinheiro no bolso.
