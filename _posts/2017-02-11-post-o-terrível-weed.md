@@ -18,1043 +18,1221 @@ revisor: Giovane Kauer
 editor: Giovane Kauer
 fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-1-chapter-4.html
 ---
-The civilization of the Versailles Continent dawned approximately one million and eight thousand years ago. Back then, Humans, Elves, Dwarves and Orcs lived together.
+A civilização do Continente de Versalhes alvoreceu há aproximadamente um milhão e oito mil anos. Naquela época, humanos, elfos, anões e orcs viviam juntos.
 
-Dwarf women with deft hands served as midwives to baby Orcs. Orcs in infancy were christened by elven women, and human women bathed them clean in water. The four races had lived together, each compensating for what the others were missing.
+As mulheres anãs com suas hábeis mãos serviam como parteiras dos bebês orcs. Os orcs na infância eram batizados por mulheres elfas e as mulheres humanas os banhavam. As quatro raças tinham vivido juntas, cada uma compensando naquilo que faltava na outra.
 
-The elf rangers gathered fruit from trees, the dwarf crafters made tools, and human scouts hunted game along with the Orc warriors. As deadly monsters abound in the world, the weak had no choice but to rely on one another to survive.
+Os patrulheiros elfos coletavam frutas a partir das árvores, os anões artesãos criavam ferramentas e os humanos batedores caçavam junto dos orcs guerreiros. Como os monstros mortais infestavam o mundo, os fracos não tinham escolha a não ser depender uns dos outros para sobreviver.
 
-Orcs, who were fully developed within two to three years, were fine warriors by nature. Born with unnatural strength and a battle instinct, they sustained the elves and humans.
+Orcs, que se desenvolviam plenamente em dois ou três anos, eram excelentes guerreiros por natureza. Nascidos com uma força sobrenatural e um instinto de batalha, eles protegiam os elfos e os humanos.
 
-The Orcs claimed the leadership of the four races both in name and reality as no other race could keep up with the fertility and combat skills of the Orcs.
+Os orcs reivindicavam a liderança das quarto raças tanto em nome quanto na realidade, visto que nenhuma outra raça poderia estar a par em questão de fertilidade e habilidades de combate com os orcs.
 
-However, when humans developed agricultural techniques, domesticating plants and animals, they took over the food supply chain, and gradually challenged the supremacy of the Orcs.
+No entanto, quando os humanos desenvolveram técnicas agrícolas, domesticando animais e plantas, eles assumiram o controle da cadeia de abastecimento de alimentos e, gradualmente, desafiaram a supremacia dos orcs.
 
-The elves, who learned elemental and spirit magic from their alliance with Nature, became arrogant and began to distance themselves from the Orcs, who they branded ignorant.
+Os elfos, que aprenderam magia elemental e espiritual a partir da aliança deles com a natureza, se tornaram arrogantes e começaram a se distanciar dos orcs, a quem eles chamavam de ignorantes.
 
-The dwarves advanced metals technology day after day, which gave them a new generation of weaponry to brave the Orcs.
+Os anões avançavam a tecnologia de trabalho em metais dia após dia, o que lhes deu uma nova geração de armamentos para desafiar os orcs.
 
-The alliance of the four races was dismantled after a series of numerous hostile disagreements and bouts of jealousy.
+A aliança das quatro raças se desfez após uma série de desacordos hostis e de ataques de inveja.
 
-Eventually the humans built villages and then towns on rich soil, which later banded together to create kingdoms.
+Eventualmente os humanos construíram aldeias e, em seguida, cidades sobre solo rico, as quais se juntaram para criar os reinos.
 
-The elves moved into the Forest of No Return where the elements and spirits were magnified in effect, extending their domain over their magic widely.
+Os elfos se mudaram para a Floresta Sem Retorno, onde os elementos e os espíritos tinham efeitos ampliados, expandindo vastamente os seus domínios sobre a magia.
 
-The Orcs dispersed all over the wilderness and virgin soil, hunting the wild and distressing the civilized as they wished, enjoying combat without restraint.
+Os orcs se dispersaram pelo mundo selvagem e solo virgem, caçando os selvagens e afligindo os civilizados como eles queriam, apreciando o combate sem qualquer restrição.
 
-The dwarves stayed holed up in the mountains, mining raw ore and refining their crafts.
+Os anões ficaram entocados dentro das montanhas, minerando e aprimorando o seu ofício de criação.
 
-Inevitably, the humans and Orcs argued over scarce food, and the elves and the dwarves loathed each other in a struggle to secure preeminence in the Natural world.
+Inevitavelmente, os humanos e os orcs disputaram a escassa comida e os elfos e anões se odiaram em uma disputa para garantir a supremacia no mundo natural.
 
-This is the history of the Versailles Continent, the forgotten myth of four races.
+Essa é a história do Continente de Versalhes, o mito esquecido das quatro raças.
 
-*****
+***
 
-The rumor about the odd stranger ran like wildfire through the Citadel of Serabourg.
+O boato sobre aquele cara curioso e estranho correu feito fogo selvagem na Cidadela de Serabourg.
 
-It was about a beast who had been swinging a wooden sword at a scarecrow wordlessly for four consecutive weeks in the Training Hall.
+Era sobre a besta que estava silenciosamente balançando uma espada de madeira sobre um espantalho por quatro semanas consecutivas no Centro de Treinamento.
 
-*Bluster* 
+*vuup* (barulho)
 
-*Whack*
+*Pahh* (batida)
 
-Weed was swinging the wooden sword in silence. His strikes at the scarecrow showed no mercy. Every time the wooden sword sliced the scarecrow, a heavy sound exploded.
+Weed brandia sua espada de madeira silenciosamente. Seus ataques no espantalho não mostravam misericórdia. Toda vez que a espada de madeira cortava o espantalho, um pesado som era ouvido.
 
-In the earlier days, he was content with barely grazing the scarecrow. As his strength and agility increased steadily, through, the wooden sword had been gathering force.
+Nos primeiros dias, ele ficava feliz em meramente arranhar o espantalho. Conforme a sua força e agilidade aumentavam constantemente, a espada de madeira ganhava força.
 
-- Is he really a user?
-- Do you think he’s a real man? Slim chance.
-- Look at him. I bet he’s not.
-- Could it be an NPC?
-- Given his sudden appearance…
-- He could be an NPC connected to a quest!
+- Ele é realmente um usuário?
+- Você acha que ele é um homem de verdade? Sem chance.
+- Olhe para ele. Eu aposto que ele não é.
+- Poderia ser um NPC?
+- Dada a sua aparição repentina…
+- Ele poderia ser um NPC ligado a uma missão!
 
-The eyes of some users began to glow with enthusiasm and a bunch of users offered food and money to win Weed’s favor, wondering if he was a quest NPC. Too proud to be treated as a beggar, Weed declined them, but they were persistent.
+Os olhos de alguns usuários começaram a brilhar com entusiasmo e um bocado deles ofereceu comida e dinheiro para conquistar um favor de Weed, imaginando que ele era um NPC relacionado a uma missão. Muito orgulhoso para ser tratado como um mendigo, Weed os rejeitou, mas eles eram persistentes.
 
-- Come on, please take this… 
-- Want something else? Just tell me. I’ll go find it.
-- Don’t you think a steel sword is definitely better than this wooden sword? I can give you a long sword, and it’ll come in handy.
+- Vamos lá, por favor pegue isso…
+- Você quer alguma coisa? Apenas me diga. Eu irei encontrar.
+- Você não acha que uma espada de aço é definitivamente melhor do que esta espada de madeira? Eu posso lhe dar uma espada longa e ela pode vir a calhar.
 
-They trailed after Weed in the hope that he might introduce them to a special quest. They didn’t know it for certain, though, because Weed repeatedly denied being an NPC, and shooed them away, saying they were disturbing his training. Oddly, this rather strengthened their conviction.
+Eles seguiram Weed na esperança dele os introduzir a uma missão especial. Eles não sabiam ao certo, no entanto, em razão de Weed repetidamente ter negado ser um NPC e de tê-los enxotado dizendo que eles estavam atrapalhando o seu treino, estranhamente, isso só aumentava a convicção deles.
 
-- He’s not accepting any gift.
-- Who can hit the scarecrow not only one or two days, but for four weeks in a row?
-- And he’s a big friend of the instructor…!
+- Ele não está aceitando nenhum presente.
+- Quem poderia acertar o espantalho não por um ou dois dias, mas por quatro semanas seguidas?
+- E ele ainda é um grande amigo do instrutor…!
 
-The instructor, who had always looked down upon users as a nuisance, was nice to Weed, going so far as sharing lunch with him every day. To the public, Weed didn’t look like a human.
+O instrutor, que sempre olhava com desdém para os usuários como se fossem um problema, era legal com Weed, indo tão longe ao ponto de compartilhar o seu almoço com ele todos os dias. Para o público, Weed não parecia com um humano.
 
-The only way to tell users from NPCs is when they come out with their identity. This was why Weed caused misunderstanding in other users.
+O único método de diferenciar NPCs de usuários era quando eles exibiam a sua identidade. Era por isso que Weed causou um mal-entendido nos outros usuários.
 
-Several high level users saw through Weed’s intentions to improve strength and other stats. They came near and were nice to him. They approached him on purpose, knowing full well he was a user.
+Várias pessoas de nível elevado viram através das intenções de Weed de melhorar a sua força e outros atributos. Eles se aproximavam e eram legais com ele, tendo plena consciência que ele era um usuário.
 
-- If you join my clan, we will support you to save your disappointment.
-- We will sponsor you until you hit level one hundred. Nothing spared.
+- Se você se juntar ao meu clã, nós lhe daremos apoio para poupá-lo de contratempos.
+- Nós lhe patrocinaremos até você atingir o nível cem. Sem poupar nada.
 
-Royal Road has a concept of clans or guilds like other online games, but there is a bigger picture.
+Em Royal Road havia o conceito de clãs ou guildas como em outros jogos online, mas havia algo maior.
 
-Emperor!
+Imperador!
 
-The objective of every clan with high-level rankers is to enthrone an Emperor in their midst—to found their own empire on the Versailles Continent, and rule over all creation.
+O objetivo de todo clã com usuários de nível elevado era empossar um imperador entre eles para fundar o seu próprio império no Continente de Versalhes e governar sobre toda a criação.
 
-With taxes collected monthly, feudal lords and monarchs can build essential facilities such as granaries and blacksmiths’ workshops in towns under their supervision, or throw in money to enlist recruits and train them well.
+Com impostos coletados mensalmente, lordes feudais e monarcas podiam construir instalações essenciais como celeiros e oficinas de ferreiros nas cidades sob sua supervisão, ou despejar dinheiro para alistar recrutas e treina-los.
 
-Given a ruler who administers to the affairs of state, develops the economy and advance technology one can become very powerful. Technological innovation leads to better weaponry produced by blacksmiths, and the size of a city depends on its public security and sanitation.
+Um dado governante que administra os assuntos do Estado, desenvolve a economia e avança a tecnologia, pode tornar-se muito poderoso. Inovações tecnológicas levam a melhores armamentos fabricados pelos ferreiros e o tamanho de uma cidade depende da segurança pública e do saneamento.
 
-In laying down national and regional policies and setting up diplomatic ties with other countries, the king on the top of a pyramid-­like society exercises greater authority than anyone else.
+Ao estabelecer as políticas nacionais e regionais e ao criar laços diplomáticos com os outros países, o rei que está no topo de uma sociedade piramidal exerce maior autoridade do que qualquer outra pessoa.
 
-Kings encourage cities and fortresses to expand in their domain, drawing more immigrants who become subject to their rule. Besides internal affairs, there is war.
+Reis incentivam cidades e fortalezas a expandir o seu domínio, trazendo mais imigrantes que se sujeitam as suas regras. Além dos assuntos internos, existe a guerra.
 
-If and when someone declares war, the armies called up by ambitious Kings engage in battle with each other under the command of generals.
+Se e quando alguém declara guerra, os exércitos convocados por reis ambiciosos entram em batalha um com o outro sobre o comando dos generais.
 
-Layman users in the position of subjects demand that their user kings are wise and just. Therefore, the cities where they reside will grow more prosperous, and trade of goods will be more dynamic, which stimulates the users to aspire for success in the game.
+Usuários ingênuos exigem que seus reis usuários sejam sábios e justos. Portanto, as cidades onde eles residem crescerão mais prósperas e o comércio de bens será mais dinâmico, o que estimula os usuários a aspirar pelo sucesso no jogo
 
-Still, Weed declined all the clan offers.
+No entanto, Weed rejeitou todas as ofertas de clãs.
 
 *Ting*
-————————————————————————————————
-Strength has risen by 1 point (+1 STR)
-Agility has risen by 1 point (+1 AGI)
-Vitality has risen by 1 point (+1 VIT)
-Fame has risen by 20 points (+20 FAME)
-Health has risen by 100 points (+100 HP)
-————————————————————————————————
+<div align="center" class="status-up">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Força subiu em 1 ponto (+1 STR)</p></td></tr>
+<tr><td><p align="center">Agilidade subiu em 1 ponto (+1 AGI)</p></td></tr>
+<tr><td><p align="center">Vitalidade subiu em 1 ponto (+1 VIT)</p></td></tr>
+<tr><td><p align="center">Fama subiu em 20 pontos (+20 FAME)</p></td></tr>
+<tr><td><p align="center">Vida subiu em 100 ponto (+100 HP)</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
-The wooden sword had not shown any sign of pausing suddenly stopped in mid-air. Then Weed closed his eyes.
+A espada de madeira que não havia dado sinais de pausa parou de repente no meio de um golpe e, em seguida, Weed fechou seus olhos.
 
-- I’ve finally made it.” Weed sighed deeply with relief.
+- Eu finalmente consegui.
 
-For four weeks, according to the game’s time flow, Weed had improved the stats as much as he could in the Training Hall. To his surprise, he earned a little fame— never hurts to have some fame.
+Weed suspirou profundamente em alívio.
 
-The more fame you have, the cheaper you can buy goods from grocery stores or blacksmith’s workshops, and you can get more respect in talking or negotiating with NPCs.
+Por quatro semanas, de acordo com o tempo do jogo, Weed havia melhorado seus atributos ao máximo que podia no Centro de Treinamento. Para a sua surpresa, ele ganhou um pouco de fama. Não machucava ninguém ter um pouco de fama.
 
-The instructor, who had been watching him pleasantly at a distance, walked up to Weed and said,
+Quanto mais fama você tem, mais barato você pode comprar produtos das mercearias ou das oficinas de ferreiros, e você recebe mais respeito quando conversa ou negocia com os NPCs.
 
-- Good job, Weed-nim.
-- Thank you, sir.
-- I didn’t expect you would come so far. Yet you overcame my prejudice. I am very proud of you.
-- I’m indebted to your teaching, Honorable Instructor.
-- Haha! You’re absolutely right.” The instructor laughed heartily.
+O instrutor, que estava observando ele agradavelmente à distância, caminhou até ele e disse:
 
-Weed knew from experience how high a simple word could lift up the instructor.
+- Bom trabalho, Weed-nim.
+- Muito obrigado, senhor.
+- Eu não esperava que você fosse chegar tão longe. No entanto, você superou os meus preconceitos. Estou muito orgulhoso de você.
+- Eu estou em débito com os seus ensinamentos, honrável instrutor.
+- Haha! Você está absolutamente certo.
 
-The instructor handed a sword to Weed.
+O instrutor riu cordialmente.
+
+Weed sabia por experiência como uma simples palavra podia melhorar a moral do instrutor.
+
+O instrutor passou uma espada para Weed.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Item: Hard Iron Sword.</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Item: Espada de Ferro Reforçado.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-- What’s this sword…?
-- It is yours. This sword is awarded to a man who completes the basic training program.
-- Basic training…
+- O que é essa espada…?
+- Ela é sua. Essa espada é dada para aquele que completa o programa de treinamento básico.
+- Treinamento básico…
 
-A question suddenly occurred to Weed.
+Uma pergunta subitamente ocorreu a Weed. Ele tinha aprendido por acidente que ele poderia melhorar seus atributos batendo com uma espada de madeira nos espantalhos no Centro de Treinamento. Enquanto vasculhava através de comunidades de jogos online, ele havia lido uma publicação sobre isso em um fórum de alguns clãs de pequeno porte.
 
-He had learned by accident that he could improve stats by swinging a wooden sword at a scarecrow in the Training Hall.
+Portanto, ele focou-se em melhorar seus atributos tanto quanto fosse possível no Centro de Treinamento antes de começar seriamente.
 
-While combing through online game communities, he had read a posting about it in a forum run by a couple of small-size clans.
+Weed tinha uma boa razão para isso, embora ele admitisse que isso poderia soar ineficiente ao investir quatro semanas para melhorar seus atributos lentamente um por um.
 
-Therefore, he had focused on bringing up his stats as much as possible in the Training Hall before he began seriously.
+Na opinião dos outros usuários, eles prefeririam perder menos tempo ao conseguir um item que melhorasse os atributos um pouco.
 
-Weed had good reason for it, though he conceded that it might sound inefficient to invest four weeks to improve his stats slowly one by one.
+No entanto, Weed pensou:
 
-As far as other users were concerned, they would rather waste less time to acquire an item that boosted stats so little.
+*Não é a mesma coisa que treinar duro para fortalecer os atributos base de um personagem. Isso faz a diferença e uma grande.*
 
-*Still,* Weed thought, *it isn’t the same as training hard to strengthen the bottom line stats of one’s avatar. It makes a difference, a big one.*
+Se você tivesse boa sorte, você poderia pegar um bom item durante uma jornada, mas os seus atributos originais seriam sempre os mesmos, independentemente de quais itens você estivesse equipado. Suponha que você eleve a sua força em quarenta pontos e imagine o que acontecerá quando você vestir um colar que garanta +50 STR.
 
-As good luck would have it, you might pick up a good item during a journey, but your original stats will always be the same, regardless of whatever items you are equipped with. Suppose you rise forty points in strength, and imagine what it will be like when you wear a +50 STR necklace.
+Os atributos que Weed havia conquistado no Centro de Treinamento o ajudariam até o último minuto do jogo.
 
-The stats that Weed had drilled in the Training Hall would help him right up to the last minute of the game play.
+Weed ponderou sobre o significado da observação do instrutor e finalmente perguntou:
 
-Weed pondered the meaning of the instructor’s remark and finally asked, “Do you know how many people completed the basic training by now?
+- Você sabe quantas pessoas completaram o treinamento básico até agora?
 
-- 16 here, - the instructor answered immediately.
+O instrutor respondeu imediatamente:
 
-He added,
-- The Continent is vast, Weed-nim. I think there are a total of 3,800 hundred foreigners who finished the basic training program in all the Training Halls. To the best of my knowledge, nobody has finished the basic training as fast as you did.
+- 16 aqui.
 
-3,800 people! Weed’s eyes flashed fire.
+E adicionou:
 
-- They are my potential rivals
+- O continente é vasto, Weed-nim. Eu acho que há um total de 3.800 forasteiros que completaram o programa de treinamento básico em todos os Centros de Treinamento. No que eu sei, ninguém completou tão rápido quanto você.
 
-His next question broke a brief moment of silence.
+3.800 pessoas!
 
-- You said this is basic training. Do you provide a higher level of training program?
-- I don’t, but there are other places.
-- Where are they?
-- I do not know where they are located. I heard they were open only to those who were destined to find them. You must finish a basic level to be qualified for the next level of training.
-- Thank you for the information, Honorable Instructor.
-- Don’t mention it.
+Os olhos de Weed faiscaram.
 
-Weed was now done with the Training Hall. When he turned to leave, the instructor called to him.
+*Eles são meus potenciais rivais.*
 
-- Weed-nim, do you have a plan?
-- Excuse me, sir?
-- An expeditionary force is scheduled to depart for the Lair of Litvart a week from now. A colleague of mine is the commander of the force. His name is Midvale. If you do not have anything better to do right now, why don’t you lend your sword to him?
+A próxima pergunta dele quebrou o breve momento de silêncio:
+
+- Você disse que esse é o treinamento básico. Você fornece um programa de treinamento de nível mais elevado?
+- Eu não, mas existem outros lugares.
+- Onde eles estão?
+- Eu não sei onde eles estão localizados. Eu ouvi que eles se abrem apenas para aqueles destinados a encontra-los. Você deve terminar o nível básico para se qualificar para o próximo nível de treinamento.
+- Obrigado pela informação, honrável instrutor.
+- Não há de que.
+
+Weed agora havia terminado o que tinha de fazer no Centro de Treinamento. Quando ele se virou para sair, o instrutor o chamou:
+
+- Weed-nim, você tem algum plano?
+- Não entendi, senhor?
+- Uma força expedicionária está marcada para partir para o Covil de Litvart em uma semana a partir de agora. Um amigo meu é o comandante da força. Seu nome é Midvale. Se você não tiver nada melhor para fazer por agora, por que você não empresta a sua espada a ele?
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Quest: A Clean-up Operation in the Lair of Litvart:</p>
-                    <p align="center">Rosenheim Kingdom has been greatly suffering from the monsters, which have risen in number for the last decade. King Theodarren, righteous and benevolent ruler of Rosenheim, issued a royal decree to order a distinguished knight, Sir Midvale, to explore the Lair of Litvart and root out monsters. Eradicate the monsters in the Lair of Litvart with Sir Midvale and his soldiers.</p>
-                    <p align="center">Difficulty: E</p>
-                    <p align="center">Quest requirement:</p>
-                    <p align="center">Failed if you are killed.</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Quest: Operação de limpeza no Covil de Litvart</p>
+        <p align="center">O Reino de Rosenheim tem sofrido muito com monstros, os quais tem aumentado em número desde a última década.</p>
+        <p align="center">O Rei Theodarren, o justo e benevolente governante de Rosenheim, publicou um decreto real ordenando um distinto cavaleiro, Sir Midvale, a explorar o Covil de Litvart e extirpar todos os monstros.</p>
+        <p align="center">Dificuldade: E</p>
+        <p align="center">Requisitos:</p>
+        <p align="center">Falhará se você for morto.</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-The instructor’s proposal was a mission that any other user would rush to accept gladly. The Rosenheim Royal Army abounds in well-organized, hard­-trained soldiers. The average level for infantrymen is almost thirty, and a knight’s level surpasses 150 generally speaking.
+A proposta do instrutor era uma missão que qualquer outro usuário correria para aceitar alegremente. O Exército Real de Rosenheim tinha uma fartura de soldados bem organizados e bem treinados. O nível médio dos soldados de infantaria era quase trinta e o nível de um cavaleiro ultrapassava os 150 falando de modo geral.
 
-In particular, those knights with their own name among the ranks are revered as Titled Knights. Their levels lie between levels 180-220. This size of force can clear away any lair without complication. The Lair of Litvart is not at all likely to be an exception.
+Em particular, aqueles cavaleiros com seu próprio nome dentre os de categoria superior eram conhecidos como Cavaleiros Intitulados. Seus níveis variavam entre 180 e 220. Este tamanho de expedição poderia limpar qualquer covil sem problemas. O Covil de Litvart não era suscetível a ser uma exceção.
 
-According to Weed’s research, the Lair of Litvart was infested by kobolds at levels in the twenties and goblins in the 50s.
+De acordo com a pesquisa de Weed, o Covil de Litvart era infestado por kobolds por volta do nível vinte e goblins com níveis próximos ao 50.
 
-All Weed needed to do after he joined the force on the mission was to stay alive, whether he actively took part in a battle or not. It was a golden opportunity that was offered to him out of the instructor’s goodwill. But Weed shook his head.
+Tudo que Weed precisava fazer depois de se juntar a força de expedição era sobreviver, quer ele tomasse uma parte ativa na batalha ou não. Era uma chance de ouro que lhe foi oferecida pela boa vontade do instrutor. Porém, Weed balançou a sua cabeça.
 
-- I am sorry, sir.
+- Me desculpe, senhor.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">You have declined the quest!</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Você rejeitou a missão!</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
-- No way. What is troubling you, Weed-nim…?
-- It is nothing. I just don’t have a class yet.
-- Oh my Freya… you’re right! I've acted too rashly. Visit me any time you please. I will let you know if I can recommend a quest that is suitable to you.
 
-The instructor had not only reached level two hundred, but also kept in contact with the soldiers who were trained by him. In other words, he had established his own network in the Royal Army.
+- Sem chance. O que está te preocupando, Weed-nim…?
+- Não é nada. Eu só não tenho uma classe ainda.
+- Oh minha Freya… você está certo! Eu agi impulsivamente. Me visite a qualquer hora que você desejar. Eu lhe deixarei saber se posso recomendar uma missão adequada para você.
 
-Still, the instructor’s relatively humble position prevented it being tracked by high-ranking officials.
+O instrutor não apenas havia chego no nível duzentos, mas também tinha contato com os soldados treinados por ele. Em outras palavras, ele tinha a sua própria rede de contato no Exército Real. Entretanto, a posição relativamente humilde do instrutor o impediu de ser monitorado por funcionários do alto escalão.
 
-Suddenly, the instructor asked in a low voice,
-- Weed-nim, have you chosen what class you want to convert to?
-- I am yet to decide. I have to go to the intelligence guild, and see what class they recommend.
+Subitamente, o instrutor perguntou em voz baixa:
 
-The intelligence guild gives counsel to users, depending on their stats and skills.
+- Weed-nim, você já decidiu para qual classe você quer se converter?
+- Eu ainda tenho que decidir. Eu tenho que ir para a Guilda de Inteligência e ver qual classe eles me recomendam.
 
-In the early stage, most users walk a similar path, so the intelligence guild classifies them into two groups—combat classes (melee and supportive) and craft classes, including merchants.
+A Guilda de Inteligência dava conselhos aos usuários, dependendo dos seus atributos e habilidades.
 
-On rare occasions, the guild unveils hidden classes. Very rare, indeed.
-- I am telling you this only because you are… a trustworthy man who refused the opportunity to convert to such a trashy class as sculptor. Tell me honestly, Weed-nim—do you regret not having taken up the sculpting blade?
-- No way, sir! Sculptor, I won’t take it no matter what.
-- Humph, I have never told this to anyone else… you’re the first man. Come closer.
+Nas fases iniciais, a maioria dos usuários trilhava um caminho parecido, então a Guilda de Inteligência classificava-os em dois grupos: classes de combate (corpo a corpo e de apoio) e classes de produção, incluindo os mercadores.
 
-The instructor’s voice dropped to a quiet murmur. He spoke in a whisper close to Weed’s ear. Weed got goose bumps when the Orc-like instructor’s breath brushed over his face, but he kept his disgust in check.
-- You are looking for a fine class. I will show you the way. Have you heard of Rodriguez the Sage?
-- Yes, sir.
-- Go visit him. Praised as the Star of Wisdom, he is revered as a being knowledgeable in all things. He will tell you what profession suits you best, much better than a mere intelligence guild. But…
-- …?
-- The catch is the Counselor is a queer fish. Worse enough, you never know where he will hop next. He’s ill-natured, naughty and narrow­-minded.
-- …
-- You can’t see him in person in the usual way. He will not bother listening to you in the first place. But if you give this to him, he will do you a favor, only once.
+Em raras ocasiões, a guilda revelava classes ocultas. Muito raras, é claro.
+
+- Eu estou lhe dizendo isso apenas porque você é… um homem confiável que recusou a chance de se converter para uma classe lixo como a de um escultor. Me diga honestamente, Weed-nim, você se arrepende de não ter assumido a lâmina de esculpir?
+- Sem chance, senhor! Escultor, eu não pegarei isso não importa o que.
+- Humph, eu nunca disse isso para mais ninguém… você é a primeira pessoa. Chegue mais perto.
+
+A voz do instrutor caiu para um silencioso murmúrio. Ele disse em um sussurro perto da orelha de Weed. Weed teve arrepios quando a respiração, parecida com a de um orc, do instrutor roçou em seu rosto, mas ele manteve o seu desgosto restrito.
+
+- Você está procurando por uma boa classe. Eu lhe mostrarei o caminho. Você ouviu falar de Rodriguez, o Sábio?
+- Sim, senhor.
+- Então vá visita-lo. Louvado como a Estrela da Sabedoria, ele é reverenciado por ser o conhecedor de todas as coisas. Ele lhe dirá qual profissão melhor lhe cabe, muito melhor do que uma mera Guilda de Inteligência. Porém…
+- ...?
+- O problema é que o conselheiro é liso como um peixe. Pior ainda, você nunca sabe onde ele saltará depois. Ele é mal-humorado, malcriado e pobre de espírito.
+- ...
+- Você não pode vê-lo em pessoa com um método comum. Ele não se incomodará em lhe ouvir em primeiro lugar. Mas se você der isso a ele, ele lhe fará um favor, apenas uma vez.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">You have received:</p>
-                    <p align="center">Item: Queen Evane’s Handkerchief</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Você recebeu um Item:</p>
+        <p align="center">Lenço da Rainha Evane</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-- Thank you, Honorable Instructor.
-- Not at all. I feel rather responsible for your decision because I can’t deny that many sword warriors fare worse than moonlight sculptors. I pray to Freya that you will get a fine class. Beware of Counselor Rodriguez. He knows no shame, so you should not tell him what you want until he speaks to you.
+- Muito obrigado, honrável instrutor.
+- Não é nada. Eu me sinto um pouco responsável por sua decisão porque eu não posso negar que muitos espadachins são piores do que os escultores do luar. Eu rezo a Freya para que você consiga uma boa classe. Cuidado com o conselheiro Rodriguez. Ele não conhece a vergonha, então você não deveria dizer-lhe o que você quer até que ele fale para você.
 
-When Weed made his farewells to the instructor on the way out of the Training Hall, a towering man approached him.
+Quando Weed se despediu do instrutor na saída do Centro de Treinamento, um homem muito alto se aproximou dele. O nome do gigante era Python, um destemido guerreiro com uma espada gigante.
 
-The giant’s name was Python, a fearless warrior with a gigantic sword.
+- Você está saindo agora?
+- Sim.
+- Hmm, para onde você está indo?
+- Eu primeiro encontrarei uma classe e, em seguida, trabalharei duro para subir meu nível.
+- Eu tenho certeza que você chegará ao topo bem rápido. Eu não vi ninguém tão firme quanto você em jogos online! Mesmo que eu tenha orgulho de dizer quão forte eu sou, você é literalmente um homem de aço.
 
-- Are you leaving now?
-- Yes.
-- Hmm, where are you going?
-- I’ll first find a class, and then I’ll work hard to raise my level.
-- I’m sure you will make it to the top very fast. I haven’t seen anyone as steadfast as you in online games! Though I’m proud of how tough I am, you are literally a man of steel.
+Python era um guerreiro de nível 288.
 
-Python was a warrior at level 288.
+Ele havia aprendido uma nova habilidade, então ele tinha vindo ao Centro de Treinamento para pratica-la.
 
-He had learned a new skill, so he had come to the Training Hall to experiment with it.
+Quando ele chegou no centro, ele estava lotado com uma enxurrada de usuários, todos os quais haviam se reunido para observar Weed.
 
-When he arrived at the hall, it was crowded with a flood of users, all of whom had gathered to observe Weed.
+Python também era um homem com curiosidade.
 
-Python was also a man of curiosity.
+Algumas pessoas confundiram Weed com um NPC, mas quando Python, espremido pela multidão, ouviu por acaso que um usuário poderia aumentar seus atributos no Centro de Treinamento, ele começou a golpear o espantalho ao lado de Weed.
 
-Some people got Weed mixed up with an NPC, but when Python, squeezed by the crowd, overheard that a user could improve stats in the Training Hall, he had started whacking the scarecrow right next to Weed.
+A força que era liberada pela figura maciça de Python foi chocante. Com alguns usuários a mais participando do show, Python tinha intencionalmente desviado a atenção do público de Weed.
 
-The force that was released from Python’s massive figure had been shocking.
+Pela última semana, Python era o único usuário com quem Weed havia falado até então.
 
-With a few more users who had participated in the show, Python had unintentionally diverted public attention from Weed.
-
-For the last week, Python was the only user who Weed had spoken to so far.
-
-- Thank you for your compliment.
-- Anyway, I’m looking forward to it! The day we run across each other. You won’t disappoint me, will you?
-- You’ll be disappointed.
+- Obrigado pelo elogio.
+- De qualquer maneira, eu estou ansioso por esse momento! O dia em que nós iremos nos deparar um com o outro. Você não vai me desapontar, vai?
+- Você ficará desapontado.
 - Huh?
-- With your weakness, I’m far tougher than you can imagine.
+- Com a sua fraqueza, eu sou muito mais forte do que você pode imaginar.
 - Fahahahaha.
 
-Python laughed aloud. As his level was in the high 280s, he ranked among the strongest and was treated with respect everywhere he went. He was intrigued by Weed, who could make cutting remarks to the powerful.
+Python riu alto. Seu nível estava no fim dos 280 e ele estava no topo entre os mais fortes e era tratado com respeito em todo lugar em que ele ia. Ele estava intrigado com Weed, alguém que poderia fazer tais observações incisivas aos poderosos.
 
-Python’s eyes narrowed a little more seriously.
+Os olhos de Python cerraram um pouco mais seriamente.
 
-- I’ll be really looking forward to it.
-- Take care.
+- Eu estarei realmente esperando por isso.
+- Tome cuidado.
 
-Weed said goodbye to him, and headed to the manor of Rodriguez the Sage.
+Weed disse adeus para ele e se dirigiu para a casa de campo de Rodriguez, o Sábio.
 
-- Rodriguez the Sage, the Star of Wisdom, is omnipotent in knowledge. He will give me guidance as to what class I should get,” he told himself.
+*Rodriguez o Sábio, a Estrela da Sabedoria, é onipotente no conhecimento. Ele me guiará para qual classe eu devo pegar.*
 
-*****
+Ele disse para si mesmo.
 
-The manor of Counselor Rodriguez was located in the northern section of the Citadel of Serabourg, and soldiers were on the watch, circling the manor.
+***
 
-As soon as Weed walked close to the gate, two soldiers called out for him to stop.
+A casa de campo do conselheiro Rodriguez estava localizada na seção norte da Cidadela de Serabourg e soldados estavam de guarda, no entorno da casa.
 
-- Halt! What’s your business here, stranger?
-- I am here to visit the Counselor. I have something for him from the instructor in the Training Hall who entrusted me with it.
-- It’s too bad. I understand you have business to be taken care of, but the Counselor does not expect anyone with such little fame,” the soldier answered in a matter-of-fact tone.
-- But I have an article the instructor asked me to deliver to the Counselor in person.
-- It is none of my business. Do you think you are allowed to visit His Lordship just because you have something for him?
-- …
+Tão logo Weed caminhou próximo dos portões, dois soldados gritaram para ele parar.
 
-In short, it requires an impressive reputation, or comparable fame, to pay a visit to Kings or nobles and Weed’s fame was only 20, far too low to enter the Counselor’s manor.
+- Parado! Quais são os seus negócios aqui, estranho?
+- Eu estou aqui para visitar o conselheiro. Eu tenho algo para ele do instrutor do Centro de Treinamento, o qual me foi confiado.
 
-- I personally know the instructor in the Training Hall very well. He once trained me with his own hands. Still, I can’t permit your entry to the manor.
-- If you insist on that, am I allowed to stay here as long as I don’t enter the manor?
+O soldado respondeu em um tom prático:
 
-The guards were perplexed by Weed’s question. “Make yourself clear, traveler.
+- Ruim para você. Eu entendo que você tenha negócios a tratar, mas o conselheiro não atende ninguém com uma fama tão baixa.
+- Mas eu tenho um artigo que o instrutor pediu para entregar ao conselheiro em pessoa.
+- Não é da minha conta. Você acha que tem permissão para visitar a Sua Senhoria apenas porque você tem algo para ele?
+- ...
 
-- I’m asking if you mind if I just sit down on the street and wait for the sage to come out?
-- Not at all.” The soldier added indifferently, “The Street is open to everyone.
+Resumindo, é necessária uma reputação incrível ou uma fama comparável para visitar reis ou nobres e a fama de Weed era de apenas 20, muito abaixo do necessário para visitar a casa de campo do conselheiro.
 
-Weed nodded slightly.
+- Eu pessoalmente conheço o instrutor no Centro de Treinamento muito bem. Ele outrora me treinou com as suas próprias mãos. Ainda assim, eu não posso permitir que você entre na casa.
+- Se você insiste nisso, eu posso ficar aqui contanto que eu não entre na casa?
 
-- Thank you for your permission.
-- Not at all. But…
-- Beg your pardon?
-- I’m telling you this because you’re an acquaintance of the instructor – the Counselor often locks himself in the manor for a week or so. Especially when an unwelcome visitor knocks on the door, he will definitely keep it shut. Are you still willing to wait for him?
+Os guardas estavam perplexos com a pergunta de Weed.
 
-Liu Bei visited Zhuge Liang three times to recruit him, and he turned out to be the cornerstone in founding a new dynasty in south-western China. Reminded of the famous episode, Weed nodded.
+- Explique-se melhor, viajante.
+- Eu estou perguntando se você não se importa que eu me sentar na rua e esperar pela saída do Sábio?
+- Nem um pouco.
 
-- Yup.
+O soldado respondeu indiferente e adicionou:
 
-Weed squatted across from the manor, anticipating the Counselor would emerge any second. He sometimes chatted with the guards, and quickly learned that the instructor was well respected among the lower ranks.
+- A rua é livre para todos.
 
-- A man who had once dreamed of knighthood, he is now fully qualified for one.
+Weed assentiu levemente.
 
-Meanwhile, the night deepened and the Sage’s manor darkened. 
+- Muito obrigado por sua permissão.
+- De modo algum. Porém…
+- Perdão?
+- Eu estou lhe dizendo isso por que você é um conhecido do instrutor: o conselheiro geralmente se tranca na mansão por uma semana ou mais. Especialmente quando um visitante indesejado lhe bate à porta, ele definitivamente se tranca. Você realmente está querendo esperar por ele?
 
-- I’d be a liar if I said I expected to get what I want on the first day. He can’t hide inside forever.” Weed muttered to himself
+Liu Bei visitou Zhuge Liang por três vezes para recruta-lo e ele se tornou o pilar da fundação da nova dinastia no sudoeste da China. Lembrando desse famoso episódio, Weed concordou:
 
-Weed found it futile to mount guard over the manor because the Counselor was asleep. He withdrew from there and headed for the gate.
+- Sim.
 
-A moonlit night intensifies the brutality of monsters on the Versailles Continent. They get stronger by half, and yield an extra thirty percent of EXPs. This provokes a heightened attention from users to avert the risk of death.
+Weed agachou em frente à mansão, antecipando que o conselheiro emergiria a qualquer momento. Ele às vezes conversava com os guardas e rapidamente aprendeu que o instrutor era bem respeitado entre as classes mais baixas do exército.
 
-That night marked Weed’s first adventure away from the Citadel. On a wide-open field a bunch of users ran after foxes, rabbits and raccoons, a scene created by newbies, whom Weed would soon join.
+*Um homem que uma vez sonhou com a cavalaria e que agora é totalmente qualificado para ela.*
 
-- So I have something I can use as a weapon…?
+Enquanto isso, a noite se intensificou e a mansão do Sábio escureceu.
 
-He took out the iron sword given by the instructor, and held it tight.
-- Item Check: Hard Iron Sword
+- Eu seria um mentiroso se dissesse que eu esperava conseguir o que quero no primeiro dia. Ele não pode se esconder para sempre.
 
-<div align="center" class="quest-center">
-    <table border="1" cellspacing="3" cellpadding="0">
-        <tbody>
-            <tr>
-                <td>
-                    <p align="center">Item: Hard Iron Sword:</p>
-                    <p align="center">Durability: 54/54</p>
-                    <p align="center">Damage: 10-14</p>
-                    <p align="center">Awarded to those who've completed the Basic Training Program. This widely-used long sword is better than basic type weapons that are available in a blacksmith’s workshop.</p>
-                    <p align="center">Requirement:</p>
-                    <p align="center">Strength 40+</p>
-                    <p align="center">Vitality 35+</p>
-                    <p align="center">Equipped:</p>
-                    <p align="center">+10 Strength</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+Weed murmurou para si.
 
-The sword given by the instructor was one of the finest available to Weed. He swung it a few times, realized that its balance was ideal, and felt comfortable with it. Weed checked the other weapon.
-- Item Check: Sculpting Blade
+Weed achou inútil ficar de guarda na mansão porque o conselheiro estava dormindo. Ele saiu dali e foi em direção aos portões da cidadela.
+
+O luar intensificava a brutalidade dos monstros no Continente de Versalhes. Eles ficavam mais fortes em cinquenta por cento e davam um extra de trinta por cento de experiência. Isto provoca uma maior atenção dos usuários para evitar o risco de morte.
+
+Aquela noite marcou a primeira aventura de Weed longe da Cidadela. Em um campo muito aberto, um grupo de usuários corria atrás de raposas, coelhos e guaxinins, uma cena criada por iniciantes, a quem Weed em breve iria se juntar.
+
+- Eu tenho algo para usar como arma…?
+
+Ele tirou a espada de ferro dada pelo instrutor e a segurou firmemente.
+
+- Verificar Item: Hard Iron Sword (NT = Nota João: Espada de Ferro Reforçada).
 
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">Item: Zahab’s Sculpting Blade:</p>
-                    <p align="center">Durability: 984/1000</p>
-                    <p align="center">Damage: 40-54</p>
-                    <p align="center">A short tiny Sculpting Blade, specifically built for delicate workmanship. This knife is very sharp.</p>
-                    <p align="center">Equipped:</p>
-                    <p align="center">Increases your chances of scoring a critical hit.</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Hard Iron Sword:</p>
+        <p align="center">Durabilidade: 54/54</p>
+        <p align="center">Dano: 10-14</p>
+        <p align="center">Concedida àqueles que completaram o Programa de Treinamento Básico. Esta espada longa amplamente utilizada é melhor do que as armas básicas disponíveis nas lojas dos ferreiros.</p>
+        <p align="center">Requisitos:</p>
+        <p align="center">40+ Força</p>
+        <p align="center">35+ Vitalidade</p>
+        <p align="center">Equipada:</p>
+        <p align="center">+10 Força</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-The sculpting blade dealt more damage than the hard iron sword, but Weed chose the latter. For one thing, it was longer, thus reaching farther. With the sculpting blade, he felt it tricky to work on the enemy. The hard iron sword was more useful in terms of slaying monsters.
+A espada dada pelo instrutor era uma das melhores disponíveis para Weed. Ele a brandiu algumas vezes e percebeu que o seu equilíbrio era ideal e se sentiu confortável com ela. Weed checou a sua outra arma.
 
-Moreover, the sculpting blade didn’t wear down easily, thanks to its high durability. This advantage transferred to Weed, who had obtained the repair skill, and the hard steel sword provided more opportunities to sharpen the repair skill because it was comparatively fragile, requiring frequent maintenance.
+- Verificar Item: Sculpting Blade
 
-- Great. I guess I’m ready to go.” Weed swung his iron sword about. “Raccoons, foxes, wolves, bring it on. I’ll take all of you down.
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Lâmina de Esculpir de Zahab</p>
+        <p align="center">Durabilidade: 984/1000</p>
+        <p align="center">Dano: 40-54</p>
+        <p align="center">Uma curta lâmina de esculpir, especialmente feita para trabalhos delicados. Esta faca é muito afiada. </p>
+        <p align="center">Equipada:</p>
+        <p align="center">Aumenta as suas chances de conseguir um acerto crítico.</p>
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
 
-The moment he went out hunting — Excuse me. - Someone spoke to Weed, who was walking in silence.
-- Are you alone? - Weed turned around. He saw a cute-looking girl right in front of him. She wore a cotton hat and bluish leather armor.
-- A girl. - he said to himself.
-- Yes, It’s only me. - Weed lowered his tone.
-- Do you want to join us for a hunting mission? We’ve got a mage, a cleric, an archer and a monk.
+A lâmina de esculpir causava mais dano do que a espada de ferro, mas Weed escolheu a última. Por uma única razão, ela era maior e com isso tinha um maior alcance. Com a lâmina de esculpir, ele a achou complicada de manejar sobre o inimigo. A espada de ferro reforçada era mais útil em termos de matar os monstros.
 
-Weed looked over her shoulder before he answered. There were two girls in robes and a man who he guessed was a ranger. Once he sized them up, he figured out why they had asked a stranger to join their party.
+Além disso, a lâmina de esculpir não desgastava facilmente, graças a sua alta durabilidade. O que não era uma vantagem para Weed, que tinha conseguido a habilidade de reparação, de modo que a espada de ferro dava muito mais oportunidades para que ele aprimorasse a sua habilidade de reparação, em razão de sua fragilidade, exigindo uma manutenção frequente.
 
-Those users were all ‘squishies’ wearing clothes and leather armor, limited to long-range attacks, so they needed a missing piece—a tanker who would provide protection for them.
+- Ótimo. Eu acho que estou pronto para ir.
 
-It’s not a bad deal. It’s my first battle, and it’s probably better to start off in a party. Always better safe than sorry, he thought.
+Weed balançou a sua espada ao redor.
 
-Weed readily consented, - Sounds good to me.
-- Thank you.
+- Guaxinins, raposas, lobos, podem vir. Eu acabarei com todos vocês.
 
-Weed quickly joined the party.
-- Nice to see you. I am Irene, level 7 priestess. I specialize in healing and divine power protection expertise.
-- I’m a level 6 mage, name’s Romuna. Mainly deal with the element of Fire.
+No momento em que ele saía para caçar…
 
-The two girls introduced themselves first, and then it was the man’s turn. He studied Weed’s face with curiosity before he spoke.
+- Com licença.
 
-- I’m Pale, level 6 archer. You have balls, man, going solo on night hunting like that.
-- Hehe, I’m Surka, level 7 monk.
+Alguém falou com Weed, que estava caminhando em silêncio.
 
-They told him their names and levels, and now it was Weed’s turn.
-- Name’s Weed. Level 3.
-- …
+- Você está sozinho?
 
-A quiet shock swept over the others.
+Weed se virou. Ele viu uma menina de aparência meio fofa a sua frente. Ela vestia um chapéu de algodão e uma armadura de couro azulada.
 
-Pale plucked up courage and asked,
-- And what’re you equipped with?
-- All I’ve got is this sword.
-- …
+*Uma menina!*
 
-Down to the last dust in his pocket, Weed only had five silvers. Fine leather armor, other than disposables, cost thirty silvers.
+Ele disse para si mesmo.
 
-Weed had not bothered with ordinary quests, so he didn’t even have enough money to purchase leather armor.
+- Sim, estou sozinho.
 
-- And your class is…?
-- Undecided,
+Weed respondeu baixando o seu tom.
 
-Weed answered, shaking his head dubiously. He sensed something wasn’t quite right, though he could not pinpoint why.
+- Você quer se juntar a nós em uma missão de caçada? Nós temos um mago, um clérigo, um arqueiro e um monge.
 
-- Gosh! - Pale finally sucked in a breath. He looked completely lost.
-- I guess it’s up to you to take your time deciding what the best class is for you… By the way, it looked like you were hunting alone. Is it your first time out here?
-- Yes, I’m new to the virtual reality game.
-- I see. Why am I not surprised to hear that?
+Weed olhou por cima dos ombros dela antes de responder. Havia duas garotas vestidas em robes e um homem que ele imaginou ser o arqueiro. Uma vez que ele os avaliou, ele descobriu o motivo deles terem pedido que um estranho se juntasse ao grupo.
 
-At Weed’s frank response, Irene and Romuna looked at Surka with scolding eyes. Their looks said that she had picked the wrong guy.
+Todos eles eram personagens vestindo roupas e armadura de couro, limitados a ataques de longa distância, de modo que eles precisavam da peça faltante: um tanker que forneceria a proteção para eles.
 
-Level 3, class: Undecided.
+*Não é um mal negócio. É a minha primeira batalha e provavelmente é melhor começar em um grupo. Sempre é melhor prevenir do que remediar.*
 
-As if that were not bad enough, this shabby-looking kid was a newbie in virtual reality.
+Weed pensou e prontamente consentiu:
 
-Lack of experience usually proves fatal when confronted by a monster in your first battle. You simply lose your calm, lose your reason, and then lose your life, in that order.
+- Parece bom para mim.
+- Muito obrigada.
 
-They were aware of this because they had been through their share of newbie-hood.
+Weed rapidamente se juntou ao grupo.
 
-These animals, though tailored for beginners within reach of the Citadel, are still comparatively fierce and mighty. Quite a challenge for a single player.
-- Whew… I think we’re kind of in trouble.
+- Prazer lhe conhecer. Eu sou Irene, uma sacerdotisa nível 7. Eu sou especialista em cura e proteção divina.
+- Eu sou uma maga de nível 6, meu nome é Romuna. Eu lido principalmente com o elemento fogo.
 
-Pale didn’t know what to say and made an evasive smile. Weed decided to talk straight in order to save everyone from discomfort.
+As duas garotas se apresentaram antes e, em seguida, foi a vez do homem. Ele analisou a cara de Weed com curiosidade antes de falar.
 
-- I’ll leave the party if you think I’ll do more harm than good.
-- I’m sorry.
+- Eu sou Pale, um arqueiro de nível 6. Você tem coragem cara, saindo sozinho para uma caçada noturna desta forma.
+- Hehe, eu sou Surka, uma monja nível 7.
 
-Surka acknowledged her mistake and bowed to Weed apologetically. At the second look, she saw he was wearing basic GIs.
+Eles falaram para ele seus nomes e níveis e agora era a vez de Weed.
 
-- I thought he was strong because he had that iron sword. Geez, where did he get that sword? It looks awfully good… - She said to herself.
+- Meu nome é Weed. Nível 3.
+- ...
 
-Weed broke away from the party and headed to the field alone. Pale and Surka felt guilty having disowned him.
+Um choque silencioso tomou conta deles. Pale reuniu sua coragem e perguntou:
 
-- What should we do now? Look for a replacement?
+- E você está equipado com o que?
+- Tudo que eu tenho é esta espada.
+- ...
 
-Replacements were everywhere. The only commodity that was long on supply on the Versailles Continent was users, and monsters were short in supply.
+Juntando a poeira em seu bolso, Weed tinha apenas cinco moedas de prata. Uma boa armadura de couro, exceto as descartáveis, custava trinta moedas de prata.
 
-- Look, we already shook hands with him.
-- If we fight as a team, it’ll work out, right?
-- I guess so, but…
-- Let’s give it a try.
+Weed não se importou com missões comuns, então ele sequer tinha dinheiro suficiente para comprar uma armadura de couro.
 
-They caught up with Weed. He was busy staring at a bunch of rabbits and raccoons that were hopping about. He was ignorant of monsters in general, how much damage they could inflict and what pattern they would use to attack.
+- E sua classe é…?
+- Sem classe.
 
-Pale asked, - Excuse me, if you’re still interested, we want you to join us.
-- I have a low level. If you’re okay with it, I want to play with you guys,” Weed said cautiously.
-- Well, we’re cool. We are now a team. You don’t need to exert yourself on the front, and if you feel like it, you can stay behind us.
+Weed respondeu, balançando a sua cabeça duvidosamente. Ele sentiu que algo não estava certo, mas ele não sabia apontar o que era.
 
-Pale suggested Weed take cover instead of taking an active role in hunting. In their eyes, he was no more than a pure newbie.
+- Hãããã!?!?!
 
-- Are you sure about it?
-- Yes. You can’t collect as much experience as you are actually bringing your party down when you’re making less contribution, but your priority at this point is raising your level. Listen, level three to level six makes a lot of difference, even though they’re only three levels apart. If you’re at level three and add all stat bonus points in strength, you’ll get twenty-five. I have forty. Add to it ten bonus points in the course of converting to a class, and the gap between you and me widens dramatically.
-- …
+Pale finalmente respirou. Ele parecia completamente perdido.
 
-Pale omitted this, but additional rewards in accordance with a user’s class were more noticeable.
+- Eu acho que é assim até você tomar o seu tempo para decidir qual é a melhor classe… Falando nisso, parecia que você estava caçando sozinho. É a sua primeira vez aqui fora?
+- Sim, eu sou novo em jogos de realidade virtual.
+- Entendo. Por que eu não estou surpreso em ouvir isso?
 
-For instance, take an archer wielding a sword and a sword warrior wielding a sword, the sword warrior can inflict twice the damage as an archer wielding a sword. On the other hand, his arrow will make less than half the damage dealt by the archer. It was, to say the least, a disappointment to the others that Weed was freelance.
-- Now, stay behind and watch us take down mobs for now, Weed-nim. When you find room to spare, get in, have a go and leave. It will help us if you just confuse mobs, divert their agro elsewhere.
+Com a resposta sincera de Weed, Irene e Romuna olharam para Surka com olhos acusadores. Seus olhares diziam que ela havia escolhido o cara errado.
 
-Weed nodded. - I see.
+Nível 3, classe: não definida.
 
-The confusion was settled, and Weed decided to join their party and hunt monsters together. It was a pickup group designed to handle dull beasts around the Citadel, and his teammates had already been engaged in pick-and-roll without him. The thing is, though, that they had realized it was too risky that only Surka, a monk whose agility in dodging attacks compensated for a low defense level, had tanked on the frontline. That was why they had been searching for a tanker.
+Como se isso não bastasse, o garoto de aparência pobre era um novato na realidade virtual.
 
-*****
-- Damn it.
+A falta de experiência normalmente se prova fatal quando confrontado por um monstro em sua primeira batalha. Você simplesmente perde a sua calma, a razão e, em seguida, perde a sua vida, nessa ordem.
 
-Ahn Hyundo, successor of Bonkuk Kumdo, one of the oldest traditional schools for swordsmanship in Korea, pursed his lips in dissatisfaction. In the dojang, hundreds of teenagers and adults were practicing Kumdo, yelling battle cries, or kihap, in the language of Bonkuk Kumdo.
+Eles estavam cientes disto porque tiveram a sua cota durante a fase como novatos.
+
+Estes animais, embora adaptados para iniciantes ao alcance da Cidadela, ainda são relativamente ferozes e poderosos. Um grande desafio para um único jogador.
+
+- Whew… Eu acho que nós temos um pequeno problema.
+
+Pale não sabia o que dizer e deu um sorriso evasivo. Weed decidiu falar direto a fim de poupar todos do desconforto:
+
+- Eu sairei do grupo se vocês acharem que eu farei mais mal do que bem.
+- Me desculpe.
+
+Surka reconheceu seu erro e se curvou para Weed se desculpando. Ao dar uma segunda olhada, ela viu que ele estava vestindo uma roupa básica.
+
+*Eu pensei que ele era forte porque ele tinha aquela espada de ferro. Nossa, de onde ele tirou aquela espada? Ela parece muito boa …*
+
+Ela disse para si mesma.
+
+Weed saiu do grupo e dirigiu-se para o campo sozinho. Pale e Surka se sentiram culpados ao terem renegado ele.
+
+- O que nós deveríamos fazer agora? Procurar um substituto?
+
+Substitutos estavam por toda parte. A única mercadoria que estava em larga oferta no Continente de Versalhes eram usuários. Os monstros é que estavam em falta.
+
+- Olha, nós já apertamos as mãos com ele.
+- Se nós lutarmos como uma equipe, funcionará, certo?
+- Eu acho que sim, mas…
+- Vamos dar uma chance.
+
+Eles alcançaram Weed. Ele estava ocupado olhando para um monte de coelhos e guaxinins que estavam saltitando ao redor. Ele era ignorante sobre os monstros em geral, bem como quanto de dano eles poderiam infligir e o padrão que eles usariam para atacar.
+
+Pale perguntou:
+
+- Me desculpe, se você ainda estiver interessado, nós queremos que você se junte a nós.
+- Eu tenho um nível baixo. Se vocês estiverem ok com isso, eu quero jogar com vocês pessoal.
+
+Weed disse com cautela.
+
+- Bem, nós estamos bem com isso. Nós agora somos um time. Você não precisa se esforçar demais na linha de frente e, se você achar necessário, pode ficar atrás da gente.
+
+Pale sugeriu que Weed protege-se ao invés de tomar uma função ativa na caçada. Aos olhos deles, ele era nada além de um completo novato.
+
+- Você tem certeza disso?
+- Sim. Você não pode reunir o máximo de experiência já que você, na realidade, está causando a queda do seu grupo quando você contribui menos, mas a sua prioridade neste momento é aumentar o seu nível. Ouça, do nível três para o nível seis faz muita diferença, mesmo que sejam apenas uma separação de três níveis. Se você está no nível três e adicionar todos os pontos de atributo em força, você terá vinte e cinco pontos. Eu tenho quarenta. Adicione a isso dez pontos de bônus da conversão para uma classe e a diferença entre mim e você amplia dramaticamente.
+- ...
+
+Pale omitiu isso, mas as recompensas adicionais, em conformidade com a classe de um usuário, eram mais perceptíveis.
+
+Por exemplo, um arqueiro portando uma espada e um guerreiro portando uma espada, a espada do guerreiro causava o dobro de dano do arqueiro com a espada. Por outro lado, a sua flecha causava menos da metade do dano daquela do arqueiro. Isso era, para dizer no mínimo, a decepção para os outros que Weed fosse um freelance.
+
+- Agora, fique atrás e nos observe derrubar os monstros por enquanto, Weed-nim. Quando você ver uma chance sobrando, de um golpe e saia. Isso nos ajudará se você apenas confundir os monstros, desviando a agressividade deles para outro lugar.
+
+Weed concordou:
+
+- Entendo.
+
+A confusão foi resolvida e Weed decidiu juntar-se ao grupo deles e caçar juntos. Era um grupo de captura projetado para lidar com os animais sem graça ao redor da cidadela e seus colegas de grupo já tinham se empenhado sem ele.
+
+A coisa é, porém, que eles tinham percebido que era muito arriscado que apenas Surka, uma monja cuja agilidade em desviar dos ataques compensava o baixo nível de defesa, tinha tankado na linha de frente. Foi por isso que eles estavam em busca de um tanker.
+
+***
+
+- Droga.
+
+Ahn Hyundo, o sucessor do Bonkuk Kumdo (NT = Nota João: arte da espada derivada do kendo; Nota barafael: https://en.wikipedia.org/wiki/Kumdo), uma das escolas mais tradicionais de esgrima da Coréia, apertou os lábios com insatisfação. No dojo, centenas de adolescentes e adultos estavam praticando Kumdo, gritando gritos de guerra ou kihap (NT = Nota barafael: é um grito dado por praticantes do taekwondo ou outras artes marciais ao dar um golpe), na língua do Bonkuk Kumdo.
+
 - Yatz!
+
 - Yatz!
 
-Ahn Hyundo could hear erupting kihaps and the whistling sounds generated by swords in action.
+Ahn Hyundo podia ouvir os kihaps explodindo, bem como os assobios gerados pelas espadas cortando o ar.
 
-Once you master swordsmanship, a sound gives you a clue as to which stage a Kumdo practitioner is in.
+Uma vez que você se torne um mestre no manejo da espada, apenas o som já lhe diz a que nível do Kumdo o praticante se encontra.
 
-Ahn Hyundo was ranked the best Kumdo master, and was recognized worldwide, four-time World Champion of Swordsmanship.
+Ahn Hyundo estava classificado como o melhor mestre em Kumdo e era reconhecido mundialmente por ter sido campeão de esgrima por quatro vezes.
 
-As Ahn Hyundo matured in age, he retreated to his own dojang and dedicated his time and energy to training the next generation of Kumdo practitioners, but his hand and body had never left the sword, even for a second.
-- I haven’t seen anyone with the guts. I should have trained that kid properly when he was around. He’s got something, something that could transcend my talent. Plus he’s got the guts and balls…
+Enquanto Ahn Hyundo amadureceu com o passar dos anos, ele retirou-se para o seu próprio dojo e dedicou o seu tempo e energia para treinar a próxima geração de praticantes de Kumdo, mas a sua mão e corpo nunca tinham deixado a espada, nem por um segundo.
 
-Ahn Hyundo used to be satisfied that he had quite a number of competent apprentices. They had enough talent to qualify for a medal in the World Championship of Swordsmanship that was held every five years.
+- Eu não tinha visto ninguém com coragem. Eu deveria ter treinado aquele garoto apropriadamente quando ele estava por perto. Ele tinha algo, algo que poderia transcender o meu talento. Além disso, ele tinha coragem e bolas…
 
-One day, however, the grand master’s perception had been turned upside down.
+Ahn Hyundo costumava ficar satisfeito com um significante número de aprendizes competentes. Eles tinham talento suficiente para se qualificarem por uma medalha no Campeonato Mundial de Esgrima, que era realizado a cada cinco anos.
 
-*****
+Um dia, porém, a percepção do Grande Mestre foi virada de cabeça para baixo.
 
-A year ago.
+***
 
-A man of about twenty years of age visited Ahn Hyundo’s dojang.
-- Hello, I am Lee Hyun. I’ve come here because they recommended this is the best dojang.
-- Son, you handled a sword before?
-- No, sir. That’s why I’m here to learn it.
-- True. You must learn it. Learn and learn until you have an understanding of the big picture of swordsmanship, then we may talk about who’s the best.
+Um ano atrás.
 
-Ahn Hyundo believed it was the end of it, and forgot about the kid for a while. Then one morning, he saw Lee Hyun swinging a sword in a shower of sunlight.
+Um homem nos seus vinte anos de idade visitou o dojo de Ahn Hyundo.
 
-Lee Hyun swung the sword for hours. His movement synchronized with his breathing patterns, and his sword emitted a beautiful sound. He had already reached a stage beyond what a beginner could achieve in a few months.
+- Olá, eu sou Lee Hyun. Eu vim aqui pois eles recomendaram esse como o melhor dojo.
 
-Ahn Hyundo summoned his subordinate instructors and asked them about Lee Hyun, who turned out to be devoted to ceaseless drills.
-- Speaking of that apprentice, he’s got the bug. I haven’t seen anyone who’s more obsessed with training than him.
-- How obsessed is the kid?
-- Once he picks up a sword, he never lets it go, unless we pull it from his hands.
-- You have to pull the sword from his hands to stop him?
-- Yes, master. If we leave him alone, he will swing the sword hard until he’s completely out of breath. The first day he joined the dojang, he kept swinging the sword even when his palms had been shredded and were bleeding.
-- He went so far…
-- Yes, master. Exactly the same thing occurred on the second day. He trained in sword techniques while bleeding until callus formed, his grip was firm, and his palms were as hard as a rock. So it’s not surprising that he reached this level so fast.
-- He’s amazing!
+- Filho, você já manejou uma espada antes?
 
-Ahn Hyundo had already chosen Lee Hyun to be his successor without telling him so.
+- Não senhor. É por isso que eu estou aqui para aprender.
 
-Talent and hard work. The apprentice had both virtues, and what really captured the master’s mind were his eyes. When Ahn Hyundo instructed his would-be successor to a duel, his eyes glowed with something distinctive.
+- É verdade. Você deve aprender isso. Aprenda e aprenda até que você compreenda o quadro geral da esgrima, então nós poderemos falar quem é o melhor.
 
-It was the will to fight, which an ordinary man whose instinct had been emasculated by civilization could not muster. This was found in Lee Hyun.
+Ahn Hyundo acreditou que era o fim de tudo e esqueceu sobre o garoto por um tempo. Então, uma manhã, ele viu Lee Hyun brandindo uma espada sob a luz do sol.
 
-It was still a time of trial for him. Ahn Hyundo also believed that it was still too early to tell his plans to Lee Hyun, which might jeopardize his progress. Therefore, the master had treated his apprentice rather indifferently, motivating him with plenty of objectives and watching his progress from a distance.
+Lee Hyun balançou a espada por horas. Seus movimentos estavam sincronizados com seus padrões de respiração e a sua espada soltava um belo som. Ele já havia alcançado um estágio além do que qualquer iniciante poderia alcançar em poucos meses.
 
-Then, one day, Lee Hyun stopped checking in at the dojang.
+Ahn Hyundo convocou seus instrutores subordinados e perguntou a eles sobre Lee Hyun, que veio a ser dedicado a treinos intermináveis.
 
-*****
+- Falando desse aprendiz, ele tem um problema. Eu nunca vi ninguém que seja mais obcecado com o treinamento do que ele.
 
-Back to now - Whew.
+- Quão obcecado é o garoto?
 
-Ahn Hyundo’s sigh deepened.
-- I wonder what he’s been doing. I should have made him my successor when I could.
+- Uma vez que ele pega a espada ele nunca a solta, a não ser que a tiremos de suas mãos. (NT = Nota João: ( ͡° ͜ʖ ͡°))
 
-*****
+- Você tem que tirar a espada de suas mãos para pará-lo?
 
-Taking cover behind Pale, Weed was watching the battle from a safe place.
-- Irene, help me!
-- Roger! Fire ball!” Romuna chimed in.
-- Divine power leads us to a triumph, Blessing!”
+- Sim, mestre. Se nós o deixarmos sozinho, ele balançará a espada até ficar completamente sem fôlego. No primeiro dia que ele veio ao dojo, ele ficou balançando a espada mesmo quando as palmas de suas mãos tinham sido retalhadas e estavam sangrando.
 
-While Surka the monk was attacking a fox head-on, Romuna, Pale and Irene attacked at the fox from behind.
+- Ele foi tão longe…
 
-They adopted this strategy because Surka’s level was seven, the highest among them, and the rest were squishes with relatively low life and defense.
+- Sim, mestre. Exatamente o mesmo ocorreu no segundo dia. Ele treina em técnicas de espada, mesmo enquanto está sangrando até que calos se formem. Seu aperto era firme e suas mãos estavam tão duras quanto uma rocha. Portanto, não é surpreendente que ele alcançou este nível tão rápido.
 
-The fox moved swiftly from one place to another. It dodged Surka’s fist with little damage, and the tail attacks when it suddenly spun around were sometimes critical enough to make her back away.
+- Ele é incrível!
 
-With little stamina left, Surka often found herself at the risk of immobilization. Then, Irene would give her rapid healing to replenish her life and stamina while the others attacked the fox to take the aggro away from her.
+Ahn Hyundo já tinha escolhido Lee Hyun para ser o seu sucessor mesmo sem contar a ele.
 
-They’re not bad.
+Talento e trabalho duro. O aprendiz tinha as duas virtudes e o que realmente capturou a mente do mestre eram seus olhos. Quando Ahn Hyundo instruiu seu candidato a sucessor para um duelo, seus olhos brilharam com algo distinto.
 
-The quartet’s teamwork was emphatic.
+Foi a vontade de lutar, que um homem comum cujo instinto foi castrado pela civilização não poderia reunir. Esta vontade foi encontrada em Lee Hyun.
 
-They neither lusted for cheap items, nor became worked up over small things. It appeared to him that the chemistry among his teammates had built up over time. Perhaps they had teamed up in another online game before they migrated to Royal Road.
+Ainda era tempo de provação para ele. Ahn Hyundo também acreditava que ainda era muito cedo para dizer seus planos para Lee Hyun, os quais poderiam prejudicar o seu progresso. Portanto, o mestre tinha tratado o seu aprendiz de forma indiferente, motivando-o com uma abundância de objetivos e observando o seu progresso à distância.
 
-Still, they had to ratchet up the tension while hunting a fox at level five.
+Então, um dia, Lee Hyun parou de vir ao dojo.
 
-Raccoons and rabbits were easy game, which Surka could handle alone. But a fox was tough, to put it mildly.
+***
 
-Weed easily grasped that this party focused on foxes in their hunting spree. He watched the ongoing battle for a while-until he thought he had seen enough of it.
+De volta ao tempo atual…
 
-His sharp eyes analyzed the patterns in movement of the foxes and Surka.
+- Whew.
 
-*It’s easier than I thought.*
+O suspiro de Ahn Hyundo se aprofundou.
 
-They outnumbered their enemy by four to one. The way a fox moved was slow and predictable as far as he could see. He watched it until he gained enough confidence. Then, he held the iron sword and left the cover.
+- Eu me pergunto o que ele vem fazendo. Eu deveria tê-lo feito meu sucessor quando eu podia.
 
-Surka smiled at Weed who was coming up to her side.
-- Watch out, Weed-nim.
-- Yup. - His response was very short.
+***
 
-The monster on their radar was once again a fox.
-- I’m going to attract her attention first Weed-nim, you attack later. Like when it’s almost dead.
+Se protegendo atrás de Pale, Weed estava observando a batalha a partir de um lugar seguro.
 
-Surka punched the fox, which jumped on her in a reflex action. Romuna, Pale and Irene rained projectiles, both physical and magical, on to their victim.
+- Irene, me ajude!
 
-When the fox’s life dropped to one third, Weed slid in.
+- Certo! Fireball (NT = Nota João: Bola de fogo)!
 
-He had little experience of battles previously in virtual reality games, but he was acquainted with real sword fights through hundreds of duels. Plus, he had struck the scarecrow tens of thousand times.
+Romuna entrou na conversa.
 
-The iron sword drew a shiny-white trace in the air in a fraction of second. At the end of the gaudy semi-circle was the fox.
+- O poder divino nos conduz ao triunfo, Blessing (NT = Nota João: Bênção)!
 
-Weed had timed the attack so precisely that the fox could not even try to dodge it.
+Enquanto Surka, a monja, estava atacando a raposa de frente, Romuna, Pale e Irene atacaram pelas costas.
+
+Eles adotaram essa estratégia porque o nível de Surka estava no sete, o maior entre eles e o resto era relativamente frágil, com baixa vida e defesa.
+
+A raposa moveu-se rapidamente de um lugar para outro. Ela se esquivou dos punhos de Surka ao sofrer pouco dano e os ataques de cauda quando ela virava subitamente eram, algumas vezes, críticos o suficiente para fazê-la recuar.
+
+Com pouca estamina restando, Surka muitas vezes encontrou-se correndo o risco de imobilização. Então, Irene lhe daria uma cura rápida para reabastecer a sua vida e estamina, enquanto os outros atacavam a raposa para levar a agressividade dela para longe de Surka.
+
+Eles não são ruins. O trabalho em equipe do quarteto era enfático.
+
+Eles não cobiçaram itens baratos, nem ficavam eufóricos por pequenas coisas. Parecia-lhe que a química entre os seus companheiros tinha sido construída ao longo do tempo. Talvez eles já tivessem formado um time em um outro jogo online antes deles migrarem para Royal Road.
+
+Ainda assim, eles tiveram suas tensões aumentadas enquanto caçavam a raposa de nível cinco.
+
+Guaxinins e coelhos eram fáceis, com os quais Surka poderia lidar sozinha. Porém, uma raposa era difícil, para dizer o mínimo.
+
+Weed facilmente compreendeu que este grupo se focava em raposas em sua maratona de caça. Ele assistiu a batalha em curso por um tempo, até que ele pensou que tinha visto o suficiente.
+
+Seus olhos afiados tinham analisado o padrão de movimentos das raposas e de Surka.
+
+‘Parece ser mais fácil do que eu pensei’.
+
+Eles tinham uma vantagem numérica sobre seu inimigo de 4-1. A forma como uma raposa se movia era lenta e previsível, tanto quanto ele podia ver. Weed observou até ganhar confiança o suficiente e, em seguida, segurou a sua espada de ferro e deixou a cobertura.
+
+Surka sorriu para Weed que estava vindo para o seu lado.
+
+- Tome cuidado, Weed-nim.
+
+- Sim.
+
+A reposta dele foi muito curta.
+
+O monstro na mira deles era mais uma vez uma raposa.
+
+- Eu vou atrair a atenção dela primeiro Weed-nim, você ataca depois. Tipo quando estiver quase morta.
+
+Surka socou a raposa, que pulou nela em reflexo. Romuna, Pale e Irene atiraram projeteis, ambos físicos e mágicos, sobre a vítima deles.
+
+Quando a vida da raposa caiu para um terço, Weed apareceu.
+
+Ele tinha pouca experiência em batalhas anteriores em jogos de realidade virtual, mas ele era familiar com lutas com espadas de verdade por centenas de duelos. Além disso, ele bateu no espantalho dezenas de milhares de vezes.
+
+A espada de ferro desenhou um traço branco brilhante no ar em uma fração de segundo. No final do semicírculo espalhafatoso estava a raposa.
+
+Weed calculou o tempo de seu ataque tão precisamente que a raposa não pôde nem tentar desviar.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">CRITICAL HIT!</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">CRITICAL HIT!</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-A message window that was visible only to Weed popped up. Critical hit!
+ Uma janela de mensagem que era visível apenas para Weed apareceu. Acerto crítico!
 
-That only appeared when the damage was doubled as a result of an effective attack, the outcome of exquisite timing.
+Aquilo apenas aparecia quando o dano era dobrado como resultado de um ataque efetivo, por causa de um excelente timing.
 
-*Glint*
+*Glint* (NT = Nota barafael: clarão de luz)
 
-The fox was cut in half, and disappeared in a flash. It dropped two items. A fox pelt and meat.
+A raposa foi cortada ao meio e desapareceu em um flash. Ela derrubou dois itens: pele de raposa e carne.
 
-You can turn meat to steaks by cooking on a bonfire, and fox pelt is one of the most widely used materials for clothes. This kind of production process requires related skills. Newbies rarely learn such skills as cooking and tailoring. It is more often than not that these items are destined to end up on a shelf in the nearest grocery store.
-- Great move! You were lucky this time.
+Você pode transformar carne em bifes ao cozinha-la em uma fogueira e a pele de raposa é um dos materiais mais utilizados para roupas. Este tipo de processo de produção requer habilidades relacionadas. Novatos raramente aprendem habilidades como cozinhar e costurar. É mais do que frequente que esses itens estejam destinados a acabar em uma prateleira no mercado mais próximo.
 
-Grinning, Surka collected the items.
+- Belo movimento! Você deu sorte dessa vez.
 
-Pale and Romuna, who had been casting the most powerful spells in case of a counterattack, were delighted by their new teammate’s success.
-- Weed-nim, we’ll distribute items among us when the hunting mission’s over.
-- Alright.
-- Then, I’ll go lure another fox. Everyone, get ready.
-- Okay. Bring a fox full of items again.
-- Shoot. Wish it were up to me.” grumbled Surka comically.
+Sorrindo, Surka coletou os itens.
 
-She dealt a punch to a fox that was wandering by, and attracted it closer.
+Pale e Romuna, que estavam invocando seus feitiços mais poderosos no caso de um contra-ataque, ficaram maravilhados com o sucesso do novo colega do time.
+
+- Weed-nim, nós distribuiremos os itens entre nós quando a missão de caçada acabar.
+
+- Certo.
+
+- Então, eu trarei outra raposa. Todo mundo, fiquem prontos.
+
+- Okay. Traga uma raposa cheia de itens novamente.
+
+- Droga. Eu gostaria que viessem até mim.
+
+Surka resmungou comicamente.
+
+Ela deu um soco na raposa que estava andando por ali e a atraiu para mais perto.
+
 - Fireball!
-- Blessing. Healing Hand!
 
-Surka put up a tough fight as the fox was moving swiftly. Pale and Romuna pressured the fox persistently.
+- Blessing. Healing Hand!” (NT = Nota João: Mão Cicatrizante)
 
-Weed’s iron sword began to move when the fox had forty percent of life remaining. The sword slid out of the sheath and struck the fox like lightning.
+Surka teve uma luta difícil já que a raposa estava se movendo rapidamente. Pale e Romuna pressionaram a raposa persistentemente.
 
-*Swish*
+A espada de ferro do Weed começou a se mover quando a raposa tinha quarenta por cento de vida restando. A espada deslizou para fora da bainha e golpeou a raposa como um relâmpago.
 
-As luck would have it, the fox didn’t drop any item this time, not that items dropped by ordinary foxes were of any great value.
+*Swish* (NT = Nota barafael: chibatada)
 
-For the third fox, the sword went into action with fifty percent of its life remaining.
+Como se ele tivesse sorte, a raposa não deixou cair qualquer item desta vez, não que os itens derrubados pelas raposas comuns tivessem grande valor.
 
-A critical hit didn’t burst this time, so the fox survived Weed’s first strike. It was followed by a sequence attack that flowed like liquid. The slain fox left only one item.
-- What?
-- It seems strange.
-- We’re hunting foxes faster.
-- When Weed attacks them, they almost always die.
+Para a terceira raposa, a espada entrou em ação com cinquenta por cento da vida remanescente.
 
-A few foxes later, his other teammates detected the pattern.
+Um acerto crítico não explodiu desta vez, então a raposa sobreviveu ao primeiro ataque de Weed. Ela foi seguida por uma sequência de ataques que fluíram como líquido. A raposa morta deixou apenas um item.
 
-Since Weed had joined the party, the pace at which they were hunting foxes had picked up. As soon as he pulled out his iron sword, foxes were helplessly slaughtered. They disappeared in a gray flash the moment Weed brandished the sword.
-- What in the world!
+- O que?
 
-Pale’s mouth dropped open, planning to stay there for some time. For Weed slew foxes so fast, Surka was busy drawing new ones from far away.
+- Isso parece estranho.
 
-Even if Pale didn’t bother shooting arrows, the pace of hunting hardly slowed down. This apparently inexplicable situation in the eyes of everyone else in his party was attributed to Weed’s stats.
+- Nós estamos caçando raposas mais rápido.
 
-Initially, Weed had been given ten points in strength at the activation of his account, plus forty points that he had obtained from the Training Hall. He had invested stat bonus points acquired by the two level-ups equally in strength and agility. As a result, his strength and agility were both fifty-five, and stamina fifty.
+- Quando Weed as ataca, elas quase sempre morrem.
 
-Moreover, Weed enjoyed ten points in strength from the iron sword he was equipped with. To achieve this level of strength solely by raising your level, you need to hit level eleven as you invest fully in strength.
+Algumas raposas mais tarde e seus outros colegas de grupo detectaram o padrão.
 
-More remarkably, Weed’s agility, stamina, willpower and vitality were way beyond his current level. It needs at least eight to nine extra level-ups to improve so much.
+Desde que Weed se juntou ao grupo, o ritmo em que eles estavam caçando raposas tinha subido. Assim que ele puxava a sua espada de ferro, as raposas eram abatidas sem dó. Elas desapareciam em uma luz cinza no momento em que Weed brandia a espada.
 
-Weed, level three, rivaled an average level 30 warrior.
+- O que é isso?!
 
-A more surprising fact was that he had advanced sword mastery to level four while striking the scarecrow. It translated into forty percent more damage dealt to the enemy.
+A boca de Pale caiu aberta, planejando ficar lá por algum tempo. Por Weed ter matado as raposas tão rápido, Surka estava ocupada trazendo novas de mais longe.
 
-Weed’s current level in sword mastery was four plus 98 percent. Once it reached level five, the effect on attack power would increase to fifty percent. Last but not least, the iron sword that the instructor had given Weed was a sort of high-powered luxury compared to his level. To sum it up, a fox was no match for Weed.
+Mesmo se Pale não se preocupasse em atirar flechas, o ritmo da caça mal diminuía. Esta situação aparentemente inexplicável aos olhos de todos os outros em seu grupo foi atribuída aos atributos de Weed.
 
-‘That sword must be a unique item.’ Pale immediately became suspicious. Otherwise, they could not come up with a proper explanation for Weed’s uncommon strength. They were still newbies, so they could not see how Weed knew how to come in at the right moment.
+Inicialmente, Weed tinha distribuído dez pontos em força na ativação de sua conta, além dos quarenta pontos que ele tinha obtido a partir do Centro de Treinamento. Ele tinha investido os pontos bônus adquiridos pelos dois níveis que ele havia ganho igualmente em força e agilidade. Como resultado, a sua força e agilidade eram ambas cinquenta e cinco e a estamina estava em cinquenta.
 
-In battles in virtual reality online games, as they are based on real-time movements, a martial art maniac is obviously better positioned than a klutz.
+Além disso, Weed desfrutava de dez pontos de força a partir da espada de ferro com a qual ele estava equipado. Para atingir este nível de força unicamente por aumentar o seu nível, você precisaria atingir o nível onze, isso se investisse tudo em força.
 
-Weed utilized the sword techniques that he had trained for during the whole year, down to trivial-looking footwork, which was invisible to the untrained eye. They simply believed that his sword was superb.
-- Great.
+Mais notavelmente, a agilidade, resistência, força de vontade e vitalidade de Weed estavam muito além de seu nível atual. Ele precisaria de pelo menos oito a nove níveis a mais para melhorar tanto.
 
-Excited, Surka lured foxes one by one.
+Weed, no nível três, rivalizava um guerreiro comum no nível 30.
 
-Weed held the iron sword tight. He was in high spirits because the sword techniques he had examined and learned were proving productive.
-- I didn’t waste the year. Now to deal with these pests! - he cried to himself.
+Um fato mais surpreendente foi que ele tinha avançado no domínio espada para o nível quatro enquanto estava atacando o espantalho. Isso traduzia em quarenta por cento a mais de dano causado ao inimigo.
+
+O nível atual de Weed em domínio de espada era quatro, e estavam em 98 por cento para atingir o próximo nível. Uma vez que alcançasse o nível cinco, o efeito sobre o poder de ataque passaria a ser de cinquenta por cento a mais. Por último, mas não menos importante, a espada de ferro que o instrutor tinha dado a Weed era de um tipo de alto poder, um luxo em comparação ao seu nível. Para resumir, uma raposa não era páreo para Weed.
+
+‘Essa espada deve ser um item único’.
+
+Pale imediatamente suspeitou. Caso contrário, eles não poderiam vir com uma explicação adequada para a força incomum de Weed. Eles ainda eram novatos, então eles não podiam ver como Weed sabia como entrar na luta no momento certo.
+
+Em batalhas em jogos online de realidade virtual, como eles são baseados em movimentos em tempo real, um maníaco por artes marciais estará, obviamente, melhor posicionado do que um desajeitado.
+
+Weed utilizou as técnicas de espada para as quais ele havia treinado durante todo o ano, bem como o trabalho de pernas trivial, que era invisível para o olho destreinado. Eles acreditavam simplesmente que a sua espada era excelente.
+
+- Ótimo.
+
+Excitada, Surka trazia as raposas uma a uma.
+
+Weed segurou a espada de ferro de forma firme. Ele estava de bom humor, porque as técnicas de espada que ele tinha examinado e aprendido estavam se revelando produtivas.
+
+‘Eu não perdi um ano à toa. Agora vamos lidar com essas pragas!’
+
+Ele gritou consigo.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">CRITICAL HIT!</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">CRITICAL HIT!</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-Many of Weed’s attacks were deemed critical. He predicted where the fox would move, and executed his attack exactly where it went. His yearlong training that demanded sweat and blood was bearing fruit.
-- Yatz! Yatz!” These brisk battle cries came from his mouth. He was immersed in his own fight, keeping eye contact with the foxes and swinging the sword mercilessly.
+ Muitos dos ataques de Weed eram considerados críticos. Ele previa onde a raposa se moveria e executava o seu ataque exatamente onde ela ia. Seu longo treinamento de um ano que lhe exigiu suor e sangue estava dando frutos.
 
-Irene and Romuna giggled at the comical sight of Weed acting and looking so serious. Suddenly, the fox’s paw scratched him on the chest.
+- Yatz! Yatz!
+
+Esses gritos de guerra enérgicos saiam de sua boca. Ele estava imerso em sua própria luta, mantendo contato visual com as raposas e balançando a espada impiedosamente.
+
+Irene e Romuna riram com a visão cômica de Weed agindo e olhando tão sério. De repente, a pata da raposa arranhou-o no peito.
+
 - Healing Hand!
 
-Weed’s torso flashed in white. Then he realized that, even before he received the divine power, the gauge of his life dropped minimally.
+O torso de Weed brilhou em branco. Então ele percebeu que, mesmo antes de receber o poder divino, o indicador de sua vida caiu minimamente.
 
-*Maybe…* he pondered.
+*Talvez…*
 
-Weed called out to Surka, who was running to draw another fox,
-- Surka-nim
-- Yes, Weed-nim?
-- What’s your life?
-- It’s 150. Why?
-- Oh, nothing. I’m just curious.
+Ele pensou.
 
-A fox could give a maximum damage of 15. Defenseless, Weed had to absorb the full damage, but his life was over seven hundred.
-- Okay, Surka-nim. How about I do the tanking for now?
-- Are you sure it’s okay?
-- Yup. So, you keep drawing foxes. Romuna-nim and Irene can’t move far away because their stamina runs out quickly. Pale-nim, can you shoot at foxes in the distance to lure them over here?
+Weed chamou Surka, que estava correndo para trazer outra raposa.
 
-In a short time, Weed had assumed the role of leader of the party.
-- Of course.
-- Then, Pale-nim, please help Surka-nim bring foxes here.
+- Surka-nim.
+- Sim, Weed-nim?
+- Quanto é a sua vida?
+- É 150. Por que?
+- Oh, não é nada. Estou apenas curioso.
 
-Weed moved wildly. When Surka ran back, taking damage from a fox, he quickly took care of it. Those foxes drawn by Pale’s arrows fell immediately by his sword, only to vanish in a gray flash. Weed hit level 4. He decided to invest every stat bonus points in agility.
+A raposa lhe causava no máximo 15 de dano. Sem qualquer proteção, Weed tinha de absorver o dano completo, mas a sua vida era superior a setecentos pontos.
 
-The higher the agility is, the more easy it is to dodge an enemy attack and more likely you are to hit the enemy. It is directly related to evasion and accuracy.
+- Okay, Surka-nim. Que tal eu fazer o papel de tanker agora?
+- Você tem certeza de que está tudo bem?
+- Sim. Assim, você se mantém trazendo as raposas. Romuna-nim e Irene não podem se mover muito longe, porque a resistência delas se esgota rapidamente. Pale-nim, você pode atirar nas raposas de uma distância para atraí-las para cá?
 
-The iron sword in Weed’s possession was marvelous for a novice, providing extra leverage in strength. So he boldly invested 5 points in agility, instead of strengthening his avatar.
+Em um curto período de tempo, Weed assumiu a função de líder do grupo.
 
-The hunting spree continued. Excited by the fast pace, Romuna and Irene could not believe their luck. They had never experienced such fantastic hunting.
-- Surka, bring more foxes here.
-- Exactly. Just leave everything else to us. You can concentrate entirely on the bait.
-- Okay, Unni.
+- É claro.
+- Então, Pale-nim, por favor ajude Surka-nim a trazer as raposas para cá.
 
-Surka was busy drawing foxes to them. So was Pale.
+Weed moveu-se selvagemente. Quando Surka correu de volta, tomando dano de uma raposa, ele rapidamente tomou conta dela. Aquelas raposas puxadas pelas flechas de Pale caíram imediatamente por sua espada, apenas para desaparecer em um flash cinza. Weed chegou no nível 4. Ele decidiu investir todos os pontos de atributo em agilidade.
 
-If Weed had hunted by himself, he would have to roam in search of target monsters and often take a rest to replenish his stamina when it ran out. Instead, his party provided bait and a priest for him, which unarguably quickened the pace of hunting.
+Quanto maior fosse a agilidade, mais fácil ficava para desviar de um ataque inimigo e mais provável ficava de você acertar o inimigo. Ela é diretamente relacionada com a evasão e precisão.
 
-It’s not like a solo playing.
+A espada de ferro de Weed era maravilhosa para um novato, provendo um acréscimo extra de força. Então ele investiu cegamente 5 pontos em agilidade, ao invés de fortalecer o seu personagem.
 
-Back when Weed played The Continent of Magick, he had always been surrounded by monsters.
+A caçada em série continuou. Animadas pelo ritmo acelerado, Romuna e Irene não podiam acreditar na sorte delas. Elas nunca tinham experimentado uma caçada tão fantástica.
 
-Weed used to walk in a dungeon populated by monsters and fight them as he pleased. He had logged on days and nights until he finally ran out of potions and herbs.
+- Surka, traga mais raposas para cá.
+- Exatamente. Basta deixar tudo para nós. Você pode se concentrar inteiramente em ser a isca.
+- Certo, unni.
 
-The inventory had been saddled with so many items that it interfered with his movement. Monsters had surprised him everywhere. Weed had fought on in a circle of monsters.
+Surka estava ocupada trazendo raposas para eles. Assim como Pale.
 
-He had killed so many, and in return, been killed as many times.
+Se Weed tivesse caçado por si mesmo, ele teria que vagar em busca de monstros e muitas vezes ter de descansar para repor a sua estamina quando ela acabasse. Em vez disso, o seu grupo servia de isca e tinha uma sacerdotisa para cura-lo, o que indiscutivelmente acelerou o ritmo de caçada.
 
-Weed felt that a group game was far from the way he used to play. It was more effective, and he was having more fun. Their strategy soon backfired.
+Não era como jogar sozinho.
+
+Na época em que Weed jogava Continent of Magic, ele sempre estava cercado por monstros.
+
+Weed costumava andar em uma masmorra povoada por monstros e os combatia como quisesse. Ele tinha ficado online dias e noites até que ele finalmente ficou sem poções e ervas.
+
+O inventário estava sobrecarregado com tantos itens que eles interferiam com o seu movimento. Os monstros o surpreendiam em todos os lugares. Weed tinha lutado em um círculo de monstros.
+
+Ele tinha matado muitos e, em troca, tinha morrido muitas vezes.
+
+Weed sentiu que um jogo em grupo estava longe de ser a maneira como ele costumava jogar. Era mais eficaz e ele estava se divertindo mais. Porém, a estratégia deles logo saiu pela culatra.
+
 - Kyah!
 
-Surka made a deadly mistake. When she tried to bait a fox, she unintentionally caught a wolf’s attention.
+Surka cometeu um erro mortal. Quando ela tentou chamar a atenção de uma raposa, ela involuntariamente chamou a atenção de um lobo.
 
-While trying to run away, Surka screamed, “Run away, everyone!
+Ao tentar fugir, Surka gritou:
 
-*Growl*
-
-The wolf was chasing after Surka on four legs. Its monstrous muzzle dripped saliva.
-
-While the rest faltered, Surka was constantly assaulted by the wolf. It was faster than a fox, easily gaining on her. It looked hopeless.
-- I’ll rescue her. You should all run away. By the power of the Holy Spirit, restore her health. Healing Hand!
-
-Irene the priestess rejected the impulse to run for her life, and cast the Healing Hand over and over to refill Surka’s diminishing life.
-- Damn it!
-
-After a moment’s indecision, Pale began shooting arrows at the wolf.
-
-One, two, three shots. As soon as he loaded an arrow on his bow, he shot it. The multiple shots, his signature skill, flew at the wolf, but it hardly flinched.
-
-Now that the wolf had registered the entire party as its enemy, it would eventually attack Irene and Pale after it had finished off Surka.
-
-Then, what would Weed do? He held the iron sword and stepped forward.
-
-Can I make it? Why not! At first sight, the wolf’s teeth and claws looked threatening.
-
-Weed had bet that the wolf would throw its heavy weight on him and, rather than clawing, bite him in a crazed fashion.
-- You’d better deal with me before anyone else, - Weed said, standing in the wolf’s way.
-
-Weed didn’t expect the wolf to understand what he had said, but as if it knew from instinct that the deadliest enemy had just appeared, it turned its eyes on him.
+- Fujam todos!
 
 *Growl*
 
-The wolf leapt off the ground, straight at Weed.
+O lobo estava perseguindo Surka sobre as suas quatro patas. O focinho monstruoso estava derrubando saliva.
 
-Weed rolled to one side swiftly, out of the path where the wolf was charging, and swung the sword. Its teeth nearly slit his throat.
+Enquanto o resto hesitou, Surka constantemente foi agredida pelo lobo. Era mais rápido que uma raposa, facilmente ganhando sobre dela. Parecia impossível.
 
-That scratch alone slashed 80 points of his life.
-- Weed-nim, run away! My mana ran out, so I can’t help you with Healing Hand, - Irene shouted.
-- Shoot. What kind of priestess doesn’t know how to manage her mana?” he said to himself.
+- Eu irei resgatá-la. Todos vocês devem fugir. Pelo poder do Espírito Santo, restaure a vida dela. Healing Hands!
 
-Since Irene was fully assigned to healing, she should have always reserved a sufficient amount of mana in case of emergency. If not, someone could end up lying dead, or in the worst scenario, the entire party would face annihilation.
+Irene, a sacerdotisa, rejeitou o impulso de correr por sua vida e lançou a habilidade Healing Hands mais e mais para encher de vida de Surka que estava diminuindo.
 
-Weed had believed Irene must have had something up her sleeve when she volunteered to come to Surka’s rescue. To his dismay though, all that she, a priestess by nature, had was heart.
+- Droga!
 
-The current predicament didn’t give Weed any time to blame her. The wolf was growling at him.
+Após um momento de indecisão, Pale começou a atirar flechas contra o lobo.
 
-After a few flames from Romuna, no more reinforcing magical power came flying from behind. Apparently, she had run out of mana.
+Um, dois, três tiros. Assim que ele carregava uma flecha no seu arco, ele disparava. Os múltiplos tiros, sua habilidade característica, voou para o lobo, mas ele dificilmente retraiu os seus ataques.
 
-Only Pale was left shooting arrows from a distance. The wolf got bloody, yet Pale’s futile attempts only prompted it to intensify its aggression.
-- Bring it on, you bitch!” Weed yelled as he swung the sword and confronted the wolf.
+Agora que o lobo tinha registrado o grupo todo como inimigo, ele iria eventualmente atacar Irene e Pale depois de acabar com Surka.
+
+E agora, o que Weed faz? Ele segurou a espada de ferro e avançou.
+
+*Eu posso fazer isso? Por que não!*
+
+À primeira vista, os dentes e as garras do lobo pareciam ameaçadores.
+
+Weed tinha apostado que o lobo jogaria o seu peso sobre ele e, em vez de arranhá-lo, o morderia de uma forma louca.
+
+- É melhor você lidar comigo antes de qualquer outra pessoa.
+
+Weed disse, enquanto permanecia de pé no caminho do lobo.
+
+Weed não esperava que o lobo entendesse o que ele havia dito, mas como se ele soubesse por instinto que o inimigo mortal acabara de aparecer, ele voltou os seus olhos em direção a Weed.
+
+*Growl*
+
+O lobo saltou do chão direto para Weed.
+
+Weed rolou para um lado rapidamente, fora do caminho de onde o lobo estava investindo e balançou a espada. Os dentes do lobo quase cortaram a sua garganta. O arranhão sozinho tirou 80 pontos de sua vida
+
+Irene gritou:
+
+- Weed-nim, fuja! Minha mana acabou e por isso eu não posso ajudá-lo com a Healing Hand.
+
+*Merda. Que tipo de sacerdotisa não sabe como gerenciar sua mana?* - Weed pensou.
+
+Já que Irene estava totalmente atribuída para a cura, ela deveria sempre reservar uma quantidade suficiente de mana em caso de emergência. Se não, alguém poderia acabar morto ou, no pior cenário, todo o grupo teria de enfrentar a aniquilação.
+
+Weed tinha acreditado que Irene tivesse algo em sua manga quando ela se ofereceu para vir em socorro de Surka. Para sua decepção, porém, tudo o que ela tinha, uma sacerdotisa por natureza, era a sua bondade.
+
+A situação atual não deu a Weed qualquer momento para culpá-la. O lobo estava rosnando para ele.
+
+Depois de algumas chamas de Romuna, nenhum poder mágico veio voando por trás. Aparentemente, a mana dela tinha acabado.
+
+Apenas Pale continuava a disparar flechas à distância. O lobo estava sangrando, mas as tentativas fúteis de Pale só aumentaram a raiva dele.
+
+- Vamos vadia!
+
+Weed gritou enquanto balançava a espada e confrontou o lobo.
 
 *Howl*
 
-Yelping, the wolf leapt on him. From that time, Weed’s pose and moves changed drastically.
+Latindo, o lobo saltou sobre ele. A partir desse momento, a pose e movimentos de Weed mudaram drasticamente.
 
-His legs were glued to the ground while his waist and shoulders rocked back and forth. Like a breeze, Weed let the fierce wolf pass by.
+Suas pernas colaram ao chão, enquanto a sua cintura e ombros balançaram para trás e para frente. Como uma brisa, Weed deixou o lobo feroz passar.
 
-*I’ll be a fool if I die here!*
+*Eu serei um tolo se eu morrer aqui!*
 
-Weed was capable of predicting the wolf’s next move, and a single wound wasn’t as much as he had been afraid of.
+Weed era capaz de prever o próximo movimento do lobo e uma única ferida não era tão ruim como ele pensava que fosse.
 
-*I know I can defeat it!*
+*Eu sei que posso derrota-lo!*
 
-Weed loosened his grip on the sword on purpose.
+Weed afrouxou o seu aperto na espada de propósito.
 
-*Wail*
+*Vuuup*
 
-The wolf groaned in a cry of pain. Even after Weed had sacrificed a portion of his power in exchange for a higher speed, the physical damage delivered by his sword was substantial.
-- Damn it!
+O lobo gemeu em um grito de dor. Mesmo depois de Weed ter sacrificado uma parte de seu poder em troca de uma maior velocidade, o dano físico entregue por sua espada foi substancial.
 
-Weed was also wounded every time the wolf clawed at him. His life of 700 fell to 200.
+- Droga!
 
-He was already coated in his own blood.
-- Sorry, Weed-nim! I can’t pin it down. It’s moving too fast!
+Weed também era ferido cada vez que o lobo se agarrava a ele. Sua vida de 700 caiu para 200. Ele já estava banhado em seu próprio sangue.
 
-Pale’s low agility made it impossible to make a hit on the wolf, which moved like a streak of lightning.
-- I’ll fight, too.
+- Desculpa Weed-nim! Eu não consigo prendê-lo. Ele está se movimentando muito rápido!
 
-Surka came to Weed. She had already been injured when she had been chased by the wolf, her life lower than half.
+A agilidade baixa de Pale tornou impossível que ele acertasse o lobo, que se movia como um raio.
 
-Stumbling with shaky legs, Weed said, “Now, listen. You guys should all run to safety while I can still cover you.
-- But…
-- It’s the only chance you have. Now!
+- Eu lutarei também.
 
-Pale and Surka looked at each other, but their legs showed no sign of fleeing.
+Surka veio até Weed. Ela já tinha sido ferida quando ela tinha sido perseguida pelo lobo, sua vida estava abaixo da metade.
 
-Then, Weed murmured bleakly, “You fools! What’s the point of sacrificing your life for a stranger?
+Tropeçando com as pernas trêmulas, Weed disse:
 
-Pale felt like crying. For the record, Weed could have escaped death if he had decided to. He could have outrun the wolf to the gate of the Citadel where the guards would protect him from the threat.
+- Agora, ouçam. Todos vocês devem correr para um local seguro, enquanto eu ainda posso cobri-los.
+- Mas…
+- É a única chance que vocês têm. Agora!
 
-Instead, Weed had stepped up, held his sword and his ground, and faced the wolf for his teammates, who he had never seen hours before.
-- Weed-nim. - Surka’s eyes were watering. She, so innocent and sensitive, was deeply touched by Weed’s heroic act.
+Pale e Surka se entreolharam, mas as pernas deles não mostraram sinais de fugir.
 
-Staring at the wolf, Weed said firmly. - If you want to stay here, so be it. I’ll do my best to fight the bitch. Still, you must get the heck out of here the moment I get killed.
-- Yes.
-- Promise me you will.
+Então, Weed murmurou desolado:
+
+- Seus tolos! Qual é o sentido de sacrificarem as suas vidas por um estranho?
+
+Pale teve vontade de chorar. Para registro, Weed poderia ter escapado da morte se ele quisesse. Ele poderia ter corrido mais que o lobo para o portão da Cidadela, onde os guardas iriam protegê-lo da ameaça.
+
+Em vez disso, Weed tinha avançado, segurando a sua espada e assegurando o seu território, bem como enfrentou o lobo por seus companheiros, os quais ele nunca tinha visto até horas antes.
+
+- Weed-nim.
+
+Os olhos de Surka estavam lacrimejando. Ela, tão inocente e sensível, ficou profundamente tocada pelo ato heroico de Weed.
+
+Olhando para o lobo, Weed disse com firmeza:
+
+- Se você quer ficar aqui, que assim seja. Vou fazer o meu melhor para combater esse monstro. Ainda assim, vocês devem dar o fora daqui no momento que eu morrer.
+- Sim.
+- Prometam que vocês irão.
 - Okay.
 
-Surka and Pale walked away, creating a stage, and Weed got down to a bloody fight against the wolf, which still posed a serious threat.
+Surka e Pale se afastaram, criando um palco e Weed desceu para uma luta sangrenta contra o lobo, que ainda representava uma séria ameaça.
 
-Weed’s life descended to 150 and before long, it went down to 70. The iron sword kept on missing the wolf by inches.
+A vida de Weed desceu para 150 e, em pouco tempo, para 70. A espada de ferro continuou errando o lobo por polegadas.
 
-The wolf was bleeding so heavily that it seemed that a single hit could knock it down, but Weed had failed to make the final strike so far.
+O lobo estava sangrando tão fortemente que parecia que um único golpe poderia derrubá-lo, mas Weed não tinha conseguido dar o golpe final até agora.
 
-Irene and Romuna realized that Weed’s life finally reached the life-risking moment, below ten percent.
+Irene e Romuna perceberam que a vida de Weed finalmente havia chegou a um ponto mais arriscado, abaixo dos dez por cento.
 
-Pale’s heart raced, and Surka’s pounded. They tried to attract aggression from the wolf, but it knew Weed was the one to kill, entirely neglecting minor players.
+O coração de Pale disparou e o de Surka estava esmagado. Eles tentaram atrair as agressões do lobo, mas sabiam que era Weed aquele que ele queria matar, negligenciando completamente jogadores de nível mais baixo como eles.
 
-One more hit from the wolf, and Weed would die.
+Mais um acerto do lobo e Weed morreria.
 
-If Weed died, he would lose some items from his inventory, drop one or more levels and be penalized by having his access to Royal Road denied for the next twenty-four hours, all because Weed decided to sacrifice his life to save a bunch of strangers.
+Se Weed morresse, ele perderia alguns itens de seu inventário, cairia um ou mais níveis e seria penalizado com o acesso negado a Royal Road pelas próximas vinte e quatro horas, tudo isso porque decidiu sacrificar a sua vida para salvar um monte de estranhos.
 
-The wolf snickered, sensing it had the upper hand of his archenemy.
+O lobo riu em silêncio, percebendo que tinha uma vantagem sobre o seu arqui-inimigo.
 
 *Growl*
 
-When the wolf leapt to kill Weed with its final strike, his sword, which had missed it repeatedly, finally tore its ribs.
+Quando o lobo saltou para matar Weed com o seu golpe final, a espada de Weed, que tinha errado repetidamente, finalmente rasgou as costelas do lobo.
 
-Before Weed’s eyes, a cascade of message windows burst open.
+Diante dos olhos de Weed uma cascata de mensagens foi aberta.
 
 *Ting*
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-            <tr>
-                <td>
-                    <p align="center">You have leveled up!</p>
-                    <p align="center">Level up: Sword Mastery (Beginner Lv: 5 | 0%):</p>
-                    <p align="center">+50% Strength</p>
-                    <p align="center">+15% Agility</p>
-                    <p align="center">New Skill: Sculpting Blade</p>
-                </td>
-            </tr>
+<tr>
+    <td>
+        <p align="center">Você subiu de nível!</p>
+        <p align="center">Subiu de nível: Sword Mastery (Iniciante Nv: 5 | 0%):</p>
+        <p align="center">+50% Força</p>
+        <p align="center">+15% Agilidade</p>
+        <p align="center">Nova Habilidade: Sculpting Blade</p>
+    </td>
+</tr>
         </tbody>
     </table>
 </div>
 
-So many EXPs were pouring from the wolf that his level escalated to 5. Weed shook his head, half wondering.
+Tanta experiência exalou do lobo que seu nível subiu para 5. Weed balançou a sua cabeça, imaginando.
 
-- What’s the Sculpting Blade skill?
-- Open Skill Window
+*O que é essa habilidade Sculpting Blade?*
+
+- Abrir janela de habilidades.
 
 <div align="center" class="quest-center"><table border="1" cellspacing="3" cellpadding="0"><tbody>
     <tr>
         <td>
-            <p align="center">Identification (Beginner Lv: 1 | 0%):</p>
-            <p align="center">Enables you to learn the true value of unidentified items.</p>
-            <p align="center">Mana consumption: 30.</p>
+<p align="center">Identification (Iniciante Lv: 1 | 0%):</p>
+<p align="center">Permite você identificar o verdadeiro valor de itens não identificados.</p>
+<p align="center">Consumo de Mana: 30.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p align="center">Sculpture Mastery (Beginner Lv: 1 | 0%):</p>
-            <p align="center">Enables you to carve or engrave various types of materials. Artworks of a high artistic value are worth a fortune. Easier to win a girl’s heart.</p>
+<p align="center">Sculpture Mastery (Iniciante Lv: 1 | 0%):</p>
+<p align="center">Permite você esculpir ou gravar vários tipos de materiais.</p>
+<p align="center">Trabalhos de arte com alto valor artístico valem uma fortuna.</p>
+<p align="center">É o caminho mais fácil para o coração de uma garota.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p align="center">Repair (Beginner Lv: 1 | 0%):</p>
-            <p align="center">Enables you to repair weapons and armors. Beyond level 5, you can forge new weapons and gears.</p>
+<p align="center">Repair (Iniciante Lv: 1 | 0%):</p>
+<p align="center">Permite você consertar armas e armaduras.</p>
+<p align="center">Após o nível 5, você pode forjar novas armas e equipamentos.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p align="center">Handicraft (Beginner Lv: 1 | 0%):</p>
-            <p align="center">Has extra effects on various types of craft skills, and sword mastery.</p>
+<p align="center">Handicraft (Iniciante Lv: 1 | 0%):</p>
+<p align="center">Tem efeitos extras em vários tipos de habilidades de produção e na maestria com espadas.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p align="center">Sword Mastery (Beginner Lv: 5 | 0%):</p>
-            <p align="center">Increases attack power and hit rating for swords.</p>
+<p align="center">Sword Mastery (Iniciante Lv: 5 | 0%):</p>
+<p align="center">Aumenta o poder de ataque e a chance de acerto das espadas.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p align="center">Sculpting Blade technique (Beginner Lv: 1 | 0%):</p>
-            <p align="center">Enables you to carve the invisible, the intangible.</p>
-            <p align="center">Mana consumption: 50 per second.</p>
-            <p align="center">The legend tells that Grand Master Zahab accidentally discovered a way of truth when he was practicing the sculptural art—that sculpture is an art of transforming all creations at the sculptor’s will. Zahab’s secret technique is passed down to his successor.</p>
+<p align="center">Sculpting Blade technique (Iniciante Lv: 1 | 0%):</p>
+<p align="center">Permite você esculpir o invisível, o intangível.</p>
+<p align="center">Consumo de Mana: 50 por segundo.</p>
+<p align="center">As lendas dizem que o Grande Mestre Zahab acidentalmente descobriu o caminho da verdade quando praticava a arte escultural.</p>
+<p align="center">A escultura é uma arte de transformar toda a criação à vontade do escultor. A técnica secreta de Zahab é passada para o seu sucessor.</p>
         </td>
     </tr>
 </tbody></table></div>
 
-Weed checked the skill window and shook his head in disbelief.
+Weed verificou a janela de habilidades e balançou a cabeça em descrença.
 
-I need to try this Sculpting Blade technique to figure out what the heck it is. It swallows mana too badly. At my level, I can’t sustain it longer than two seconds flat.
+*Eu preciso testar esta técnica Sculpting Blade para descobrir o que diabos ela é. Ela absorve muita mana. No meu nível, eu não posso mantê-la por mais do que dois segundos.*
 
-The wolf had died, anyway.
+Em todo o caso, o lobo morreu.
 
 *Groan*
 
-Weed fell down to the ground, his face blank white. Then, Pale, Irene, Romuna and Surka ran to him.
+Weed caiu no chão, com o rosto sem expressão e pálido. Então, Pale, Irene, Romuna e Surka correram até ele.
 
-The first words Weed uttered to his teammates were, - Surka, are you alright?
+As primeiras palavras que Weed murmurou para seus colegas de time foram:
+
+- Surka, você está bem?
 - Weed-nim…
 
-Irene and Romuna were on the verge of bursting into tears.
+Irene e Romuna estavam à beira das lágrimas e Surka não podia esconder as suas.
 
-Surka could not hide her tears.
+Pale, o único homem além de Weed, estava sem palavras, tragado por uma onda de emoção.
 
-Pale, the only man other than Weed, was at a loss for words, engulfed by a wave of emotion.
+Se a vida de um usuário cair a menos de dez por cento, ele morrerá lentamente.
 
-If a user’s life goes down below ten percent, he will die slowly.
+Dentro de um minuto, Irene recuperou parte de sua mana e lançou a habilidade Healing Hand para tirar Weed da zona de morte.
 
-Within a minute, Irene recovered some of her mana, and cast Healing Hand to drag Weed out of death’s grip.
-- Thank you, Irene-nim
-- It’s my pleasure, Weed-nim
+- Muito obrigado, Irene-nim.
+- O prazer é meu, Weed-nim.
 
-The look between Weed and Irene warmed up; a sign that she was growing fond of him, the same goes for Romuna and Surka. To his surprise, moreover, Pale was addressing him with respect and admiration that the archer had never shown before.
-- Let’s move on,” Weed said when he felt better.
-- Are you okay?
-- Yup. Alive and well,” Weed said, rolling up his sleeve to expose his muscles.
+O olhar entre Weed e Irene havia aquecido. Um sinal de que ela estava começando a gostar dele, o mesmo valia para Romuna e Surka. Para a surpresa dele, além disso, Pale estava se dirigindo a ele com respeito e admiração com os quais o arqueiro nunca havia mostrado anteriormente.
 
-Surka didn’t make the same mistake again. The party under Weed’s leadership created a striking record of sixty foxes in the next four hours.
+- Vamos seguir em frente.
 
-Romuna, Irene, Pale and Surka all leveled up, as well as Weed, who achieved level 6.
+Weed disse quando se sentiu melhor.
 
-Weed invested all of his bonus the stat points into the agility stat.
-- Whew. Good,” Romuna said, sweating hard as she felt drained by the excessive consumption of mana.
-- We have to leave now. We’ve got to go to classes in the morning,
-- We should get together and hunt again. You’ll be here tomorrow, won’t you?” Romuna asked Weed, who nodded slightly.
-- Can I add you as a friend in my list?” Surka asked.
+- Você está bem?
+- Sim. Vivo e bem.
 
-Pale and Irene were grinning.
-- Yup.” Weed added them to his Friends List, and said goodbye.
-- Here, this is your share of the loot.
+Weed disse arregaçando a manga para expor seus músculos.
 
-Weed received three silvers when they distributed the spoils from hunting. After they left, he went on hunting more foxes.
+Surka não cometeu o mesmo erro novamente. O grupo sob a liderança de Weed criou um recorde impressionante de sessenta raposas nas próximas quatro horas.
 
-This was why he hated party plays. When things got hot, people left.
+Romuna, Irene, Pale e Surka, todos tinham subido de nível, bem como Weed, que alcançou o nível 6.
 
-Weed looked for monsters as he had an hour left until sunrise. He overlooked easy prey such as raccoons and foxes, and left the boundary of the Citadel to enter a forest where wolves were reported to lurk in every shadow.
+Weed investiu todos os seus pontos de atributos na estatística de agilidade.
+
+- Ufa. Bom.
+
+Romuna disse, suando muito enquanto ela se sentia drenada pelo consumo excessivo de mana.
+
+- Nós temos que sair agora. Nós temos que ir às aulas na parte da manhã.
+- Nós deveríamos ficar juntos e caçar novamente. Você estará aqui amanhã, não estará?
+
+Romuna perguntou para Weed, que assentiu ligeiramente.
+
+- Eu posso adicioná-lo como um amigo na minha lista?
+
+Surka perguntou.
+
+Pale e Irene estavam sorrindo.
+
+- Sim.
+
+Weed os adicionou à sua lista de amigos e disse adeus.
+
+- Aqui, esta é a sua parte da pilhagem.
+
+Weed recebeu três moedas de pratas quando eles distribuíram as pilhagens da caça. Depois que eles partiram, ele passou a caçar mais raposas.
+
+Foi por isso que ele odiava jogar em grupo. Quando as coisas ficavam boas, as pessoas saíam.
+
+Weed procurou por monstros, visto que ele tinha uma hora restante até o nascer do sol. Ele deixou passar as presas fáceis, como guaxinins e raposas, e deixou a fronteira da Cidadela para entrar em uma floresta onde diziam que os lobos estavam à espreita em cada sombra.
 
 *Howl*
 
-A pack of wolves emerged. They crouched and came close to Weed who was walking alone, their eyes gleaming in elation.
+Uma matilha de lobos emergiu. Eles se abaixaram e chegaram perto de Weed que estava andando sozinho. Os olhos deles estavam brilhando em euforia.
 
-The system of Royal Road allowed monsters to level up by internal conflicts between them or by killing users, so the wolves coveted lone users. However, when the wolves looked into Weed’s eyes, though, they cowered instinctively.
-- ~Th-Those eyes…
-- ~This human doesn’t consider us his enemy.
-- ~He takes us for EXPs!
-- ~Nice EXPs. Great item drops. It’s what he wants from us!
+O sistema de Royal Road permitia que os monstros subissem de nível ao realizar conflitos internos entre eles ou por matar usuários, de modo que os lobos cobiçavam usuários solitários. No entanto, quando os lobos olharam nos olhos de Weed eles se encolheram instintivamente.
 
-The wolves all saw through Weed’s intentions. Worse, his will to fight made them recoil in fear.
+- ~Es-esses olhos…
+- ~Esse humano não nos considera como seus inimigos.
+- ~Ele apenas nos vê como pontos de experiência!
+- ~Boa experiência. Queda de itens. Isso é tudo que ele quer conosco!
 
-*Yap!?* 
+Todos os lobos viram completamente através das intenções de Weed. Pior ainda, a sua vontade de lutar os fazia recuar de medo.
+
+*Yap!?*
 
 *Yap?!*
 
-After a moment they all turned tail to flee quickly.
-- You dare try to flee from me!” Weed roared at the wolves as he gave chase.
+Depois de um momento todos eles colocaram o rabo entre as pernas e fugiram rapidamente.
 
-The iron sword knew no mercy, and Weed knew no honor. He openly stabbed the backs of the retreating wolves, cornered them with nowhere else to go, and beat each and every one of them to a pulp.
-- You sons of bitches, come on!” he raged.
+- Vocês ousam tentar fugir de mim?
 
-The moment that the sword slashed the air, another wolf fell into despair. Swift and merciless. Weed’s extraordinary sword techniques terrorized the wolves.
+Weed rugiu para os lobos enquanto ele iniciava a perseguição.
 
-So why had he fought bitterly against a single wolf when his teammates were around him?
+A espada de ferro que não conhecia misericórdia e Weed, que não conhecia honra. Ele esfaqueou abertamente as costas dos lobos em retirada e os encurralou, não deixando qualquer lugar para onde eles pudessem ir e, em seguida, bateu em cada um deles até que virassem um monte de carne.
 
-On the edge of an imminent and unavoidable death, Weed had made the final strike to kill the wolf. In the eyes of his teammates, it was a lucky one. This mystery was kept by Weed.
+- Seus filhos da puta, vamos lá!
 
-Weed was done with the wolves as soon as the sun rose in the morning. He left the battlefield and headed for Counselor Rodriguez’s manor.
+Ele se enfureceu.
+
+No momento em que a espada cortou o ar, outro lobo caiu em desespero. Rápidas e impiedosas, as técnicas de espada extraordinárias de Weed aterrorizaram os lobos.
+
+Então, por que ele lutou tão mal contra um único lobo quando seus companheiros de equipe estavam ao seu redor?
+
+A beira de uma morte iminente e inevitável, Weed tinha dado o golpe final para matar o lobo. Aos olhos de seus companheiros de equipe, ele teve sorte. Este mistério foi mantido por Weed.
+
+Weed tinha terminado com os lobos tão logo o sol se levantou pela manhã. Ele deixou o campo de batalha e se dirigiu para a casa de campo do conselheiro Rodriguez.
