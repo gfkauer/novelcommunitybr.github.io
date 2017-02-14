@@ -1,943 +1,926 @@
-
-As was his routine, Rodriguez was taking an afternoon walk. He enjoyed checking on his neighbors and deepening their misery.
-
-
-“How are you, Hans?”
+A pub. A place that is usually filled with hearty laughter and clamorous noises had been silent for the last few days all because of a single man, Volk.
 
 
-“Fine, Counselor.”
+He had a scarily massive body, but what was scarier was his face.
 
 
-“What is the best fruit today?”
+Considering that someone whose countenance could make even an Orc’s heart skip a few beats, had been drinking gloomily all day long, it was hardly surprising that the pub was drowned in silence.
 
 
-“This one. Please have some. Fresh strawberry, sire.”
+Volk made a terrifying face while drinking.
 
 
-“Thank you.”
+‘I want to propose to her. But I need something special for her, if there is anything.’
 
 
-Rodriguez’s steps were light. For one thing, he wasn’t pestering others who fell under his gaze that afternoon. He was elated by the recent publication of the latest book he had penned.
+Volk wanted to propose to a lady. His heart-breaking anguish wasn’t visible to others.
 
 
-When he returned home, his manservant in care of the manor was waiting at the entrance to greet him. He spoke without reservation to the manservant whose dedication to his family lasted for decades.
+‘A gift for her. Right, I’ve heard of a sculptor in the Citadel of Serabourg. I will ask him to make something for me. If he makes something that pleases my heart, I will give him the most precious thing I have in return.’
 
 
-“How was your walk, milord?”
+With that kind of promise in mind, Volk left the pub stumbling.
 
 
-“Excellent. Very excellent. These days are free of worries and trifles.”
+*****
 
 
-“I’m glad to hear that, milord. By the way, do you mind if I ask you a question?”
+“Whew, this place is still full of users here.”
 
 
-“What is it, William?”
+Back in the capital of Rosenheim kingdom after seven weeks, Weed felt a headache coming on at the sight of an incalculable number of avatars.
 
 
-“This is about the young man who carved statues on the other side of the street, milord.”
+It was a dizzy scene in which buyers and sellers were actively trading with one another, and new adventurers were looking for partners to join their adventure.
 
 
-“Oh, that kid!”
+“Quickly, Arse! Let’s go to your home.”
 
 
-“Did he find what he was seeking?”
+Weed led the colt to the Royal Stable. It followed him obediently.
 
 
-Rodriguez laughed evilly.
+As luck would have it, the poor beast had just barely survived the poisonous gas from the Queen Worm.
 
 
-“It’d never be that easy.”
+As if it knew by instinct alone, that it had just missed imminent death more times than it deserved, the colt was willing to stay out of Weed’s way; the sooner it got home, the better.
+
+
+There was a shabby stable outside the Royal Palace, and as soon as the chief horse trainer laid eyes on the colt, he grimaced.
+
+
+“The good times are gone, now that this mouth-firing Arse is back. Heard of you from Lord Midvale. Are you returning this beast that shames his father, Weed-nim?” Lighthearted now that he’d finally left the colt in an empty lot with the trainer.
+
+
+“You’ve had a good journey? I know that this here beast spells nothing but trouble!” the trainer said gruffly.
+
+
+“I am fine. It’s over now.” he replied to the trainer.
+
+
+“Lord Midvale has left a message for you. He wants you to visit him if you are still interested in the centurion job. He says it’s yours anytime.”
+
+
+“Tell him I appreciate it.”
+
+
+The chief horse trainer was polite to Weed who was virtually a stranger to him.
+
+
+Assured once again that a man’s status depended on who his contacts were, and what he had done in his name, Weed left the Royal Stable and went to the Training Hall.
+
+
+There, he met the instructor.
+
+
+“Hmm. So that’s what happened to you…”
+
+
+The instructor was very sorry that Weed was forced to convert to the Legendary Moonlight Sculptor class.
+
+
+“It is my fault.”
+
+
+Weed kept it short. He just dropped his head with a grim face.
+
+
+“No. How can anyone in his right mind blame this on you? The counselor stepped over the line. Still, hang on to hope Weed-nim.” The instructor said, patting Weed’s shoulder.
+
+
+“Yes, Instructor. You’re the one I can always rely on…” Weed said.
+
+
+“Haha. Absolutely. Anyway, you have come back from a great journey and you’ve finished my quest.”
+
+
+The instructor rewarded him with three gold and fifty points of public service to Rosenheim for the completion of The Clean-up Operation in the Lair of Litvart quest.
+
+
+As public service is accumulated over time, it gives a user the upper hand in trades in the country in question, and if enough is collected, he or she can become qualified for government positions as well.
+
+
+Unfortunately however, the instructor’s attitude toward him had changed slightly. He no longer considered Weed his kind as a colleague on the same path in swordsmanship.
+
+
+It implied that the friendship between them, which Weed had worked so hard to build up, was crumbling a little.
+
+
+After visiting the instructor, Weed stopped by at Rodriguez’s manor as his last visit. As always, the counselor was confined in his study.
+
+
+“Haha. You really did finish the quest,” Rodriguez said with a genuine sound of surprise in his voice. “I had been wondering how you had fared because you had not appeared on my doorstep for in a long time.”
+
+
+“Yes, Counselor.”
+
+
+“Hmm… Anyway, as destiny directs it, I have an object for you.”
+
+
+Rodriguez handed Weed a wooden statue that fitted in his palm. It was shaped like an imperial knight.
+
+
+“What is this?” Weed asked.
+
+
+“It is the legacy of Geihar von Arpen the Magnificent. My family used to serve the Imperial Family of the Arpenian Empire long ago. The blood, and the obligation accompanying it, has flowed in my family generations. I am the one to take the task for this generation. Now that I hand it to you, I am finally liberated from the reins of this duty,” Rodriguez said.
+
+
+“But what is this statue for?” Weed had already received a wooden statue of a different shape when he carried out Zahab’s Moonlight Sculptor quest.
+
+
+“I do not know the secret of this wooden statue, either,” Rodriguez said. “Myth has it that there have been five masters in sculptural art on the Continent. Of course, it is only an ancient myth, for they came and went like the wind. These Master craftsmen are known to leave their own crafts in their legacies, so I surmise that this statue is probably one of them. According to the myth, if you succeed in collecting all five of the statues, and solve the puzzle arising from them, the ultimate secret of sculptural art will appear.”
+
+
+Still doubtful, Weed identified the wooden statue. Due to his low level in that skill, he succeeded in finding out the identity of the statute after only a couple of failed attempts.
+
+
+*Ting*
+————————————————————————————————
+Item: Wooden Statue
+
+
+Durability: 1/1
+
+
+This statute contains the Emperor Geihar Von Arpen’s skills.
+
+
+Equips:
+Enables you to acquire a unique skill to give the breath of life to any statue.
+
+
+Requirement:
+Expert stage in Sculpture Mastery
+————————————————————————————————
+
+
+When Weed identified the wooden statue left by Zahab, he also found an Sculpting Blade technique whose prerequisite was five or above skill level in sword mastery.
+
+
+“A great secret is hidden in sculpture mastery,” Weed said.
+
+
+“Since you’re now on the path in sculptural art, I wish you all the best in making it to ‘Grand Master’ in sculpture mastery. The world has never seen a Grand Master, but if there is ever one, he will be able to handle the fate of the Continent easily,” Rodriguez said. “It is true that I introduced you to this path out of malicious intent, but it is also a true tale that I have told you.”
+
+
+Weed no longer resented Rodriguez. The past was the past, and a sudden interest in the craft had hit him.
+
+
+‘The one who creates his own path.’ Weed thought.
+
+
+Furthermore, Weed was told that if he ever made it to the top, the days of riches and power were waiting for him.
+
+
+Rodriguez thought he had paid off the old score with Weed. At the sight of his sorry state after he wandered hungry and cold for seven weeks, the grudge was already gone in the counselor’s mind.
+
+
+“I have another question, Counselor. Do cooks or blacksmiths have their own hidden path to becoming Grand Master?” Weed asked.
+
+
+“I guess so. God is generous,” Rodriguez said. “Remember– not everyone on the path in the cooking skill sees and grabs an opportunity given.”
 
 
 “Then…”
 
 
-“Not a chance! He won't even be able to find the place, and even if he does find it, against all odds… well… "
+“There must be other Chosen Ones! They will see to it their own way. It is up to them if they have it or not.”
+
+
+When Weed had heard all he wanted to hear, so he left the manor.
+
+
+*****
+
+
+Darius could hear his heart pounding. He had never expected it to go this far when he had solved a series of trivial-looking quests.
+
+
+The best luck, he had called it.
+
+
+There were two men at the center of a power game in Rosenheim Kingdom— Duke Kanus and Count Albrook. Of the two, Duke Kanus, who is in charge of the military affairs, was more powerful.
+
+
+The man in question was now lowering a snowy white sword toward him now.
+
+
+“Darius-nim, I hereby bestow temporary knighthood of Rosenheim upon you in recognition of your dedicated services to the Royal Court. I order you to form a punitive force by the power of a knight and rescue the villagers at the frontier from their misery.”
+
+
+“I am at your service, milord. You can count on me,” Darius said.
+
+
+“Then, Sir Darius, I entrust this task to you,” Duke Kanus said.
+
+
+Darius felt a slight touch of the blade on both shoulders in turn, then on one the head.
+
+
+It might have been a dreadful sensation in times of war, but he was in the middle of an ordination ceremony of knighthood in the Royal Palace of Rosenheim. Moreover, the holder of the sword was Duke Kanus.
+
+
+Rather than fearful, it was such a memorable moment for Darius that he almost let out a cry of excitement. Darius had to fight this spontaneous temptation to exclaim and roll over on the tapestry in spite of the solemn atmosphere. Suppressing a smirk, his face wrinkled into a grin.
+
+
+‘Now I’m the commander of a punitive force’ Darius thought, and counted himself very, very lucky.
+
+
+*****
+
+
+‘I’ve got to do something...’ Weed thought as he made a serious face.
+
+
+The nature of the sculptor class that he happened to stumble on was as follows:
+
+
+As Weed’s main weapon was a sword, it was useful to compare him to a sword warrior.
+
+
+The moment the class is decided, a sword warrior gains a 50% bonus on sword mastery. Of course, Weed could close the gap with his useful handicraft skill as compensation.
+
+
+Thanks to the initially heightened stats, even a knight at the same level was no match for him. In the case of relatively lower levels, he was confident that he could win a duel against two sword warriors at the same level, supported by the Sculpting Blade technique and the Imperial Formless Sword Technique.
+
+
+The Imperial Formless Sword Technique— Weed was surprised by its dominant power when he tried it.
+
+
+This technique was something close to a cheat, not only doubling the speed, reflex and the power of destruction, but even tripling the recovery of mana. No wonder the Emperor Geihar selected it to leave to his successor.
+
+
+However, the warriors and knights also have there own sword skills and breathing patterns. When they master a breathing pattern suitable to their own class, it has a great effect on them as well, even when the grade of sword techniques that they know is lower than Weed’s Imperial Formless Sword Technique.
+
+
+It is the special privilege enjoyed by the knights and warriors, the two standard fighting classes that specialized in combat skills.
+
+
+In other words, no matter whether Weed raised his handicraft skill and other stats zealously, or acquired more cheat-like skills, he would one day be caught up by his counterparts. Even now, Weed was only slightly ahead of them unless he used underhanded tactics.
+
+
+Obviously, he would have been much weaker than an ordinary sword warrior without timely investment in the handicraft skill as well as the Imperial Formless Sword Technique, and additional stats that he had earned from the Training Hall trial.
+
+
+‘But the sculptor class has a greater potential than appears. If not, the Emperor Geihar could not have conquered the Continent, and it would be hard to explain Zahab’s strength.’
+
+
+*****
+
+
+The Citadel of Serabourg, the capital of Rosenheim Kingdom.
+
+
+In front of the Central Fountain where the thriving downtown was located, a line of avatars was watching various statues on display. Weed had opened a second stall to work on his skill level in sculpture mastery.
+
+
+“Hello. How much is this?” a girl asked.
+
+
+“Five silvers,” Weed said.
+
+
+“Oh my, it’s too expensive, can you please make a little discount for me? Please~? I’ll buy two pieces.”
+
+
+The cute girl beamed at Weed, trying to persuade him, but he was merciless. Especially when it came to money, he treated men and women alike.
+
+
+“With due respect, young lady, a discount is like an insult to my artworks. Do you think I discounted my passion in art, and my devotion to the work in particular, when I carved this statue? An artwork has to bear a fair price that reflects its true value, which will grow within your mind as time passes,” Weed said.
+
+
+The girl was moved by his words. Now that she thought about it, It was silly that she had tried to bargain for artwork that held the sculptor’s heart. Seized with remorse, she took some shiny silver coins out of her pocket.
+
+
+“I’m so sorry. Here are ten silvers,” the girl said.
+
+
+“Thank you, young lady.” Weed grinned demurely, handing over two statues. It was a winner’s smile, proud of himself that he had sold the statues as they were originally priced.
+
+
+As a sculptor with the bold description ‘Legendary Moonlight,’ which he had resisted but converted to in the end, he carved beautiful statues even by the standard of Pratique Des Arts, Peinture, Sculpture, Gravure.
+
+
+His current skill level in sculpture mastery was four. Since Weed converted to Moonlight Sculptor, the effects of his sculpture mastery had been doubled, not to mention that he owned one of the top items that practically amounted to a cheat, Zahab’s sculpting blade.
+
+
+Weed’s lineup was yet limited to small-size statues made of plain materials by his immature expertise in sculpture mastery. Their simplicity and low price rather appealed to a broader spectrum of customers.
+
+
+Some of his fans even lined up to pick up the artworks that he was working on there and then.
+
+
+Foxes and rabbits, which cost less than ten coppers for their base materials, were the most popular items in his stall that sold at a lightning speed, though they were priced at five silvers.
+
+
+Weed believed that his enterprise was an honest business. He wasn’t forcing anyone to buy his statues. What could he do about people flocking to get hold of them for the stated price?
+
+
+Weed moved the sculpting blade faster. He was raising his expertise rating in sculpture mastery while he was making money.
+
+
+Like sculpture mastery; cooking, repair and other craft skills are upgraded from the basic ‘beginner’ stage to ‘intermediate’ when they reach skill level ten, it then falls back to level one after the rank upgrade.
+
+
+For the cooking skill, the intermediate upgrade creates solid options of enhancing life and mana benefits for hand-made meals. For the repair skill, the intermediate stage introduces a new tech tree for producing and refining weapons and gear.
+
+
+That isn’t the end of it.
+
+
+When the skill level reaches ten once again, thus passing the intermediate stage onto the ‘expert’ and then ascends to become a full-fledged master of their trade. Master are those who has proven worthy of themselves by completing all the necessary steps.
+
+
+A master in any field of skills, combat or craft, is recognized and respected based solely on the merits of his expertise in the skill, but overall craft skills, such as sculptural art and cooking skill, are very limited in prospect.
+
+
+Weed’s priority at this point was upgrading his basic handicraft skill to the intermediate stage.
+
+
+The skill level had increase to nine while he was dedicated to repairing damage equipment and serving meals to the troops in the Lair of Litvart. Only one more level was need and then the handicraft skill would reach the intermediate stage.
+
+
+The Intermediate handicraft skill enhances sword mastery and archery by increasing the overall attack power by 30%.
+
+
+This skill is mandatory for a sculptor whose attack power is substandard at best, which is penalized by the character of his class.
+
+
+‘The handicraft skill is quite handy.’
+
+
+As the handicraft skill rises, all the craft skills become more efficient. The expert handicraft skill can lift guild restrictions for a user into a wider field of craft skills, such as blacksmith work and alchemy.
+
+
+The Legendary Moonlight Sculptor class already gave a free pass to all the craft skills related to other professions, but Weed was aware that a higher handicraft skill would make it easier and faster to acquire and develop them all.
+
+
+Perhaps the crafters gradually intersect with one another to the point where they converge on the same path to supremacy of a Grand Master.
+
+
+Actually, it is an understatement that the crafters would become extinct without the existence of the handicraft skill. They cannot catch up with combat specialists unless they beef up their pathetic combat abilities.
+
+
+‘Now I’ve finished a hundred statues!’
+
+
+Even though Weed was carving statues relentlessly, his skill level in sculpture mastery was stuck at level 4 at 98%. In contrary to the fast-growing handicraft skill, the growth of his sculpture mastery was slowing down.
+
+
+‘I hope it’ll level up after fifty more statues.’
+
+
+In that moment, female customers suddenly parted in alarm, and through a corridor between them appeared a tall man with terrorizing looks who was walking toward Weed.
+
+
+The man seemed so full of a deadly aura that even Weed felt his spine freeze.
+
+
+‘What have I done wrong to turn that thug against me?’ Weed asked himself under the breath.
+
+
+The man looked around with slit eyes.
+
+
+*Scream*
+
+
+“He saw me~!” the girls shrieked.
+
+
+The man walked toward Weed slowly, and then bowed down miserably like a bedraggled mouse.
+
+
+“I’d like to ask you for a favor,” the man said.
+
+
+“Shoot” –Wrong choice of a word.
+
+
+“I’m here to buy a statue. But I couldn’t find anything I wanted.” The man said kneeling down before Weed. “Can you make a statue the way I order? No, I beg you, please. You should be able to make a statue for me, so I can propose to the lady.”
+
+
+Weed tried to get the man to his feet and hear him out. The man’s name was Volk.
+
+
+Volk had fallen in love with a woman. The primary motive for starting the online game was to protect her by her side. For the sake of this person, who was a priestess, he had selected the paladin knight class for his avatar.
+
+
+During a year of numerous missions and battles, she had not died once owing to his devotion and sacrifice. He had also enjoyed his second life that was accompanied by blessing and healing from her. The bond between them had deepened as months went by, and he was so happy every time he saw her.
+
+
+Now was the time for him to propose a marriage to her.
+
+
+“I want to give her something she’d never forget. Not a flower that withers someday. I want you to carve the flowers that shall never wither—to engrave my heart in them! Please!” Volk begged on his knees.
+
+
+His face was intimidating, but his heart wasn’t.
+
+
+How many men would kneel down before a total stranger for the sake of such an unconditional love cherished in the heart?
+
+
+Sighing deeply, Weed looked around. Many women looked touched. Even he, blinded by money, could sense Volk’s grief.
+
+
+*****
+
+
+‘I love her. I love her, but why doesn’t she see it in me?’
+
+
+‘I want to speak with my heart.’
+
+
+‘I tried to say in my heart a thousand times, I LOVE YOU!’
+
+
+‘But why can’t I say the same words to her?’
+
+
+*****
+
+
+As a man, Weed’s sympathies were with Volk. Weed held the paladin’s hand and helped him rise to his feet.
+
+
+“For such a favor…” Weed said politely, “You don’t need to kneel down, Volk-nim. In your own right, you can ask for it on your feet. I am weak to that kind of request. I’ll gladly accept your commision.”
+
+
+Volk shed tears at these words.
+
+
+“Thank you so much, Weed-nim!”
+
+
+“Not at all. So, what kind of flowers do you want?”
+
+
+“Please make seven sunflowers. It will embody my heart, which has followed her, the sunshine of my life, for seven years.”
+
+
+“I see. Can you wait a moment?”
+
+
+Weed studied the wood stock beside him and chose the best quality timber— Elvenwood.
+
+
+It was a very thick, hard wood that was known to grow only in a warmer climate in the south. It was still in one piece, the size of a small rock, which was yet to be chopped to smaller blocks conforming to statues.
+
+
+‘I must do my best to deliver it this time.’
+
+
+Weed could carve a fox or rabbit with his eyes closed now, but flowers seemed like a challenge.
+
+
+‘If I carve each flower separately, it will be a simple matter, but how can I put them together later? Seven sunflowers and a hundred roses as my private gift for this couple. I’d better carve a bouquet of all the flowers at once.’
+
+
+Weed pictured the overall shape of the final work, and began to smooth the Elvenwood very slowly.
+
+
+Volk and other girls had no idea what Weed was up to. They could not understand why he chose such a large piece of wood to carve only seven sunflowers. In any case, as the Elvenwood was being trimmed off, a shape was surfacing little by little.
+
+
+The first flowers were relatively large sunflowers, soon followed by roses encircling them.
+
+
+As Weed’s magic hands danced, a beautiful bouquet revealed itself from top to bottom.
+
+
+“Wow!”
+
+
+“It’s amazing...”
+
+
+Customers in waiting soon turned into spectators in awe, watching the sculptural art unfolded by Weed.
+
+
+Each time the sculpting blade snapped, each time the wood was trimmed, the audience throbbed with anxiety because a small mistake could snap the fragile trunk of a flower.
+
+
+“Oh, my god! Let him finish it!”
+
+
+This was the wish of not only Weed and Volk, but also everyone else present.
+
+
+Right in front of them, Weed concentrated on the flowers fervently.
+
+
+As the sculpting blade moved, the wood was being shaped, revealing the blossoms, trunks and leaves.
+
+
+‘Failure isn’t allowed here’ Weed’s eyes gleamed with his determination.
+
+
+He would have been forgiven for any failure if he had been alone, but now he was onstage surrounded by a thick circle of spectators. If he made a mistake before his prospective customers, his skyrocketing reputation would immediately crash and burn.
+
+
+He knew better than anyone else that his popularity was growing, largely attributed to the fact that there was no other sculptor in the near vicinity, and he had to avoid it shrinking at any cost.
+
+
+A fan’s fantasy is equal to money!
+
+
+Weed sublimated his excessive obsession into artistic production, and finally succeeded in making the bouquet.
+
+
+*Ting*
+————————————————————————————————
+Level Up: Sculpture Mastery (Beginner Lv: 5 | 17%):
+
+
+Enhances beauty and complexity of statues.
+Decreases the rate at which you fail to produce statues.
+
+
+Upgrade: Handicraft Skill (Beginner Lv: 10 to Intermediate Lv: 1 | 5%):
+
+
+Increases attack power with weapons and fists. (+30% ATK)
+Enhances every field of craft skill and Sword Mastery.
+
+
+Art has risen by 5 points (+5 ART)
+Fame has risen by 1 point (+1 FAME)
+
+
+Warning: 
+The sale of a failed work may cancel it.
+————————————————————————————————
+
+
+Once Weed finished the wooden bouquet, the two skills leveled together.
+
+
+Because his sculpture mastery had been stuck at the expertise rating of 98% with the skill level of four, the first level up message wasn’t surprising, but though the expertise rating for the handicraft skill had remained six percent left lower than the next level, it was filled at once, promoted to the intermediate stage.
+
+
+As luck would have it, the Art stat, which had been bothering him constantly because its progress was nowhere to be seen, increased by five points.
+
+
+“This is unbelievable.”
+
+
+“Open Skill window”
+
+
+Weed checked the window quickly, and realized at a glance that his skill level in sculpture mastery had not only hit, but had also accumulated an expertise rating of 17% above the line. Even the handicraft skill scored 5% after it converted to intermediate level one.
+
+
+‘Aren’t I lucky?’ Weed was excited by his fortune, but soon understood why it had taken place. Sculptural art isn’t a conveyor belt.
+
+
+The expertise rating in sculpture mastery does not advance by mass production of similar statutes as if they were made by a cookie cutter. No, only when a sculptor is dedicated to create an original work of high artistic value that has never been tried before, will sculpture mastery gain an enormous expertise rating. It reminded Weed of the first fox and rabbit statues that had improved his expertise rating in sculpture mastery greatly in the initial phase.
+
+
+Tried and failed, his skill level had risen visibly fast. But when he no longer tried a new shape or style due to force of habit though, and repeatedly churned out monotonous products, his progress in sculpture mastery had slowed down almost to a stop.
+
+
+‘I thought leveling was supposed to slow down as the level was higher, but that wasn’t it. I was taking the wrong path.’
+
+
+While Weed was immersed in his own thoughts, Volk and other women were fascinated by the bouquet. A bouquet made of wood. The sunflowers and roses radiated softness and warmth, bearing life like real ones.
+
+
+“It’s finished, Volk-nim.” Weed said as he handed the bouquet over to Volk.
+
+
+The sunflowers and roses were beaming on the paladin. To his eyes, it was magic.
+
+
+“Oh, dear God. I can’t— can’t believe…” More tears dropped from the eyes of Volk. “Is this really made of wood? Sculpture mastery does magic…”
+
+
+“Yup, Volk-nim. You just saw me carve this, didn’t you?”
+
+
+“It’s simply unbelievable,” Volk said amid tears.
+
+
+The other spectators were also dazzled by Weed’s finished work. He could not have made the bouquet without Zahab’s sculpting blade, and especially at the critical moment, his sculpture mastery and handicraft skill had been combined to bring out more fantastic effects on the work.
+
+
+“I did make this bouquet with my heart. Now you go for hers with your heart Volk-nim,” Weed said.
+
+
+He encouraged Volk in a fine manner. He was inspired that he had learned a new secret of sculpture mastery while making the bouquet.
+
+
+“Thank you, thank you so much!” Volk said, sincerely grateful to Weed, putting his hand in the pocket to take out the payment for the bouquet.
+
+
+Uplifted, Weed said, “It’s three gold.”
+
+
+Considering the amount of effort that he had put into it, the statue deserved to be worth more than three gold, but he was content with it. Suddenly, Volk had a confused look, and began to turn over his pockets.
+
+
+“Where… where are they gone?” Volk cried. His hand that had been combing through in his pocket didn’t hold anything in it.
+
+
+It was Weed, though, who was panicked at that very moment.
+
+
+‘Is he trying to pull this trick on me?!’
+
+
+Weed already knew what was coming— more specifically, what Volk would say in the next second or so…
+
+
+‘He will claim he’s lost money somewhere else.’
+
+
+“I-I am so sorry, Weed-nim. I lost the money somewhere else!” Volk said.
+
+
+‘Cause you can’t say you didn’t have any gold in the first place.’
+
+
+Volk didn’t wait for Weed to answer, and cried, “I think my pocket was picked. Damn squirrel!”
+
+
+‘And there you go. But you can’t bluff your way out with this number of people witnessing your every move. If he’s an expert in this line of business, he should know better than thinking he can rip me off and walk out alive.’
+
+
+“Do you mind if I give you something of an equal value to make up for money?”
+
+
+Volk followed the steps that Weed had already seen through, a typical trick for the penniless to try, but he underestimated Weed, whom spread a terrible aura.
+
+
+‘Who do you think you are to rip me off, jackass?’ Weed thought.
+
+
+Then, Volk was forced to put his hand again in his pocket.
+
+
+“What a relief. I found two gold and ninety silvers left. Can you please discount ten silvers?” Volk asked.
+
+
+“Why don’t you just give me something worth ten silvers? What do you have?”
+Weed’s sharp eyes ran over Volk’s outfit. He observed the weapons, his gear and ornaments.
+
+
+Tens of thousands of identified items in Royal Road were registered in alphabetic order in a corner of his brain. He wanted to immediately identify a new item upon acquiring it, estimate the market price for it, and rejoice twice, even thrice, right on the spot.
+
+
+But his eyes failed to catch anything valuable from Volk who was poorly attired. The paladin took out a book from his clothes and handed it to Weed.
+
+
+“How about allowing for ten silvers with this book?”
+
+
+Weed quickly scanned the book.
+
+
+*Ting*
+————————————————————————————————
+Item: The Forgotten City on the Versailles Continent #4:
+
+
+In the sky above the Southern Province of Rosenheim Kingdom is a metropolis made mysterious by fairy tales and legend, which is recorded to be populated by a race that is distinctly non-human. To describe them at best, the right word would be the Aves.
+
+
+Strong warriors themselves, the race detested monsters, driving the lowly irritants out of the Southern Province, so they were nowhere to be seen. However, the race has now vanished, and even the path to the City of Heaven, as it is known, is now lost.
+
+
+Now even the presence of the City of Heaven comes to be questionable, but the townspeople in the Southern Province still believe in the city and her courageous avian residents as the elders instill this tale in the minds of the next generation.
+
+
+According to an unreliable source, it needs a Mysterious Seed to climb up to the City of Heaven.
+————————————————————————————————
+
+
+Weed felt deceived. Who would believe such nonsense as the City of Heaven?
+
+
+Granted that a city was actually floating somewhere in the air, violating every law of physics, the city would be seen from the earth. Consequently, that book claiming the presence of the City of Heaven would be hearsay.
+
+
+If that wasn’t ridiculous enough, the last passage about climbing up a plant to the city was outrageous, if not lousy. The thing had about zero credibility.
+
+
+As if he sensed that Weed was skeptical of the content of the book he had given him, Volk defended himself in a hurry,
+
+
+“You may not believe this, but it’s a hard-won book…”
 
 
 “…”
 
 
-“Serves him right even if he gets the class!” Rodriguez burst into insane laughter.
+“I wish I could give you something better, but coincidentally, this book is the most valuable item in my possession,”
+
+
+Volk said, showing what he had in his backpack— a rabbit’s fur, a snake’s scale and a small piece of a broken sword.
+
+
+Weed could repair the sword, but it was a sloppy thing with +2 ATK that even a kobold would throw away. Perhaps he could negotiate for it for two coppers in the blacksmith’s workshop.
+
+
+“I am so sorry, Weed-nim.”
+
+
+Weed sighed deeply.
+
+
+‘Okay, it’s fine. I learned the secret of sculpture mastery, anyway. I couldn’t have figured it out if I had printed out the same junk forever. I will forgive him for cheating ten silvers. No big deal.’
+
+
+When Weed mentioned cost three gold, he had already considered it negotiable. His call was mainly intended to shock Volk into playing by his book.
+
+
+The prices of most statues, which were not fixed by any normal standard, were largely determined by the way a customer made a bargain with a sculptor.
+
+
+Two gold and ninety silvers, plus a silly book, wasn’t a bad deal at all, the level up of his sculpture mastery and other skills included. But God only knew what Weed would have committed to in the case of two gold and eighty silvers.
+
+
+“I think this book is worth the ten silvers. I wish you good luck with your proposal to her, Volk-nim. And for the lady you’ve fallen in love with…”
+
+
+“Excuse me?” Volk said.
+
+
+“She will live a wonderful life with you,”
+
+
+Weed said sarcastically. With such a penny-pinching husband, she would never be broke for the rest of her life, for one thing.
+
+
+“Thank you, Weed-nim.” After shaking hands with Weed, Volk walked away slowly. Weed watched him leave.
+
+
+Suddenly, on Volk’s outfit, appeared shiny Mithril armor. His trousers were covered by a pair of Mithril gaiters. Even his boots turned into Mithril—that was a twist that left Weed reeling.
+
+
+‘He’s wearing a life cotton ring, a rare item that doubles maximum life! A priceless treasure! As far as I know, those earrings resist the element of lightning. I heard it’s only listed in the catalogue, and no one actually had them. You! You bastard, you’re loaded! It’s not fair that you just ripped off a poor sculptor!’
+
+
+The items Volk was equipped with were valuable beyond Weed’s wildest imagination. Some of them were even worth thousands of gold.
 
 
 *****
 
 
-The first thing that Weed did when he was alone was double-check his armor and inventory.
+Finished with the bouquet after hours of hard work, Weed stretched out his arms and yawned.
 
 
-“Twenty-four gold and thirty silvers…”
+Suddenly, the spectators began to shove yellow gold at Weed and shouted—
 
 
-Instead of receiving his share of the spoils that his men had collected from the slain kobolds and goblins, which were mostly crude weapons, equipment and pieces of metal, Weed had asked for hard money.
+“Make me exactly the same bouquet, please!”
 
 
-“The revenue’s not too bad, and…”
+“I just bought two foxes, but can I return them and change my order to the bouquet?”
 
 
-For the last month, Weed had advanced his skills by far. His cooking mastery hit level six, the repair skill four. The repair skill is so useful that some users are encouraged to pick it up, but the cooking skill is almost extinct, except for professional cooks.
-
-
-Weed’s bandage skill, now level four, empowered him to tend a minor injury by rolling gauze twice. But the most progressive one among his stats was his level.
-
-
-He felt like laughing.
-
-
-*Sniff*
-
-
-To Weed’s dismay, however, Arse whinnied unpleasantly. He had no choice but to take care of the colt thanks to the ’courtesy’ of Sir Midvale. The colt was good for nothing for now, but Weed was obliged to return it safely to the Royal Stable.
-
-
-‘The Lair of Litvart. No other lair of the same name has been discovered so far. This is the place.’
-
-
-The Counselor’s trick.
-
-
-Assured that there was something behind it, Weed did his best to analyze the quest’s objective from different angles.
-
-
-‘It must be hidden somewhere in the lair, somewhere no one has found yet – a secret chamber.’
-
-
-Weed began working through from the first floor up to the fifth one.
-
-
-For the adventuring classes, such as rangers and explorers, which are endowed with a multitude of observation-related stats and skills, it is easier to discover a concealed entrance.
-
-
-But Weed could only stick to elementary means such as relying on his naked eyes and touching every suspicious area with his hands in order to look for the ‘secret chamber’.
-
-
-There were at least twenty users on each floor in the Lair of Litvart. Hunting monsters, they commented about Weed, who was acting weird.
-
-
-“What’s that guy doing?”
-
-
-“Seems he’s looking for some entrance. Why else would he caress the stone wall so dearly?”
-
-
-“Puhaha, what an idiot. The lair doesn’t have any secret passage.”
-
-
-“This is the first lair found when Rosenheim was discovered months ago. Thousands of adventurers stormed here. He’s taking a gamble.”
-
-
-“Just your typical creep.”
-
-
-They openly laughed at Weed, because they had been jealous of him who was surfing on an easy wave in the lair with thirty NPC troops, it was no surprise that he was the center of jealousy and envy.
-
-
-“Just in case…”
-
-
-“Watch out. Don’t let him notice we’re behind him.”
-
-
-Several users followed Weed quietly, envisioning that he might have overheard valuable information from the NPC soldiers during the mission. Or better, he might be carrying out a special quest. In that case, they even considered forcing Weed to share the quest.
-
-
-In their eyes, this one lone freak was a low-level archer, lacking in melee combat skills; who had worked on household chores for the troops and sponged off them like a parasite.
-
-
-After a week had passed without event, the troublemakers were exasperated by tracking Weed in vain; he was obsessed with exploring the lair inch by through inch, so they finally gave up and left.
-
-
-“Nutcase!”
-
-
-“BAH! I’m freaking mad. I’ve just wasted these last few days!”
-
-
-Even after they left him alone, Weed continued. ‘There’s gotta be something.’
-
-
-Many explorers had already finished mapping out the entire lair, and had already concluded that there was nothing left to find. This was exactly what Weed was told aswell. In fact, he had done occasional research while hunting down the kobolds and goblins, but failed to make any meaningful discovery. Still, Weed was convinced that he would stumble onto something someday.
-
-
-‘Famous adventurers from all over the continent have already searched this place. So what? You’re wrong; and I’m right?’
-
-
-The Lair of Litvart was a vast place. Wandering casually in the forlorn hope of uncovering a hidden place was a hope was as far as the distance between the Earth and Andromeda.
-
-
-Even though the many of adventurers were better with their own observation skills, attitude and persistence could make difference.
-
-
-Weed patiently touched the lair walls, looking for a clue.
-
-
-*Sniff*
-
-
-Arse watched Weed with contempt.
-
-
-He had brought the horse into the lair because there was no one else who could, or would, look after it, but due to this, he was becoming very stressed out by the disobedient beast.
-
-
-‘I need to teach him a lesson first.’ Weed thought evilly.
-
-
-Weed led Arse to a shelter of goblins on purpose—a goblin warrior and three goblin raiders. As soon as they saw Weed, they charged at him.
-
-
-He stepped forward as if to protect the colt in front, and fought against the goblins, screaming:
-
-
-“My god! I don’t want to die!”
-
-
-The goblin warrior’s spear sailed toward Weed but only grazed him, drawing little blood from the flesh.
-
-
-“If… if I am killed now, what will ever happen to my dearest Arse…”
-
-
-The goblins kept on pounding on Weed.
-
-
-“No! I shall stand here to protect Arse! Bring it on, you abominable monsters! You must pass over my dead body before you lay any of your filthy fingers on him!”
-
-
-Weed played a brave knight protecting his weak companion at risk of his own death.
-
-
-When he glanced back, however, he saw that the colt was yawning and playing with a pebble on the ground. Also, Weed noticed that this beast was ready to bolt in the direction of the Lair’s exit the moment the master fell dead.
-
-
-“Damn you!” he swore at the colt.
-
-
-Weed was embarrassed by this turn of events. Why make a fool of himself to win over a mere colt?!
-
-
-*Slash*
-
-
-Weed slew the pestering goblins with a single swing of his sword.
-
-
-He was tempted to behead the beast altogether, but losing Sir Midvale’s trust was too big a risk.
-
-
-*Sniff*
-
-
-Arse gave Weed a contemptuous look as if to ask ‘why he had bled needlessly when he could finish them so easily?’
-
-
-‘Damnit! I feel like a fool to after liking that. Ahhh… patience, patience.’ Weed thought to himself
-
-
-Weed went back to the exploration of the lair.
-
-
-Three days later, on the tenth day of his private exploration to be precise, he found a cavity in a dark corner on the fourth floor where goblin raiders were regenerated. It was located ten yards deeper than the regenerating point. Even the most cautious ranger would have overlooked it. Below a large rock projecting outward, the cavity was shadowed, away from human eyes.
-
-
-“Is there anyone there~?” Weed asked cautiously.
-
-
-Looking around, Weed made sure that there was nobody else sneaking up on him. Those who had trailed him for a week were long gone, but excessive caution never hurt.
-
-
-If this cavity turned out to be what Weed had been looking for, he would be the first man to discover it, and he didn’t want to share the credit with anyone else.
-
-
-For the first explorer who discovers an unknown area, the rewards are immense. He earns fame, plus double EXPs and a higher rate of item provision for a whole week after the discovery. Weed crept into the cavity carefully. The gap was narrow enough to be mistaken for a crevasse between rocks, and the interior widened little by little on each step. He soon reached a passage where he could move comfortably. A humid, foul smell pricked his nose.
-
-
-Tense, he got ready for a battle. He didn’t have any clue as to what was coming next, so he held the iron sword in the right hand with a death grip, and herb and bandages in the left one.
-
-
-‘Bring it on!’
-
-
-Weed walked slowly deeper into the cave.
-
-
-Along the cave were several forks. He picked the left one and entered it, only to find a gigantic worm at a dead end.
-
-
-“What the heck… what kind of monster is this!? I’ve never seen this sort of worm—!!!”
-
-
-Before Weed could finish his words, the surroundings underwent a sudden change.
-
-
-What he thought to be the blackish ground was, in truth, a floor of little bugs the size of pinkies.
-
-
-*Squirm*
-
-
-Like Moses breaking apart the Red Sea, the bugs scattered and then came back to attack Weed, crawling menacingly.
-
-
-“What the!?— How dare you!” Weed swung the iron sword like a windmill.
-
-
-Covered in disturbingly crunchy shells, the good news was that the little bugs were almost harmless with their low attack power, however, the queen-like worm bore offspring faster than he could exterminate them. Right now, he really missed his men in the punitive force.
-
-
-“I’d ended this mess way earlier if I only had them here!” Weed muttered under his breath.
-
-
-Suddenly, the queen bug spewed light green smoke fumes. Like a drop of black ink dispersed in transparent water, the fumes slowly spread in the cramped and enclosed space, eventually reaching where Weed was standing.
-
-
-The moment he inhaled it—
-
-
-*Ting*
-————————————————————————————————
-You have been poisoned!
-
-
-Your life is decreasing continuously.
-————————————————————————————————
-
-
-Startled, Weed checked his life gauge.
-
-
-*Gasp*
-
-
-His life was decreasing by one point per second.
-
-
-“Damn… I don’t have any antidote! If it keeps going…”
-
-
-In desperation, Weed ignored the annoying little bugs, ran to the queen and struck it with the iron sword. On the first strike the queen worm’s hard carapace shell cracked, and yellow fluid slowly oozed out.
-
-
-“If I’m going to die, I’m taking you with me!”
-
-
-Weed neglected the bugs that were crawling up and biting him. Regardless whether they bit him or seconds passed by, he was dying anyway!
-
-
-Torn between two choices, it was better to kill the queen and get the heck out of there. As if they sensed that their mother was dying, the little bugs crowded Weed aggressively, but his iron sword was persistent. The shell of the queen worm was so hard that, though the outer shell was partly cracked, she was alive and well. Meanwhile, Weed’s head was swimming dizzily.
-
-
-‘I’m gonna die here. If only I had a combat skill… skill? Why didn’t I think of that!’
-
-
-The skill that Weed had never been given a chance to use! He had a combat skill that sucked so much mana from him that he could not sustain it longer than a second. Whether it worked or not, the situation was hopeless enough.
-
-
-“Sculpting Blade technique!” Weed’s iron sword blazed white. It temporarily overpowered the enemy’s defense.
-
-
-*Crack*
-
-
-Finally, the gigantic worm’s hard shell shattered into pieces.
-
-
-*Ting*
-————————————————————————————————
-You have leveled up!
-————————————————————————————————
-
-
-Weed skipped the message window and yelled,
-
-
-“Open Quest Information Window”
-————————————————————————————————
-Quest: Search and Destroy Operation in the Lair of Litvart [II]:
-
-
-There are a hundred monsters inhabiting the Lair of Litvart. Kill each and every one of them at least once, and prove yourself worthy of acquiring a honorable class. The completion of this quest will open a right path for your destiny.
-
-
-Difficulty: Unknown
-
-
-Quest requirement:
-Defeat all of the monsters in the hidden section within the Litvart Lair.
-
-
-Number of monsters left: 99
-————————————————————————————————
-
-
-Though he was poisoned and dying, Weed smirked.
-
-
-“I did it!”
-
-
-Weed had finally found the answer for the class change. It was these damn worms in the cave. He had to kill the queens, not those little bugs.
-
-
-“First thing first though, I need to cure myself of the poison…”
-
-
-Chased by the little bugs, Weed left the cave in a hurry. When he saw they could not cross over the boundary of the cave, he began to walk slowly toward the ground level with the colt.
-
-
-When a user is poisoned, their face darkens.
-
-
-Weed avoided contact with other users to conceal that he was poisoned, and recharged his life a little by rubbing herbs on his body and stuffing himself with pre-cooked meals.
-
-
-If he tried, he would surely find a party that had a priest. But he would rather die than ask for help. Was Weed too proud to bargain for his life?
-
-
-Nonsense!
-
-
-There were no poisoning monsters in the Lair of Litvart. Neither kobolds nor goblins had any knowledge of poisonous substances, let alone used them.
-
-
-His so called ‘savior’ would probably want to know where Weed had been poisoned, and by whom or what— and would ask with deeply suspicious eyes. He would rather die than share with others the whereabouts of the secret chamber that he had found after a long time of painstaking searching and tribulation. Once he arrived at the exit above the ground, he jumped up onto the colt...
-
-
-“Go to the nearest village Arse, quickly, or I’ll pass out and then die!”
-
-
-*Sniff*
-
-
-The stupid beast didn’t even budge an inch. It was acting as if it was taking some small amount of sadistic joy from the misfortune of it’s current master, or simply me to be more specifically. As such, Arse pretended to be deaf while he lazily scuffed his hooves in the soil while he continued to leisurely chew on some grass.
-
-
-“If you’re going to be like that, then…”
-
-
-The last dregs of Weed’s patience had finally ran out.
-
-
-“You’ve left me without any other options.”
-
-
-Weed took out the sculpting blade.
-
-
-Arse looked terrified at the sight of that sharp object, but soon calmed down as if it knew Weed was only bluffing.
-
-
-Instead of slashing at Arse, Weed cut his own forearm with the knife. Did he lose his sanity enough to become self-destructive when his life was already in jeopardy because of the poison gas?
-
-
-“Hoho!”
-
-
-Weed grinned treacherously, and although his vision was already blurring around the edges of his sight as a result of anemia, he set his devilish plan into motion. As quick as a viper, he clutched the colt’s jaws and forced them to open and then forced the colt to drink some of his blood.
-
-
-“Look! Now that you’ve sipped some of my blood, you’re poisoned as well now. You need to take me to a village, or we’re both dead. Fortunately for me, I will be able to resurrect soon, you on the other hand, will never get a second chance at life, got it?”
-
-
-With this bit of mutual motivation, the colt finally galloped to the village, and although its speed wasn’t any faster than before, they still arrived in time. Luckily, while he was teetering on the brink of death, upon arriving at the nearest village, Weed was quickly able to find a priest to cast a cure spell on him. After getting cured, he purchased herbs and antidotes worth twenty gold. Though his pockets were now empty of money, he had no remorse.
-
-
-Weed quickly returned to the Lair of Litvart, and only after he was certain that nobody was watching him from the perimeter, did he entered the hidden section of the cave where the worms dwelled.
-
-
-He even brought Arse in there. He was afraid that other users might steal it, well try to, and while the idea to get rid of it by someone else’s hands was more than tempting, he didn’t want to know what would happen if he failed to return the colt to the Royal Stable as was requested, so this took priority.
-
-
-“Always stay behind me.”
-
-
-Arse swayed its tail resignedly.
-
-
-Weed began to slay only queen worms. The tiny little bugs gave as much EXPs appreciable to their size, and the way that they crawled out at him from everywhere made it costly to attack each of them. So with this in mind he only attacked the queens.
-
-
-As no sword master could catch raindrops falling from the sky, Weed ignored the tiny bugs that covered the entire floor like a murky colored carpet.
-
-
-“Sculpting Blade technique!”
-
-
-The mysterious sword technique from Zahab.
-
-
-It crushed the enemy’s shell with powers that directly disintegrated the nature of an object, regardless of resistance and defense. Sometimes, Weed encountered bigger queen worms and needed two or three strikes, between which he rested to refill mana.
-
-
-He was poisoned and repeatedly attacked by the little bugs. With life decreasing rapidly, Weed always barely escaped; death had never been so close nor so often for him.
-
-
-The more he slew queens in the cave, the more blankly dismayed he felt. Who would believe this was a quest for class change? Most users choose their primary class long before they hit level ten.
-
-
-On the other hand, Weed was level sixty-two, and this cave was still a life-and-death challenge to him. He only wondered what kind of class required so much hassle.
-
-
-“Open Quest Information Window”
-————————————————————————————————
-Quest: Search and Destroy Operation in the Lair of Litvart [II]:
-
-
-There are a hundred monsters inhabiting the Lair of Litvart. Kill each and every one of them at least once, and prove yourself worthy of acquiring a honorable class. The completion of this quest will open a right path for your destiny.
-
-
-Difficulty: Unknown
-
-
-Quest requirement: 
-None
-
-
-Number of Monsters Left: 1
-————————————————————————————————
-
-
-At the end of seven days of vicious and almost continuous battle, Weed had only one more to kill. The Queen of Queens! She was easily five times bigger than the other Queen Worms!
-
-
-When Weed entered her throne room without any precaution, he was accorded a cordial reception of thick green fumes of poisonous gas that the Queen of Queens had retained just for him.
-
-
-He would have let it hit him under other circumstances, but he jumped back under a vague hunch.
-
-
-*Melt*
-
-
-The little bugs that were touched by the fumes rotted in seconds and melted into tiny puddles on the cave floor.
-
-
-“What awful poison!” Weed’s heart had skipped two beats.
-
-
-The only way to stay away from the poisonous gas was using the bow from a distance. But his arrows could not penetrate the thick hardy shell of the Queen Worm. So his only option was to approach within reach of her poisonous gas.
-
-
-The Queen Worm knew well of Weed’s current dilemma, and with a mouthful filled of poisonous gas, waited for him to get close so she could shower it all over him.
-
-
-Like a rattlesnake waiting coiled for a chance to strike, the Queen Worm and Weed faced each other, motionless.
-
-
-‘She can shoot thick fumes only once. If I can dodge the first one, the second one will be much lighter. So the initial shot will be decisive.’
-
-
-Weed’s eyes glittered when he saw a treasure has stashed behind the queen worm.
-
-
-‘I will never, ever give up here. If only I had someone who I could sacrifice to the poison gas… Ah… right, I think I’ve found the answer,’  Weed thought, as his eyes narrowed to slits and a wolfish smile spread on his lips.
-
-
-At the end of his gaze lay dumb-eyed Arse.
-
-
-*Punt*
-
-
-Weed kicked the colt’s ass right away. Arse plunged forward instinctively, and the queen worm reflexively puffed out the poison gas toward it.
-
-
-‘I’m sorry, Arse, but destiny’s got you. Life isn’t fair, and I’m afraid that this is the end of our relationship.’
-
-
-Weed could not afford the luxury of watching the fate of the poor beast.
-
-
-As soon as he made sure that the poisonous gas that had been stored in the Queen Worm’s mouth was fully launched, he rushed toward her.
-
-
-“Sculpting Blade technique! Double dance!”
-
-
-Weed swung the sword wildly until his mana ran out.
-
-
-With the iron sword in the right hand, and the sculpting blade in the left, he tore the shell off the Queen Worm.
-
-
-Left without any worthwhile combat skills, this was the best option for Weed. The queen worm struggled, but her gigantic size got in the way as he was too close to her.
-
-
-*Moan*
-
-
-She finally closed her beady eyes shut. Then, a key dropped from her body.
-
-
-“This is it!”
-
-
-Weed picked up the key, inserted it in the keyhole of the treasure box and turned it clockwise. What he found in the box a few volumes of books and a parchment scroll.
-
-
-*Ting*
-————————————————————————————————
-Item: The Successor to the Legendary Emperor [I]:
-
-
-I am Geihar Von Arpen, the first emperor of the Continent, the one who put an end to timeless divisions.
-
-
-My final years of life have been far from fulfilling. 
-
-
-No one has recognized my distress, my superiority!
-
-
-Why does no one understand my profession? Why does everyone look down upon my profession with disrespect? 
-
-
-Enslaved to their prejudices, the talented have refused to understand my goodwill and succeed me in my trade. Even with my children, this form of prejudice is true!
-
-
-Those imbecilic and senseless bunch! 
-
-
-They do not deserve to be my successor!
-
-
-So, I entrust my secret trade to you.
-————————————————————————————————
-
-
-The Emperor Geihar was the first and only man to have ruled over a unified empire in the history of the Versailles Continent.
-
-
-Unfortunately, after his death, the empire was divided once again, thus shaping the present map, but his achievements were recorded as legendary.
-
-
-Weed was thrilled.
-
-
-‘So, there were idiots even back then too! They should have known better. It’s an excellent opportunity… Who was the Emperor Geihar? He’s none other than the first man to conquer the entire continent with his own powers, and this is his class! It must be damn good, but they judged it superficially.’
-
-
-*Ting*
-————————————————————————————————
-Hidden Class!
-
-
-If you accept it, you can use exclusive skills related to the nature of the class.
-
-
-Do you want to convert now?
-
-
-Y | N
-————————————————————————————————
-
-
-Weed yelled without hesitation, “Of course!”, and in that moment, his avatar was enveloped in light.
-
-
-——————————————————————————————
-Character Name:
-Weed
-Alignment:
-Neutral
-Profession:
-Legendary Moonlight Sculptor
-Title:
-None
-Level:
-68
-Fame:
-250
-——————————————————————————————
-Health:
-3460
-Mana:
-340
-Strength:
-235 (+20)
-Agility:
-200 (+20)
-Vitality:
-89 (+20)
-Wisdom:
-16 (+20)
-Intelligence:
-24 (+20)
-Fighting Spirit:
-97 (+20)
-Endurance:
-129 (+20)
-Art:
-29 (+100)
-Leadership:
-68 (+20)
-Luck:
-5 (+20)
-Offence:
-170
-Defense:
-30
-——————————————————————————————
-Magic Resistance:
-None
-——————————————————————————————
-+20 points add to all stats (+20 ALL STATS)
-+80 points added Art (+80 ART)
-+30% increase to Stats on Moonlit Nights
-Gained ability to equip and use class specific items
-Gained ability to learn all craft skills to the stage of a Master
-Crafting skills are optional and advanced skills are available
-Grants extra options to items that are produced or refined
-Increases Attack Power for the Sculpting Blade skill
-Decreases Mana Consumption for the Sculpting Blade skill
-Enables you to learn secret skills based on your level in Sculpture Mastery
-Increases Fame rapidly by creating statues of extraordinary beauty or artistic value
-——————————————————————————————
-
-
-Weed finally got the class that he had been fighting for, but when he saw the name of his new class, he almost collapsed in mortification.
-
-
-“WHAT!? Damn it! Not a ‘Moonlight Sculptor!” he raged.
+“Please!”
 
 
 *****
 
 
-After all his blood and sweat, it all went back to Moonlight Sculptor.
+Upon leaving the Citadel of Serabourg, Volk made a cheesy smile.
 
 
-It was actually ‘Legendary’ Moonlight Sculptor with a flattering prefix, but Weed didn’t give a damn about it. The cursed, poverty inducing profession, Moonlight Sculptor!
+Full of humorous heart that betrayed his scary countenance, Volk had sincerely desired to reward Weed, who had created the bouquet with all his heart.
 
 
-“Why... why me?” he moaned bitterly as clear tears gushed out of Weed’s eyes.
+The book of the City of Heaven! Truthfully, Volk had spent two months to a get hold of it. According to the book, it is a mysterious place that even he had not put his foot on.
 
 
-He smelt what was left of the poisonous gas that the queen worm had breathed out in her last struggle at the moment of death, but it wasn’t what prompted the floodgates in his eyes to break down.
+One of the reasons he had come to Rosenheim was to visit the city. But the proposal to the lady who had stolen his heart outweighed anything else.
 
 
-He had no choice but to accept this God-forsaken class of ‘Moonlight Sculptor’.
+Volk had given Weed the book in return of the bouquet, but it felt like nothing.
 
 
-“I should’ve chosen a common warrior class.”
+‘Don’t just throw it away. Keep it. It will show you the way if you look for it, and you’ll get there someday.’
 
 
-Weed, who had just moments before laughed at the fools who had refused to comprehend the Emperor Geihar’s profession, now blamed the Emperor for duping him into converting to Moonlight Sculptor. He wasn’t at all convinced.
+Holding the bouquet dearly, Volk headed for Brent Kingdom, where the dear lady was.
 
 
-‘Why is life so hard on me?’
+*****
 
 
-Weed was weeping in self-pity.
+A wooden bouquet!
 
 
-He had spent an entire week sitting down in the middle of the street to stimulate Rodriguez’s curiosity, and more than seven weeks in the Lair of Litvart to find this cavity and crush the disgusting Queen Worms living within. All that effort was wasted on converting to Moonlight Sculptor!
+It was a perfect gift at times such as when a boy asks a girl out, so as the rumor about Volk the paladin, his fair lady and the wooden bouquet spread, Weed’s outdoor sculpture shop was quickly becoming a landmark.
 
 
-Weed wanted to cry his heart out.
+Most users had seen statues as a keepsake lying on the fireplace or stuck in the dark corner, only to be dusted from time to time, but Volk’s event transformed the way they viewed statues.
 
 
-Yet he had improved his handicraft skills and sculpture mastery, and earned massive revenue during his sit-in in front of Rodriguez’s manor; he had leveled up at a frightening pace in the lair – conveniently, all of this escaped him now.
+That day, Weed declared, “I apologize, but I shall no longer be making the same shape of statues anymore!”
 
 
-Only the cold reality was left to him, now he was a Moonlight Sculptor, and it grieved him. He just wanted to scream and rage that it was so unfair.
+He came to this conclusion, born of his personal gains, to speed up leveling in his sculpture mastery and Handicraft skill. Yet the public was misled by his words.
 
 
-After a long moment of crisis, though, Weed’s eyes finally regained some light in realizing what he had missed amid his flood of misery.
+“He’s a real artist!”
 
 
-“It’s not as bad as it looks...”
+“He is so cool~! He said he’s not making the some statue twice.”
 
 
-He had thought that he hit the bottom, but as he calmed down, he was seeing the other side.
+“In that case, the value of his statues will rise.”
 
 
-Warriors, rangers and priests are the top three classes, which means that they have been tried and proven better than the other classes.
+The customers to Weed’s vendor used to buy one or two rabbit- or fox-shaped statues as a souvenir at a cheap price, but now they ordered original designs for the gifts.
 
 
-For the warrior and ranger class, they are given a 50% bonus attack power when they’re armed with their weapon of choice according to their subclasses. The priest class can learn and cast holy spells that no other class but the paladin class can tap into.
+The number of finished products fell below two digits because a single work cost him a couple of hours, but they were more popular than the little cookie cutters he used to do— three gold per each statue.
 
 
-This was why Weed’s overall damage with a sword was less than his counterpart the warriors class, and the ruled applied to his attack power with arrows that could not rival that of a full-time ranger.
+Given that the business didn’t require much of production costs, it was lucrative business.
 
 
-Therefore, a hidden class, whose secrets no has yet figured out on their own through trial and error, heavily relies on the way they’re brought up. If they’re properly developed with a focus on the class’s merits and characteristics, it should come off well. If not, it will probably turn out to be mediocre, and no better than a common class if not worse.
+In addition, Weed’s skill level in sculpture mastery and Handicraft skill soared quickly in a short period of time.
 
 
-Weed hastily turned his attention back to the scroll. There were still a few more paragraphs that he had yet to read:
+In only three days, his skill level in sculpture mastery hit eight, way up from five and his intermediate Handicraft skill rose to level four.
 
 
-*Ting*
-——————————————————————————————
-Item: The Successor to the Legendary Emperor [II]:
+When Weed was short of new orders, he cooked and sold food.
 
 
-I love beautiful statues. The statues that are carved with the magnificent spirit of Kvasir have never forsaken me. As long as I love and trust them, they are loyal to me.
+“Rabbit meat or fox meat! If you bring me any meat, I will cook it for you. It can’t be preserved for a long time, so you should eat it within a day!”
 
 
-Who would believe this? That this lowly ‘Sculptor’ class became the cornerstone of my power, from a humble farmer in a country town to the man who united the Continent.
+Weed’s cooking skill granted a bonus to life and vitality to the meals that he cooked. It was pretty much a poor man’s steroid. Those who found it hard to deal with meat that they had picked up while they were hunting wild animals near the Citadel rushed to Weed.
 
 
-Listen well, my successor who walks in the path of a sculptor.
+“Here.”
 
 
-A very difficult path awaits you. The path that a hundred out of a hundred men shall give up and a nation of men will not fare any better.
+“Do you really cook?”
 
 
-However, my successor, I encourage you to stay the course in the face of the toughest challenges. Hardship brings a value of its own, and toughness produces a result of its own too.
+“Yes. Trust me. All you have to pay for are the seasonings and sauces. The thing is, just bring me any kind of meat anytime you want,” Weed said.
 
 
-Become the Grand Master of Sculpting!
+Food made with sculptural art— meals served by Weed were artistic works. More users than you would think learn how to cook because it is useful when they camp out in the field. But how many amateur cooks can apply the art stat when they are cooking?
 
 
-You must learn the secrets of Sculpture Mastery which I failed to learn. It shall remain the wish of every man who has learned the sculptural art.
+Except for professional cooks, not so many users invest time and energy in the cooking skill, and appetizing meals are even rarer among the pros.
 
 
-therefore, I hereby entrust to you these small gifts.
-——————————————————————————————
+Selling quality food at a low price, Weed’s stall was a megahit. Users packed it in the hope of gaining a cheap bonus buff to their life and vitality.
 
 
-Emperor Geihar, the conqueror of the earth, sea and the sky, had done so through the use of Sculpture Mastery.
+Someone whispered to Weed, who had spent a week carving statues and cooking food for sale:
 
 
-After Weed had finished re-reading the scroll, he then checked on the other items within—three tablets and a book.
-
-
-The effects of the tablets were not recorded anywhere but he knew what skill to use in this situation.
-
-
-“Identify”
-——————————————————————————————
-You failed to identify the item!
-You failed to identify the item!
-You failed to identify the item!
-
-
-Item: A Medicine Tablet of the Emperor:
-
-
-This tablet is made from a variety of very rare herbs by an ancient emperor, to clear the mind when it is taken.
-
-
-Effect:
-Permanently increases Mana (+200 Mana)
-——————————————————————————————
-
-
-After a series of failed attempts, Weed was finally able to identify one of the treasure items.
-
-
-It was rare— no, more valuable than simply rare— this item increased the amount of mana permanently by two hundred points!
-
-
-The tablet smelt of an indescribably comforting fragrance. Weed estimated the price for a single tablet to be no less than ten thousand gold.
-
-
-Since the tablet permanently increased the maximum amount of mana, instead of simply recovering mana temporarily like mana potions did from the market, they were worth such an eye-popping price.
-
-
-“Thank you so much. I admire your generosity, your Imperial Majesty.”
-
-
-Weed put down the tablet and picked up the book next.
-
-
-“Does it contain great skills? It should! I don’t think more bad fortune will strike me again after I suffered these setbacks. No, I cannot be that unlucky!”
-
-
-This time again, Weed succeeded in figuring out the content of the book just when he was about to give up trying after scores of failure message windows.
-
-
-“Identify”
-——————————————————————————————
-Item: The Book of Secret Sword Techniques from the Imperial Family of Arpens:
-
-
-Emperor Geihar Von Arpen recorded the Flawless Sword Techniques on behalf of the Imperial Family’s perpetuity and prosperity.
-
-
-This book is composed of five movements and one footstep.
-
-
-All members of the Imperial Family were, by origin, knights. So the skills are generally restricted to the Knight class, but the Emperor Geihar Von Arpen considered his successor in Sculpture Mastery, so he refined the skill for a Sculptor to learn a weakened version of the skill.
-——————————————————————————————
-
-
-Surprised, Weed almost dropped the book.
-
-
-“This, this color is—”
-
-
-The Book of Secret Sword Techniques was flashing in gold when it was identified.
-
-
-It meant that the book was a rare skill book! Moreover, it was an A-grade sword technique book.
-
-
-“You’re so generous, Your Imperial Majesty. Thank you for giving me an A-grade sword technique book!” Weed said.
-
-
-Though, It was still a little disappointing that the skill book wasn’t a unique or S-grade one.
-
-
-Still, it was questionable that Weed, now a sculptor, could learn such a high level of sword techniques even if he had found one.
-
-
-S-grade sword techniques in general have a requirement for certain classes, mostly sword warriors or knights.
-
-
-As Weed didn’t have many decent combat skills, this book was like raindrops in a drought.
-
-
-The days of basic sword skill and archery! They would be gone now, and soon only a distant memory.
-
-
-Weed put a hand on the book and shouted, “Learn!”
-
-
-*Ting*
+–Whisper–
 ————————————————————————————————
-New Skill: Imperial Formless Sword Technique
+– Weed-nim, can you hear me?
 ————————————————————————————————
 
 
-The sword technique book, now done with, glowed white and burned to ashes.
+It was Pale the archer, who had become acquainted with Weed during late nights hunting foxes and wolves.
 
 
-“Skill Check: Formless Sword Technique”
+–Whisper–
 ————————————————————————————————
-Skill: Imperial Formless Sword Technique:
-
-
-This skill is tailored for Sculptors by Emperor Geihar Von Arpen. As the level in Sculpture Mastery rises, the Attack Power of the skill increases by 1%.
-
-
-It is composed of five movements, one breathing technique and one footstep technique.
+– Hi. Long time no see.
 ————————————————————————————————
 
 
-“Fufufu” Weed chuckled.
+– Great, you’re on! Where have you been? I sent you a whisper almost every day, but it was always blocked.
 
 
-The corners of Weed’s mouth rose.
+–Whisper–
+————————————————————————————————
+– I had work to do.
+————————————————————————————————
 
 
-‘This is great!’
+The secret cave in the Lair of Litvart—  while inside it, whispering was automatically blocked. Fortunately, Pale didn’t bother to pry into what Weed had been doing.
 
 
-The Arpenian Empire used to rule over the entire Continent. It then collapsed only to be remembered in name only, but the sword technique that had once been exclusive within the Imperial Family was undoubtedly worth money.
+–Whisper–
+————————————————————————————————
+– I see. Do you have time now?
+————————————————————————————————
 
 
-But Weed was once again cast into despair when he read the descriptions of each movement in the skill info window.
+Weed looked around. His statues were still very popular, but it was strictly production-on-demand now, so the sales had slowly passed their peak. What people wanted for a gift was similar. In that sense, his declaration to make only original statues boomeranged on him.
 
 
-“What in the world!” He let cried out.
+–Whisper–
+————————————————————————————————
+– Yup.
 
 
-The first movement, which consumed the least amount of mana of the five, required three hundred mana points.
-
-
-Because his maximum mana was far too low for now, the secret sword technique was far beyond his reach, even after he swallowed the medicine Tablet of the Emperor.
+– Then, why don’t you join the punitive force quest to Village Baran with us? We decided to take the quest together, and I thought to contact you to ask if you wanted to join too.
+————————————————————————————————
