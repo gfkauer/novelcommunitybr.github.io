@@ -1,97 +1,347 @@
-The Lair of Litvart was at the entrance of Grave Mountains, a three hours trip on horseback from the Citadel.
+
+As was his routine, Rodriguez was taking an afternoon walk. He enjoyed checking on his neighbors and deepening their misery.
 
 
-The colt Weed was riding on occasionally diverted off course, and even chewed on grass leisurely. He had to cajole it to stay on course.
+“How are you, Hans?”
 
 
-In front of the lair, a soldier who would look after the horses was waiting for them.
+“Fine, Counselor.”
 
 
-“Johnson, take good care of the horses.”
+“What is the best fruit today?”
 
 
-“Yes, sir.”
+“This one. Please have some. Fresh strawberry, sire.”
 
 
-The punitive force led by Sir Midvale left their horses to the soldier, and entered the lair. Weed was finally relieved of the colt.
+“Thank you.”
 
 
-“Ready for battle!”
+Rodriguez’s steps were light. For one thing, he wasn’t pestering others who fell under his gaze that afternoon. He was elated by the recent publication of the latest book he had penned.
 
 
-“Set in battle formation!”
+When he returned home, his manservant in care of the manor was waiting at the entrance to greet him. He spoke without reservation to the manservant whose dedication to his family lasted for decades.
 
 
-The punitive force shielded themselves with steel bucklers and armed themselves with spears and swords. Compared to them, Weed’s equipment was pathetic. An iron sword and a bow.
+“How was your walk, milord?”
 
 
-Sir Midvale in chain mail approached.
+“Excellent. Very excellent. These days are free of worries and trifles.”
 
 
-“Is that all you have, Weed-nim?”
+“I’m glad to hear that, milord. By the way, do you mind if I ask you a question?”
 
 
-“Yes, sir.”
+“What is it, William?”
 
 
-“You are poorly armed to fight on the front line. Stay behind and support the troops.”
+“This is about the young man who carved statues on the other side of the street, milord.”
 
 
-“Yes, sir.”
+“Oh, that kid!”
 
 
-The troops held the bucklers forward and marched on the lair. Weed followed them from behind.
+“Did he find what he was seeking?”
 
 
-Making a little headway, they spotted five kobolds that were camping around a bonfire, cooking something. Surprised by the sudden appearance of the troops, the kobolds sprang to their feet.
+Rodriguez laughed evilly.
 
 
-“Grakht!”
+“It’d never be that easy.”
 
 
-“Enemy! Human attack!”
+“Then…”
 
 
-The kobolds are Level 20 midget-like monsters, below four feet in height, armed with coarse wooden shields and bronze swords.
+“Not a chance! He won't even be able to find the place, and even if he does find it, against all odds… well… "
 
 
-“Kill! Kill!”
+“…”
 
 
-“Drive evil human away! They wreck shelter! Rise! Rise brave kobold warriors!”
+“Serves him right even if he gets the class!” Rodriguez burst into insane laughter.
 
 
-When the kobolds rushed out, the soldiers got tense. New recruits, fresh out of boot camps, had not engaged in a battle before. Weed looked toward Sir Midvale, but the knight watched his men with indifferent eyes as if any casualty was acceptable.
+*****
 
 
-‘Isn’t a knight supposed to care if his soldiers die or not? Perhaps he wants them to have firsthand combat experience on their own’ Weed thought.
+The first thing that Weed did when he was alone was double-check his armor and inventory.
 
 
-The soldiers quickly formed a linear formation and charged against the wave of kobolds. A couple of kobolds flung stones with slingshots, but the projectiles barely troubled the troops. Outnumbering the enemy and better equipped, the soldiers gained supremacy over the kobolds with few casualties. Every time a kobold fell, a small piece of metal dropped on the ground.
+“Twenty-four gold and thirty silvers…”
 
 
-“Buren, Becker, gather the spoils.”
+Instead of receiving his share of the spoils that his men had collected from the slain kobolds and goblins, which were mostly crude weapons, equipment and pieces of metal, Weed had asked for hard money.
 
 
-The two soldiers whose names were called out by Sir Midvale began gathering the metal pieces. They were copper or poorly smelted iron of little value, yet sufficient for farming tools.
+“The revenue’s not too bad, and…”
 
 
-One of the reasons why the kingdom operated such a punitive force, other than to train new recruits and restore security to the outskirts was to collect war booty, a creative injection to the budget.
+For the last month, Weed had advanced his skills by far. His cooking mastery hit level six, the repair skill four. The repair skill is so useful that some users are encouraged to pick it up, but the cooking skill is almost extinct, except for professional cooks.
 
 
-“I need to move in at some point…” Weed said to himself.
+Weed’s bandage skill, now level four, empowered him to tend a minor injury by rolling gauze twice. But the most progressive one among his stats was his level.
 
 
-On the next battle, he took out the Bow of Theo Grande and aimed at a kobold’s neck.
+He felt like laughing.
 
 
-‘Hold your breath, steady your hands and aim at the target.’
+*Sniff*
 
 
-*Swish*
+To Weed’s dismay, however, Arse whinnied unpleasantly. He had no choice but to take care of the colt thanks to the ’courtesy’ of Sir Midvale. The colt was good for nothing for now, but Weed was obliged to return it safely to the Royal Stable.
 
 
-Weed’s high agility and handicraft skill guided his arrows precisely to the targeted kobolds.
+‘The Lair of Litvart. No other lair of the same name has been discovered so far. This is the place.’
+
+
+The Counselor’s trick.
+
+
+Assured that there was something behind it, Weed did his best to analyze the quest’s objective from different angles.
+
+
+‘It must be hidden somewhere in the lair, somewhere no one has found yet – a secret chamber.’
+
+
+Weed began working through from the first floor up to the fifth one.
+
+
+For the adventuring classes, such as rangers and explorers, which are endowed with a multitude of observation-related stats and skills, it is easier to discover a concealed entrance.
+
+
+But Weed could only stick to elementary means such as relying on his naked eyes and touching every suspicious area with his hands in order to look for the ‘secret chamber’.
+
+
+There were at least twenty users on each floor in the Lair of Litvart. Hunting monsters, they commented about Weed, who was acting weird.
+
+
+“What’s that guy doing?”
+
+
+“Seems he’s looking for some entrance. Why else would he caress the stone wall so dearly?”
+
+
+“Puhaha, what an idiot. The lair doesn’t have any secret passage.”
+
+
+“This is the first lair found when Rosenheim was discovered months ago. Thousands of adventurers stormed here. He’s taking a gamble.”
+
+
+“Just your typical creep.”
+
+
+They openly laughed at Weed, because they had been jealous of him who was surfing on an easy wave in the lair with thirty NPC troops, it was no surprise that he was the center of jealousy and envy.
+
+
+“Just in case…”
+
+
+“Watch out. Don’t let him notice we’re behind him.”
+
+
+Several users followed Weed quietly, envisioning that he might have overheard valuable information from the NPC soldiers during the mission. Or better, he might be carrying out a special quest. In that case, they even considered forcing Weed to share the quest.
+
+
+In their eyes, this one lone freak was a low-level archer, lacking in melee combat skills; who had worked on household chores for the troops and sponged off them like a parasite.
+
+
+After a week had passed without event, the troublemakers were exasperated by tracking Weed in vain; he was obsessed with exploring the lair inch by through inch, so they finally gave up and left.
+
+
+“Nutcase!”
+
+
+“BAH! I’m freaking mad. I’ve just wasted these last few days!”
+
+
+Even after they left him alone, Weed continued. ‘There’s gotta be something.’
+
+
+Many explorers had already finished mapping out the entire lair, and had already concluded that there was nothing left to find. This was exactly what Weed was told aswell. In fact, he had done occasional research while hunting down the kobolds and goblins, but failed to make any meaningful discovery. Still, Weed was convinced that he would stumble onto something someday.
+
+
+‘Famous adventurers from all over the continent have already searched this place. So what? You’re wrong; and I’m right?’
+
+
+The Lair of Litvart was a vast place. Wandering casually in the forlorn hope of uncovering a hidden place was a hope was as far as the distance between the Earth and Andromeda.
+
+
+Even though the many of adventurers were better with their own observation skills, attitude and persistence could make difference.
+
+
+Weed patiently touched the lair walls, looking for a clue.
+
+
+*Sniff*
+
+
+Arse watched Weed with contempt.
+
+
+He had brought the horse into the lair because there was no one else who could, or would, look after it, but due to this, he was becoming very stressed out by the disobedient beast.
+
+
+‘I need to teach him a lesson first.’ Weed thought evilly.
+
+
+Weed led Arse to a shelter of goblins on purpose—a goblin warrior and three goblin raiders. As soon as they saw Weed, they charged at him.
+
+
+He stepped forward as if to protect the colt in front, and fought against the goblins, screaming:
+
+
+“My god! I don’t want to die!”
+
+
+The goblin warrior’s spear sailed toward Weed but only grazed him, drawing little blood from the flesh.
+
+
+“If… if I am killed now, what will ever happen to my dearest Arse…”
+
+
+The goblins kept on pounding on Weed.
+
+
+“No! I shall stand here to protect Arse! Bring it on, you abominable monsters! You must pass over my dead body before you lay any of your filthy fingers on him!”
+
+
+Weed played a brave knight protecting his weak companion at risk of his own death.
+
+
+When he glanced back, however, he saw that the colt was yawning and playing with a pebble on the ground. Also, Weed noticed that this beast was ready to bolt in the direction of the Lair’s exit the moment the master fell dead.
+
+
+“Damn you!” he swore at the colt.
+
+
+Weed was embarrassed by this turn of events. Why make a fool of himself to win over a mere colt?!
+
+
+*Slash*
+
+
+Weed slew the pestering goblins with a single swing of his sword.
+
+
+He was tempted to behead the beast altogether, but losing Sir Midvale’s trust was too big a risk.
+
+
+*Sniff*
+
+
+Arse gave Weed a contemptuous look as if to ask ‘why he had bled needlessly when he could finish them so easily?’
+
+
+‘Damnit! I feel like a fool to after liking that. Ahhh… patience, patience.’ Weed thought to himself
+
+
+Weed went back to the exploration of the lair.
+
+
+Three days later, on the tenth day of his private exploration to be precise, he found a cavity in a dark corner on the fourth floor where goblin raiders were regenerated. It was located ten yards deeper than the regenerating point. Even the most cautious ranger would have overlooked it. Below a large rock projecting outward, the cavity was shadowed, away from human eyes.
+
+
+“Is there anyone there~?” Weed asked cautiously.
+
+
+Looking around, Weed made sure that there was nobody else sneaking up on him. Those who had trailed him for a week were long gone, but excessive caution never hurt.
+
+
+If this cavity turned out to be what Weed had been looking for, he would be the first man to discover it, and he didn’t want to share the credit with anyone else.
+
+
+For the first explorer who discovers an unknown area, the rewards are immense. He earns fame, plus double EXPs and a higher rate of item provision for a whole week after the discovery. Weed crept into the cavity carefully. The gap was narrow enough to be mistaken for a crevasse between rocks, and the interior widened little by little on each step. He soon reached a passage where he could move comfortably. A humid, foul smell pricked his nose.
+
+
+Tense, he got ready for a battle. He didn’t have any clue as to what was coming next, so he held the iron sword in the right hand with a death grip, and herb and bandages in the left one.
+
+
+‘Bring it on!’
+
+
+Weed walked slowly deeper into the cave.
+
+
+Along the cave were several forks. He picked the left one and entered it, only to find a gigantic worm at a dead end.
+
+
+“What the heck… what kind of monster is this!? I’ve never seen this sort of worm—!!!”
+
+
+Before Weed could finish his words, the surroundings underwent a sudden change.
+
+
+What he thought to be the blackish ground was, in truth, a floor of little bugs the size of pinkies.
+
+
+*Squirm*
+
+
+Like Moses breaking apart the Red Sea, the bugs scattered and then came back to attack Weed, crawling menacingly.
+
+
+“What the!?— How dare you!” Weed swung the iron sword like a windmill.
+
+
+Covered in disturbingly crunchy shells, the good news was that the little bugs were almost harmless with their low attack power, however, the queen-like worm bore offspring faster than he could exterminate them. Right now, he really missed his men in the punitive force.
+
+
+“I’d ended this mess way earlier if I only had them here!” Weed muttered under his breath.
+
+
+Suddenly, the queen bug spewed light green smoke fumes. Like a drop of black ink dispersed in transparent water, the fumes slowly spread in the cramped and enclosed space, eventually reaching where Weed was standing.
+
+
+The moment he inhaled it—
+
+
+*Ting*
+————————————————————————————————
+You have been poisoned!
+
+
+Your life is decreasing continuously.
+————————————————————————————————
+
+
+Startled, Weed checked his life gauge.
+
+
+*Gasp*
+
+
+His life was decreasing by one point per second.
+
+
+“Damn… I don’t have any antidote! If it keeps going…”
+
+
+In desperation, Weed ignored the annoying little bugs, ran to the queen and struck it with the iron sword. On the first strike the queen worm’s hard carapace shell cracked, and yellow fluid slowly oozed out.
+
+
+“If I’m going to die, I’m taking you with me!”
+
+
+Weed neglected the bugs that were crawling up and biting him. Regardless whether they bit him or seconds passed by, he was dying anyway!
+
+
+Torn between two choices, it was better to kill the queen and get the heck out of there. As if they sensed that their mother was dying, the little bugs crowded Weed aggressively, but his iron sword was persistent. The shell of the queen worm was so hard that, though the outer shell was partly cracked, she was alive and well. Meanwhile, Weed’s head was swimming dizzily.
+
+
+‘I’m gonna die here. If only I had a combat skill… skill? Why didn’t I think of that!’
+
+
+The skill that Weed had never been given a chance to use! He had a combat skill that sucked so much mana from him that he could not sustain it longer than a second. Whether it worked or not, the situation was hopeless enough.
+
+
+“Sculpting Blade technique!” Weed’s iron sword blazed white. It temporarily overpowered the enemy’s defense.
+
+
+*Crack*
+
+
+Finally, the gigantic worm’s hard shell shattered into pieces.
 
 
 *Ting*
@@ -100,260 +350,7 @@ You have leveled up!
 ————————————————————————————————
 
 
-When Weed slew three kobolds, a level-up message window popped up. Those kobolds at a level higher than twenty gave enormous EXPs to Weed who was only at level thirteen.
-
-
-Every kobold shot by his arrow immediately fell because as he picked those who were nearly drained of life.
-
-
-Cleverly, Weed sniped at easy game from behind while the soldiers were risking their lives in the front line.
-
-
-It was a selfish and secure tactic. An arsonist torching a house is more of a saint than the neighbor plundering jewelry and china from the burning house, isn’t he?
-
-
-What Weed was doing was obviously very wicked, taking full advantage of brothers-in-arms bleeding and sweating hard to fight the monsters. A good man would not create such exploitation.
-
-
-On the other hand, Weed was also very concerned that this tactic could backfire once the soldiers began to notice it and criticize him. Imagine how duped they would feel if a kobold short of a final strike dropped dead because of an arrow from out of nowhere.
-
-
-Weed only shot kobolds who were running away in a desperate attempt to survive, or when a soldier was helplessly surrounded by two or three kobolds.
-
-
-*Ting*
-————————————————————————————————
-You have leveled up!
-————————————————————————————————
-
-
-Each time a kobold was taken down, Weed smiled gleefully. While the other soldiers were fighting hard in the battles, all he needed to do was to shoot arrows blindly from a safe place. What else was easier than that?
-
-
-His level was skyrocketing as it was just as fast as the stock price of Google. Weed’s scheme to buy the bow right before the quest paid off.
-
-
-On the way deeper into the lair, they found a wide, open place. Sir Midvale and his men circled around it, slaying kobolds as they were detected, and then returned to the place.
-
-
-“Take a rest and prepare lunch,” Sir Midvale ordered.
-
-
-“Yes, sir.” Buren and Becker rustled to take out large pots and light a fire.
-
-
-As the youngest in the party, they were made to do chores. Weed walked to them and picked up a knife.
-
-
-“I’ll help you,”
-
-
-Weed said, smiling sheepishly.
-
-
-“Oh, no need,”
-
-
-Becker said.
-
-
-“Well, I like to cook. I am still an amateur, but wouldn’t it be nice if I serve you brave warriors who are devoting your swords and shields for Rosenheim?”
-
-
-“It is very kind of you, Weed-nim.”
-
-
-Weed spontaneously won favor among the soldiers. A man who volunteers to do manual labor on a journey is always highly welcomed. For one thing, Becker and Buren’s attitude toward Weed changed. They couldn’t help but like he who picks up the knife and slices beef.
-
-
-Of course, he had his own agenda, and it had nothing to do with universal benevolence or whatever. Improve his Cooking skill.
-
-
-Weed sliced and threw beef in the pot, added vegetables and flavors to make a stew. The ingredients that were needed to serve 32 men were quite a lot. Weed was aware that cooking plenty of food was the short cut to improve his cooking skill as fast as possible.
-
-
-*Ting*
-————————————————————————————————
-Level Up: Cooking (Beginner Lv: 2 | 0%):
-
-
-Enhances the taste of meals.
-Increases speed of recovery of stamina when served.
-Increase life when served. (+5% LIFE)
-
-
-Level Up: Handicraft (Beginner Lv: 7 | 0%):
-
-
-Enhances your craft skills in every field
-————————————————————————————————
-
-
-Two message windows emerged almost together. Weed’s cooking skill rose while the Handicraft skill that had needed a few experience points for a level up ascended to seven. Two birds with one stone, indeed.
-
-
-Weed tasted a spoonful of the stew— the privilege of being a chef.
-
-
-“Excellent.”
-
-
-Comparing this stew to cheap rye bread that said in any grocery store was an insult. It wasn’t as good as the pork barbecue that he had eaten the other day, but satisfying for his first attempt at catering thanks to his high handicraft skill that compensated the low Cooking skill.
-
-
-“Everyone! Lunch is ready! Please help yourself.”
-
-
-The soldiers who felt hungry because of the relentless battles were served a bowl of stew each, which they ate greedily.
-
-
-“Oh, it’s delicious!”
-
-
-“I can’t believe a meal could taste so good outdoors!”
-
-
-“Somehow, I think he’s a better cook than my wife.”
-
-
-They all gave the thumbs up to Weed. Their reaction told him that they wanted him to keep on cooking for them.
-
-
-He filled empty bowls with beef stew continuously when asked, and in doing so, his stomach, too.
-
-
-The soldiers emptied the pot, and when the lunch break was over, Sir Midvale came over to Weed. He asked cordially,
-
-
-“Weed-nim, would you care to keep serving my men?”
-
-
-Apparently, even a brave knight valued good cooking. Though, it was more likely that as a revered noble, he was too accustomed to fine meals that he could accept nothing less.
-
-
-“Yes, sir. I will take care of meals.”
-
-
-And so, Weed was named the official chef for the punitive force.
-
-
-He found no reason to decline Sir Midvale’s request, as he could upgrade the cooking skill by preparing thirty-two servings of stew three times a day. Furthermore, he wasn’t confined to the field of cooking.
-
-
-“Weapons and armors, I can fix them! Bring me anything damaged or destroyed if you have them.”
-
-
-“Really?”
-
-
-“Can you really repair my sword?”
-
-
-“My buckler’s half damaged, low in durability…”
-
-
-“Just show me what you’ve got. Repair!”
-
-
-Weed used the repair skill to repair weapons and gear that some soldiers brought to him. It would cost a fortune to have a blacksmith repair damaged equipment back in town. If they were left with low durability, they could suddenly break in the middle of a battle.
-
-
-“Thank you, Weed-nim!”
-
-
-Weed was hailed as a savior by the troops. He could upgrade his handicraft and repair skills, and earned trust from soldiers as a bonus.
-
-
-Sir Midvale, who had been skeptical of his friend’s recommendation to bring Weed along on the mission, was now more than satisfied with his role.
-
-
-“You’re the man, Weed-nim!”
-
-
-“Not at all, sir.”
-
-
-Weed blended in with the rest of the troops.
-
-
-Who knows what inconveniences they would have to suffered without him. They would have had to return to a nearby village from time to time when they needed to have broken or edge-nicked weapons fixed, and the meals would have been revolted to their stomachs.
-
-
-Rarely obtained magical items would have needed identification scrolls, which cost several gold coins for each. Instead, Weed could identify them right on the spot with his identification skill.
-
-
-For the soldiers, it would be torture to go back to the tasteless gruel that Buren and Becker used to claim was beef stew, especially after they enjoyed Weed’s version.
-
-
-“We’re not cooks in the first place!” Buren and Becker cried in unison.
-
-
-In this way, the soldiers and Weed formed an unimaginable relationship.
-
-
-*Swish*
-
-
-Whenever an arrow flew from Weed, a kobold turned grey.
-
-
-The kobolds are considered relatively weaker monsters. They know how to use tools, but the class of their tools is crude, as though they were made by children. They basically relied on numbers in a battle.
-
-
-“Kiyoyo!” A platoon of nine kobolds charged at once.
-
-
-‘Come on! My precious EXP points!’
-
-
-A big grin forming on his face, Weed greeted the kobolds with silent cheers. He shot arrows arbitrarily, collecting easy EXPs. Defense was taken care of by the soldiers, anyway. All he needed to do was shoot as many arrows as possible.
-
-
-*Ting*
-————————————————————————————————
-You have leveled up!
-You have leveled up!
-
-
-New Skill: Archery
-————————————————————————————————
-
-
-This was level-up madness!
-
-
-Weed had also learned archery, a skill that was commonly exclusive to the archer class. It was hardly surprising, considering that he had done nothing but shoot arrows as he never swung a sword, even once, in the battles.
-
-
-Nevertheless, the soldiers were not jealous of him in the least. After the battles, Weed was the busiest one there. He cooked meals, repaired weapons and gear and tended the wounded.
-
-
-Sir Midvale had a few healing potions for emergencies, but the soldiers in the punitive force could not afford such costly medicines. Weed rubbed herbs and rolled gauze on wounds with his handicraft skill.
-
-
-*Ting*
-————————————————————————————————
-New Skill: Bandage
-Enables you to stop bleeding and can increase health of the wounded when tended.
-————————————————————————————————
-
-
-The maximum number of skills that a user can learn when his class is undecided is ten.
-
-
-Weed’s bandage skill, was affected by the high handicraft skill, and thus had impressive effects. As he was busy caring for thirty patients every day, the skill upgraded fiercely.
-
-
-The troops roamed on the first and second floor, slaying kobolds, for a week.
-
-
-Users were occasionally spotted watching Weed with envious eyes as he was privileged to join a NPC punitive force and hunt monsters alongside them.
-
-
-The week of slaughtering kobolds upgraded his level to twenty-six. The repair skill hit level three, and the cooking skill, now level four, earned him a special option to increase 50 HP for those who were served with his meals until the satisfaction factor went down.
-
-
-Still, he had a headache.
+Weed skipped the message window and yelled,
 
 
 “Open Quest Information Window”
@@ -371,767 +368,576 @@ Quest requirement:
 Defeat all of the monsters in the hidden section within the Litvart Lair.
 
 
-Number of monsters left: 100
+Number of monsters left: 99
 ————————————————————————————————
 
 
-Regarding the quest that Counselor Rodriguez had, the number of monster that needed to be kill has not decreased at all though Weed had already knocked down hundreds of kobolds.
+Though he was poisoned and dying, Weed smirked.
 
 
-After a week of warming up on the kobolds, the troops headed to the third floor of the lair— the goblins’ territory.
+“I did it!”
 
 
-While hunting kobolds had been originally intended to give the new recruits firsthand combat experience, confronting goblins posed a grave threat to their life.
+Weed had finally found the answer for the class change. It was these damn worms in the cave. He had to kill the queens, not those little bugs.
 
 
-The level of the kobolds were generally in their twenties. The kobold rascals are level twenty-three, and the relatively stronger kobold warriors twenty-eight, but untitled kobolds were at level twenty.
+“First thing first though, I need to cure myself of the poison…”
 
 
-On the other hand, the goblins are level fifty or above. Their weapons and gear surpass what kobolds are equipped with in attack power and in defense. The combat strength of the goblins is five to six times that of the kobolds.
+Chased by the little bugs, Weed left the cave in a hurry. When he saw they could not cross over the boundary of the cave, he began to walk slowly toward the ground level with the colt.
 
 
-“Watch out now. When you find yourself in danger, retreat immediately.”
+When a user is poisoned, their face darkens.
 
 
-“Yes, Commander!”
+Weed avoided contact with other users to conceal that he was poisoned, and recharged his life a little by rubbing herbs on his body and stuffing himself with pre-cooked meals.
 
 
-The soldiers could not hide their excitement and tension. Their levels ranged from twenty-three to twenty-five from hunting kobolds, but their confidence ebbed at the thought of facing an unknown enemy whose level was generally twice theirs. The only relief was that goblins gathered in lesser numbers than kobolds.
+If he tried, he would surely find a party that had a priest. But he would rather die than ask for help. Was Weed too proud to bargain for his life?
 
 
-“Whew...”
+Nonsense!
 
 
-Weed let out an exasperated breath. His stomach curdled at the thought that if the troops fought goblins at that moment, they would surely suffer inevitable casualties.
+There were no poisoning monsters in the Lair of Litvart. Neither kobolds nor goblins had any knowledge of poisonous substances, let alone used them.
 
 
-‘One third? Or perhaps more? I hope we won’t get annihilated.’
+His so called ‘savior’ would probably want to know where Weed had been poisoned, and by whom or what— and would ask with deeply suspicious eyes. He would rather die than share with others the whereabouts of the secret chamber that he had found after a long time of painstaking searching and tribulation. Once he arrived at the exit above the ground, he jumped up onto the colt...
 
 
-Had Weed been in charge of the troops, he would have taken time to have his men build more experience and level up higher before he led them to the threshold of the goblins, not to mention that he would have taught them how to fight goblins efficiently.
+“Go to the nearest village Arse, quickly, or I’ll pass out and then die!”
 
 
-But the command of the punitive force primarily belonged to Sir Midvale. Weed was left with two options. Either he followed them as before, only to sit back and watch them die helplessly, or he give up the quest and hunt more kobolds on his own until he leveled up enough to deal with the goblins. The second option, which would penalize him tremendously, was out of the question.
+*Sniff*
 
 
-In fact, the reason Weed was so concerned about the welfare of the soldiers was more of a practical need that he didn’t want to see them die in vain when he worked so hard to build a friendship with them.
+The stupid beast didn’t even budge an inch. It was acting as if it was taking some small amount of sadistic joy from the misfortune of it’s current master, or simply me to be more specifically. As such, Arse pretended to be deaf while he lazily scuffed his hooves in the soil while he continued to leisurely chew on some grass.
 
 
-“They are coming. Get ready—!” Even before Sir Midvale finished his words, a few goblins dashed out of a cave.
+“If you’re going to be like that, then…”
 
 
-“Kigggg!”
+The last dregs of Weed’s patience had finally ran out.
 
 
-“Human, human!”
+“You’ve left me without any other options.”
 
 
-“They die!”
+Weed took out the sculpting blade.
 
 
-There were five goblins. The total number of soldiers outnumbered them 6:1. Weed planned to shoot an arrow at the goblins to take the initiative and to seek another chance afterward— undoubtedly, a goblin yielded a tremendous amount of EXPs, and he was dying to get one.
+Arse looked terrified at the sight of that sharp object, but soon calmed down as if it knew Weed was only bluffing.
 
 
-However, the soldiers were frozen stiff. They stood motionless as if nailed to the ground where they were standing. And fighting spirit radiated from the goblins! The soldiers cowered at the sight of an enemy who was level fifty. Their swords dropped downward, the bucklers trembled unmistakably.
+Instead of slashing at Arse, Weed cut his own forearm with the knife. Did he lose his sanity enough to become self-destructive when his life was already in jeopardy because of the poison gas?
 
 
-‘Idiots…’ Weed clicked his tongue.
+“Hoho!”
 
 
-The goblins were not easy to defeat even if the soldiers stood up to fight fearlessly, and now they were already frozen before the battle began. This would lead to a calamity.
+Weed grinned treacherously, and although his vision was already blurring around the edges of his sight as a result of anemia, he set his devilish plan into motion. As quick as a viper, he clutched the colt’s jaws and forced them to open and then forced the colt to drink some of his blood.
 
 
-Weed shot a glance at Sir Midvale, who was standing beside him. Obviously, the knight wasn’t in the mood to motivate his men.
+“Look! Now that you’ve sipped some of my blood, you’re poisoned as well now. You need to take me to a village, or we’re both dead. Fortunately for me, I will be able to resurrect soon, you on the other hand, will never get a second chance at life, got it?”
 
 
-‘The weak deserve to die.’
+With this bit of mutual motivation, the colt finally galloped to the village, and although its speed wasn’t any faster than before, they still arrived in time. Luckily, while he was teetering on the brink of death, upon arriving at the nearest village, Weed was quickly able to find a priest to cast a cure spell on him. After getting cured, he purchased herbs and antidotes worth twenty gold. Though his pockets were now empty of money, he had no remorse.
 
 
-The code of chivalry developed in Rosenheim kingdom was cold-blooded. Weed stepped forward. He flung his bow on his back and held the iron sword.
+Weed quickly returned to the Lair of Litvart, and only after he was certain that nobody was watching him from the perimeter, did he entered the hidden section of the cave where the worms dwelled.
 
 
-‘I have faith in friendship I’ve worked so hard to build,’ he said to himself.
+He even brought Arse in there. He was afraid that other users might steal it, well try to, and while the idea to get rid of it by someone else’s hands was more than tempting, he didn’t want to know what would happen if he failed to return the colt to the Royal Stable as was requested, so this took priority.
 
 
-Then, he did something that was unimaginable to the other soldiers who remembered what he had done in the previous battles. Weed shouted a war cry and charged toward the goblins!
+“Always stay behind me.”
 
 
-“Yatz!”
+Arse swayed its tail resignedly.
 
 
-*Sniggers*
+Weed began to slay only queen worms. The tiny little bugs gave as much EXPs appreciable to their size, and the way that they crawled out at him from everywhere made it costly to attack each of them. So with this in mind he only attacked the queens.
 
 
-Weed’s sword was deflected so easily, instilling a sense of futility in him.
+As no sword master could catch raindrops falling from the sky, Weed ignored the tiny bugs that covered the entire floor like a murky colored carpet.
 
 
-He could make up for a gap between his level and the goblins’ with his inflated stats, but the shorter reach of his sword was critical. The sword wasn’t effective on the goblins that were armed with longer spears.
+“Sculpting Blade technique!”
 
 
-‘I’m not wearing any defensive gear. If they hit me, I’m dead.’
+The mysterious sword technique from Zahab.
 
 
-The goblins blocked Weed’s sword, and almost at the same time, they thrust their spears toward him. He crouched to dodge them. It needed a combination of his amazing reflexes and quick wits to save his life.
+It crushed the enemy’s shell with powers that directly disintegrated the nature of an object, regardless of resistance and defense. Sometimes, Weed encountered bigger queen worms and needed two or three strikes, between which he rested to refill mana.
 
 
-He had no intention of fighting the goblins seriously, so his subsequent attacks were half-hearted.
+He was poisoned and repeatedly attacked by the little bugs. With life decreasing rapidly, Weed always barely escaped; death had never been so close nor so often for him.
 
 
-“Die, human!”
+The more he slew queens in the cave, the more blankly dismayed he felt. Who would believe this was a quest for class change? Most users choose their primary class long before they hit level ten.
 
 
-“Your sword sucks!”
+On the other hand, Weed was level sixty-two, and this cave was still a life-and-death challenge to him. He only wondered what kind of class required so much hassle.
 
 
-With five spears, the goblins attacked at random places that were directed by raw instinct.
+“Open Quest Information Window”
+————————————————————————————————
+Quest: Search and Destroy Operation in the Lair of Litvart [II]:
 
 
-As long as Weed didn’t get close within the reach of his sword, he was free of the risk of being skewered by their spears.
+There are a hundred monsters inhabiting the Lair of Litvart. Kill each and every one of them at least once, and prove yourself worthy of acquiring a honorable class. The completion of this quest will open a right path for your destiny.
 
 
-Still, he pretended to be in peril, dodging the spears by inches. To the eyes of the soldiers, the scene looked like a hopeless struggle of the weak.
+Difficulty: Unknown
 
 
-Even though it had been long since Weed’s level transcended theirs, their view of his role was fixed on a handyman working manual labor, such as repairs, cooking and first aid. That Weed was fighting the goblins! The eyes of the soldiers began to flicker with confidence.
+Quest requirement: 
+None
 
 
-After a couple more exchanges, Weed retreated a few steps and then roared in a thunder-like voice,
+Number of Monsters Left: 1
+————————————————————————————————
 
 
-“Look at them! These goblins are weaker than they appear! Look at us! We outnumber them! You are not alone; we have each other! Our comrades shoulder to shoulder are watching our backs!”
+At the end of seven days of vicious and almost continuous battle, Weed had only one more to kill. The Queen of Queens! She was easily five times bigger than the other Queen Worms!
 
 
-“Hoo-hah!” The soldiers roared as they regained their morale once more.
+When Weed entered her throne room without any precaution, he was accorded a cordial reception of thick green fumes of poisonous gas that the Queen of Queens had retained just for him.
 
 
-“It’s a shame on us if we hide behind Weed’s back like mice!”
+He would have let it hit him under other circumstances, but he jumped back under a vague hunch.
 
 
-“Get up—fight!” They charged directly at the goblins.
+*Melt*
 
 
-Weed quickly sensed a forthcoming melee and pulled himself from the battle.
+The little bugs that were touched by the fumes rotted in seconds and melted into tiny puddles on the cave floor.
 
 
-“These bastards are only using spears. If we fight within the reach of spears, it will only cause us more damage. Use your shields. Hold yours bucklers up, marched forward, narrow the gap in between, and prevent them from thrusting their spears freely.”
+“What awful poison!” Weed’s heart had skipped two beats.
 
 
-“Aye!”
+The only way to stay away from the poisonous gas was using the bow from a distance. But his arrows could not penetrate the thick hardy shell of the Queen Worm. So his only option was to approach within reach of her poisonous gas.
 
 
-“I will follow your command!” some yelled.
+The Queen Worm knew well of Weed’s current dilemma, and with a mouthful filled of poisonous gas, waited for him to get close so she could shower it all over him.
 
 
-Weed gave timely advice in a cordial manner.
+Like a rattlesnake waiting coiled for a chance to strike, the Queen Worm and Weed faced each other, motionless.
 
 
-Since friendship between them hit maximum, his command was directly taken on board by the soldiers.
+‘She can shoot thick fumes only once. If I can dodge the first one, the second one will be much lighter. So the initial shot will be decisive.’
 
 
-They pushed back the goblins by force. Two thirds of them held their bucklers at the front, the rest grabbed the swords.
+Weed’s eyes glittered when he saw a treasure has stashed behind the queen worm.
 
 
-As the first two lines charged behind the bucklers, the spears that were thrust by the goblins bounced off, astonishing the brainless enemy. Once the gap was narrowed, the sword line began to swing their swords.
+‘I will never, ever give up here. If only I had someone who I could sacrifice to the poison gas… Ah… right, I think I’ve found the answer,’  Weed thought, as his eyes narrowed to slits and a wolfish smile spread on his lips.
+
+
+At the end of his gaze lay dumb-eyed Arse.
+
+
+*Punt*
+
+
+Weed kicked the colt’s ass right away. Arse plunged forward instinctively, and the queen worm reflexively puffed out the poison gas toward it.
+
+
+‘I’m sorry, Arse, but destiny’s got you. Life isn’t fair, and I’m afraid that this is the end of our relationship.’
+
+
+Weed could not afford the luxury of watching the fate of the poor beast.
+
+
+As soon as he made sure that the poisonous gas that had been stored in the Queen Worm’s mouth was fully launched, he rushed toward her.
+
+
+“Sculpting Blade technique! Double dance!”
+
+
+Weed swung the sword wildly until his mana ran out.
+
+
+With the iron sword in the right hand, and the sculpting blade in the left, he tore the shell off the Queen Worm.
+
+
+Left without any worthwhile combat skills, this was the best option for Weed. The queen worm struggled, but her gigantic size got in the way as he was too close to her.
+
+
+*Moan*
+
+
+She finally closed her beady eyes shut. Then, a key dropped from her body.
+
+
+“This is it!”
+
+
+Weed picked up the key, inserted it in the keyhole of the treasure box and turned it clockwise. What he found in the box a few volumes of books and a parchment scroll.
 
 
 *Ting*
 ————————————————————————————————
-Leadership has risen by 3 points (+3 CHR)
+Item: The Successor to the Legendary Emperor [I]:
+
+
+I am Geihar Von Arpen, the first emperor of the Continent, the one who put an end to timeless divisions.
+
+
+My final years of life have been far from fulfilling. 
+
+
+No one has recognized my distress, my superiority!
+
+
+Why does no one understand my profession? Why does everyone look down upon my profession with disrespect? 
+
+
+Enslaved to their prejudices, the talented have refused to understand my goodwill and succeed me in my trade. Even with my children, this form of prejudice is true!
+
+
+Those imbecilic and senseless bunch! 
+
+
+They do not deserve to be my successor!
+
+
+So, I entrust my secret trade to you.
 ————————————————————————————————
 
 
-For Weed, who had been resting idly, had his leadership increased by three points. The leadership stat acts over NPC troops, and makes it easier to tame pets or hire mercenaries.
+The Emperor Geihar was the first and only man to have ruled over a unified empire in the history of the Versailles Continent.
 
 
-As the soldiers who were motivated by Weed’s speech got into action, his leadership was recognized.
+Unfortunately, after his death, the empire was divided once again, thus shaping the present map, but his achievements were recorded as legendary.
 
 
-*Slash*
+Weed was thrilled.
 
 
-The goblins, in spite of their much higher level, could not defeat the troops, who outnumbered them six-fold.
-
-
-Their coordinated offense turned one goblin after another into a gray flash.
-
-
-These Roman legion tactics would have been ineffective when it comes to a battle between armies of equal number of soldiers, but an army of thirty soldiers with bucklers on, charging from four directions, devastated the goblins, which were armed with long spears.
-
-
-Occasional arrows shot by Weed after he sheltered behind the troops distracted the goblins further.
-
-
-‘Five goblins! One of them is mine!’
-
-
-Weed observed the battle scene, and when a goblin was near death, he shot an arrow precisely at the goblin’s neck.
+‘So, there were idiots even back then too! They should have known better. It’s an excellent opportunity… Who was the Emperor Geihar? He’s none other than the first man to conquer the entire continent with his own powers, and this is his class! It must be damn good, but they judged it superficially.’
 
 
 *Ting*
 ————————————————————————————————
-You have leveled up!
+Hidden Class!
+
+
+If you accept it, you can use exclusive skills related to the nature of the class.
+
+
+Do you want to convert now?
+
+
+Y | N
 ————————————————————————————————
 
 
-Since Weed had reached level twenty-six, kobolds had not yielded as much EXPs as before. It was still a lot whichever way you looked at it, but was overall too low for Weed.
-
-
-A goblin belonged to a different dimension than a kobold. When Weed had killed the goblin, it alone filled thirty-seven percent that remained for the next level, at twenty-seven, and took extra ten percent for change.
-
-
-‘At level fifty, goblins give much better EXP than kobolds.’
-
-
-Weed was tempted to kiss the goblin’s ass. Only God knows what he would have done if the soldiers were not around him though. It would be difficult to find a hunting ground better than this.
-
-
-“We won!” the men cheered.
-
-
-The soldiers exclaimed in triumph, throwing swords in the air. They were bolstered in confidence that they had successfully defeated the first goblins.
-
-
-“Goblins are no match for us!”
-
-
-“No, we won easily because we followed Weed’s command.”
-
-
-“He has the gift of a leader.”
-
-
-“He’s excellent in measuring the enemy’s strength.”
-
-
-“Under his command, our chances of survival will be high.”
-
-
-When the battle was over, the soldiers complimented Weed, patting his back.
-
-
-The goddess of fortune was smiling on him! Weed, however, drifted his gaze to Sir Midvale cautiously.
-
-
-If the knight was offended that his command was violated by a mere foreigner, he had every right to execute Weed without trial, though Weed assured himself that his friendship with the knight would prevent the worst in that case.
-
-
-Sir Midvale looked at the corpse of a goblin, deep in thought for a moment, and then said to Weed,
-
-
-“You are a good soldier, Weed-nim. I can see great talent in you. How about taking the path of royal guard?”
-
-
-“A royal guard?”
-
-
-“You will become an officer in the honorable army of Rosenheim kingdom. Your starting position will be a Denarion.”
-
-
-*Ting*
-————————————————————————————————
-You have received a job offer!
-
-
-If you accept it, you will take a military position of Denarion in the Rosenheim army. You will command ten foot soldiers. You are entitled to receive regular training, and a monthly income of fifty silvers. Will you accept this job offer?
-
-
-Upon the completion of the regular training, a few basic sword techniques and a quantity of military equipment such as swords and shields are given. Certainly, they are not the sharpest tools in town—an iron sword, or similar, and heavy armor with only defense options.
-————————————————————————————————
-
-
-Weed shook his head because, according to his blueprint, it was too early to settle down in a specific career.
-
-
-“I am honored you have such a high opinion of me, sir. But I cannot take it. A royal guard is undoubtedly what I aspire to be, but I want to devote myself to wandering freely to help the poor and the weak, and to destroy evil monsters in their lairs for the time being. A wanderer’s blood flows in me, Sir Midvale.”
-
-
-“Well, so be it. If you ever change your mind, let me know. For now, take command of my men.”
-
-
-“Can I really do that?”
-
-
-“It is my duty, but it seems my men follow you, and learn a lot from you. I will watch from behind to see how far your leadership can lead them.”
-
-
-Sir Midvale transferred the command of the punitive force to Weed.
-
-
-For now, the soldiers were obliged to obey him at least in this lair. Of course, he did not expect loyalty that could compel them to jump into a pit of flames from a single word.
-
-
-Weed’s leadership was too low, so he counted on his friendship with the soldiers. Still, he was thrilled at his new assignment.
-
-
-‘Sweet! I’ll make the best out of this situation,’ he said to himself.
-
-
-Weed swiftly packed the bow, took out the sword and held it up. It was a demonstration of his newly-acquired position. It would have been less impressive to hold the bow, reminding his troops of his past behavior in battles that could not strike them as honorable.
-
-
-“Listen, soldiers! My name is Weed, and as of now, I take over the command of you. I ask you to follow my orders dutifully.”
-
-
-“Yes, Commander!”
-
-
-“My foremost objective is to defeat the lair without any casualties. Do your best, and not a single drop of blood will shed in vain.”
-
-
-“Yes, Commander!”
-
-
-Since Weed took over the command from Sir Midvale, the attitude of his troops toward him had changed drastically.
-
-
-“Buren, Becker.”
-
-
-“Yes, Commander!”
-
-
-“You are scouts now. Stay ahead of the army, and look out for enemy in the areas. Even when we are engaged in battle, you must look out for any approaching enemy.”
-
-
-“Yes, Commander!”
-
-
-Weed marched his troops with the two scouts leading them. Soon, Buren ran back to him, panting.
-
-
-“Commander.”
-
-
-“Speak.”
-
-
-“Buren reporting, sir! Seven goblins at twelve o’clock. Two female goblins and five goblin raiders.”
-
-
-Goblin raiders were, according to Weed’s private database, level 58 monsters.
-
-
-“You did a good job, Buren. Everyone, halt!”
-
-
-Weed ordered his troops to stay put in an open clearing, and set up a few traps. Then, he went alone to the location where the goblins had been spotted.
-
-
-As Buren reported, the seven goblins were resting there. Weed took out his bow and shot at the farthest goblin. Before the arrow hit the target, he turned and ran away.
-
-
-*Swish*
-
-
-“Kyah, human!” The goblins looked around, spotted Weed and chased after him in a rush.
-
-
-Weed knew that, if he was surrounded by the seven goblins, he would not stand any chance. He just prayed his feet would not fail.
-
-
-*Thump*
-
-
-As Weed heard the goblins gaining on him from behind, he shivered.
-
-
-Holding spears, the goblins were running with heavy strides.
-
-
-‘God, they even sent a chill down my spine. This is what you call an awesome game. No, the coolest job for me,’ he thought to himself.
-
-
-Although in a dangerous spot, Weed’s thoughts were still positive. He was alone, but he would be safe once he reached the place his troops were hiding. Weed ran like his tail was on fire, and arrived at the clearing.
-
-
-“Commander!”
-
-
-Buren and Becker were the first faces he saw.
-
-
-“Get ready for the battle. Goblins are incoming!”
-
-
-While Weed’s call was echoing through the space, the seven goblins sprang out of the cave. In only a moment, their fate would be decided.
-
-
-“Kugh?”
-
-
-The goblins that were stupid and witless were mesmerized by the sudden appearance of the soldiers from the rocks they had been taking cover behind. Then they threw burning torches at the goblins.
-
-
-“These bastards are trapped!”
-
-
-“Push forward!”
-
-
-“They have spears. Be careful of their spears! Anyone who is injured must step down, be it severe or not.”
-
-
-Had Weed foreseen that he would be in charge of the troops, he would have bought more snares and traps. The best idea he could come up with when there were no other tools was to throw torches at the goblins.
-
-
-Nonetheless, the soldiers were fighting very well. The thirty troops were a big machine driving the goblins into individual segments and destroying them one after the other. They were strengthened by an incalculable variable called morale.
-
-
-Whether it comes to monsters or NPCs, morale is always a decisive factor in battles. The soldiers believed in their newly appointed leader, Weed. The Goblins on the other hand, were confused by the torches thrown at them, at the point the goblins realized that they had walked into a trap, they were already surrounded by many humans, so they lost their will to fight back.
-
-
-“Cheating humans attack us!”
-
-
-“Kieeekk! Run for life!”
-
-
-“Who do you think will let you get away alive?”
-
-
-While the soldiers pushed relentlessly towards their enemy, Weed’s eyes flashed.
-
-
-“Surround them. Block the entrance of the cave!”
-
-
-“Yes, Commander!”
-
-
-“Let the wounded retreat and give first aid. The other soldiers with full life— focus on defense. Those who are healed should remain in the waiting position. You will get ready to join the battle when I give you an order.”
-
-
-Under Weed’s command, the soldiers immobilized the goblins steadily, two of whom were felled by his arrows.
-
-
-As he had put his life at risk, he justified that he deserved at least two goblins to make ends meet.
-
-
-The high-level goblins held on for a considerable period in spite of low morale, but when Weed divided his troops into three groups, and ordered them to take turns exhausting the enemy, the monsters ended up as gray flashes.
-
-
-The goblins left nine silvers, a steel shield and a bronze spear.
-When Buren and Becker picked them up as ordered, Weed interfered.
-
-
-“Everyone, listen! I am proud of your valor. I will divide spoils in a different manner than before.”
-
-
-“…?”
-
-
-“I will reward the soldier who fights the most goblins bravely. On one condition—he cannot  be severely injured enough to be disabled for the next battle. My priority is to bring you safely back home to your loving wives and families.”
-
-
-“Yes, Commander!”
-
-
-At Weed’s speech, the eyes of his troops filled with admiration.
-
-
-*Ting*
-————————————————————————————————
-Leadership has risen by 2 points (+2 CHR)
-————————————————————————————————
-
-
-Weed would have swallowed all the items if he could, but he kept himself in checked. If his friendship with the soldiers dropped, his low leadership could not save him from the possibility of a mutiny, or even a hanging.
-
-
-Sir Midvale’s presence further weighed on him to bury his unreasonable greed. Leading his troops, Weed systematically cleaned out the goblins on the third floor.
-
-
-One day, however, Sir Midvale said with a grimace,
-
-
-“Weed-nim, the pace of the mission is slow. I advise you to pick up the pace.”
-
-
-“I beg your pardon, sir?”
-
-
-“I borrowed these soldiers from other regiments. I am not allowed to keep them indefinitely. They must finish the quest within a month, and return to their original regiments.”
-
-
-Weed had never heard of the deadline. It seemed that only the soldiers were bound to it. Still, he didn’t hasten the pace.
-
-
-Against six or more goblins, he always drew them to the nearest open space by shooting one or two arrows where his troops overwhelmed them. In case of fewer than six goblins, he led them straight to fight with the enemy.
-
-
-Weed avoided a battle unless the soldiers were fully healed to the last man, and he still made stews and repaired damaged weapons and gear to maintain their condition at their best.
+Weed yelled without hesitation, “Of course!”, and in that moment, his avatar was enveloped in light.
+
+
+——————————————————————————————
+Character Name:
+Weed
+Alignment:
+Neutral
+Profession:
+Legendary Moonlight Sculptor
+Title:
+None
+Level:
+68
+Fame:
+250
+——————————————————————————————
+Health:
+3460
+Mana:
+340
+Strength:
+235 (+20)
+Agility:
+200 (+20)
+Vitality:
+89 (+20)
+Wisdom:
+16 (+20)
+Intelligence:
+24 (+20)
+Fighting Spirit:
+97 (+20)
+Endurance:
+129 (+20)
+Art:
+29 (+100)
+Leadership:
+68 (+20)
+Luck:
+5 (+20)
+Offence:
+170
+Defense:
+30
+——————————————————————————————
+Magic Resistance:
+None
+——————————————————————————————
++20 points add to all stats (+20 ALL STATS)
++80 points added Art (+80 ART)
++30% increase to Stats on Moonlit Nights
+Gained ability to equip and use class specific items
+Gained ability to learn all craft skills to the stage of a Master
+Crafting skills are optional and advanced skills are available
+Grants extra options to items that are produced or refined
+Increases Attack Power for the Sculpting Blade skill
+Decreases Mana Consumption for the Sculpting Blade skill
+Enables you to learn secret skills based on your level in Sculpture Mastery
+Increases Fame rapidly by creating statues of extraordinary beauty or artistic value
+——————————————————————————————
+
+
+Weed finally got the class that he had been fighting for, but when he saw the name of his new class, he almost collapsed in mortification.
+
+
+“WHAT!? Damn it! Not a ‘Moonlight Sculptor!” he raged.
 
 
 *****
 
 
-When the punitive force succeeded in conquering the third floor of the lair, Weed hit level thirty-seven, and his men thirty-four. There it came. Time for the true hunting
+After all his blood and sweat, it all went back to Moonlight Sculptor.
 
 
-“Charge!”
+It was actually ‘Legendary’ Moonlight Sculptor with a flattering prefix, but Weed didn’t give a damn about it. The cursed, poverty inducing profession, Moonlight Sculptor!
 
 
-“Keep the formation! Charge!”
+“Why... why me?” he moaned bitterly as clear tears gushed out of Weed’s eyes.
 
 
-At Weed’s command, the soldiers moved like people who had gone berserk, surrendered to madness. To them, the goblins were as nothing.
+He smelt what was left of the poisonous gas that the queen worm had breathed out in her last struggle at the moment of death, but it wasn’t what prompted the floodgates in his eyes to break down.
 
 
-“Yatz! Yatz!”
+He had no choice but to accept this God-forsaken class of ‘Moonlight Sculptor’.
 
 
-“Death on you! You damn ugly monsters!”
+“I should’ve chosen a common warrior class.”
 
 
-“You cheese-eating dirty frogs. I’ll clean you off the earth.”
+Weed, who had just moments before laughed at the fools who had refused to comprehend the Emperor Geihar’s profession, now blamed the Emperor for duping him into converting to Moonlight Sculptor. He wasn’t at all convinced.
 
 
-The soldiers pushed on with their bucklers ahead. They were as foul-mouthed as ever, this was because Weed had taught them four-letter words from Rodriguez’s dictionary.
+‘Why is life so hard on me?’
 
 
-They sometimes roared menacingly, and charged under apparently impossible circumstances. Their swords became more dynamic, penetrating openings of the goblins that were armed with spears.
+Weed was weeping in self-pity.
 
 
-Weed still maintained the same formation for his troops, but ultimately they relied on their comrades, they were more reckless this way, but they were also faster. They had slain goblins repeatedly, leaving thousands of corpses behind them.
+He had spent an entire week sitting down in the middle of the street to stimulate Rodriguez’s curiosity, and more than seven weeks in the Lair of Litvart to find this cavity and crush the disgusting Queen Worms living within. All that effort was wasted on converting to Moonlight Sculptor!
 
 
-Adopting Weed’s tactics aggressively, his troops crushed the goblin defenses with thoroughly coordinated attacks.
+Weed wanted to cry his heart out.
 
 
-Now it took just the blink of an eye to destroy a platoon of six goblins as an army of thirty veteran soldiers rushed on fiercely and devastated the enemy.
+Yet he had improved his handicraft skills and sculpture mastery, and earned massive revenue during his sit-in in front of Rodriguez’s manor; he had leveled up at a frightening pace in the lair – conveniently, all of this escaped him now.
 
 
-“Battle is won. Let me distribute items based on individual prowess. Hosram and Dale.”
+Only the cold reality was left to him, now he was a Moonlight Sculptor, and it grieved him. He just wanted to scream and rage that it was so unfair.
 
 
-“Yahoo!”
+After a long moment of crisis, though, Weed’s eyes finally regained some light in realizing what he had missed amid his flood of misery.
 
 
-“Any soldier who needs a repair or a rest?”
+“It’s not as bad as it looks...”
 
 
-“No, Commander!”
+He had thought that he hit the bottom, but as he calmed down, he was seeing the other side.
 
 
-“None!”
+Warriors, rangers and priests are the top three classes, which means that they have been tried and proven better than the other classes.
 
 
-“Then, let’s move on. Scout, report!”
+For the warrior and ranger class, they are given a 50% bonus attack power when they’re armed with their weapon of choice according to their subclasses. The priest class can learn and cast holy spells that no other class but the paladin class can tap into.
 
 
-Buren and Becker, in turn, scouted and reported the location and number of the nearest goblins.
+This was why Weed’s overall damage with a sword was less than his counterpart the warriors class, and the ruled applied to his attack power with arrows that could not rival that of a full-time ranger.
 
 
-“Becker reporting, Commander! Eight goblins have been located a hundred yard away at nine o’clock. One goblin alchemist, six goblin warriors, and one plain goblin.”
+Therefore, a hidden class, whose secrets no has yet figured out on their own through trial and error, heavily relies on the way they’re brought up. If they’re properly developed with a focus on the class’s merits and characteristics, it should come off well. If not, it will probably turn out to be mediocre, and no better than a common class if not worse.
 
 
-“Advance!”
+Weed hastily turned his attention back to the scroll. There were still a few more paragraphs that he had yet to read:
 
 
-The soldiers now ran at a comfortable pace, neither fast nor slow. They were lightly jogging, as they were recovering from battle fatigue and preparing for the next upcoming battle.
+*Ting*
+——————————————————————————————
+Item: The Successor to the Legendary Emperor [II]:
 
 
-“Hu… humans!?”
+I love beautiful statues. The statues that are carved with the magnificent spirit of Kvasir have never forsaken me. As long as I love and trust them, they are loyal to me.
 
 
-“Enemy, kill them all!”
+Who would believe this? That this lowly ‘Sculptor’ class became the cornerstone of my power, from a humble farmer in a country town to the man who united the Continent.
 
 
-The goblins began to put up a little bit of resistance, but it was almost meaningless at this stage.
+Listen well, my successor who walks in the path of a sculptor.
 
 
-The soldiers, who were now veterans in combat and experience, already dominated the goblins in morale— add Weed’s arrows in, and it was a death sentence for the goblins.
+A very difficult path awaits you. The path that a hundred out of a hundred men shall give up and a nation of men will not fare any better.
 
 
-His level in archery rose quickly as he was actively engaged in battle, and his arrows were no longer aimed only at dying goblins.
+However, my successor, I encourage you to stay the course in the face of the toughest challenges. Hardship brings a value of its own, and toughness produces a result of its own too.
 
 
-Weed now shot arrows in order to take the initiative, and when goblins were grouping to break through his men’s encircling net, he hindered their movement with warning shots. The main target though, was any goblin that threatened the life of one of his troops.
+Become the Grand Master of Sculpting!
 
 
-Imagine that when a goblin’s spear is flying at you, your leader’s arrow bores a hole in its head, then you will feel saved and thus more loyal to him, wouldn't you? The same logic went for a number of soldiers whose life were saved by Weed at the last second.
+You must learn the secrets of Sculpture Mastery which I failed to learn. It shall remain the wish of every man who has learned the sculptural art.
 
 
-His troops hunted goblins in the most efficient and time-saving way possible now. They conquered the fourth floor faster than the third one, and even kept the same pace on the fifth one where they encountered a score of goblins in each battle.
+therefore, I hereby entrust to you these small gifts.
+——————————————————————————————
 
 
-As the soldiers were mature in combat skills, giving them the status of veteran at a high level, they were capable of one-to-one combat with goblins.
+Emperor Geihar, the conqueror of the earth, sea and the sky, had done so through the use of Sculpture Mastery.
 
 
-Nevertheless, Weed stuck to the old tactics of focusing on defense and outnumbering goblins. Some of his men got cocky and suggested to him that they drop it and, instead, fight goblins fairly on a level playing field.
+After Weed had finished re-reading the scroll, he then checked on the other items within—three tablets and a book.
 
 
-Weed stood his ground, though.
+The effects of the tablets were not recorded anywhere but he knew what skill to use in this situation.
 
 
-“Do not consider that filthy goblins deserve fair play! Have you ever heard of a knight asking for a duel with monsters? If there were one, he would be stupid to defend his honor against monsters. We are fighting them in order to restore peace and protect the people of Rosenheim. Keep in mind that if you hesitate to put an end to a goblin because you are trying to be ethical, your comrades will pay the consequences!”
+“Identify”
+——————————————————————————————
+You failed to identify the item!
+You failed to identify the item!
+You failed to identify the item!
 
 
-Weed’s leadership controlled his small force of thirty men.
+Item: A Medicine Tablet of the Emperor:
 
 
-One who fought a goblin alone was denied his share of recognition. He was later excused from the next battle. He was at first excited to stay out of danger, but soon realized that he had to sit back and watch his comrades leveling up.
+This tablet is made from a variety of very rare herbs by an ancient emperor, to clear the mind when it is taken.
 
 
-This example taught everyone a lesson, so the troops went as far as stabbing goblins in the back if it became available. They were brainwashed beyond a doubt by Weed’s silver tongue, which was now teaching these hardened soldiers, Infantry Combat Tactics 101.
+Effect:
+Permanently increases Mana (+200 Mana)
+——————————————————————————————
 
 
-For less than a month, Weed led the punitive force to sweep over the Lair of Litvart. As a week was still left, they went back down to the third floor, and on the way back to the bottom, rooted out regenerated goblins.
+After a series of failed attempts, Weed was finally able to identify one of the treasure items.
 
 
-Once a battle began, the soldiers spread in wings, formed an encircling formation and slew their foe within a few breaths. As soon as the battle was over, they advanced to the next one.
+It was rare— no, more valuable than simply rare— this item increased the amount of mana permanently by two hundred points!
 
 
-*Blitz*
+The tablet smelt of an indescribably comforting fragrance. Weed estimated the price for a single tablet to be no less than ten thousand gold.
 
 
-Not one soldier died.
+Since the tablet permanently increased the maximum amount of mana, instead of simply recovering mana temporarily like mana potions did from the market, they were worth such an eye-popping price.
 
 
-They finished the Search and Destroy Operation of The Lair of the Litvart quest with the overall levels of the troops reaching fifty-seven, to Weed’s sixty-two. Considering that the average level of Denarions in the Rosenheim Army was forty, what Weed had accomplished was terrific.
+“Thank you so much. I admire your generosity, your Imperial Majesty.”
 
 
-“Good job, Weed-nim. You have done a great service to us.”
+Weed put down the tablet and picked up the book next.
 
 
-Sir Midvale didn’t hide the fact that he marveled at Weed.
+“Does it contain great skills? It should! I don’t think more bad fortune will strike me again after I suffered these setbacks. No, I cannot be that unlucky!”
 
 
-“If we had five more men of your courage and leadership, then Rosenheim kingdom wouldn’t ever be harassed by monsters. By the right of a royal knight, I hereby wish to appoint you Centurion. Would you accept my proposal, Weed-nim?”
+This time again, Weed succeeded in figuring out the content of the book just when he was about to give up trying after scores of failure message windows.
+
+
+“Identify”
+——————————————————————————————
+Item: The Book of Secret Sword Techniques from the Imperial Family of Arpens:
+
+
+Emperor Geihar Von Arpen recorded the Flawless Sword Techniques on behalf of the Imperial Family’s perpetuity and prosperity.
+
+
+This book is composed of five movements and one footstep.
+
+
+All members of the Imperial Family were, by origin, knights. So the skills are generally restricted to the Knight class, but the Emperor Geihar Von Arpen considered his successor in Sculpture Mastery, so he refined the skill for a Sculptor to learn a weakened version of the skill.
+——————————————————————————————
+
+
+Surprised, Weed almost dropped the book.
+
+
+“This, this color is—”
+
+
+The Book of Secret Sword Techniques was flashing in gold when it was identified.
+
+
+It meant that the book was a rare skill book! Moreover, it was an A-grade sword technique book.
+
+
+“You’re so generous, Your Imperial Majesty. Thank you for giving me an A-grade sword technique book!” Weed said.
+
+
+Though, It was still a little disappointing that the skill book wasn’t a unique or S-grade one.
+
+
+Still, it was questionable that Weed, now a sculptor, could learn such a high level of sword techniques even if he had found one.
+
+
+S-grade sword techniques in general have a requirement for certain classes, mostly sword warriors or knights.
+
+
+As Weed didn’t have many decent combat skills, this book was like raindrops in a drought.
+
+
+The days of basic sword skill and archery! They would be gone now, and soon only a distant memory.
+
+
+Weed put a hand on the book and shouted, “Learn!”
 
 
 *Ting*
 ————————————————————————————————
-You have received a job offer!
-
-
-If you accept it, you will take a military position of centurion in the Rosenheim army. You will command one hundred foot soldiers. You are entitled to receive regular training, and a monthly income of three gold. Will you accept his job offer?
-
-
-An officer in command of a hundred troops, a centurion is deemed to be a sub-knight who is qualified to embark on an annual trial of promotion to knighthood in the Red Order.
+New Skill: Imperial Formless Sword Technique
 ————————————————————————————————
 
 
- If it were other users, they would have accepted it willingly, but Weed wasn’t swayed.
+The sword technique book, now done with, glowed white and burned to ashes.
 
 
-“I’m glad to hear that, Sir Midvale, but this is more than I can accept.”
+“Skill Check: Formless Sword Technique”
+————————————————————————————————
+Skill: Imperial Formless Sword Technique:
 
 
-“Freya forbids it! Tell me if you want additional benefits, Weed-nim. I believe we can find common ground.”
+This skill is tailored for Sculptors by Emperor Geihar Von Arpen. As the level in Sculpture Mastery rises, the Attack Power of the skill increases by 1%.
 
 
-“Your offer is… beyond my dearest wish. But all I want is peace and prosperity in Rosenheim Kingdom. As my heart leads me to travel to many places and to help the many of those in need, it still seems too early to settle down. If you have another mission to destroy monsters after the autumn harvests, or if Rosenheim is invaded, I will be the first one to run to you and offer my service to command courageous soldiers in the Rosenheim army.”
+It is composed of five movements, one breathing technique and one footstep technique.
+————————————————————————————————
 
 
-“Your spirit is well understood, Weed-nim. The door to the Royal Army will be always open to you.”
+“Fufufu” Weed chuckled.
 
 
-Sir Midvale withdrew his proposal with a content look.
+The corners of Weed’s mouth rose.
 
 
-“Now that we have finished the quest, I am leading them back to the Citadel. Will you join us?”
+‘This is great!’
 
 
-“I have something to be done here, sir.”
+The Arpenian Empire used to rule over the entire Continent. It then collapsed only to be remembered in name only, but the sword technique that had once been exclusive within the Imperial Family was undoubtedly worth money.
 
 
-“May I inquire as to its nature?” Sir Midvale looked curious.
+But Weed was once again cast into despair when he read the descriptions of each movement in the skill info window.
 
 
-For the last four weeks, Weed had made thirty-two servings of stew three times a day. His experienced cooking skill delivered great food on time, and Sir Midvale was one of the beneficiaries who had fallen in love with it, forming a solid friendship with him.
+“What in the world!” He let cried out.
 
 
-“I must take care of a quest for the sake of Counselor Rodriguez.”
+The first movement, which consumed the least amount of mana of the five, required three hundred mana points.
 
 
-Weed had assumed that the annihilation of the goblins would meet the quest’s requirement, but it was a serious miscalculation on his part.
-
-
-The numbers of monsters that he was supposed to destroy was still a hundred without any sign of decrease. Anyway, the number of goblins in the lair was hundreds on each floor, at a conservative estimate.
-
-
-Rodriguez’s quest was to sweep away all the ‘monsters’ in the Lair of Litvart, and the kobolds and goblins were not possibly the target because as they greatly outnumbered a hundred.
-
-
-“I see, Weed-nim. A quest by the Counselor… I understand. I was looking forward to returning to the Citadel with you, but it seems destiny directs us to part our ways here. Instead, I will lend you Arse.”
-
-
-“Arse? Whose arse?”
-
-
-“Have you already forgotten the name of the horse you rode here the other day?”
-
-
-“Don’t tell me…”
-
-
-Weed’s head suddenly felt thick and heavy. The colt that had kicked him with two rear legs and bit his hand! Now he remembered the colt’s name was Arse!
-
-
-What a shameful name for a would-be stallion.
-
-
-“The trip to the Citadel will cost you valuable time without a horse. Arse is at your service.”
-
-
-“Thank you, but no thank you, sir. I don’t need any horse.”
-
-
-“I am only returning your favor, Weed-nim. Please take it. Return it to the Royal Stable when you finish your quest.”
-
-
-“…”
-
-
-Sir Midvale turned as soon as he delivered what he wanted to say. His attitude implied that there was nothing else to hear, case closed. The knight meant well for Weed’s sake, but he wanted none of it. How in the world could he stand such a wild colt?
-
-
-Weed absolutely hated this pain in the butt, but he had to accept it, or he would make the royal knight lose face once again.
-
-
-“Commander, we'll miss you!”
-
-
-“We're all going home alive, thanks to you Commander!"
-
-
-“Please visit my place when you come to the Citadel.”
-
-
-“I run an inn in the central avenue. You're always welcome.”
-
-
-“My family owns a restaurant. My wife will serve you a delicious meal, though it’s not as good as yours!”
-
-
-The soldiers came up to Weed and said farewell.
-
-
-As high-level veterans, they would probably be promoted upon their return, at least, to Denarions while one or two soldiers who score the best could look for a better position.
-
-
-Weed shook the hand of every soldier who used to be his subordinate. His hand was warm, and its grip held on for a few seconds.
-
-
-“Do you really have to leave?”
-
-
-“I want to stay here with you, Commander, but I’m a proud soldier of Rosenheim Army. I must return to my regiment.”
-
-
-“Commander, I will miss you!”
-
-
-Weed’s eyes shone darkly with reluctance. What troubles he had gone through to train those soldiers! He was the first to have credit for transforming once new recruits at level twenty something into hardened veterans in combat skills. Now Weed felt as though he were being robbed of them by the kingdom.
-
-
-“Everyone, safe trip!” Weed said.
-
-
-“Godspeed, Commander.”
-
-
-“Commander, you must stop by in my place later!”
-
-After reluctant farewells with his former troops, Weed was left alone.
+Because his maximum mana was far too low for now, the secret sword technique was far beyond his reach, even after he swallowed the medicine Tablet of the Emperor.

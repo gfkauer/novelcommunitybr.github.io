@@ -1,7 +1,7 @@
 ---
 layout: post
 novel-title: The Legendary Moonlight Sculptor
-title: "o Maesto das Batalhas"
+title: "O Maesto das Batalhas"
 date: 2017-02-11 15:47:45
 description:  Volume 1 - Capítulo 7
 main-class: 'lms'
