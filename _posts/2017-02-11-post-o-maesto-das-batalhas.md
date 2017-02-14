@@ -17,1140 +17,779 @@ revisor: Giovane Kauer
 editor: Giovane Kauer
 fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-1-chapter-7.html
 ---
-The Lair of Litvart was at the entrance of Grave Mountains, a three hours trip on horseback from the Citadel.
+O Covil de Litvart ficava na entrada das Montanhas Grave, uma viagem de três horas a cavalo partindo da Cidadela.
 
+O potro que Weed estava montando ocasionalmente desviava do caminho e até mesmo mastigava sobre a grama vagarosamente. Weed teve que convencê-lo a permanecer no caminho.
 
-The colt Weed was riding on occasionally diverted off course, and even chewed on grass leisurely. He had to cajole it to stay on course.
+Em frente ao covil, um soldado que cuidaria dos cavalos estava esperando por eles.
 
+- Johnson, cuide bem dos cavalos.
+- Sim, senhor.
 
-In front of the lair, a soldier who would look after the horses was waiting for them.
+A força punitiva comandada por Sir Midvale deixou seus cavalos para o soldado e entrou no covil. Weed estava finalmente livre do potro.
 
+- Pronto para a batalha!
+- Preparem a formação de batalha!
 
-“Johnson, take good care of the horses.”
+A força punitiva protegia-se com escudos de aço e estava armada com lanças e espadas. Comparado a eles, os equipamentos de Weed eram patéticos. Uma espada de ferro e um arco.
 
+Sir Midvale em uma cota de malha se aproximou.
 
-“Yes, sir.”
+- Isso é tudo que você tem, Weed-nim?
+- Sim, senhor.
+- Você está mal armado para lutar na linha de frente. Fique atrás e apoie as tropas.
+- Sim, senhor.
 
+A tropa segurou os escudos à frente e marchou em direção ao covil. Weed os seguiu a partir da retaguarda.
 
-The punitive force led by Sir Midvale left their horses to the soldier, and entered the lair. Weed was finally relieved of the colt.
+Fazendo um pequeno progresso, eles avistaram cinco kobolds que estavam acampados em torno de uma fogueira, cozinhando algo. Surpreendidos pelo súbito aparecimento das tropas, os kobolds saltaram prontos para batalha.
 
+- Grakht!
+- Inimigo! Ataque humano!
 
-“Ready for battle!”
+Os kobolds eram monstros de nível 20 de baixa estatura como anões, menos de quatro pés de altura, armados com escudos grosseiros de madeira e espadas de bronze.
 
+- Matar! Matar!
+- Mandem embora os humanos maus! Eles destruíram o abrigo! Levantem! Levantem bravos guerreiros kobold!
 
-“Set in battle formation!”
+Quando os kobolds correram, os soldados ficaram tensos. Recrutas novos, recém-saídos dos campos de treinamento, os quais não haviam se envolvido em uma batalha anteriormente. Weed olhou em direção ao Sir Midvale, mas o cavaleiro observou seus soldados com olhos indiferentes, como se qualquer acidente fosse aceitável.
 
+*Não deveria um cavaleiro supostamente se importar se seus soldados morrem ou não? Talvez ele queira que eles tenham experiência em combate pela primeira vez por conta própria.* - Weed pensou.
 
-The punitive force shielded themselves with steel bucklers and armed themselves with spears and swords. Compared to them, Weed’s equipment was pathetic. An iron sword and a bow.
+Os soldados rapidamente formaram uma estrutura linear e avançaram contra a onda de kobolds. Um par de kobolds atiraram pedras com estilingues, mas os projéteis mal perturbaram as tropas. Com a vantagem numérica e melhores equipados, os soldados predominaram sobre os kobolds com poucas baixas. Cada vez que um kobold caía, um pequeno pedaço de metal era derrubado no chão.
 
+- Buren, Becker, recolham os espólios.
 
-Sir Midvale in chain mail approached.
+Os dois soldados cujos nomes foram chamados por Sir Midvale começaram a reunir as peças de metal. Elas eram peças de cobre ou ferro mal fundido de pouco valor, mas suficientes para criar ferramentas agrícolas.
 
+Uma das razões pelas quais o reino operava uma força punitiva, com exceção de treinar novos recrutas e restaurar a segurança nos arredores era para recolher o espólio de guerra, uma criativa injeção para o orçamento.
 
-“Is that all you have, Weed-nim?”
+*Eu preciso participar em algum momento...* - Weed disse para si mesmo.
 
+Na próxima batalha, ele pegou o arco de Theo Grande e mirou no pescoço de um kobold.
 
-“Yes, sir.”
+*Segure a sua respiração, firme as suas mãos e vise o alvo.*
 
+*Swish* (som da flecha cortando o ar)
 
-“You are poorly armed to fight on the front line. Stay behind and support the troops.”
+A grande agilidade e habilidade artesanal de Weed guiaram as suas flechas precisamente para os kobolds alvos.
 
+*Ting*
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Você subiu de nível!</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
-“Yes, sir.”
+Quando Weed matou três kobolds, uma janela de mensagem informando a subida de nível apareceu. Aqueles kobolds em um nível maior do que vinte deram enormes quantidades de experiência a Weed, que estava apenas no nível treze.
 
+Cada kobold acertado por sua flecha caía imediatamente porque ele escolheu aqueles que estavam quase sem vida.
 
-The troops held the bucklers forward and marched on the lair. Weed followed them from behind.
+Inteligentemente, Weed atirava neles facilmente a partir da retaguarda enquanto os soldados estavam arriscando as suas vidas na linha de frente.
 
+Era uma tática egoísta e segura. Um incendiário ateando fogo em uma casa é mais santo do que o vizinho que saqueia joias e porcelana da casa em chamas, não é?
 
-Making a little headway, they spotted five kobolds that were camping around a bonfire, cooking something. Surprised by the sudden appearance of the troops, the kobolds sprang to their feet.
+O que Weed estava fazendo era obviamente muito cruel, tirando o máximo de proveito dos irmãos de armas que estavam sangrando e suando duro para lutar contra os monstros. Um bom homem não criaria tal exploração.
 
+Por outro lado, Weed também estava muito preocupado que essa tática pudesse sair pela culatra, uma vez que os soldados começaram a notá-lo e a criticá-lo. Imagine quão enganados eles se sentiriam se um kobold próximo de um golpe final caísse morto por causa de uma flecha a partir do nada.
 
-“Grakht!”
+Weed atingiu apenas os kobolds que estavam fugindo em uma tentativa desesperada para sobreviver, ou quando um soldado estava impotente, cercado por dois ou três kobolds.
 
+*Ting*
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Você subiu de nível!</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
-“Enemy! Human attack!”
+Cada vez que um kobold caía, Weed sorria alegremente. Enquanto os outros soldados estavam lutando duro nas batalhas, tudo o que ele precisava fazer era atirar flechas cegamente a partir de um local seguro. O que era mais fácil do que isso?
 
+Seu nível foi disparando tão rápido quanto o preço das ações do Google. O esquema de Weed para comprar o arco logo antes da missão se pagou.
 
-The kobolds are Level 20 midget-like monsters, below four feet in height, armed with coarse wooden shields and bronze swords.
+No caminho mais fundo dentro do covil, eles encontraram um lugar amplo e aberto. Sir Midvale e os seus homens fizeram um círculo em torno dele, matando kobolds assim que eles eram detectados e depois voltaram para o lugar.
 
+- Descansem e prepararem o almoço.
 
-“Kill! Kill!”
+Sir Midvale ordenou.
 
+- Sim, senhor.
 
-“Drive evil human away! They wreck shelter! Rise! Rise brave kobold warriors!”
+Buren e Becker farfalharam ao tirar grandes potes e ao acender uma fogueira.
 
+Como eram os mais jovens no grupo, eles foram escolhidos para fazer as tarefas. Weed andou até eles e pegou uma faca.
 
-When the kobolds rushed out, the soldiers got tense. New recruits, fresh out of boot camps, had not engaged in a battle before. Weed looked toward Sir Midvale, but the knight watched his men with indifferent eyes as if any casualty was acceptable.
+- Eu ajudarei vocês.
 
+Weed disse, sorrindo timidamente.
 
-‘Isn’t a knight supposed to care if his soldiers die or not? Perhaps he wants them to have firsthand combat experience on their own’ Weed thought.
+- Oh, não há necessidade.
 
+Becker disse.
 
-The soldiers quickly formed a linear formation and charged against the wave of kobolds. A couple of kobolds flung stones with slingshots, but the projectiles barely troubled the troops. Outnumbering the enemy and better equipped, the soldiers gained supremacy over the kobolds with few casualties. Every time a kobold fell, a small piece of metal dropped on the ground.
+- Bem, eu gosto de cozinhar. Eu ainda sou um amador, mas não seria bom se eu servir os bravos guerreiros que estão dedicando as suas espadas e escudos para Rosenheim?
+- É muito gentil de sua parte, Weed-nim.
 
+Weed espontaneamente ganhou o favor entre os soldados. Um homem que se voluntaria para fazer o trabalho manual em uma viagem é sempre muito bem-vindo. Por um lado, a atitude de Becker e Buren em relação a Weed mudou. Eles não podiam evitar de apreciar a atitude de Weed quando ele pegou a faca e cortou a carne.
 
-“Buren, Becker, gather the spoils.”
+É claro, Weed tinha as suas próprias ideias e não tinha nada a ver com benevolência universal ou algo do tipo. Ele queria melhorar a sua habilidade culinária.
 
+Weed cortou e jogou a carne na panela, acrescentou legumes e sabores para fazer um ensopado. Os ingredientes que eram necessários para servir 32 homens eram muitos. Weed estava ciente de que cozinhar muita comida era o atalho para melhorar a sua habilidade culinária o mais rápido possível.
 
-The two soldiers whose names were called out by Sir Midvale began gathering the metal pieces. They were copper or poorly smelted iron of little value, yet sufficient for farming tools.
+*Ting*
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Subiu de Nível: Culinária (Iniciante Nv: 2 | 0%)</p>
+        <p align="center">Realça o sabor das refeições.</p>
+        <p align="center">Aumenta a velocidade de recuperação da estamina quando servida.</p>
+        <p align="center">Aumenta a quantidade de vida quando servida. (+5% Vida)</p></td></tr>
+        </tbody>
+    </table>
+</div>
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Subiu de Nível: Artesanato (Iniciante Nv: 7 | 0%)</p>
+        <p align="center">Aumenta as suas habilidades manuais em todas as áreas.</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+As duas janelas de mensagens surgiram quase juntas. A habilidade culinária de Weed aumentou, enquanto a habilidade de artesanato, que precisava de alguns pontos de experiência para subir um nível, passou para sete. Dois pássaros com uma pedra, sem dúvida.
 
-One of the reasons why the kingdom operated such a punitive force, other than to train new recruits and restore security to the outskirts was to collect war booty, a creative injection to the budget.
+Weed provou uma colherada do ensopado, o privilégio de ser um chef.
 
+- Excelente.
 
-“I need to move in at some point…” Weed said to himself.
+Comparar este ensopado com o pão de centeio barato que era vendido em qualquer mercearia era um insulto. Não era tão bom quanto o churrasco de porco que ele tinha comido no outro dia, mas ainda era satisfatório para a sua primeira tentativa, graças à sua alta habilidade em artesanato, ela compensou a baixa habilidade culinária.
 
+- Todos! O almoço está pronto! Por favor, se sirvam.
 
-On the next battle, he took out the Bow of Theo Grande and aimed at a kobold’s neck.
+Os soldados que se sentiram famintos por causa das batalhas implacáveis foram servidos com uma tigela de ensopado cada, a qual eles comeram avidamente.
 
+- Oh, está delicioso!
+- Eu não posso acreditar que uma refeição teria um sabor tão bom ao ar livre!
+- De alguma forma, eu acho que ele é um cozinheiro melhor do que a minha esposa.
 
-‘Hold your breath, steady your hands and aim at the target.’
+Todos eles deram a sua aprovação a Weed. A reação deles disse para Weed que eles queriam que ele continuasse cozinhando.
 
+Ele encheu tigelas vazias com ensopado de carne continuamente quando pedido e, ao fazê-lo, seu estômago também foi preenchido.
+
+Os soldados esvaziaram a panela e quando a pausa para o almoço acabou, Sir Midvale veio até Weed e perguntou cordialmente:
+
+- Weed-nim, você se importaria de continuar servindo os meus homens?
+
+Aparentemente, até mesmo um bravo cavaleiro valorizava a boa culinária. Porém, era mais provável que, como um nobre venerado, ele estava muito acostumado as boas refeições e ele não poderia aceitar nada menos.
+
+- Sim, senhor. Eu cuidarei das refeições.
+
+E assim, Weed foi nomeado o chef oficial da força punitiva.
+
+Ele não encontrou razão alguma para recusar o pedido de Sir Midvale, visto que ele poderia melhorar a habilidade culinária ao preparar trinta e duas porções de ensopado três vezes ao dia. Além disso, ele não estava limitado ao campo culinário.
+
+- Armas e armaduras, eu posso conserta-las! Tragam-me qualquer coisa danificada ou destruída se vocês as tiverem.
+- Sério?
+- Você pode realmente consertar a minha espada?
+- Meu escudo está um pouco danificado, está com baixa durabilidade…
+- Só me mostre o que você tem. ***Repair***!
+
+Weed usou a habilidade de reparação para consertar armas e equipamentos que alguns soldados trouxeram a ele. Custaria uma fortuna ter um equipamento danificado reparado por um ferreiro na cidade. Se eles fossem deixados com uma baixa durabilidade, eles poderiam quebrar subitamente no meio de uma batalha.
+
+- Obrigado, Weed-nim!
+
+Weed foi saudado como um salvador pelas tropas. Ele poderia melhorar as suas habilidades de artesanato e de reparação, e ganhou a confiança dos soldados como um bônus.
+
+Sir Midvale, que tinha estado cético em relação a recomendação de seu amigo para trazer Weed junto na missão, agora estava mais do que satisfeito com o seu papel.
+
+- Você é o cara, Weed-nim!
+- Não é nada, senhor.
+
+Weed se misturou com o resto das tropas.
+
+Quem sabe quais inconvenientes eles teriam que sofrer sem ele. Eles teriam que retornar a uma aldeia vizinha de tempos em tempos, quando eles precisassem consertar as suas armas danificadas ou sem fio, bem como as refeições teriam revoltado os seus estômagos.
+
+Itens mágicos raramente obtidos precisariam de pergaminhos de identificação, os quais custam várias moedas de ouro cada. Em vez disso, Weed podia identificá-los direto no local com a sua habilidade de identificação.
+
+Para os soldados, seria uma tortura voltar para o mingau sem gosto que Buren e Becker costumavam dizer que era um ensopado de carne, especialmente depois de terem apreciado a versão de Weed.
+
+- Nós não somos cozinheiros em primeiro lugar!
+
+Buren e Becker gritaram em uníssono.
+
+Desta forma, os soldados e Weed formaram uma afinidade inimaginável.
 
 *Swish*
 
+Sempre que uma flecha voava de Weed, um kobold ficava cinza.
 
-Weed’s high agility and handicraft skill guided his arrows precisely to the targeted kobolds.
+Os kobolds são considerados monstros relativamente mais fracos. Eles sabem como usar ferramentas, mas a categoria das suas ferramentas é rústica, como se tivessem sido feitas por crianças. Eles basicamente confiavam em números em uma batalha.
 
+- Kiyoyo!
 
-*Ting*
-————————————————————————————————
-You have leveled up!
-————————————————————————————————
+Um pelotão de nove kobolds avançou ao mesmo tempo.
 
+*Vamos! Meus pontos experiência preciosos!*
 
-When Weed slew three kobolds, a level-up message window popped up. Those kobolds at a level higher than twenty gave enormous EXPs to Weed who was only at level thirteen.
-
-
-Every kobold shot by his arrow immediately fell because as he picked those who were nearly drained of life.
-
-
-Cleverly, Weed sniped at easy game from behind while the soldiers were risking their lives in the front line.
-
-
-It was a selfish and secure tactic. An arsonist torching a house is more of a saint than the neighbor plundering jewelry and china from the burning house, isn’t he?
-
-
-What Weed was doing was obviously very wicked, taking full advantage of brothers-in-arms bleeding and sweating hard to fight the monsters. A good man would not create such exploitation.
-
-
-On the other hand, Weed was also very concerned that this tactic could backfire once the soldiers began to notice it and criticize him. Imagine how duped they would feel if a kobold short of a final strike dropped dead because of an arrow from out of nowhere.
-
-
-Weed only shot kobolds who were running away in a desperate attempt to survive, or when a soldier was helplessly surrounded by two or three kobolds.
-
+Um grande sorriso se formou em seu rosto, enquanto Weed cumprimentava os kobolds com uma saudação silenciosa. Ele atirou flechas arbitrariamente, recolhendo experiência fácil. A defesa era cuidada pelos soldados de qualquer maneira. Tudo o que ele precisava fazer era atirar tantas flechas quanto fosse possível.
 
 *Ting*
-————————————————————————————————
-You have leveled up!
-————————————————————————————————
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Você subiu de nível!</p></td></tr>
+        </tbody>
+    </table>
+</div>
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Você subiu de nível!</p></td></tr>
+        </tbody>
+    </table>
+</div>
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Nova habilidade: Arquearia</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Esta foi uma elevação de níveis louca!
 
-Each time a kobold was taken down, Weed smiled gleefully. While the other soldiers were fighting hard in the battles, all he needed to do was to shoot arrows blindly from a safe place. What else was easier than that?
+Weed também tinha aprendido tiro com arco, uma habilidade que era geralmente exclusiva para a classe de arqueiro. Mal foi uma surpresa, considerando que ele não tinha feito nada além de atirar flechas e não tocou uma vez sequer na espada durante as batalhas.
 
+No entanto, ao menos os soldados não tinham inveja dele. Após as batalhas, Weed era o mais ocupado lá. Ele cozinhava refeições, consertava armas e equipamentos e cuidava dos feridos.
 
-His level was skyrocketing as it was just as fast as the stock price of Google. Weed’s scheme to buy the bow right before the quest paid off.
-
-
-On the way deeper into the lair, they found a wide, open place. Sir Midvale and his men circled around it, slaying kobolds as they were detected, and then returned to the place.
-
-
-“Take a rest and prepare lunch,” Sir Midvale ordered.
-
-
-“Yes, sir.” Buren and Becker rustled to take out large pots and light a fire.
-
-
-As the youngest in the party, they were made to do chores. Weed walked to them and picked up a knife.
-
-
-“I’ll help you,”
-
-
-Weed said, smiling sheepishly.
-
-
-“Oh, no need,”
-
-
-Becker said.
-
-
-“Well, I like to cook. I am still an amateur, but wouldn’t it be nice if I serve you brave warriors who are devoting your swords and shields for Rosenheim?”
-
-
-“It is very kind of you, Weed-nim.”
-
-
-Weed spontaneously won favor among the soldiers. A man who volunteers to do manual labor on a journey is always highly welcomed. For one thing, Becker and Buren’s attitude toward Weed changed. They couldn’t help but like he who picks up the knife and slices beef.
-
-
-Of course, he had his own agenda, and it had nothing to do with universal benevolence or whatever. Improve his Cooking skill.
-
-
-Weed sliced and threw beef in the pot, added vegetables and flavors to make a stew. The ingredients that were needed to serve 32 men were quite a lot. Weed was aware that cooking plenty of food was the short cut to improve his cooking skill as fast as possible.
-
+Sir Midvale tinha algumas poções de cura para situações de emergência, mas os soldados na força punitiva não podiam pagar por tais medicamentos caros. Weed esfregou ervas e rolou gaze sobre as feridas com a sua habilidade de artesanato.
 
 *Ting*
-————————————————————————————————
-Level Up: Cooking (Beginner Lv: 2 | 0%):
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Nova habilidade: Bandagem/Curativo</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Permite a você parar sangramentos e aumentar a vida da pessoa machucada quando tratada.
 
-Enhances the taste of meals.
-Increases speed of recovery of stamina when served.
-Increase life when served. (+5% LIFE)
+O número máximo de habilidades que um usuário pode aprender quando a sua classe é incerta é dez.
 
+A habilidade de bandagem de Weed foi afetada pela alta habilidade de artesanato e, assim, teve efeitos impressionantes. Como ele estava ocupado cuidando de trinta pacientes todos os dias, a habilidade foi aprimorada violentamente.
 
-Level Up: Handicraft (Beginner Lv: 7 | 0%):
+As tropas vagaram no primeiro e segundo andares matando kobolds por uma semana.
 
+Os usuários eram ocasionalmente vistos assistindo Weed com olhos invejosos visto que ele teve o privilégio de se juntar a uma força punitiva de NPCs e caçar monstros ao lado deles.
 
-Enhances your craft skills in every field
-————————————————————————————————
+A semana de abate a kobolds aumentou o seu nível para vinte e seis. A habilidade de reparação alcançou o nível três e a habilidade culinária, agora no nível quatro, deu a ele uma opção especial de aumentar 50 de HP para aqueles que fossem servidos com as suas refeições até que o fator de satisfação caísse.
 
+Ainda assim, ele teve uma dor de cabeça.
 
-Two message windows emerged almost together. Weed’s cooking skill rose while the Handicraft skill that had needed a few experience points for a level up ascended to seven. Two birds with one stone, indeed.
+- Abrir Janela de Informações de Missão
 
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Quest: Operação de Procura e Destruição no Covil de Litvart II</p>
+        <p align="center">Há uma centena de monstros habitando o Covil de Litvart. Mate cada um deles pelo menos uma vez e prove a você mesmo a dignidade de sua classe honorável. A realização desta missão abrirá um caminho correto para o seu destino.</p>
+        <p align="center">Dificuldade: Desconhecida</p>
+        <p align="center">Requisitos:</p>
+        <p align="center">Derrote todos os monstros na seção oculta dentro do Covil de Litvart.</p>
+        <p align="center">Número de Monstros Restando:</p>
+        <p align="center">100</p>
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
 
-Weed tasted a spoonful of the stew— the privilege of being a chef.
+Em relação à missão que o conselheiro Rodriguez deu, o número de monstros que precisavam ser mortos não diminuiu em nada, embora Weed já tivesse derrotado centenas de kobolds.
 
+Após uma semana de aquecimento sobre os kobolds, a tropa se dirigiu ao terceiro andar do covil, o território dos goblins.
 
-“Excellent.”
+Enquanto a caçada aos kobolds foi originalmente criada para dar aos novos recrutas experiência em primeira mão em combate, confrontar os goblins representava uma grave ameaça à vida deles.
 
+O nível dos kobolds estava geralmente na casa dos vinte. Os kobolds malandros eram de nível vinte e três e os relativamente mais fortes kobolds guerreiros estavam no nível vinte e oito, porém kobolds sem título estavam no nível vinte.
 
-Comparing this stew to cheap rye bread that said in any grocery store was an insult. It wasn’t as good as the pork barbecue that he had eaten the other day, but satisfying for his first attempt at catering thanks to his high handicraft skill that compensated the low Cooking skill.
+Por outro lado, os goblins estavam no nível cinquenta ou mais. As armas e equipamentos deles superavam as que os kobolds estavam equipados em poder de ataque e em defesa. A força de combate dos goblins é de cinco a seis vezes maior do que a dos kobolds.
 
+- Cuidado agora. Quando vocês estiverem em perigo, retirem-se imediatamente.
+- Sim, comandante!
 
-“Everyone! Lunch is ready! Please help yourself.”
+Os soldados não conseguiam esconder a sua emoção e tensão. Os níveis deles variavam entre 23-25 depois da caçada aos kobolds, mas a confiança deles diminuiu com o pensamento de enfrentar um inimigo desconhecido, cujo nível era geralmente o dobro deles. O único alívio era que os goblins se reuniam em números menores do que os kobolds.
 
+- Uff…
 
-The soldiers who felt hungry because of the relentless battles were served a bowl of stew each, which they ate greedily.
+Weed soltou um suspiro exasperado. Seu estômago travou com o pensamento de que, se as tropas lutassem contra os goblins naquele instante, elas certamente sofreriam baixas inevitáveis.
 
+*Um terço? Ou talvez mais? Eu espero que nosso grupo não seja aniquilado.*
 
-“Oh, it’s delicious!”
+Se Weed tivesse encarregado das tropas, ele teria ganho tempo para que seus homens desenvolvessem mais experiência, bem como teria elevado mais o nível deles antes de conduzi-los ao limiar dos goblins, sem mencionar que ele teria lhes ensinado como lutar contra os goblins de modo eficiente.
 
+Porém, o comando da força punitiva pertencia principalmente ao Sir Midvale. Weed ficou com duas opções: ou ele os seguia como antes, apenas sentando-se na retaguarda e os observando morrer desamparadamente, ou ele desistiria da missão e caçaria mais kobolds por conta própria até que ele subisse de nível o suficiente para lidar com os goblins. A segunda opção, que iria penalizá-lo tremendamente, estava fora de questão.
 
-“I can’t believe a meal could taste so good outdoors!”
+Na verdade, a razão pela qual Weed estava tão preocupado com o bem-estar dos soldados era mais uma necessidade prática de que ele não queria vê-los morrer em vão quando ele trabalhou tão duro para construir uma amizade com eles.
 
+- Eles estão vindo. Se preparem!
 
-“Somehow, I think he’s a better cook than my wife.”
+Mesmo antes de Sir Midvale terminar as suas palavras, alguns goblins saíram de uma caverna.
 
+- Kigggg!
+- Humano, humano!
+- Eles morrer!
 
-They all gave the thumbs up to Weed. Their reaction told him that they wanted him to keep on cooking for them.
+Havia cinco goblins. O número total de soldados os superavam em 6:1. Weed planejava atirar uma flecha nos goblins para tomar a iniciativa e procurar outra chance após isso. Sem dúvidas, um goblin produzia uma quantidade enorme de experiência e ele estava morrendo de vontade de obter um.
 
+No entanto, os soldados estavam duros como gelo. Eles ficaram imóveis como se estivessem pregados ao chão onde eles estavam e o espírito de luta irradiava a partir dos goblins! Os soldados se encolheram com a visão de um inimigo que estava no nível cinquenta. As espadas deles caíram e os escudos tremeram inequivocamente.
 
-He filled empty bowls with beef stew continuously when asked, and in doing so, his stomach, too.
+*Idiotas...* - Weed estalou a sua língua.
 
+Os goblins não eram fáceis de derrotar mesmo se os soldados se levantassem para lutar sem medo e agora eles já estavam congelados antes da batalha começar. Isso levaria a uma calamidade.
 
-The soldiers emptied the pot, and when the lunch break was over, Sir Midvale came over to Weed. He asked cordially,
+Weed lançou um olhar para Sir Midvale, que estava de pé ao lado dele. Obviamente, o cavaleiro não estava com disposição para motivar os seus homens.
 
+*Os fracos merecem morrer.*
 
-“Weed-nim, would you care to keep serving my men?”
+O código da cavalaria desenvolvido em Rosenheim era insensível. Weed avançou, jogou o seu arco em suas costas e segurou a espada de ferro.
 
+*Eu tenho fé na amizade que eu trabalhei tão duro para construir.* - Ele disse para si próprio.
 
-Apparently, even a brave knight valued good cooking. Though, it was more likely that as a revered noble, he was too accustomed to fine meals that he could accept nothing less.
+Em seguida, ele fez algo que era inimaginável para os outros soldados que se lembravam do que tinha feito nas batalhas anteriores. Weed deu um grito de guerra e avançou na direção dos goblins!
 
-
-“Yes, sir. I will take care of meals.”
-
-
-And so, Weed was named the official chef for the punitive force.
-
-
-He found no reason to decline Sir Midvale’s request, as he could upgrade the cooking skill by preparing thirty-two servings of stew three times a day. Furthermore, he wasn’t confined to the field of cooking.
-
-
-“Weapons and armors, I can fix them! Bring me anything damaged or destroyed if you have them.”
-
-
-“Really?”
-
-
-“Can you really repair my sword?”
-
-
-“My buckler’s half damaged, low in durability…”
-
-
-“Just show me what you’ve got. Repair!”
-
-
-Weed used the repair skill to repair weapons and gear that some soldiers brought to him. It would cost a fortune to have a blacksmith repair damaged equipment back in town. If they were left with low durability, they could suddenly break in the middle of a battle.
-
-
-“Thank you, Weed-nim!”
-
-
-Weed was hailed as a savior by the troops. He could upgrade his handicraft and repair skills, and earned trust from soldiers as a bonus.
-
-
-Sir Midvale, who had been skeptical of his friend’s recommendation to bring Weed along on the mission, was now more than satisfied with his role.
-
-
-“You’re the man, Weed-nim!”
-
-
-“Not at all, sir.”
-
-
-Weed blended in with the rest of the troops.
-
-
-Who knows what inconveniences they would have to suffered without him. They would have had to return to a nearby village from time to time when they needed to have broken or edge-nicked weapons fixed, and the meals would have been revolted to their stomachs.
-
-
-Rarely obtained magical items would have needed identification scrolls, which cost several gold coins for each. Instead, Weed could identify them right on the spot with his identification skill.
-
-
-For the soldiers, it would be torture to go back to the tasteless gruel that Buren and Becker used to claim was beef stew, especially after they enjoyed Weed’s version.
-
-
-“We’re not cooks in the first place!” Buren and Becker cried in unison.
-
-
-In this way, the soldiers and Weed formed an unimaginable relationship.
-
-
-*Swish*
-
-
-Whenever an arrow flew from Weed, a kobold turned grey.
-
-
-The kobolds are considered relatively weaker monsters. They know how to use tools, but the class of their tools is crude, as though they were made by children. They basically relied on numbers in a battle.
-
-
-“Kiyoyo!” A platoon of nine kobolds charged at once.
-
-
-‘Come on! My precious EXP points!’
-
-
-A big grin forming on his face, Weed greeted the kobolds with silent cheers. He shot arrows arbitrarily, collecting easy EXPs. Defense was taken care of by the soldiers, anyway. All he needed to do was shoot as many arrows as possible.
-
-
-*Ting*
-————————————————————————————————
-You have leveled up!
-You have leveled up!
-
-
-New Skill: Archery
-————————————————————————————————
-
-
-This was level-up madness!
-
-
-Weed had also learned archery, a skill that was commonly exclusive to the archer class. It was hardly surprising, considering that he had done nothing but shoot arrows as he never swung a sword, even once, in the battles.
-
-
-Nevertheless, the soldiers were not jealous of him in the least. After the battles, Weed was the busiest one there. He cooked meals, repaired weapons and gear and tended the wounded.
-
-
-Sir Midvale had a few healing potions for emergencies, but the soldiers in the punitive force could not afford such costly medicines. Weed rubbed herbs and rolled gauze on wounds with his handicraft skill.
-
-
-*Ting*
-————————————————————————————————
-New Skill: Bandage
-Enables you to stop bleeding and can increase health of the wounded when tended.
-————————————————————————————————
-
-
-The maximum number of skills that a user can learn when his class is undecided is ten.
-
-
-Weed’s bandage skill, was affected by the high handicraft skill, and thus had impressive effects. As he was busy caring for thirty patients every day, the skill upgraded fiercely.
-
-
-The troops roamed on the first and second floor, slaying kobolds, for a week.
-
-
-Users were occasionally spotted watching Weed with envious eyes as he was privileged to join a NPC punitive force and hunt monsters alongside them.
-
-
-The week of slaughtering kobolds upgraded his level to twenty-six. The repair skill hit level three, and the cooking skill, now level four, earned him a special option to increase 50 HP for those who were served with his meals until the satisfaction factor went down.
-
-
-Still, he had a headache.
-
-
-“Open Quest Information Window”
-————————————————————————————————
-Quest: Search and Destroy Operation in the Lair of Litvart [II]:
-
-
-There are a hundred monsters inhabiting the Lair of Litvart. Kill each and every one of them at least once, and prove yourself worthy of acquiring a honorable class. The completion of this quest will open a right path for your destiny.
-
-
-Difficulty: Unknown
-
-
-Quest requirement:
-Defeat all of the monsters in the hidden section within the Litvart Lair.
-
-
-Number of monsters left: 100
-————————————————————————————————
-
-
-Regarding the quest that Counselor Rodriguez had, the number of monster that needed to be kill has not decreased at all though Weed had already knocked down hundreds of kobolds.
-
-
-After a week of warming up on the kobolds, the troops headed to the third floor of the lair— the goblins’ territory.
-
-
-While hunting kobolds had been originally intended to give the new recruits firsthand combat experience, confronting goblins posed a grave threat to their life.
-
-
-The level of the kobolds were generally in their twenties. The kobold rascals are level twenty-three, and the relatively stronger kobold warriors twenty-eight, but untitled kobolds were at level twenty.
-
-
-On the other hand, the goblins are level fifty or above. Their weapons and gear surpass what kobolds are equipped with in attack power and in defense. The combat strength of the goblins is five to six times that of the kobolds.
-
-
-“Watch out now. When you find yourself in danger, retreat immediately.”
-
-
-“Yes, Commander!”
-
-
-The soldiers could not hide their excitement and tension. Their levels ranged from twenty-three to twenty-five from hunting kobolds, but their confidence ebbed at the thought of facing an unknown enemy whose level was generally twice theirs. The only relief was that goblins gathered in lesser numbers than kobolds.
-
-
-“Whew...”
-
-
-Weed let out an exasperated breath. His stomach curdled at the thought that if the troops fought goblins at that moment, they would surely suffer inevitable casualties.
-
-
-‘One third? Or perhaps more? I hope we won’t get annihilated.’
-
-
-Had Weed been in charge of the troops, he would have taken time to have his men build more experience and level up higher before he led them to the threshold of the goblins, not to mention that he would have taught them how to fight goblins efficiently.
-
-
-But the command of the punitive force primarily belonged to Sir Midvale. Weed was left with two options. Either he followed them as before, only to sit back and watch them die helplessly, or he give up the quest and hunt more kobolds on his own until he leveled up enough to deal with the goblins. The second option, which would penalize him tremendously, was out of the question.
-
-
-In fact, the reason Weed was so concerned about the welfare of the soldiers was more of a practical need that he didn’t want to see them die in vain when he worked so hard to build a friendship with them.
-
-
-“They are coming. Get ready—!” Even before Sir Midvale finished his words, a few goblins dashed out of a cave.
-
-
-“Kigggg!”
-
-
-“Human, human!”
-
-
-“They die!”
-
-
-There were five goblins. The total number of soldiers outnumbered them 6:1. Weed planned to shoot an arrow at the goblins to take the initiative and to seek another chance afterward— undoubtedly, a goblin yielded a tremendous amount of EXPs, and he was dying to get one.
-
-
-However, the soldiers were frozen stiff. They stood motionless as if nailed to the ground where they were standing. And fighting spirit radiated from the goblins! The soldiers cowered at the sight of an enemy who was level fifty. Their swords dropped downward, the bucklers trembled unmistakably.
-
-
-‘Idiots…’ Weed clicked his tongue.
-
-
-The goblins were not easy to defeat even if the soldiers stood up to fight fearlessly, and now they were already frozen before the battle began. This would lead to a calamity.
-
-
-Weed shot a glance at Sir Midvale, who was standing beside him. Obviously, the knight wasn’t in the mood to motivate his men.
-
-
-‘The weak deserve to die.’
-
-
-The code of chivalry developed in Rosenheim kingdom was cold-blooded. Weed stepped forward. He flung his bow on his back and held the iron sword.
-
-
-‘I have faith in friendship I’ve worked so hard to build,’ he said to himself.
-
-
-Then, he did something that was unimaginable to the other soldiers who remembered what he had done in the previous battles. Weed shouted a war cry and charged toward the goblins!
-
-
-“Yatz!”
-
+- Yatz!
 
 *Sniggers*
 
+A espada de Weed foi desviada com tanta facilidade, incutindo um sentimento de inutilidade nele.
 
-Weed’s sword was deflected so easily, instilling a sense of futility in him.
+Ele poderia criar uma lacuna entre o seu nível e o dos goblins com seus atributos inflados, mas o alcance mais curto de sua espada era crítico. A espada não era eficaz sobre os goblins que estavam armados com lanças mais longas.
 
+*Eu não estou usando qualquer equipamento de defesa. Se eles me acertarem, eu estarei morto.*
 
-He could make up for a gap between his level and the goblins’ with his inflated stats, but the shorter reach of his sword was critical. The sword wasn’t effective on the goblins that were armed with longer spears.
+Os goblins bloquearam a espada de Weed e, quase ao mesmo tempo, eles impulsionaram as suas lanças em direção a ele. Ele se agachou para evitá-las. Era necessária uma combinação de seus reflexos incríveis e raciocínio rápido para salvar a sua vida.
 
+Ele não tinha a intenção de lutar contra os goblins a sério, então seus ataques subsequentes foram apáticos.
 
-‘I’m not wearing any defensive gear. If they hit me, I’m dead.’
+- Morra, humano!
+- Sua espada é uma porcaria!
 
+Com cinco lanças, os goblins atacaram em lugares aleatórios que eram dirigidos pelo puro instinto. Enquanto Weed não chegasse perto ao alcance de sua espada, ele estava livre do risco de ser espetado pelas lanças deles.
 
-The goblins blocked Weed’s sword, and almost at the same time, they thrust their spears toward him. He crouched to dodge them. It needed a combination of his amazing reflexes and quick wits to save his life.
+Ainda assim, ele fingiu estar em perigo, evitando as lanças por polegadas. Para os olhos dos soldados, a cena parecia uma luta desesperada dos fracos.
 
+Mesmo que há tempos o nível de Weed houvesse passado o deles, a visão dos soldados em relação ao papel de Weed foi estabelecida em um homem faz-tudo que realizava trabalho manual, tais como reparos, cozinhar e primeiros socorros. Aquele Weed estava lutando contra os goblins! Os olhos dos soldados começaram a piscar com confiança.
 
-He had no intention of fighting the goblins seriously, so his subsequent attacks were half-hearted.
+Depois de mais algumas trocas de golpes, Weed recuou alguns passos e, em seguida, gritou em uma voz de trovão.
 
+- Olhem para eles! Esses goblins são mais fracos do que parecem! Olhem para nós! Nós os superamos em números! Vocês não estão sozinhos, nós temos um ao outro! Nossos camaradas ombro a ombro estão cobrindo as nossas costas!
+- Hoo-hah!
 
-“Die, human!”
+Os soldados rugiram como se eles tivessem recuperado a moral deles mais uma vez.
 
+- É uma vergonha para nós nos escondermos atrás das costas de Weed como ratos!
+- Levantem-se e lutem!
 
-“Your sword sucks!”
+Eles avançaram diretamente para os goblins.
 
+Weed rapidamente sentiu a chegada de uma luta corpo a corpo e retirou-se da batalha.
 
-With five spears, the goblins attacked at random places that were directed by raw instinct.
+- Esses bastardos estão apenas usando lanças. Se nós lutarmos ao alcance lanças, elas só nos causarão mais danos. Usem seus escudos. Levantem seus escudos, marchem para frente, reduzam a distância entre eles e evitem que eles empurrem as lanças deles livremente.
+- Aye!
+- Eu seguirei o seu comando!
 
+Alguém gritou.
 
-As long as Weed didn’t get close within the reach of his sword, he was free of the risk of being skewered by their spears.
+Weed deu conselhos oportunos de uma maneira cordial.
 
+Já que a amizade entre eles atingiu o máximo, o comando dele foi levado diretamente em prática pelos soldados.
 
-Still, he pretended to be in peril, dodging the spears by inches. To the eyes of the soldiers, the scene looked like a hopeless struggle of the weak.
+Eles empurraram para trás os goblins a força. Dois terços deles mantiveram seus escudos na frente e o resto pegou as espadas.
 
-
-Even though it had been long since Weed’s level transcended theirs, their view of his role was fixed on a handyman working manual labor, such as repairs, cooking and first aid. That Weed was fighting the goblins! The eyes of the soldiers began to flicker with confidence.
-
-
-After a couple more exchanges, Weed retreated a few steps and then roared in a thunder-like voice,
-
-
-“Look at them! These goblins are weaker than they appear! Look at us! We outnumber them! You are not alone; we have each other! Our comrades shoulder to shoulder are watching our backs!”
-
-
-“Hoo-hah!” The soldiers roared as they regained their morale once more.
-
-
-“It’s a shame on us if we hide behind Weed’s back like mice!”
-
-
-“Get up—fight!” They charged directly at the goblins.
-
-
-Weed quickly sensed a forthcoming melee and pulled himself from the battle.
-
-
-“These bastards are only using spears. If we fight within the reach of spears, it will only cause us more damage. Use your shields. Hold yours bucklers up, marched forward, narrow the gap in between, and prevent them from thrusting their spears freely.”
-
-
-“Aye!”
-
-
-“I will follow your command!” some yelled.
-
-
-Weed gave timely advice in a cordial manner.
-
-
-Since friendship between them hit maximum, his command was directly taken on board by the soldiers.
-
-
-They pushed back the goblins by force. Two thirds of them held their bucklers at the front, the rest grabbed the swords.
-
-
-As the first two lines charged behind the bucklers, the spears that were thrust by the goblins bounced off, astonishing the brainless enemy. Once the gap was narrowed, the sword line began to swing their swords.
-
+Conforme as duas primeiras linhas avançavam por trás dos escudos, as lanças que foram empurradas pelos goblins ricochetearam, surpreendendo o inimigo sem cérebro. Uma vez que a lacuna foi reduzida, a linha de soldados armados com espadas começou a balançar as suas espadas.
 
 *Ting*
-————————————————————————————————
-Leadership has risen by 3 points (+3 CHR)
-————————————————————————————————
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Carisma subiu em 3 pontos (+3 CAR)</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Weed, que estava sentado ociosamente, teve seu carisma aumentado em três pontos. A estatística de carisma age sobre as tropas NPCs e torna mais fácil domar animais de estimação ou contratar mercenários.
 
-For Weed, who had been resting idly, had his leadership increased by three points. The leadership stat acts over NPC troops, and makes it easier to tame pets or hire mercenaries.
-
-
-As the soldiers who were motivated by Weed’s speech got into action, his leadership was recognized.
-
+Visto que os soldados que foram motivados pelo discurso de Weed entraram em ação, a sua liderança foi reconhecida.
 
 *Slash*
 
+Os goblins, apesar do seu nível muito mais elevado, não poderiam derrotar as tropas, que tinham uma vantagem de seis vezes mais a quantidade deles.
 
-The goblins, in spite of their much higher level, could not defeat the troops, who outnumbered them six-fold.
+A ofensiva coordenada deles transformou um goblin após o outro em um flash de luz cinza.
 
+Essas táticas da legião romana teriam sido ineficazes caso fosse uma batalha entre exércitos de igual número de soldados, mas um exército de trinta soldados com escudos, avançando a partir de quatro direções, devastou os goblins, que estavam armados com longas lanças.
 
-Their coordinated offense turned one goblin after another into a gray flash.
+As flechas ocasionais disparadas por Weed, depois que ele se abrigou atrás das tropas, distraiu ainda mais os goblins.
 
+*Cinco goblins! Um deles é meu!*
 
-These Roman legion tactics would have been ineffective when it comes to a battle between armies of equal number of soldiers, but an army of thirty soldiers with bucklers on, charging from four directions, devastated the goblins, which were armed with long spears.
-
-
-Occasional arrows shot by Weed after he sheltered behind the troops distracted the goblins further.
-
-
-‘Five goblins! One of them is mine!’
-
-
-Weed observed the battle scene, and when a goblin was near death, he shot an arrow precisely at the goblin’s neck.
-
+Weed observou a cena da batalha e, quando um goblin estava perto da morte, ele atirou uma flecha precisamente no pescoço dele.
 
 *Ting*
-————————————————————————————————
-You have leveled up!
-————————————————————————————————
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Você subiu de nível!</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Já que Weed tinha alcançado o nível de vinte e seis, os kobolds não rendiam mais tanta experiência como antes. Ainda era muito seja qual fosse a maneira que você olhasse para isso, mas no geral era muito baixa para Weed.
 
-Since Weed had reached level twenty-six, kobolds had not yielded as much EXPs as before. It was still a lot whichever way you looked at it, but was overall too low for Weed.
+Um goblin pertencia a uma dimensão diferente do que um kobold. Quando Weed tinha matado o goblin, ele sozinho preencheu trinta e sete por cento do que faltava de experiência para o próximo nível, o 27, e ainda sobrou um extra de dez por cento para subir de nível.
 
+*No nível cinquenta, os goblins dão muito mais experiência do que os kobolds.*
 
-A goblin belonged to a different dimension than a kobold. When Weed had killed the goblin, it alone filled thirty-seven percent that remained for the next level, at twenty-seven, and took extra ten percent for change.
+Weed estava tentado a beijar a bunda do goblin. Só Deus sabe o que ele teria feito se os soldados não estivessem ao seu redor. Seria difícil encontrar um local de caça melhor do que este.
 
+- Nós ganhamos!
 
-‘At level fifty, goblins give much better EXP than kobolds.’
+Os homens comemoraram.
 
+Os soldados exclamaram em triunfo, posicionando as suas espadas para cima. Eles foram fortalecidos pela confiança de que eles tinham derrotado com sucesso os primeiros goblins.
 
-Weed was tempted to kiss the goblin’s ass. Only God knows what he would have done if the soldiers were not around him though. It would be difficult to find a hunting ground better than this.
+- Os goblins não são páreos para nós!.
+- Não, nós vencemos facilmente porque nós seguimos os comandos do Weed.
+- Ele tem o dom de um líder.
+- Ele é excelente em medir a força do inimigo.
+- Sob o comando dele, nossas chances de sobrevivência serão elevadas.
 
+Quando a batalha terminou, os soldados elogiaram Weed, dando tapas em suas costas.
 
-“We won!” the men cheered.
+A deusa da fortuna sorria para ele! Weed, no entanto, afastou o seu olhar em direção a Sir Midvale com cautela.
 
+Se o cavaleiro ficasse ofendido por seu comando ter sido violado por um mero forasteiro, ele tinha todo o direito de executar Weed sem julgamento, embora Weed estivesse seguro de que a sua amizade com o cavaleiro impediria o pior, nesse caso.
 
-The soldiers exclaimed in triumph, throwing swords in the air. They were bolstered in confidence that they had successfully defeated the first goblins.
+Sir Midvale olhou para o cadáver de um goblin, imerso em pensamentos por um momento e, em seguida, disse para Weed:
 
-
-“Goblins are no match for us!”
-
-
-“No, we won easily because we followed Weed’s command.”
-
-
-“He has the gift of a leader.”
-
-
-“He’s excellent in measuring the enemy’s strength.”
-
-
-“Under his command, our chances of survival will be high.”
-
-
-When the battle was over, the soldiers complimented Weed, patting his back.
-
-
-The goddess of fortune was smiling on him! Weed, however, drifted his gaze to Sir Midvale cautiously.
-
-
-If the knight was offended that his command was violated by a mere foreigner, he had every right to execute Weed without trial, though Weed assured himself that his friendship with the knight would prevent the worst in that case.
-
-
-Sir Midvale looked at the corpse of a goblin, deep in thought for a moment, and then said to Weed,
-
-
-“You are a good soldier, Weed-nim. I can see great talent in you. How about taking the path of royal guard?”
-
-
-“A royal guard?”
-
-
-“You will become an officer in the honorable army of Rosenheim kingdom. Your starting position will be a Denarion.”
-
+- Você é um bom soldado, Weed-nim. Eu posso ver um grande talento em você. Que tal tomar o caminho de um guarda real?
+- Um guarda real?
+- Você se tornará um oficial no honroso exército do Reino de Rosenheim. Sua posição inicial será a de um Denarion (NT = Nota João: é um cargo militar).
 
 *Ting*
-————————————————————————————————
-You have received a job offer!
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Você recebeu uma oferta de emprego!</p>
+        <p align="center">Se você aceitar, você tomará a posição de Denarion no exército de Rosenheim. Você comandará dez soldados rasos e estará habilitado a receber treinamento regular e um pagamento mensal de cinquenta moedas de prata. Você quer aceitar esta oferta de emprego?</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Após completar o treino regular e algumas técnicas básicas de esgrima, uma quantidade de equipamentos militares como espadas e escudos lhes serão dados. Certamente, eles não são os equipamentos mais afiados da cidade: uma espada de ferro ou similar e uma armadura pesada com apenas opções de defesa.
 
-If you accept it, you will take a military position of Denarion in the Rosenheim army. You will command ten foot soldiers. You are entitled to receive regular training, and a monthly income of fifty silvers. Will you accept this job offer?
+Weed balançou a sua cabeça, pois de acordo com seu plano ainda era muito cedo para se estabelecer em uma carreira específica.
 
+- Eu estou honrado que você tenha uma opinião tão elevada sobre mim, senhor. Porém, eu não posso aceita-la. A guarda real é sem dúvidas o que eu aspiro a ser, mas eu quero me dedicar a vaguear livremente para ajudar os pobres e os fracos, bem como para destruir monstros maléficos em seus covis por ora. O sangue de um andarilho flui em mim, Sir Midvale.
+- Bem, que assim seja. Se você mudar de ideia, deixe-me saber. Por ora, assuma o comando de meus homens.
+- Posso realmente fazer isso?
+- É meu dever, mas parece que os meus homens o seguem e aprendem muito com você. Eu observarei de trás para ver o quão longe a sua liderança pode levá-los.
 
-Upon the completion of the regular training, a few basic sword techniques and a quantity of military equipment such as swords and shields are given. Certainly, they are not the sharpest tools in town—an iron sword, or similar, and heavy armor with only defense options.
-————————————————————————————————
+Sir Midvale transferiu o comando da força punitiva para Weed.
 
+Por enquanto, os soldados eram obrigados a obedece-lo pelo menos neste covil. É claro, ele não esperava lealdade que poderia obrigá-los a pular em um poço em chamas a partir de uma única palavra.
 
-Weed shook his head because, according to his blueprint, it was too early to settle down in a specific career.
+O carisma de Weed era demasiado baixo, então ele contou com a sua amizade com os soldados. Ainda assim, ele ficou muito entusiasmado com a sua nova atribuição.
 
+*Bom! Eu farei o melhor nesta situação.*
 
-“I am honored you have such a high opinion of me, sir. But I cannot take it. A royal guard is undoubtedly what I aspire to be, but I want to devote myself to wandering freely to help the poor and the weak, and to destroy evil monsters in their lairs for the time being. A wanderer’s blood flows in me, Sir Midvale.”
+Weed rapidamente embalou o arco, tirou a espada e a ergueu. Foi uma demonstração de sua posição recém-adquirida. Teria sido menos impressionante segurar o arco, lembrando as suas tropas de seu comportamento passado nas batalhas, o que não poderia atingi-los como sendo algo honrável.
 
+- Escutem, soldados! Meu nome é Weed e, a partir de agora, eu assumo o comando de vocês. Peço-lhes que sigam minhas ordens obedientemente.
+- Sim, comandante!
+- Meu principal objetivo é derrotar o covil sem baixas. Façam os seus melhores e nem uma única gota de sangue será derramada em vão.
+- Sim, comandante!
 
-“Well, so be it. If you ever change your mind, let me know. For now, take command of my men.”
+Desde que Weed assumiu o comando a partir de Sir Midvale, a atitude de suas tropas em relação a ele mudou drasticamente.
 
+- Buren, Becker.
+- Sim, comandante!
+- Vocês são batedores agora. Fiquem à frente do exército e procurem inimigos nas áreas. Mesmo quando nós estivermos envolvidos na batalha, vocês devem procurar por qualquer inimigo que esteja se aproximando.
+- Sim, comandante!
 
-“Can I really do that?”
+Weed fez suas tropas marcharem com os dois batedores os conduzindo. Logo, Buren correu de volta para ele ofegante.
 
+- Comandante.
+- Diga.
+- Buren reportando, senhor! Sete goblins às doze horas. Dois goblins do sexo feminino e cinco goblins incursores.
 
-“It is my duty, but it seems my men follow you, and learn a lot from you. I will watch from behind to see how far your leadership can lead them.”
+De acordo com a base de dados privada de Weed, os goblin incursores estavam no nível 58.
 
+- Você fez um bom trabalho, Buren. Todo mundo, alto!
 
-Sir Midvale transferred the command of the punitive force to Weed.
+Weed ordenou que sua tropa ficasse parada em uma clareira aberta e montasse algumas armadilhas. Então, ele foi sozinho até a localização onde os goblins haviam sido avistados.
 
-
-For now, the soldiers were obliged to obey him at least in this lair. Of course, he did not expect loyalty that could compel them to jump into a pit of flames from a single word.
-
-
-Weed’s leadership was too low, so he counted on his friendship with the soldiers. Still, he was thrilled at his new assignment.
-
-
-‘Sweet! I’ll make the best out of this situation,’ he said to himself.
-
-
-Weed swiftly packed the bow, took out the sword and held it up. It was a demonstration of his newly-acquired position. It would have been less impressive to hold the bow, reminding his troops of his past behavior in battles that could not strike them as honorable.
-
-
-“Listen, soldiers! My name is Weed, and as of now, I take over the command of you. I ask you to follow my orders dutifully.”
-
-
-“Yes, Commander!”
-
-
-“My foremost objective is to defeat the lair without any casualties. Do your best, and not a single drop of blood will shed in vain.”
-
-
-“Yes, Commander!”
-
-
-Since Weed took over the command from Sir Midvale, the attitude of his troops toward him had changed drastically.
-
-
-“Buren, Becker.”
-
-
-“Yes, Commander!”
-
-
-“You are scouts now. Stay ahead of the army, and look out for enemy in the areas. Even when we are engaged in battle, you must look out for any approaching enemy.”
-
-
-“Yes, Commander!”
-
-
-Weed marched his troops with the two scouts leading them. Soon, Buren ran back to him, panting.
-
-
-“Commander.”
-
-
-“Speak.”
-
-
-“Buren reporting, sir! Seven goblins at twelve o’clock. Two female goblins and five goblin raiders.”
-
-
-Goblin raiders were, according to Weed’s private database, level 58 monsters.
-
-
-“You did a good job, Buren. Everyone, halt!”
-
-
-Weed ordered his troops to stay put in an open clearing, and set up a few traps. Then, he went alone to the location where the goblins had been spotted.
-
-
-As Buren reported, the seven goblins were resting there. Weed took out his bow and shot at the farthest goblin. Before the arrow hit the target, he turned and ran away.
-
+Como Buren relatou, os sete goblins estavam descansando lá. Weed pegou o seu arco e atirou no goblin mais distante. Antes da flecha acertar o alvo, ele se virou e saiu correndo.
 
 *Swish*
 
+- Kyah, humano!.
 
-“Kyah, human!” The goblins looked around, spotted Weed and chased after him in a rush.
+Os goblins olharam em volta, viram Weed e correram atrás dele com pressa.
 
-
-Weed knew that, if he was surrounded by the seven goblins, he would not stand any chance. He just prayed his feet would not fail.
-
+Weed sabia que, se ele fosse cercado pelos sete goblins, ele não teria qualquer chance. Ele apenas orou para que seus pés não falhassem.
 
 *Thump*
 
+Conforme Weed ouvia os goblins ganhando dele pelas costas, ele estremeceu.
 
-As Weed heard the goblins gaining on him from behind, he shivered.
+Segurando lanças, os goblins estavam correndo com passos pesados.
 
+*Deus, eles ainda provocam arrepios em minha espinha. Isto é o que você chama de um jogo incrível. Não... é o trabalho mais legal para mim.*
 
-Holding spears, the goblins were running with heavy strides.
+Embora em um local perigoso, os pensamentos de Weed ainda eram positivos. Ele estava sozinho, mas ele estaria seguro uma vez que ele alcançasse o local onde suas tropas estavam escondidas. Weed correu como se sua cauda estivesse em chamas e chegou à clareira.
 
+- Comandante!
 
-‘God, they even sent a chill down my spine. This is what you call an awesome game. No, the coolest job for me,’ he thought to himself.
+Buren e Becker foram os primeiros rostos que ele viu.
 
+- Preparem-se para a batalha. Os goblins estão vindo!
 
-Although in a dangerous spot, Weed’s thoughts were still positive. He was alone, but he would be safe once he reached the place his troops were hiding. Weed ran like his tail was on fire, and arrived at the clearing.
+Enquanto o chamado de Weed estava ecoando através do espaço, os sete goblins saltaram da caverna. Em apenas um momento, seus destinos seriam decididos.
 
+- Kugh?
 
-“Commander!”
+Os goblins que eram estúpidos e tolos ficaram hipnotizados com o súbito aparecimento dos soldados a partir das rochas atrás das quais eles estavam escondidos. Em seguida, eles atiraram tochas acesas nos goblins.
 
+- Esses bastardos estão presos!
+- Empurrem para frente!
+- Eles têm lanças. Tenham cuidado com as lanças deles! Qualquer um que esteja lesionado deve se retirar, seja grave ou não.
 
-Buren and Becker were the first faces he saw.
+Se Weed tivesse previsto que ele estaria encarregado das tropas, ele teria comprado mais armadilhas. A melhor ideia que ele teve quando não havia outras ferramentas era a de jogar tochas nos goblins.
 
+No entanto, os soldados estavam lutando muito bem. Os trinta soldados eram uma grande máquina conduzindo os goblins em segmentos individuais, os quais eram destruídos um após o outro. Eles estavam fortalecidos por uma variável incalculável chamada de *moral*.
 
-“Get ready for the battle. Goblins are incoming!”
+Quer se trate de monstros ou de NPCs, a moral é sempre um fator decisivo nas batalhas. Os soldados acreditavam em seu líder recém-nomeado, Weed. Os goblins, por outro lado, foram confundidos pelas tochas lançadas contra eles e, no momento em que os goblins perceberam que eles haviam caminhado para uma armadilha, eles já estavam cercados por muitos seres humanos, de modo que eles perderam a vontade de lutar de volta.
 
+- Humanos trapaceiros estão nos atacando!
+- Kieeekk! Corram por suas vidas!
+- Quem você acha que os deixará fugirem vivos?
 
-While Weed’s call was echoing through the space, the seven goblins sprang out of the cave. In only a moment, their fate would be decided.
+Enquanto os soldados avançavam inexoravelmente em direção a seu inimigo, os olhos de Weed brilharam.
 
+- Cerque-os. Bloqueiem a entrada da caverna!
+- Sim, comandante!
+- Deixe os feridos recuarem e prestem os primeiros socorros. Os outros soldados com vida cheia, foco na defesa. Aqueles que estão curados devem permanecer na posição de espera. Vocês terão que estar prontos para se juntar à batalha quando eu lhes der uma ordem.
 
-“Kugh?”
+Sob o comando de Weed, os soldados imobilizaram os goblins de forma constante, dois dos quais foram derrubados por suas flechas.
 
+Como ele tinha colocado sua vida em risco, ele justificou que ele merecia, pelo menos, dois goblins para fazer jus às despesas.
 
-The goblins that were stupid and witless were mesmerized by the sudden appearance of the soldiers from the rocks they had been taking cover behind. Then they threw burning torches at the goblins.
+Os goblins de nível elevado duraram um período considerável a despeito da baixa moral, mas quando Weed dividiu as suas tropas em três grupos e ordenou-os que se revezassem para esgotar o inimigo, os monstros acabaram em flashes cinza.
 
+Os goblins deixaram nove moedas de prata, um escudo de aço e uma lança de bronze.
 
-“These bastards are trapped!”
+Quando Buren e Becker pegaram os itens como ordenado, Weed interferiu:
 
+- Todo mundo, escute! Estou orgulhoso de seus valores. Eu dividirei os espólios de uma maneira diferente do que antes.
+- ...?
+- Eu recompensarei o soldado que luta com o maior número de goblins bravamente. Com uma condição: ele não pode ser gravemente ferido o suficiente para estar inválido para a próxima batalha. Minha prioridade é trazê-los em segurança para casa para suas esposas e famílias amorosas.
+- Sim, comandante!
 
-“Push forward!”
-
-
-“They have spears. Be careful of their spears! Anyone who is injured must step down, be it severe or not.”
-
-
-Had Weed foreseen that he would be in charge of the troops, he would have bought more snares and traps. The best idea he could come up with when there were no other tools was to throw torches at the goblins.
-
-
-Nonetheless, the soldiers were fighting very well. The thirty troops were a big machine driving the goblins into individual segments and destroying them one after the other. They were strengthened by an incalculable variable called morale.
-
-
-Whether it comes to monsters or NPCs, morale is always a decisive factor in battles. The soldiers believed in their newly appointed leader, Weed. The Goblins on the other hand, were confused by the torches thrown at them, at the point the goblins realized that they had walked into a trap, they were already surrounded by many humans, so they lost their will to fight back.
-
-
-“Cheating humans attack us!”
-
-
-“Kieeekk! Run for life!”
-
-
-“Who do you think will let you get away alive?”
-
-
-While the soldiers pushed relentlessly towards their enemy, Weed’s eyes flashed.
-
-
-“Surround them. Block the entrance of the cave!”
-
-
-“Yes, Commander!”
-
-
-“Let the wounded retreat and give first aid. The other soldiers with full life— focus on defense. Those who are healed should remain in the waiting position. You will get ready to join the battle when I give you an order.”
-
-
-Under Weed’s command, the soldiers immobilized the goblins steadily, two of whom were felled by his arrows.
-
-
-As he had put his life at risk, he justified that he deserved at least two goblins to make ends meet.
-
-
-The high-level goblins held on for a considerable period in spite of low morale, but when Weed divided his troops into three groups, and ordered them to take turns exhausting the enemy, the monsters ended up as gray flashes.
-
-
-The goblins left nine silvers, a steel shield and a bronze spear.
-When Buren and Becker picked them up as ordered, Weed interfered.
-
-
-“Everyone, listen! I am proud of your valor. I will divide spoils in a different manner than before.”
-
-
-“…?”
-
-
-“I will reward the soldier who fights the most goblins bravely. On one condition—he cannot  be severely injured enough to be disabled for the next battle. My priority is to bring you safely back home to your loving wives and families.”
-
-
-“Yes, Commander!”
-
-
-At Weed’s speech, the eyes of his troops filled with admiration.
-
+Com o discurso de Weed, os olhos de suas tropas foram preenchidos com admiração.
 
 *Ting*
-————————————————————————————————
-Leadership has risen by 2 points (+2 CHR)
-————————————————————————————————
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Carisma subiu em 2 pontos (+2 CAR)</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Weed teria tragado todos os itens se ele pudesse, mas ele se manteve em cheque. Se sua amizade com os soldados caísse, seu baixo carisma não poderia salvá-lo da possibilidade de um motim, ou mesmo de um enforcamento.
 
-Weed would have swallowed all the items if he could, but he kept himself in checked. If his friendship with the soldiers dropped, his low leadership could not save him from the possibility of a mutiny, or even a hanging.
+A presença de Sir Midvale ainda pesava sobre ele para enterrar a sua ganância irracional. Liderando as suas tropas, Weed sistematicamente exterminou os goblins no terceiro andar.
 
+Um dia, porém, Sir Midvale disse com uma careta:
 
-Sir Midvale’s presence further weighed on him to bury his unreasonable greed. Leading his troops, Weed systematically cleaned out the goblins on the third floor.
+- Weed-nim, o ritmo desta missão está lento. Eu aconselho você a acelerar o ritmo.
+- Desculpe-me, senhor?
+- Eu emprestei esses soldados a partir de outros regimentos. Eu não estou autorizado a mantê-los indefinidamente. Eles devem terminar a missão dentro de um mês e retornar para os seus regimentos originais.
 
+Weed nunca tinha ouvido falar do prazo. Parecia que somente os soldados estavam fadados a isso. Ainda assim, ele não apressou o ritmo.
 
-One day, however, Sir Midvale said with a grimace,
+Contra seis ou mais goblins, ele sempre os atraia para o espaço aberto mais próximo ao atirar uma ou duas flechas, onde suas tropas oprimiam eles. Em caso de menos de seis goblins, ele conduzia a sua tropa direto para lutar contra o inimigo.
 
+Weed evitava uma batalha a menos que os soldados estivessem totalmente curados até o último homem e ele ainda fez ensopados e consertou as armas e equipamentos danificados para manter a melhor condição deles.
 
-“Weed-nim, the pace of the mission is slow. I advise you to pick up the pace.”
+***
 
+Quando a força punitiva conseguiu conquistar o terceiro andar do covil, Weed atingiu nível trinta e sete e os seus homens trinta e quatro. Chegou a hora. A hora da verdadeira caça.
 
-“I beg your pardon, sir?”
+- Avancem!
+- Manter a formação! Avançar!
 
+Ao comando de Weed, os soldados se moveram como pessoas que haviam enlouquecido, entregues à loucura. Para eles, os goblins não eram nada.
 
-“I borrowed these soldiers from other regiments. I am not allowed to keep them indefinitely. They must finish the quest within a month, and return to their original regiments.”
+- Yatz! Yatz!
+- Morte para vocês! Seus malditos monstros horríveis!
+- Seus sapos sujos comedores de queijo. Eu eliminarei vocês da terra.
 
+Os soldados empurravam com seus escudos à frente. Eles estavam tão desbocados como sempre, isso foi porque Weed havia lhes ensinado as palavras de quatro letras do dicionário de Rodriguez.
 
-Weed had never heard of the deadline. It seemed that only the soldiers were bound to it. Still, he didn’t hasten the pace.
+Eles às vezes rugiam ameaçadoramente e avançavam sob circunstâncias aparentemente impossíveis. Suas espadas se tornaram mais dinâmicas, penetrando nas aberturas dos goblins que estavam armados com lanças.
 
+Weed ainda manteve a mesma formação de suas tropas, mas em última análise, eles apoiavam-se em seus companheiros e foram mais imprudentes desta forma, mas também estavam mais rápidos. Eles haviam matado goblins repetidamente, deixando milhares de cadáveres atrás deles.
 
-Against six or more goblins, he always drew them to the nearest open space by shooting one or two arrows where his troops overwhelmed them. In case of fewer than six goblins, he led them straight to fight with the enemy.
+Adotando as táticas de Weed agressivamente, as tropas esmagaram as defesas dos goblins com ataques cuidadosamente coordenados.
 
+Agora levou apenas um piscar de olhos para destruir um pelotão de seis goblins com um exército de trinta soldados veteranos avançando ferozmente, de modo que eles devastaram o inimigo.
 
-Weed avoided a battle unless the soldiers were fully healed to the last man, and he still made stews and repaired damaged weapons and gear to maintain their condition at their best.
+- A batalha está ganha. Deixe-me distribuir os itens baseado no talento individual. Hosram e Dale.
+- Yahoo!
+- Algum soldado que precise de um reparo ou um descanso?
+- Não, comandante!
+- Não!
+- Então, vamos seguir em frente. Batedores, relatório!
 
+Buren e Becker, em turnos, observavam e relatavam a localização e o número dos goblins mais próximos.
 
-*****
+- Becker relatando, comandante! Oito goblins foram localizados uma centena de jardas (91,44 metros) de distância, às nove horas. Um goblin alquimista, seis goblins guerreiros e um goblin simples.
+- Avançar!
 
+Os soldados agora corriam a um ritmo confortável, nem rápido nem lento. Eles correram levemente enquanto estavam se recuperando da fadiga da batalha e se preparando para a próxima batalha que estava por vir.
 
-When the punitive force succeeded in conquering the third floor of the lair, Weed hit level thirty-seven, and his men thirty-four. There it came. Time for the true hunting
+- Hu … humanos!?
+- Inimigo, matem todos eles!
 
+Os goblins começaram a colocar um pouco de resistência, mas foi quase sem sentido neste estágio.
 
-“Charge!”
+Os soldados, que agora eram veteranos em combate e experiência, já dominavam os goblins na moral. Adicione as flechas de Weed nessa equação e era uma sentença de morte para os goblins.
 
+O nível no tiro com arco de Weed subiu rapidamente enquanto ele estava ativamente envolvido na batalha e suas flechas não visavam mais apenas os goblins morrendo.
 
-“Keep the formation! Charge!”
+Weed agora disparava flechas a fim de tomar a iniciativa e quando os goblins estavam agrupados para romper através do cerco de seus homens, ele dificultava o movimento deles com tiros de advertência. O alvo principal, porém, era qualquer goblin que ameaçasse a vida de alguém de suas tropas.
 
+Imagine que quando a lança de um goblin estiver voando para você, a flecha do seu líder fura um buraco na cabeça do goblin e, em seguida, você se sentirá a salvo e, portanto, mais leal a ele, não é? A mesma lógica foi para um número de soldados cujas vidas foram salvas por Weed no último segundo.
 
-At Weed’s command, the soldiers moved like people who had gone berserk, surrendered to madness. To them, the goblins were as nothing.
+Suas tropas caçavam goblins da forma mais eficiente, economizando o máximo de tempo possível agora. Eles conquistaram o quarto andar mais rápido do que o terceiro e até mesmo mantiveram o mesmo ritmo no quinto, onde eles se depararam com um maior número de goblins em cada batalha.
 
+Quando os soldados amadureceram as suas habilidades de combate, dando-lhes a condição de veteranos em um alto nível, eles eram capazes de combater no um-para-um com os goblins.
 
-“Yatz! Yatz!”
+No entanto, Weed estava preso às velhas táticas de concentrar-se na defesa e de ter a vantagem numérica contra os goblins. Alguns de seus homens estavam convencidos e sugeriram que ele abandonasse tal tática e, ao invés disso, lutasse contra os goblins de modo mais justo.
 
+Weed manteve a sua posição, apesar de tudo.
 
-“Death on you! You damn ugly monsters!”
+- Não considerem que os goblins sujos mereçam jogo limpo! Você já ouviu falar de um cavaleiro pedindo por um duelo com monstros? Se houvesse um, ele seria estúpido ao defender a sua honra contra monstros. Nós estamos lutando contra eles a fim de restaurar a paz e proteger o povo de Rosenheim. Tenham em mente que se vocês hesitarem em pôr um fim em um goblin porque você está tentando ser ético, seus companheiros pagarão as consequências!
 
+O carisma de Weed controlou a sua pequena força de trinta homens.
 
-“You cheese-eating dirty frogs. I’ll clean you off the earth.”
+Aquele que lutou com um goblin sozinho teve negado a sua quota de reconhecimento. Mais tarde, ele foi dispensado da próxima batalha. Ele a princípio estava animado por ficar fora de perigo, mas logo percebeu que ele tinha que sentar e assistir seus companheiros subirem de nível.
 
+Este exemplo ensinou a todos uma lição, então as tropas foram tão longe como esfaquear os goblins pelas costas caso a chance aparecesse. Eles sofreram uma lavagem cerebral além de qualquer dúvida pela eloquência de Weed, que agora estava ensinando a esses soldados experientes as Táticas de Combate da Infantaria 101.
 
-The soldiers pushed on with their bucklers ahead. They were as foul-mouthed as ever, this was because Weed had taught them four-letter words from Rodriguez’s dictionary.
+Em menos de um mês, Weed levou a força punitiva a varrer o Covil de Litvart. Como ainda restava uma semana, eles voltaram até o terceiro andar e, no caminho de volta para o final do Covil, eles erradicaram os goblins que haviam se regenerado.
 
-
-They sometimes roared menacingly, and charged under apparently impossible circumstances. Their swords became more dynamic, penetrating openings of the goblins that were armed with spears.
-
-
-Weed still maintained the same formation for his troops, but ultimately they relied on their comrades, they were more reckless this way, but they were also faster. They had slain goblins repeatedly, leaving thousands of corpses behind them.
-
-
-Adopting Weed’s tactics aggressively, his troops crushed the goblin defenses with thoroughly coordinated attacks.
-
-
-Now it took just the blink of an eye to destroy a platoon of six goblins as an army of thirty veteran soldiers rushed on fiercely and devastated the enemy.
-
-
-“Battle is won. Let me distribute items based on individual prowess. Hosram and Dale.”
-
-
-“Yahoo!”
-
-
-“Any soldier who needs a repair or a rest?”
-
-
-“No, Commander!”
-
-
-“None!”
-
-
-“Then, let’s move on. Scout, report!”
-
-
-Buren and Becker, in turn, scouted and reported the location and number of the nearest goblins.
-
-
-“Becker reporting, Commander! Eight goblins have been located a hundred yard away at nine o’clock. One goblin alchemist, six goblin warriors, and one plain goblin.”
-
-
-“Advance!”
-
-
-The soldiers now ran at a comfortable pace, neither fast nor slow. They were lightly jogging, as they were recovering from battle fatigue and preparing for the next upcoming battle.
-
-
-“Hu… humans!?”
-
-
-“Enemy, kill them all!”
-
-
-The goblins began to put up a little bit of resistance, but it was almost meaningless at this stage.
-
-
-The soldiers, who were now veterans in combat and experience, already dominated the goblins in morale— add Weed’s arrows in, and it was a death sentence for the goblins.
-
-
-His level in archery rose quickly as he was actively engaged in battle, and his arrows were no longer aimed only at dying goblins.
-
-
-Weed now shot arrows in order to take the initiative, and when goblins were grouping to break through his men’s encircling net, he hindered their movement with warning shots. The main target though, was any goblin that threatened the life of one of his troops.
-
-
-Imagine that when a goblin’s spear is flying at you, your leader’s arrow bores a hole in its head, then you will feel saved and thus more loyal to him, wouldn't you? The same logic went for a number of soldiers whose life were saved by Weed at the last second.
-
-
-His troops hunted goblins in the most efficient and time-saving way possible now. They conquered the fourth floor faster than the third one, and even kept the same pace on the fifth one where they encountered a score of goblins in each battle.
-
-
-As the soldiers were mature in combat skills, giving them the status of veteran at a high level, they were capable of one-to-one combat with goblins.
-
-
-Nevertheless, Weed stuck to the old tactics of focusing on defense and outnumbering goblins. Some of his men got cocky and suggested to him that they drop it and, instead, fight goblins fairly on a level playing field.
-
-
-Weed stood his ground, though.
-
-
-“Do not consider that filthy goblins deserve fair play! Have you ever heard of a knight asking for a duel with monsters? If there were one, he would be stupid to defend his honor against monsters. We are fighting them in order to restore peace and protect the people of Rosenheim. Keep in mind that if you hesitate to put an end to a goblin because you are trying to be ethical, your comrades will pay the consequences!”
-
-
-Weed’s leadership controlled his small force of thirty men.
-
-
-One who fought a goblin alone was denied his share of recognition. He was later excused from the next battle. He was at first excited to stay out of danger, but soon realized that he had to sit back and watch his comrades leveling up.
-
-
-This example taught everyone a lesson, so the troops went as far as stabbing goblins in the back if it became available. They were brainwashed beyond a doubt by Weed’s silver tongue, which was now teaching these hardened soldiers, Infantry Combat Tactics 101.
-
-
-For less than a month, Weed led the punitive force to sweep over the Lair of Litvart. As a week was still left, they went back down to the third floor, and on the way back to the bottom, rooted out regenerated goblins.
-
-
-Once a battle began, the soldiers spread in wings, formed an encircling formation and slew their foe within a few breaths. As soon as the battle was over, they advanced to the next one.
-
+Uma vez que a batalha começasse, os soldados se espalhavam em asas, formando uma formação que circulava o inimigo, matando-os em pouco tempo. Assim que a batalha acabava, eles avançavam para a próxima.
 
 *Blitz*
 
+Nem um soldado morreu.
 
-Not one soldier died.
+Eles terminaram a operação de Busca e Destruição do Covil de Litvart com os níveis gerais das tropas atingindo cinquenta e sete e de Weed sessenta e dois. Considerando que o nível médio dos Denarions no Exército Rosenheim era de quarenta, o que Weed tinha realizado foi formidável.
 
+- Bom trabalho, Weed-nim. Você já fez um grande serviço para nós.
 
-They finished the Search and Destroy Operation of The Lair of the Litvart quest with the overall levels of the troops reaching fifty-seven, to Weed’s sixty-two. Considering that the average level of Denarions in the Rosenheim Army was forty, what Weed had accomplished was terrific.
+Sir Midvale não escondeu o fato de que ele ficou maravilhado com Weed.
 
-
-“Good job, Weed-nim. You have done a great service to us.”
-
-
-Sir Midvale didn’t hide the fact that he marveled at Weed.
-
-
-“If we had five more men of your courage and leadership, then Rosenheim kingdom wouldn’t ever be harassed by monsters. By the right of a royal knight, I hereby wish to appoint you Centurion. Would you accept my proposal, Weed-nim?”
-
+- Se nós tivéssemos mais cinco homens com a sua coragem e liderança, então o Reino de Rosenheim nunca seria incomodado pelos monstros. Pelo direito de um cavaleiro real, venho por este meio nomeá-lo Centurion. Você aceitaria a minha proposta, Weed-nim?
 
 *Ting*
-————————————————————————————————
-You have received a job offer!
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr><td><p align="center">Você recebeu uma oferta de emprego!</p>
+        <p align="center">Se você aceitar, você tomará a posição militar de Centurion no exército de Rosenheim. Você comandará cem soldados rasos. Você estará habilitado a receber treinamento regular e um pagamento mensal de três moedas de ouro. Você aceitará esta oferta de emprego?</p></td></tr>
+        </tbody>
+    </table>
+</div>
 
+Um oficial no comando de uma centena de soldados, um centurion é considerado um sub-cavaleiro que está qualificado a embarcar em um teste anual de promoção ao título de cavaleiro da Ordem Vermelha.
 
-If you accept it, you will take a military position of centurion in the Rosenheim army. You will command one hundred foot soldiers. You are entitled to receive regular training, and a monthly income of three gold. Will you accept his job offer?
+Se fossem outros usuários, eles teriam aceitado de bom grado, mas Weed não foi influenciado.
 
+- Eu estou contente de ouvir isso, Sir Midvale, mas isso é mais do que eu posso aceitar.
+- Freya proíbe! Diga-me se você quer benefícios adicionais, Weed-nim. Acredito que nós possamos encontrar um meio termo.
+- Sua oferta é... além do meu maior desejo, mas tudo que eu quero é paz e a prosperidade no Reino de Rosenheim. Como o meu coração me leva a viajar para muitos lugares e a ajudar muitos daqueles em necessidade, ainda parece muito cedo para me estabelecer. Se você tiver outra missão para destruir monstros após as colheitas do outono ou se Rosenheim for invadida, eu serei o primeiro a correr para você e oferecer os meus serviços para comandar soldados corajosos no exército Rosenheim.
+- Seu espírito é bem compreendido, Weed-nim. As portas do Exército Real estarão sempre abertas para você.
 
-An officer in command of a hundred troops, a centurion is deemed to be a sub-knight who is qualified to embark on an annual trial of promotion to knighthood in the Red Order.
-————————————————————————————————
+Sir Midvale retirou a sua proposta com um olhar satisfeito.
 
+- Agora que nós terminamos a missão, eu estou levando-os de volta para a Cidadela. Você se juntará a nós?
+- Eu tenho algo para ser feito aqui, senhor.
+- Eu posso perguntar quanto à natureza da sua incumbência?
 
- If it were other users, they would have accepted it willingly, but Weed wasn’t swayed.
+Sir Midvale olhou curioso.
 
+Nas quatro últimas semanas, Weed tinha feito trinta e duas porções de ensopado três vezes ao dia. Sua experiente habilidade culinária entregou excelentes refeições a tempo e Sir Midvale foi um dos beneficiários que tinham caído de amor por elas, formando uma sólida amizade com ele.
 
-“I’m glad to hear that, Sir Midvale, but this is more than I can accept.”
+- Eu tenho que cuidar de uma missão para o bem do conselheiro Rodriguez.
 
+Weed tinha assumido que a aniquilação dos goblins cumpriria a exigência da missão, mas foi um erro de cálculo grave de sua parte.
 
-“Freya forbids it! Tell me if you want additional benefits, Weed-nim. I believe we can find common ground.”
+O número de monstros que ele deveria destruir continuava em uma centena e estava sem qualquer sinal de queda. De qualquer forma, o número de goblins no covil era de centenas em cada andar, em uma estimativa conservadora.
 
+A missão de Rodriguez era para varrer todos os “monstros” no Covil de Litvart e os kobolds e goblins possivelmente não eram o alvo, porque estavam em número muito maior do que o de uma centena.
 
-“Your offer is… beyond my dearest wish. But all I want is peace and prosperity in Rosenheim Kingdom. As my heart leads me to travel to many places and to help the many of those in need, it still seems too early to settle down. If you have another mission to destroy monsters after the autumn harvests, or if Rosenheim is invaded, I will be the first one to run to you and offer my service to command courageous soldiers in the Rosenheim army.”
+- Entendi, Weed-nim. Uma missão dada pelo conselheiro... eu entendo. Eu estava ansioso para voltar para a Cidadela com você, mas parece que o destino nos direciona a separar nossos caminhos aqui. Como alternativa, eu lhe emprestarei Arse.
 
+- Arse (Arse significa bunda)? Bunda de quem?
+- Você já esqueceu o nome do cavalo que você montou aqui outro dia?
+- Não me diga que…
 
-“Your spirit is well understood, Weed-nim. The door to the Royal Army will be always open to you.”
+A cabeça de Weed subitamente se sentiu grande e pesada. O potro que o havia chutado com as duas patas traseiras e mordido a sua mão! Agora ele se lembrou que o nome do potro era Arse!
 
+Que nome vergonhoso para um suposto garanhão.
 
-Sir Midvale withdrew his proposal with a content look.
+- A viagem para a Cidadela lhe custará um tempo precioso sem um cavalo. Arse está a seu serviço.
+- Obrigado, mas dispenso, senhor. Eu não preciso de qualquer cavalo.
+- Eu só estou retornando seu favor, Weed-nim. Por favor, leve-o. Devolva-o ao estábulo real quando terminar a sua missão.
+- ...
 
+Sir Midvale se virou tão logo ele disse o que ele queria dizer. Sua atitude implicava que não havia mais nada para ouvir e que o caso estava encerrado. O cavaleiro tinha boas intenções, pelo bem de Weed, mas este não queria nada disso. Como no mundo ele poderia ficar com tal potro selvagem?
 
-“Now that we have finished the quest, I am leading them back to the Citadel. Will you join us?”
+Weed absolutamente odiava este pé no saco, mas ele teve que aceitá-lo ou ele faria o cavaleiro passar um vexame mais uma vez.
 
+- Comandante, nós sentiremos a sua falta!
+- Estamos todos indo para casa vivos graças a você comandante!
+- Por favor, visite a minha casa quando chegar a Cidadela.
+- Eu opero uma pousada na avenida central. Você é sempre bem-vindo.
+- Minha família possui um restaurante. Minha esposa lhe servirá uma deliciosa refeição, embora não seja tão boa quanto a sua!
 
-“I have something to be done here, sir.”
+Os soldados vieram até Weed dizendo adeus.
 
+Como veteranos de nível elevado, eles provavelmente serão promovidos após o seu regresso, pelo menos, a Denarions enquanto um ou dois soldados, que alcançaram os melhores resultados, poderiam almejar uma posição melhor.
 
-“May I inquire as to its nature?” Sir Midvale looked curious.
+Weed apertou a mão de cada soldado que costumava ser o seu subordinado. Sua mão estava quente e seu aperto foi realizado por alguns segundos.
 
+- Vocês realmente têm que partir?
+- Eu quero ficar aqui com você, comandante, mas eu sou um soldado orgulhoso do exército de Rosenheim. Devo retornar ao meu regimento.
+- Comandante, eu sentirei a sua falta!
 
-For the last four weeks, Weed had made thirty-two servings of stew three times a day. His experienced cooking skill delivered great food on time, and Sir Midvale was one of the beneficiaries who had fallen in love with it, forming a solid friendship with him.
+Os olhos de Weed brilharam sombriamente com relutância. Que problemas que ele tinha atravessado para treinar aqueles soldados! Ele foi o primeiro a ter crédito por transformar os outrora novos recrutas, de nível vinte e poucos, em veteranos endurecidos com habilidades de combate. Agora Weed sentiu como se eles estivessem sido roubados dele pelo reino.
 
+- Todo mundo, boa viagem!
 
-“I must take care of a quest for the sake of Counselor Rodriguez.”
+Weed disse.
 
+- Boa sorte, comandante.
+- Comandante, você deve parar na minha casa mais tarde!
 
-Weed had assumed that the annihilation of the goblins would meet the quest’s requirement, but it was a serious miscalculation on his part.
-
-
-The numbers of monsters that he was supposed to destroy was still a hundred without any sign of decrease. Anyway, the number of goblins in the lair was hundreds on each floor, at a conservative estimate.
-
-
-Rodriguez’s quest was to sweep away all the ‘monsters’ in the Lair of Litvart, and the kobolds and goblins were not possibly the target because as they greatly outnumbered a hundred.
-
-
-“I see, Weed-nim. A quest by the Counselor… I understand. I was looking forward to returning to the Citadel with you, but it seems destiny directs us to part our ways here. Instead, I will lend you Arse.”
-
-
-“Arse? Whose arse?”
-
-
-“Have you already forgotten the name of the horse you rode here the other day?”
-
-
-“Don’t tell me…”
-
-
-Weed’s head suddenly felt thick and heavy. The colt that had kicked him with two rear legs and bit his hand! Now he remembered the colt’s name was Arse!
-
-
-What a shameful name for a would-be stallion.
-
-
-“The trip to the Citadel will cost you valuable time without a horse. Arse is at your service.”
-
-
-“Thank you, but no thank you, sir. I don’t need any horse.”
-
-
-“I am only returning your favor, Weed-nim. Please take it. Return it to the Royal Stable when you finish your quest.”
-
-
-“…”
-
-
-Sir Midvale turned as soon as he delivered what he wanted to say. His attitude implied that there was nothing else to hear, case closed. The knight meant well for Weed’s sake, but he wanted none of it. How in the world could he stand such a wild colt?
-
-
-Weed absolutely hated this pain in the butt, but he had to accept it, or he would make the royal knight lose face once again.
-
-
-“Commander, we'll miss you!”
-
-
-“We're all going home alive, thanks to you Commander!"
-
-
-“Please visit my place when you come to the Citadel.”
-
-
-“I run an inn in the central avenue. You're always welcome.”
-
-
-“My family owns a restaurant. My wife will serve you a delicious meal, though it’s not as good as yours!”
-
-
-The soldiers came up to Weed and said farewell.
-
-
-As high-level veterans, they would probably be promoted upon their return, at least, to Denarions while one or two soldiers who score the best could look for a better position.
-
-
-Weed shook the hand of every soldier who used to be his subordinate. His hand was warm, and its grip held on for a few seconds.
-
-
-“Do you really have to leave?”
-
-
-“I want to stay here with you, Commander, but I’m a proud soldier of Rosenheim Army. I must return to my regiment.”
-
-
-“Commander, I will miss you!”
-
-
-Weed’s eyes shone darkly with reluctance. What troubles he had gone through to train those soldiers! He was the first to have credit for transforming once new recruits at level twenty something into hardened veterans in combat skills. Now Weed felt as though he were being robbed of them by the kingdom.
-
-
-“Everyone, safe trip!” Weed said.
-
-
-“Godspeed, Commander.”
-
-
-“Commander, you must stop by in my place later!”
-
-After reluctant farewells with his former troops, Weed was left alone.
+Depois de despedidas relutantes com suas tropas antigas, Weed foi deixado sozinho.
