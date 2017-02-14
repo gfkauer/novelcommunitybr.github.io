@@ -18,1014 +18,677 @@ revisor: Giovane Kauer
 editor: Giovane Kauer
 fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-1-chapter-10.html
 ---
-The punitive force bound for Village Baran!
+A força punitiva com destino até a Aldeia Baran!
 
+Localizado na fronteira da civilização humana, o Reino de Rosenheim estava cercado por monstros.
 
-Located on the borderline of human civilization, Rosenheim Kingdom was surrounded by monsters.
+O reino fortificou muralhas e organizou milícias em cidades da fronteira, mas os banquetes anuais dos goblins e orcs, que invadiam para saquear as colheitas do outono, ainda estavam sem controle, o que dava à Corte Real muita dor de cabeça.
 
+A missão da força punitiva atribuída à Darius era uma missão em grupo para assumir o controle da Aldeia Baran que havia caído nas mãos dos lizardmen. Aqueles que se juntaram a força punitiva compartilhavam a mesma missão e ela era composta de três centenas de usuários que expulsariam os lizardmen para fora da aldeia.
 
-The kingdom fortified the walls and organized militias in frontier towns, but the annual feasts by goblins and Orcs that raided to pillage autumn harvests were still rampant, which gave the royal court a headache.
+Este tópico estava sendo discutido ao redor da Cidadela de Serabourg pelos últimos dias. Mesmo os usuários de outros reinos vieram em massa para a Cidadela para se juntar a missão, tornando ela ainda mais lotada.
 
+Um membro que fizesse parte da missão receberia experiência, para não mencionar a fama em reconhecimento do seu serviço para Reino de Rosenheim. Todo mundo estava falando sobre isso, mas o assunto não tinha chego até Weed já que ele estava ocupado esculpindo estátuas em sua barraca de rua.
 
-The mission of the punitive force assigned to Darius was a group quest to take over Village Baran that had fallen into the hands of the lizardmen. Those who joined the punitive force shared the same quest, and they, composed of three hundred users, would come to drive the lizardmen out of the village.
+Weed concordou em se reunir com seus antigos colegas primeiro. Eles o estavam esperando no centro da cidade.
 
+- Prazer em vê-lo novamente, Weed-nim.
+- Uau, quanto tempo sem te ver!
 
-This topic had been rattling around the Citadel of Serabourg for the last few days. Even users from other kingdoms were pouring into the Citadel to join the quest, making it even more crowded.
+Surka e Irene cumprimentaram Weed calorosamente. As roupas delas tinham mudado muito durante a ausência de Weed.
 
+Surka usava uma bela túnica e Irene uma vestimenta clerical de cor branco-neve. Para Romuna, a maga, era um robe preto padrão.
 
-A member who took part in the quest was given EXPs, not to mention fame, in recognition of his service to Rosenheim Kingdom. Everyone was talking about it, yet it had escaped Weed as he was busy carving statues at his street stall.
+Elas estavam surpresas de que Weed ainda não tinha mudado a sua roupa.
 
+- Weed-nim, onde você esteve?
+- É uma longa história...
 
-Weed agreed to meet his former teammates first. They were waiting downtown.
+Antes que Weed pudesse responder totalmente, Surka o cortou e disse:
 
+- Eu entendo. Você não entrou durante semanas, certo?
+- ...
+- Oh, você vai juntar-se a missão da força punitiva? Por favor, venha com a gente, Weed-nim!
 
-“Nice to see you again, Weed-nim.”
+Romuna enganchou o seu braço ao redor do braço de Weed como se fossem um casal.
 
+Pale, o ranger os observava com um olhar ferido que enviou um arrepio para a espinha de Weed. Ele já havia sentido que Pale estava secretamente cortejando Romuna.
 
-“Wow, long time no see!”
+Deslizando seu braço refém para longe do aperto firme de Romuna, Weed perguntou:
 
+- Qual é o nível de vocês agora?
+- Eu estou no nível quarenta e oito. Eu morri cinco ou seis vezes em batalha, então eu sou o menor nível entre nós.
 
-Surka and Irene welcomed Weed warmly. Their outfits had changed greatly during his absence.
+Surka disse timidamente.
 
+- Eu estou no cinquenta e um - Irene disse.
+- O mesmo aqui - disse Romuna.
+- Eu estou no nível cinquenta e três.
 
-Surka wore a fine tunic, and Irene a snow-white clerical vestment. For Romuna the mage, it was a standard black robe.
+Pale disse, ainda perturbado com a cena anterior.
 
+Weed tinha sido informado que seus companheiros eram todos amigos na realidade, então eles sempre caçavam monstros juntos, nivelando assim a um ritmo idêntico. Ainda assim, era evidente que eles tinham passado por várias temporadas de caça sérias, pois tinham subido de nível mais rápido do que outros usuários típicos.
 
-They were surprised that Weed had still not changed his outfit.
+Eles confidenciaram a Weed que eles haviam se retirado da faculdade temporariamente. Embora eles não tenham lhe contado mais, ele supôs que eles tinham, desde então, jogado Royal Road quase sem parar, sem dormir, enjaulados em seus quartos escuros como indivíduos isolados, socialmente reclusos.
 
+Pale logo estabeleceu que Weed viria junto com eles para se juntarem à missão da força punitiva:
 
-“Weed-nim, where have you been?”
+- Eles informaram que a exigência de nível era de trinta ou acima. Esta missão dá um bônus na experiência ganha. Você também pode ganhar alguma fama.
 
+A força punitiva estava programada para encontrar inúmeros tipos de monstros. O alvo principal eram os Lizardmen que ocupavam a Aldeia Baran, mas as chances eram de que eles enfrentariam goblins relativamente menos perigosos.
 
-“It’s a long story…”
+- A missão é um pouco arriscada, mas nós podemos pedir ajuda dos NPCs se houver uma emergência. Eu agora estou doente e cansado de aranhas e bandidos.
 
+Pale fez uma cara horrorizada.
 
-Before Weed could answer fully, Surka cut in and said,
+Enquanto Weed estava fora, seus companheiros de equipe tinham caçado monstros em uma masmorra nas proximidades. Era uma masmorra de aranhas, onde as aranhas vermelhas e aracnídeos venenosos estavam à espreita por trás de cada estalactite. Veneno era curado por Irene, mas Pale ficou traumatizado por ser preso em uma teia pegajosa de aranha, lutando pateticamente contra aranhas gigantes que babavam sobre ele.
 
+Weed concordou, entendendo exatamente o que Pale havia passado. Ele tinha tido o seu próprio momento difícil ao esmagar vermes gigantes:
 
-“I understand. You haven’t signed in for weeks, right?”
+- Não seria tão ruim participar na força punitiva.
+- Nós damos as boas-vindas a você, Weed-nim. A propósito…
+- Sim?
+- Você achou a classe?
 
+Até a classe dele era uma preocupação, pois Weed havia estado indeciso da última vez que eles formaram um grupo para caçar. Eles tinham, até mesmo, feito uma aposta particular de quando ele conseguiria uma.
 
-“…”
+- Eu tenho uma classe, mas….
+- Qual classe é? Diga-nos.
 
+Irene, geralmente reservada, se aproximou de Weed com os olhos brilhando. Como uma sacerdotisa encarregada da cura e dos buffs que apoiavam os outros colegas de grupo, ela deveria saber sobre a classe de cada companheiro de equipe.
 
-“Oh, are you going to join the punitive force quest? Please come with us, Weed-nim!”
+Há tantas divisões apenas para a classe de guerreiro, para não mencionar outros ramos das classes de combate que se especializam em diferentes armas e estilos de combate. Tipos ‘tanker’ são fortes na defesa e vitalidade e causam danos com o poder de ataque e força.
 
+No caso de Surka e Pale, eles pertenciam às classes de suporte com maior agilidade, mas menos força e vitalidade em comparação com outros lutadores corpo a corpo.
 
-Romuna slipped her arm into Weed’s as if they were a couple.
+Além disso, paladinos, apelidados de cavaleiros sagrados, podiam usar o poder divino, incluindo Healing Hand para curar a si próprios, graças à estatística exclusiva de fé que eles possuíam.
 
+Weed coçou a sua cabeça:
 
-Pale the ranger was watching them with a wounded look that sent a chill down Weed’s spine. He already sensed that Pale was secretly courting Romuna.
+- Eu sou um escultor.
+- Uau, isso é legal! Você escolheu uma classe artística.
 
+Surka riu brilhantemente, mas o resto parecia menos satisfeito. O preconceito a um escultor, que estava associado com a fraqueza, estava profundamente gravado nos seus subconscientes.
 
-Slipping his hostage arm away from Romuna’s firm grip, Weed asked,
+Na verdade, a classe de escultor é uma das classes de produção que não tinham nada a ver com habilidades de combate, por isso ela era privada de quaisquer efeitos sobre a força e vitalidade.
 
+Ainda assim, eles abraçaram Weed como um dos seus próprios do fundo de seus corações. Eles não eram insensíveis o suficiente para virar as costas para seu ex-colega de grupo só porque ele havia se convertido para uma das classes menos desejáveis.
 
-“What’s your level now?”
+- Nós estávamos a caminho para nos juntarmos a Sir Darius na força punitiva. Venha conosco - Pale disse.
+- Mas, você vê, eu sou um escultor - Weed disse.
+- Não se preocupe. Nós podemos compensar no que lhe falta. Nós devemos nos apressar antes que alguém preencha o espaço vazio. O tamanho da força punitiva é limitado a trezentos usuários e duzentos soldados NPCs participantes em ordem de chegada - Pale disse.
+- Vamos lá, Weed-nim - Romuna disse.
+- Se você acha que você não está qualificado para uma vaga porque você é um escultor, nós lhe ajudaremos. Por favor? - Surka disse.
 
+Agora que Weed tinha divulgado a sua classe, ele ficou sem uma desculpa para dizer não.
 
-“I’m level forty-eight. I died five or six times in battles, so I’m the lowest among us,”
+As mulheres sentiram-se tão maternais em relação a Weed que elas não poderiam abandoná-lo, mesmo que elas pensassem que ele era fraco. Além disso, Pale quase implorou para que ele se juntasse a missão da força punitiva para pagar o que Weed havia feito por eles anteriormente.
 
+Persuadido pela persistência deles, Weed dirigiu-se para onde as tropas de Darius estavam estacionadas.
 
-Surka said sheepishly.
+***
 
+Duque Kanus realizou uma reunião ordinária para os cavaleiros. Todos os cavaleiros que estavam dentro da Cidadela, sem exceção, tinham sido chamados a participar. Na reunião, eles discutiram sobre como expulsar os monstros de Rosenheim, um plano de recrutamento e outras questões militares urgentes.
 
-“I’m fifty-one,” Irene said.
+- Você tem feito um excelente trabalho, Lorde Midvale, e os soldados que lhe atribuímos foram treinados com competência. Eu estou impressionado que os níveis de todos ultrapassaram o cinquenta - disse Duque Kanus.
+- Isso não foi obra minha, Vossa Excelência - disse Sir Midvale.
+- Hã? Eu pessoalmente lhe confiei esta tarefa. Diga-me o que aconteceu. disse Duque Kanus.
+- Se você insiste, Vossa Excelência.
 
+Sir Midvale disse e, em seguida, relatou em detalhes os eventos que aconteceram no Covil de Litvart.
 
-“Same here,” Romuna said.
+- Hmm... entendo.
 
+Duque Kanus disse enquanto esfregava o bem cuidado bigode.
 
-“I’m level fifty-three,” Pale said still disturbed by the scene.
+Os outros cavaleiros também pareciam surpresos de que um estrangeiro, diferente de um nativo de Versalhes, tinha feito o trabalho tão bem. Os NPCs reconheciam a si mesmos como moradores nascidos no Continente de Versalhes, bem como que os usuários são homens livres enviados por Gaea, a Profeta Sagrada. Eles tinham emoções, falavam e agiam como pessoas reais graças à sua inteligência artificial programada.
 
+- Um homem bom, de fato. Lorde Midvale, por que você não o recrutou para o Exército de Rosenheim? - Duque Kanus perguntou.
+- Eu pedi para ele ser um oficial militar por duas vezes, mas ele disse que queria manter a sua liberdade e matar monstros por sua própria vontade - Sir Midvale disse.
+- Ele é, de fato, um homem livre - Duke Kanus disse impressionado.
+- Sim, Vossa Excelência. Embora ele não pertença ao nosso reino, parece-me que ele é um homem que deve dedicar seu tempo novamente para Rosenheim - disse Sir Midvale.
+- Se você diz, nós veremos a espada dele ao nosso lado novamente algum dia.
 
-Weed had learned that his teammates were all friends in reality, so they had always hunted monsters together, thus leveling up at an identical pace. Still, it was evident that they had been on serious hunting sprees because they had leveled up faster than other typical users.
+Duque Kanus disse e deixou o assunto sobre o Covil de Litvart, indo para o próximo.
 
+***
 
-They confided to Weed that they had withdrawn from college temporarily. Though they didn’t tell him more, he guessed that they had since then have played Royal Road almost non-stop, without sleep, caged in their dark rooms like isolated, socially reclusive individuals.
+No caminho para Darius, Weed parou em uma mercearia.
 
+- Weed-nim, por que parar aqui?
+- Você verá.
 
-Pale soon established that Weed would come along with them to join the punitive force quest.
+A mercearia estava lotada com muitos clientes. Eles eram em sua maioria garotos de entrega de restaurantes na Cidadela.
 
+Um garoto, vestido com o que se assemelhava ser a vestimenta de um mensageiro, gritou:
 
-“They posted that the level requirement was thirty and above. This quest gives a premium on earned experience. You can also win some fame.”
+- Eu quero peitos frescos!
+- Puhaha, você está no lugar errado, jovem tigre. Um bordel é na próxima esquina da rua e eu espero que você tenha uma identificação com foto - disse o lojista.
+- Droga. Eu quero peitos de frango!
 
+O rapaz fez uma careta, mas o lojista, liso como uma língua de cobra, apenas sorriu.
 
-The punitive force was scheduled to encounter numerous types of monsters. The main target was the lizardmen that occupied Baran Village, but chances were that they would face relatively less dangerous goblins.
+- Somente os peitos de frango? Você também não precisa de ovos?
+- Oops, eu esqueci... Eu também preciso de ovos.
+- Fique aí. Eu lhe darei os ovos quando as galinhas botarem.
+- E sobre as galinhas?
+- Quando os ovos chocarem, senhor.
 
+Irene riu com a conversa entre o lojista e o entregador.
 
-“The mission is a little risky, but we can call for help from NPCs if there’s an emergency. I’m now sick and tired of spiders and bandits,” Pale made an appalled face.
+- Criança engraçada.
+- Eu acho que ele conseguiu um emprego em um restaurante porque ele não pode sair da Cidadela pelas primeiras quatro semanas.
+- Má escolha. Por que ele decidiu trabalhar em um restaurante onde não há muito a aprender?
 
+Aos olhos de Pale, não era sábio fazer uma carreira em um restaurante.
 
-While Weed was away, his teammates had hunted monsters in a nearby dungeon. It was the spider dungeon, where red spiders and poisonous arachnids were lurking behind every stalactite. Poison was taken care of by Irene, but Pale had been traumatized by being fastened to a sticky spider net, struggling pathetically against saliva-dripping giant spiders.
+Iniciantes eram aconselhados a tomar missões que pagam bem ou, no caso de aspirantes a feiticeiros, a ler e aprender muitas coisas em uma biblioteca. Isso é para que eles possam comprar armas e equipamentos mais avançados, caçar monstros mais facilmente e subir de nível mais rápido a longo prazo.
 
+Weed, no entanto, discordou da opinião de Pale:
 
-Weed nodded, understanding exactly what Pale had been through. He had had a tough time of his own crushing gigantic worms. “It wouldn’t be so bad to take part in the punitive force.”
+- Se você trabalhar em um restaurante, você pode aprender a habilidade culinária. Vale a pena - Weed disse.
+- Eu sei, mas de que adianta aprender uma habilidade inútil como cozinhar? Se você comprar o pão de centeio que é processado pelo feitiço da conservação de alimentos, ele durará um mês - Pale disse.
+- Ele tem razão. Por que nós precisamos aprender a cozinhar quando nós podemos aumentar o fator de satisfação com facilidade? - Surka perguntou.
 
+Para Weed, Pale e Surka soavam estúpidos ao ponto da infantilidade. Eles subestimavam a habilidade culinária tanto quanto eles haviam desprezado a maestria escultural, sem saber que impacto grandes refeições poderiam ter sobre os atributos.
 
-“We welcome you, Weed-nim. By the way…”
+*Essas pessoas não sabem como é uma vida pobre.*
 
+Weed murmurou para si mesmo.
 
-“Yes?”
+Os olhos de Weed escureceram. Aqueles que realmente passaram por momentos de dificuldade financeira, não subestimam a importância da habilidade culinária. Imagine que você seja forçado a comer apenas pão de centeio quando você for caçar monstros no campo. Se você for um novato de nível baixo, quase sem dinheiro, você suportará porque você não tem alternativa. Porém, uma vez que o seu nível atinge um ponto em que você pode se dar ao luxo de comprar mais comida deliciosa, a sua língua rejeitará automaticamente o pão de centeio.
 
+Na verdade, mesmo Pale nem sempre colocava o pão de centeio em sua boca. Quando se trata do essencial, as pessoas são as mesmas. Elas têm a mesma lista de desejos e quando eles a cumprem, ela crescerá mais longa por si só. Em particular, as necessidades básicas de moradia, roupas e alimentos são inseparáveis da vida.
 
-“Did you find the class?”
+Além disso, a habilidade culinária funciona na vida real. Conforme a habilidade culinária amadurece, ela lhe dá uma lista de receitas disponíveis com base nos tipos de ingredientes que você tem agora. Você pode tentar uma receita nova no jogo virtual e ela ficará na sua cabeça depois que sair do jogo. Se você dominar a habilidade culinária, pelo menos, ao ponto de um estágio avançado, você nunca terá que se preocupar sobre achar um emprego, porque qualquer restaurante irá contratá-lo de braços abertos.
 
+Em outras palavras, isso significa que a realidade é tão exatamente compreendida tal como ela é em um mundo virtual. Royal Road é como um jogo de realidade virtual detalhado e realista, a tal ponto que o que é aprendido no jogo virtual também pode ser aplicado na realidade.
 
-As far as the class was concerned, Weed had been undecided when he had been teamed with them in hunting sprees. They even had a private gamble on when he would get one.
+É claro, a maioria dos usuários que não se incomodam em aprender habilidades artesanais tão amplamente quanto Weed nunca compreenderão o que elas realmente são até eles experimentarem com as suas próprias mãos.
 
+*Eu me pergunto se eles nunca vão querer experimentar, de qualquer maneira*
 
-“I got a class, but—”
+Weed antecipou que o valor da habilidade culinária ficaria maior conforme os usuários passassem do nível cem.
 
+As refeições que Weed preparava com a habilidade culinária básica tinham um efeito bônus temporário sobre a vida, então o que seria quando um mestre apresentasse a sua habilidade?
 
-“What class is it? Tell us.”
+*Eu tenho certeza que até mesmo um casal feliz se mataria para saborear uma migalha da comida feita por tal habilidade.*
 
+Não só o sabor dos alimentos, mas também o bônus suplementar seria espetacular.
 
-Irene, usually reserved, approached Weed with twinkling eyes. As a priestess in charge of healing and buffs that supported the other teammates, she was supposed to know every teammate’s class.
+Duro, insípido, o pão de centeio que custava três moedas de cobre vs. a culinária francesa que tem gosto de céu e aumenta várias estatísticas! O concurso acaba antes de começar.
 
+Weed imaginou que refeições preparadas por um grande chef custariam pilhas de ouro para saborear a comida.
 
-There are so many divisions for the warrior class alone, not to mention other branches of the combative classes that specialize in different weapons and styles of combat. Tanker types are heavy on defense and vitality, and deals damage types on attack power and strength.
+Ele pensou que o valor das estátuas permaneceria superficial, mas que a habilidade culinária, contanto que ela fosse uma parte integrante da vida, nunca diminuiria a sua influência na vida diária.
 
+Os rankers ansiariam pela melhor comida que eles pudessem encontrar e o valor de um cozinheiro profissional atingiria o topo.
 
-In the case of Surka and Pale, they belonged to supportive classes with higher agility, but less strength and vitality compared to other melee fighters.
+*Bem, algumas pessoas poderiam ter previsto isso antes. Cozinheiros estão entre os profissionais mais zelosos em guardar os seus segredos. Eles devem estar formulando suas próprias receitas e melhorando a sua habilidade culinária.*
 
+Weed virou-se para seus companheiros com uma cara séria e disse:
 
-Furthermore, Paladins, nicknamed holy knights, can use divine power, including Healing Hand, for self-healing, thanks to their exclusive stat of faith.
+- Eu não posso negar-lhe a escolha de desdenhar as habilidades artesanais como um todo, já que as habilidades de combate são importantes. Porém, eu acho que as habilidades artesanais poderiam acabar sendo as habilidades mais necessárias no futuro. Todas as habilidades artesanais têm algo em comum e elas também ajudam na capacidade de combate de um personagem. Eu sugiro que você aprenda a habilidade culinária. Ela é essencial para a sua vida diária.
+- ...
+- Eu sinto muito.
 
+Surka disse em voz baixa.
 
-Weed scratched his head. “I’m a sculptor.”
+- Eu esqueci que você era um escultor e eu estava falando impensadamente mal dos artesãos. Eu lamento muito - Pale disse.
 
+Surka, Pale e Irene estavam vermelhos de vergonha.
 
-“Wow, thats cool! You chose an artist class.” Surka laughed brightly, but the rest looked less than delighted. The prejudice that associated a sculptor with weakness was deeply engraved in their subconscious.
+Eles pensaram que Weed estivesse com raiva porque eles tinham menosprezado a habilidade culinária, uma das habilidades artesanais, direto na sua cara.
 
+- Não foi isso o que eu quis dizer. Vocês me entenderam errado.
 
-In fact, the sculptor class is one of the craft classes that had nothing to do with combat skills, so it is deprived of any effects on strength and vitality.
+Weed disse enquanto sacudia a cabeça.
 
+Não importa o quanto ele mostrasse para eles, eles não veriam até que sentissem a necessidade de ver a habilidade.
 
-Still, they embraced Weed as one of their own from the bottom of their hearts. They were not heartless enough to turn their backs on their former brother-in-arms just because he had converted to one of the least desirable classes.
+A mercearia tinha uma atmosfera amigável, uma vez que divertia amplamente os clientes regulares.
 
+Weed atravessou pelos clientes e caminhou até o caixa.
 
-“We were on our way to Sir Darius to join the punitive force. Come with us,” Pale said.
+- Olá - disse Weed.
+- Olá. Eu acabei de ouvi-lo. Você tem a ideia certa sobre a habilidade culinária! - disse o lojista.
+- Obrigado.
+- Seu rosto parece familiar para mim...
+- Sim. Eu vim aqui para fazer compras alguns dias atrás.
 
+Quando Weed melhorou a sua maestria escultural e a habilidade culinária ao mesmo tempo, ele tinha visitado apenas esta loja para comprar gêneros alimentícios em atacado, por uma razão simples: o preço baixo.
 
-“But, you see, I’m a sculptor,” Weed said.
+A maneira mais fácil de maximizar os lucros é sempre minimizar os custos através da compra de materiais em grandes quantidades de uma só vez para conseguir com um desconto. Weed sempre tinha usado a loja para as suas compras, mas foi a primeira vez que ele falou com o lojista.
 
+- Bem. Obrigado por visitar a minha loja. A propósito, você está tomando o caminho de um cozinheiro agora?
+- Não. A minha classe principal não é a de um cozinheiro, mas eu sei o valor da habilidade de cozinhar.
+- Bom. Então, o que eu posso fazer por você?
 
-“Don’t worry. We can make up for what you’re missing. We should hurry before someone else fills the empty slot. The size of the punitive force is limited to three hundred users and two hundred NPC soldier participants in the order of arrival,” Pale said.
+Os olhos do lojista brilharam, avaliando Weed.
 
+Ele já havia coletado informações de que, a partir da conversa com o menino da entrega, o lojista era um usuário.
 
-“Let’s go, Weed-nim,” Romuna said.
+- Especiarias e molhos - disse Weed.
+- Hmm, nós temos muitos tipos diferentes de especiarias - disse o lojista.
+- Há sal, açúcar e pimenta, e eu posso mostrar-lhe especiarias locais extraordinárias, tais como especiarias da terra dos elfos e garrafas de seiva espremida de algumas plantas do norte.
 
+No vasto continente, a abundância de itens com gostos distintos era colhida pelos agricultores locais e comercializada através das caravanas.
 
-“If you think you aren’t qualified for a spot ‘cause you’re a sculptor, we will help you out. Please?” Surka said.
+- Eu não preciso de especiarias extraordinárias. Apenas as básicas.
+- Ótimo. Somente os tolos querem impressionar os outros procurando algo especial. E sobre a qualidade?
+- É claro, eu quero a melhor.
+- Quanto?
 
+Weed contou quanto dinheiro ele tinha em seus bolsos. Ele não tinha vendido seus vários tipos de minérios ainda, exceto a prata que ele tinha recolhido dos vermes rainhas.
 
-Now that Weed had disclosed his class, he was left without an excuse to say no.
+Ele estava guardando eles para um uso futuro, quando ele melhorasse a sua habilidade de reparação o suficiente para permitir-lhe transformar os minérios.
 
+- Eu tenho vinte e sete moedas de ouro agora. Eu quero comprar esse tanto - Weed disse.
+- OK. Eu lhe darei algum extra - disse o lojista.
 
-The women felt so maternal toward Weed that they could not abandon him, even though they thought he was weak, and Pale almost begged him to join the punitive force quest to repay what he had done for them before.
+Quando os companheiros de Weed ouviram a conversa entre ele e o lojista, eles sentiram uma compreensão mútua e respeito fluindo entre eles como se velhos amigos tivessem se reunido para beber.
 
+Na verdade, o lojista era um usuário que já tinha tomado o caminho da habilidade culinária. Quando viu Weed, ele percebeu que um forte rival da última onda usuários tinha aparecido.
 
-Persuaded by their persistence, Weed headed for where Darius’s troops were stationed.
+Weed também reconheceu o lojista como um precursor no campo da culinária, de modo que eles não precisavam dizer uma palavra. Apenas o contato visual lhes disse o suficiente.
 
+Ele arrumou as especiarias e molhos que havia comprado da mercearia em sua mochila.
 
-*****
+Uma vez que ele estava satisfeito de estar totalmente preparado para uma nova jornada, ele dirigiu-se para o campo da força punitiva de Darius com os seus companheiros.
 
+***
 
-Duke Kanus held a regular meeting for the knights. All the knights who were within the Citadel, without exception, had been called to attend it. In the meeting, they discussed how to drive monsters out of Rosenheim, a conscription plan and other urgent military issues.
+A força punitiva ligada à Aldeia Baran já era o assunto da cidade, por isso havia muitos usuários que estavam ansiosos para se juntar à missão.
 
+Darius se sentou em uma cadeira pequena, enquanto entrevistava os candidatos para a missão.
 
-“You have done an excellent job, Lord Midvale, and the soldiers whom you were assigned are trained competently. I’m impressed that their levels all exceed fifty,” Duke Kanus said.
+- Próximo, por favor.
+- Olá, eu sou Cochran, arqueiro de nível 68. Eu sou bom em tiro múltiplo e a minha arma é o Lasante’s Bow.
+- Aprovado.
 
+Os próximos da fila eram o grupo de Weed com Pale em primeiro plano, o qual andou até Darius ansiosamente.
 
-“That was not my doing, your Excellency,” Sir Midvale said.
+Pale falou como representante de seu grupo:
 
+- Nós todos estamos no mesmo grupo. Níveis nos cinquenta. Uma sacerdotisa, um mago de batalha no elemento fogo, um ranger, um monge e...
 
-“Huh? I personally entrusted this task to you. Tell me what happened,” Duke Kanus said.
+Pale gaguejou antes de introduzir Weed porque ele tinha medo de que, quando fosse mencionado que Weed era um escultor, Darius ficaria bravo e os rejeitaria completamente.
 
+- Hmm, você tem um grupo equilibrado. Ótimo. E ele é...
 
-“If you insist, Your Excellency,” Sir Midvale said. Lord Midvale then reported in detail the events that had taken place in the Lair of Litvart.
+Darius viu Weed e perguntou para Pale:
 
+- Ele é parte de seu grupo, também?
+- Sim.
+- Total de cinco. Isso se encaixa exatamente nos espaços vazios deixados no meu exército.
+- Então...
+- Vocês se juntarão a missão para retomar a Aldeia Baran?
 
-“Hmm… I see.” Duke Kanus said as he rubbed his well-groomed mustache.
-
-
-Other knights also looked taken aback that a foreigner, other than a Versailles native, had done the job so well. The NPCs recognize themselves as locals born on the Versailles Continent, and that users are freedmen sent by Gaea the Holy Seer. They had emotions, spoke and acted like real people, thanks to their programmed artificial intelligence.
-
-
-“A fine man, indeed. Lord Midvale, why didn’t you recruit him to the Rosenheim Army?” Duke Kanus asked.
-
-
-“I asked him to be a military officer twice, but he said he wanted to retain his liberty and slay monsters at his own will,” Sir Midvale said.
-
-
-“A freedman, he is,” Duke Kanus said, impressed.
-
-
-“Yes, Your Excellency. Though he does not belong to our Kingdom, it seems to me that he is a man who shall devote time again to Rosenheim,” Sir Midvale said.
-
-
-“If you say so, we’ll see his sword by our side again someday,” Duke Kanus said and dropped the subject about the Lair of Litvart and moved on to the next one.
-
-
-*****
-
-
-On the way to Darius, Weed stopped by a grocery store.
-
-
-“Weed-nim, why do we stop here?”
-
-
-“You’ll see.”
-
-
-The grocery store was crowded with lots of customers. They were mostly delivery boys from restaurants in the Citadel.
-
-
-A boy, clad in what resembled a messenger’s attire, yelled,
-
-
-“I want fresh breasts!”
-
-
-“Puhaha, you are at the wrong place, young tiger. A brothel is at the next corner down the street and I hope you’ve got a photo ID,” the shopkeeper said.
-
-
-“Shoot. I want chicken breasts!”
-
-
-The boy grimaced. But the shopkeeper, oily as a snake’s tongue, was only smiling.
-
-
-“Only chicken breasts? Don’t you need eggs, too?”
-
-
-“Oops, I forgot… I need eggs, too.”
-
-
-“Stay put. I’ll give you eggs when hens lay them.”
-
-
-“How about chickens?”
-
-
-“When the eggs hatch, sir.”
-
-
-Irene giggled at the exchange between the shopkeeper and the delivery boy.
-
-
-“Funny kid.”
-
-
-“I guess he got a job in a restaurant because he can’t leave the Citadel for the first four weeks.”
-
-
-“Bad choice. Why did he decide to work at a restaurant where there’s nothing much to learn?”
-
-
-In Pale’s eyes, it wasn’t wise to make a career in a restaurant.
-
-
-Newbies are advised to take quests that pay well or, in the case of spell-casting wannabes, to read and learn many things in a library. This is so they can buy more advanced weapons and gear, hunt monsters more easily and level up faster in the long run.
-
-
-Weed disagreed with Pale’s opinion, though. “If you work in a restaurant, you can learn the cooking skill. It pays off,” Weed said.
-
-
-“I know, but what’s the point of learning a useless skill like cooking? If you buy rye bread that is processed by the food preservation spell, it will last for a month,” Pale said.
-
-
-“He’s right. Why do we need to learn how to cook when we can raise the satisfaction factor easily?” Surka asked.
-
-
-To Weed, Pale and Surka sounded stupid to the point of childishness. They underestimated the cooking skill just as much as they had looked down upon sculpture mastery, not knowing that what impact great meals could have on the stats.
-
-
-‘These people don’t know what a poor life is like,’ he mumbled to himself.
-
-
-Weed’s eyes darkened. Those who actually have been through times of financial hardship don’t underestimate the significance of the cooking skill. Imagine you are forced to eat only rye bread when you hunt monsters in the field.
-
-
-If you are a low-level newbie, running out of money, you will stand it because you have no alternative. But once your level reaches a point where you can afford to buy more delicious food, your tongue will automatically reject the rye bread.
-
-
-In truth, even Pale didn’t always put rye bread where his mouth was. When it comes to the bottom line, people are the same. They have the same list of desires, and when they fulfill it, it grows longer by itself. In particular, the basic needs of housing, clothing and food are inseparable from life.
-
-
-Moreover, the cooking skill works in real life. As the cooking skill matures, it gives you a list of available recipes based on the types of ingredients that you have now. You can try a new recipe in the virtual game, and it will stick in your head after you log out. If you master the cooking skill at least to the expert stage, you will never need to worry about getting a job because any restaurant will hire you with arms wide open.
-
-
-In other words, It means that reality is so exactly realized as it is in an virtual world. Royal Road is such a detailed and realistic virtual reality game to such an extent that what is learned in the virtual game can also be applied in reality.
-
-
-Of course, the majority of users who don’t bother learning craft skills as widely as Weed will never comprehend what it is really about until they experience it with their own hands.
-
-
-‘I wonder if they will ever want to try it, anyway,’ Weed anticipated that the value of the cooking skill would get higher as users leveled up in their hundreds.
-
-
-For meals that Weed prepared with the basic cooking skill, they had a temporary bonus effect on life, so what would it be like when a master presented his cuisine?
-
-
-‘I’m sure even a happily married couple would kill each other to taste a crumb of it.’
-
-
-Not only the taste of food, but also the supplementary bonus would be spectacular.
-
-
-Hard, flavorless rye bread worth three copper vs. French cuisine that tastes like heaven and increases various stats! The contest is over before it begins.
-
-
-Weed imagined that meals prepared by a top chef would claim a stacks of gold for a taste of their food.
-
-
-He thought that the value of statues would remain superficial, but that the cooking skill, as long as it was an integral part of life, would never diminish in its influence on daily life.
-
-
-The rankers would long for the best food that they could find, and the value of a professional cook would hit the ceiling.
-
-
-‘Well, some people might have foreseen this before. Cooks are amongst the most zealous professionals in guarding their secrets. They must be formulating their own recipes and improving their cooking skill.’
-
-
-Weed turned to his teammates with a serious face and said, “I can’t deny you the choice of looking down on the craft skills as a whole as the combat skills are important. But I think that the craft skills could end up being the most necessary skills in the future. All the craft skills have something in common, and they help an avatar’s combat ability as well. I suggest you learn the cooking skill. It’s essential to your daily life.”
-
-
-“…”
-
-
-“I’m sorry,” Surka said in a small voice.
-
-
-“I forgot you were a sculptor, and I was thoughtless to speak ill of the crafters. I am really sorry,” Pale said.
-
-
-Surka, Pale and Irene were red with embarrassment.
-
-
-They thought that Weed was angry because they had belittled the cooking skill, one of the craft skills, right to his face.
-
-
-“That wasn’t what I meant. You got me wrong.” Weed said as he shook his head.
-
-
-No matter how hard he showed it to them, they would not see it until they felt the need to see it.
-
-
-The grocery store had an amiable atmosphere as it largely entertained regular customers.
-
-
-Weed thrust through them and walked to the register.
-
-
-“Hello,” Weed said.
-
-
-“Hello. I just heard you. You have the right idea about the cooking skill!” the shopkeeper said.
-
-
-“Thank you.”
-
-
-“Your face looks familiar to me…”
-
-
-“Yup. I came here for grocery shopping a few days ago.”
-
-
-When Weed improved his sculpture mastery and cooking skill at the same time, he had visited only this store to buy foodstuff in bulk— for a simple reason: the low price.
-
-
-The easiest way to maximize profits is always to minimize costs by buying a large amount of materials at a time at a discount. Weed had always used the store for his purchases, yet it was the first time that he had ever spoken to the shopkeeper.
-
-
-“Alright. Thank you for visiting my store. By the way, are you taking the path of a cook now?”
-
-
-“No. My primary class is not a cook, but I know the value of the cooking skill.”
-
-
-“Nice. So what can I do for you?” The shopkeeper’s eyes shone brightly, sizing up Weed.
-
-
-He had already gathered from the conversation with the delivery boy that the shopkeeper was a user.
-
-
-“Spices and sauces,” Weed said.
-
-
-“Hmm, we have many different kinds of spices,” the shopkeeper said.
-
-
-“There are salt, sugar and pepper, and I can show you extraordinary local specialties, such as spices from the land of the Elves, and bottles of sap squeezed out of some plants in the north.”
-
-
-On the vast continent, plenty of items with distinctive tastes are harvested by local farmers and traded through caravans.
-
-
-“I don’t need extraordinary spices. Only basic ones.”
-
-
-“Great. Only fools who want to impress others look for something special. How about the quality?”
-
-
-“Of course, I want the best.”
-
-
-“How much?”
-
-
-Weed counted how much money he had in his pockets. He had not sold his various types of ore yet, except for the silver that he had collected from the Queen Worms.
-
-
-He was saving them those for future use, when he improved his repair skill enough to enable him to reduce the ores.
-
-
-“I have twenty-seven gold now. I want to buy as much,” Weed said.
-
-
-“Okay. I’ll give you some extra,” the shopkeeper said.
-
-
-When Weed’s teammates overheard the conversation between him and the shopkeeper, they sensed a mutual understanding and respect flowing in between as if old drinking buddies had been reunited.
-
-
-In fact, the shopkeeper was a user who had already taken the path of the cooking skill. When he saw Weed, he realized that a strong rival in the latest wave had showed up.
-
-
-Weed also recognized the shopkeeper as a forerunner in the field of cooking, so they hardly needed a word. Eye contact alone told them enough.
-
-
-He packed the spices and sauces he had bought from the grocery store into his backpacks.
-
-
-Once he was satisfied that he was fully prepared for a new journey, he headed for the camp of Darius’ punitive force with his teammates.
-
-
-*****
-
-
-The punitive force bound to Baran Village was already the talk of the town, so there were many users who were eager to join the quest.
-
-
-Darius sat down on a tiny chair, as he interviewed applicants for the quest, “Next, please.”
-
-
-“Hello, I am Cochran. Level 68 archer. I’m good at Multiple Shot, and my weapon is Lasante’s Bow.”
-
-
-“Passed.”
-
-
-The next in line was Weed’s party with Pale in the foreground, who walked to Darius anxiously.
-
-
-Pale spoke as the representative of his party. “We are all in the same party. Level fifties. A priestess, a battle mage in the fire element, a ranger, a monk, and…”
-
-
-Pale stammered before he introduced Weed because he was afraid that when it was mentioned that Weed was a sculptor, Darius would be upset and reject them altogether.
-
-
-“Hmm, you have a balanced party. Great. And he is…” Darius spotted Weed and asked Pale, “Is he part of your party, too?”
-
-
-“Yes.”
-
-
-“Five total. It fits exactly the empty slots left in my army.”
-
-
-“Then…”
-
-
-“Will you join the quest to take back Baran Village?”
-
-
-Darius asked, and a message window emerged in front of Weed’s eyes.
-
+Darius perguntou e uma janela de mensagem surgiu na frente dos olhos de Weed.
 
 *Ting*
-————————————————————————————————
-Quest: Punitive Force to Baran Village:
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Quest: Força Punitiva para a Aldeia Baran</p>
+        <p align="center">Além da fronteira do Reino de Rosenheim está uma imensidão de monstros. Muros foram construídos e as tropas foram enviadas a fim de afastar os monstros que invadem anualmente a pátria, mas houve uma abertura. Através da abertura, uma onda de monstros irrompeu e ocupou a Aldeia Baran.</p>
+        <p align="center">Com os soldados de Rosenheim, salve a Aldeia Baran da calamidade e destrua os monstros.</p>
+        <p align="center">Dificuldade: D</p>
+        <p align="center">Requisitos:</p>
+        <p align="center">Deve ser completada em 30 dias.</p>	
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
 
+Pale disse com um grande sorriso:
 
-Beyond the border of Rosenheim Kingdom was a wilderness of monsters. Walls were built, and troops were dispatched in order to keep out the monsters that annually invaded the motherland, but there was an opening. Through the opening, a wave of monsters surged in and occupied Baran Village
+- É claro.
+- Eu quero participar também.
+- O mesmo aqui.
+- Obrigado por seu convite para a missão.
+- Sim.
 
+Weed foi o último a aceitar a missão.
+<div align="center" class="quest-center">
+    <table border="1" cellspacing="3" cellpadding="0">
+        <tbody>
+<tr>
+    <td>
+        <p align="center">Você aceitou a missão.</p>	
+    </td>
+</tr>
+        </tbody>
+    </table>
+</div>
 
-With Rosenheim soldiers, save Baran Village from calamity, and destroy the monsters.
+- OK. Vamos indo agora.
 
+Darius ergueu-se e gritou:
 
-Difficulty: D
+- Todo mundo na missão da força punitiva, por favor, venha aqui! Nós temos pessoas suficientes, por isso estamos partindo agora!
 
+***
 
-Quest requirement:
-Must be completed within 30 days
-————————————————————————————————
+Não houve cerimônia para a força punitiva com destino a Aldeia Baran. Apenas um punhado de pessoas que eram amigos de alguns componentes das tropas se despediram.
 
+Três centenas de usuários com vestimentas coloridas marcharam do portão sul em direção à província ao sul, o destino era a Aldeia Baran. Eles pretendiam recuperar a aldeia que havia sido perdida para os lizardmen.
 
-Pale said with a big grin,
+- Hehe. Eu não estive tão longe da Cidadela antes. É como se nós estivéssemos em uma viagem de campo! - Romuna disse.
+- Eu acho que eu deveria ter trazido cestas de lanche - Irene disse.
 
+As duas meninas fofocavam agradavelmente.
 
-“Sure.”
+Ar fresco e um dia ensolarado! Era um dia perfeito para uma viagem de campo. Leões e lobos, aterrorizados com o tamanho das tropas, saíram do caminho, garantindo a segurança da viagem.
 
+Enquanto os companheiros de Weed estavam andando despreocupadamente, desfrutando de uma conversa fiada, Weed estava verificando as outras tropas, a maneira deles se vestirem e com o que eles estavam equipados.
 
-“I want to join it, too.”
+*O nível médio dos usuários na força é entre quarenta e sessenta. Ouvi dizer que o nível de Darius estava nos cento e quarenta e alguma coisa.*
 
+Darius tinha cinco companheiros de equipe: três guerreiros de espada, um ladrão e um guerreiro comum.
 
-“Same here.”
+*É melhor eu assumir que eles têm quase os mesmos níveis.*
 
+Weed concluiu que Darius tinha fechado seu batalhão com qualquer um que corresse para aceitar a missão, apenas para cumprir a exigência de três centenas de usuários envolvidos.
 
-“Thank you for your invitation to the quest.”
+Essa suspeita surgiu em Weed quando Pale inscreveu-se para esta missão e Darius foi muito negligente em aceitar o seu grupo. No caso de Weed, Darius não tinha sequer se incomodado em perguntar a sua classe e nível.
 
+*Eu acho que ele quer concluir esta missão da força punitiva tão logo seja possível. Um monte de recompensas está em jogo.*
 
-“Yup.”
+Um sentido de alarme estava invadindo a mente de Weed. Ele tinha feito a sua própria pesquisa sobre Darius, o líder dessa força punitiva, logo após Pale sussurrar e lhe introduzir a esta missão.
 
+Darius tinha uma má reputação. Era um fato estabelecido que ele faria qualquer coisa se isso avançasse em seu próprio interesse.
 
-Weed was the last one to accept the quest.
+- Todos ouçam.
 
+Weed disse em voz baixa.
 
-You have accepted the quest.
+- Huh? - Surka replicou.
+- Quando nós chegamos na Aldeia Baran, não devemos confiar em ninguém facilmente - Weed continuou.
+- O que você quer dizer com isso? - Romuna perguntou.
+- Eu estou dizendo que nós estamos por nossa conta agora - Weed disse.
 
+Pale olhou em volta, como se despertado pelas palavras de Weed. Então, ele concordou com Weed:
 
-“Okay. Let’s move now.”
+- Entendo o seu ponto, Weed-nim.
+- O que é isso? Eu não entendi - Surka disse.
 
+Weed franziu as sobrancelhas para ela.
 
-Darius sprang to his feet and cried, “Everyone in the punitive force quest, please come over here! We have enough people, so we’re leaving now!”
+- Nós conhecemos qualquer outro membro da força punitiva?
+- Não - Surka respondeu.
+- Você está tentando dizer que se um bom item cair, alguém pode nos matar para tomá-lo? - Irene perguntou.
 
+A pergunta que ela levantou rapidamente congelou todos em seu grupo. Surka e Romuna até mesmo pareciam assustadas.
 
-*****
+- Isso não é o que eu insinuei. É claro que poderia acontecer, mas eu não acho que haverá qualquer um que seja ousado o suficiente para ultrapassar o seu limite na frente de tantas testemunhas da força punitiva. Se ele adquirir a marca do assassino nos matando, ele se tornará o inimigo público número um no meio de milhares de pessoas estranhas e elas irão matá-lo por vingança. Além disso, Darius não deixará que isso aconteça, porque isso poderia pôr em perigo a sua autoridade.
+- O que o está incomodando, então? - Romuna perguntou.
+- Nós não temos mais ninguém com quem contar. Esse é o nosso problema - Weed disse.
 
+Weed levou os seus companheiros para um local um pouco longe das tropas que marchavam para evitar a espionagem, e acrescentou:
 
-There was no ceremony for punitive force bound for Baran Village. Only a handful of people who were friends of some troops waved goodbye.
+- Apesar de nossos níveis baixos, nós lutaremos contra um grande número de monstros.
+- Exatamente! Não é por isso que eles juntaram três centenas de usuários para a missão e emprestaram mais duzentos soldados do Exército de Rosenheim? Quando nós terminarmos, nós ganharem muita experiência e fama - Surka disse.
+- Aí vem uma pergunta. Como é que você lutará quando uma batalha começar? - Weed perguntou e continuou:
+- Sim, nós temos um monte de pessoas, mas nós somos apenas um bando de estranhos que não sabem nada sobre o outro. Nós não sabemos quais são as habilidades aquele ranger ali tem. Não sabemos se o homem metido a mago ao lado dele é realmente um mago ou apenas um impostor disfarçado. Imaginem se os lizardmen nos pegarem de surpresa, como você reagirá a eles? Como nós podemos ficar juntos e contra-atacar?
+- Mas o que há de errado com isso? As incursões supostamente são assim, não são? - Irene perguntou.
 
+Quando Irene levantou outra questão, Pale sacudiu a sua cabeça e continuou:
 
-Three hundred users, colorfully attired, marched out of the South Gate and toward the Southern Province— the destination was Baran Village. They intended to take back the village that had been lost to the lizardmen.
+- A maioria das missões de incursão limitam-se a matar um certo número de monstros ou a limpar alguma área em escala limitada. Eu não ouvi muito sobre as batalhas de grande escala contra um exército de monstros em um campo aberto como nesta missão. Nós temos três centenas de usuários e duzentos soldados aqui, mas quando uma batalha começar nós ficaremos presos aos nossos próprios companheiros de equipe e dispersaremos em segmentos.
+- Que significa...
+- Irene-nim, os números sempre mentem. Trezentos usuários e duzentos soldados não garantem que o grupo será tão forte quanto a soma de suas forças. Se nós suprimirmos os monstros, ficará tudo bem. Porém, se nós encontramos uma mudança inesperada dos acontecimentos, nós desmoronaremos como um castelo de cartas. Devemos ser cuidadosos - Weed disse.
 
+Darius tinha estado muito impaciente e muito obcecado com a criação de uma vitória rápida.
 
-“Hehe. I haven’t been this far away from the Citadel before. It’s like we’re on a field trip!” Romuna said.
+Já que havia muitos usuários que estavam ansiosos em participar da missão, ele poderia ter aceito os usuários de nível elevado para reduzir o risco de acontecer uma emergência. Embora o grupo de Weed provavelmente não teria sido capaz de se juntar, se esse tivesse sido o caso.
 
+No entanto, Darius estava determinado a ter todos os pontos de serviço público, de modo que ele havia rejeitado qualquer usuário de nível cem ou acima. Em vez disso, ele tinha preenchido os espaços da força punitiva com os usuários de nível baixo.
 
-“I think I should have brought lunchboxes,” Irene said.
+Ele também ordenou aos soldados de Rosenheim a ficarem atrás e a seguirem o corpo principal a uma pequena distância.
 
+*Eu aposto que ele estava preocupado que os soldados pudessem pegar alguma experiência e fama que lhe pertenceria.*
 
-The two girls were chitchatting pleasantly.
+Se Weed tivesse sido o líder das tropas para a missão, ele teria feito exatamente o oposto. Ele teria deixado de fora os trezentos usuários e, em vez disso, faria bom uso dos soldados de Rosenheim.
 
+Se ele comandasse os NPCs a destruir o bando de lizardmen, a sua reputação pública e carisma subiriam.
 
-Fresh air and a sunny day! It was a perfect day for a field trip. Lions and wolves, terrified by the size of the troops, were cleared of the path, ensuring the safety of the trip.
+Você pode ganhar fama ou experiência de inúmeras maneiras diferentes, mas o atributo carisma precisa desse tipo de oportunidade para subir rapidamente.
 
+Weed mais uma vez relembrou aos seus companheiros de equipe para tomarem cuidado.
 
-While Weed’s teammates were walking lightly, enjoying idle talk, Weed was checking out the other troops, the way they dressed and what they were equipped with.
+***
 
+As tropas paravam de vez em quando para um descanso e para fazer uma refeição. Os usuários na força punitiva mastigavam alimentos secos que eles trouxeram ou um conjunto de refeições leves. Os soldados de Rosenheim mantiveram uma rotina de três refeições por dia.
 
-‘The average level of users in the force is between forty and sixty. I heard that Darius’ level was a hundred and forty-something.’
+- Como nós prepararemos as refeições? - Surka perguntou.
 
+Pale e Surka lançaram um olhar casual em Weed como se eles estivessem falando sobre a próxima refeição. Eles sabiam a partir da conversa que tiveram na mercearia no outro dia que Weed era bom em cozinhar.
 
-Darius had five teammates; three sword warriors, a thief, and a plain warrior.
+Weed avançou para exibir a sua habilidade culinária.
 
+- Eu lhes servirei refeições. Pale-nim, você pode caçar coelhos ou cervos? Pelo menos dois de cada - Weed disse.
+- Ok - Pale respondeu.
 
-‘I’d better assume that they have almost the same levels.’
+Pale pegou seu arco e em pouco tempo voltou com três coelhos e dois cervos. Como um ranger especializado em arco e flecha, ele agora podia disparar uma flecha em um coelho sem errar.
 
+- Agora eu prepararei uma refeição deliciosa para vocês - Weed disse.
 
-Weed concluded that Darius had packed his battalion with anyone who ran up to accept the quest, just to meet the requirement of three hundred users involved.
+Weed fez uma fogueira, descascou a pele dos coelhos e cervos, prendeu espetos através deles e os colocou logo acima do fogo. Girando-os pouco a pouco, ele os salgava e apimentava em toda parte.
 
+- Heeyah, isso parece ótimo - Surka disse.
+- Nós podemos comer agora? - Irene perguntou.
 
-This suspicion had arisen in Weed when Pale applied for this quest, and Darius was very lax in accepting his party. In the case of Weed, Darius had not even bothered asking his class and level.
+Surka e Irene estavam babando com o cheiro da carne assada. A tentação de consumir a carne era quase irresistível.
 
+Weed já havia cativado as línguas e estômagos de Sir Midvale e suas tropas no Covil de Litvart. Eles tinham comido o seu guisado de carne como uma matilha de lobos famintos e até mesmo raspado o pouco que foi deixado no fundo das panelas.
 
-‘I guess he wants to get this punitive force quest done as soon as possible. A lot of rewards are at stake.’
+Comparado àqueles dias, a sua habilidade de artesanato, agora no nível intermediário, aprofundava o gosto da sua comida e o atributo de arte era aplicado para fazer a carne de coelho parecer mais apetitosa.
 
+Mesmo os espetos, que saiam através da boca do cervo até a sua parte traseira para mantê-lo acima do fogo, pareciam esplêndidos.
 
-A sense of alarm was creeping into Weed’s mind. He had done his own research on Darius, the leader of this punitive force, right after Pale whispered to him to bring up this quest.
+- Por favor, sirvam-se.
 
+Weed disse quando ele estava certo de que ele tinha tido tempo suficiente para torturar seus companheiros de equipe com a visão da refeição.
 
-Darius had a bad reputation. It was an established fact that he would do anything if it advanced his own interest.
-
-
-“Everyone, listen,” Weed said in a low voice.
-
-
-“Huh?” Surka said.
-
-
-“When we arrive at Baran Village, we should not trust anyone easily,” Weed said.
-
-
-“What do you mean by that?” Romuna asked.
-
-
-“I’m saying we’re on our own now,” Weed said.
-
-
-Pale looked around as though awakened by Weed’s words. Then, he agreed with Weed, “I see your point, Weed-nim.”
-
-
-“What is it? I don’t get it,” Surka said.
-
-
-Weed frowned at her.
-
-
-“Do we know any other member in the punitive force?”
-
-
-“No,” Surka said.
-
-
-“Are you trying to say if a good item is dropped, someone else might kill us to take it?” Irene asked.
-
-
-The question she raised quickly froze everyone in her party. Surka and Romuna even looked scared.
-
-
-“That’s not what I implied. Of course, it could happen. But I don’t think there will be anyone who is bold enough to overstretch his limit in front of many witnesses in the punitive force. If he earns the murderer’s sign by killing us, he’ll become a public enemy number one right in the middle of thousand odd people, and they will kill him in revenge. Also, Darius will not let it happen, because it could endanger his authority.”
-
-
-“What is disturbing you, then?” Romuna asked.
-
-
-“We have no one else to count on. That’s our problem,” Weed said.
-
-
-Weed led his teammates a little away from the marching troops to avoid eavesdropping, and added, “Despite our low levels, we will fight a great number of monsters.”
-
-
-“Exactly! Isn’t it why they assembled three hundred users for the quest, and borrowed another two hundred soldiers from Rosenheim Army? When we finish it, we will gain a lot of experience and fame,” Surka said.
-
-
-“Here comes a question. How will you fight when a battle starts?” Weed asked. “Yes, we have a lot of people, but we are just a bunch of strangers who don’t know anything about one another. We don’t know what skills a ranger over there has. We don’t know if a mage-like man next to him is really a mage or just an imposter in disguise. Imagine if the lizardmen take us by surprise, how will you react to them? How can we stay together and fight back?”
-
-
-“But what’s wrong with that? The raids are supposed to be like this, aren’t they?” Irene asked.
-
-
-When Irene raised another question, Pale shook his head. “Most raid quests are about killing a certain number of monsters or clearing some area on a limited scale. I haven’t heard much about large-size battles against an army of monsters on an open field like this quest. We have three hundred users and two hundred soldiers here, but when a battle begins, we will get stuck to our own teammates and break up into segments,” Pale said.
-
-
-“That means…”
-
-
-“Irene-nim, numbers always lie. Three hundred users and two hundred soldiers don’t guarantee that the party will be as strong as the sum of their strength. If we overwhelm the monsters, it will be fine. But if we encounter an unexpected turn of events, we will crumble like a house of cards. We should be careful,” Weed said.
-
-
-Darius had been too impatient and too obsessed with creating a swift victory.
-
-
-Since there were plenty of users who were eager to join the quest, he could have accepted high-level users to lower the risk of going astray in an emergency— though Weed’s party probably wouldn’t have been able to join if that had been the case.
-
-
-However, Darius was determined to have all public service points, so he had rejected any user at level hundred or above. Instead, he had loaded the slots with low-level users.
-
-
-He had also ordered the Rosenheim soldiers to stay behind and follow the main body at a little distance.
-
-
-‘I bet he was worried that the soldiers might pick up some EXPs and fame that would belong to them.’
-
-
-If Weed had been the leader of the troops for the quest, he would have done exactly the opposite. He would have left out three hundred users, and instead, made good use of the Rosenheim soldiers.
-
-
-If he had commanded the NPCs to destroy the band of lizardmen, his public fame and leadership would have gone up.
-
-
-You can gain fame or EXPs in a number of different ways, but the leadership stat needs this sort of opportunity to rise quickly.
-
-
-Weed once again reminded his teammates to watch out.
-
-
-*****
-
-
-The troops stopped from time to time to take a rest and a meal. The users in the punitive force chewed on dried food they had brought, or set light meals. The Rosenheim soldiers kept to a timetable of three meals every day.
-
-
-“How will we prepare meals?” Surka asked.
-
-
-Pale and Surka shot a casual glance at Weed as they were talking about the upcoming meal time. They knew, from the conversation that had taken place in the grocery store the other day that Weed was good at cooking.
-
-
-Weed stepped up to display his cooking skill. “I will serve you meals. Pale-nim, can you go hunt rabbit or deer? At least two of each,” Weed said.
-
-
-“Okay,” Pale said.
-
-
-Pale took his bow, and before long, came back with three rabbits and two deer. As a ranger specializing in the bow, he could now fire an arrow at a rabbit without missing.
-
-
-“Now I will prepare a delicious meal for you,” Weed said.
-
-
-Weed set a bonfire, peeled the skins of the rabbits and deer, stuck skewers through them, and placed them right above the fire. Rotating them little by little, he salted and peppered them all over.
-
-
-“Heeyah, it looks great,” Surka said.
-
-
-“Can we eat now?” Irene asked.
-
-
-Surka and Irene were slavering over the smell of the roasted meats— the temptation to gnaw on them was almost irresistible.
-
-
-Weed had already captivated the tongues and stomachs of Sir Midvale and his troops in the Lair of Litvart. They had eaten his beef stew like a pack of hungry wolves, and even scratched what little was left on the bottom of the pots.
-
-
-Compared to those days, his intermediate handicraft skill now deepened the taste of his food, and the art stat was applied to make the rabbit meat look more appetizing.
-
-
-Even the skewers poking through the deer’s mouth to its backside to keep it above the fire looked gorgeous.
-
-
-“Please, help yourself” Weed said when he was certain that he’d taken enough time to torture his teammates with the sight of the food.
-
-
-As the saying goes, hunger is the best kind of seasoning.
-
+Como diz o ditado, a fome é o melhor tipo de tempero.
 
 *Munch*
 
+Assim que Weed deu a seus companheiros a permissão para avançar, eles correram para o churrasco e começaram a rasgar a carne dos ossos, jogando-a em suas bocas.
 
-As soon as Weed gave his teammates the go-ahead, they rushed to the barbecues and began tearing flesh from bones and tossing it into their mouths.
+- Oh meu Deuuuus! É muuuuito bom!
 
+Surka gritou com a boca cheia de comida.
 
-“Oh my gawd! It’s soooo good!” Surka cried around a mouthful of food.
+- Você é o melhor, Weed-nim.
 
+Romuna disse dando um sinal de positivo com a mão engordurada. A boca dela estava revestida com uma gordura amarelada.
 
-“You’re the best, Weed-nim,” Romuna said, giving a thumbs-up with a greased hand. Her mouth was coated with yellow grease. 
+Aparentemente sucumbindo à gula, um dos sete pecados, a sacerdotisa Irene estava comendo um coelho todo, enquanto Pale estava ocupado levemente roendo a perna traseira de um cervo. Eles estavam até lambendo os ossos.
 
+- Obrigado, Weed-nim.
 
-Apparently succumbing to gluttony, one of the seven sins, Irene the priestess was eating a whole rabbit, while Pale was busy lightly gnawing on a deer’s rear leg. They were even licking the bones.
+Satisfeitos com a esplêndida comida, eles elogiaram Weed novamente e novamente.
 
+- Não é nada.
 
-“Thank you, Weed-nim.”
+Weed olhou em volta e encontrou muitos outros usuários que haviam cercado a pequena grelha do grupo sem que ele percebesse.
 
+- Isso parece tão bom...
 
-Gratified by the splendid food, they complimented Weed again and again.
+Um deles disse, com um pouco de baba saindo do lado da sua boca.
 
+- Realmente...
+- Eu estou com inveja de que ela esteja apreciando tanto a carne!
 
-“Not at all.”
+Entre os membros da força punitiva, o apetite dos espectadores foi estimulado ainda mais pela visão de Irene e Romuna, que estavam aproveitando as suas vidas.
 
+- Você se importa se eu tiver um pouco de sua carne? - um homem perguntou.
 
-Weed looked around, and found many other users had surrounded the little grill party without him noticing.
+Weed distribuiu livremente a sua comida para os outros.
 
+- Fiquem à vontade. Mas vocês devem trazer um pouco de carne na próxima vez.
+- Oh, muito obrigado.
 
-“That looks so good...” one of them said with a bit of drool coming from the side of his mouth.
+Eles receberam alimentos de Weed agradecidos. Porém, a comida acabou e apenas alguns a tinham experimentado.
 
+Weed começou a trabalhar mais duro na próxima refeição porque muitos usuários correram para ele com carnes e lhe pediram para cozinha-las para eles. Na verdade, alguns deles sabiam como cozinhar. Eles tinham sido forçados a preparar refeições quando os alimentos secos acabaram durante uma missão de caça. Para ser franco, no entanto, oitenta por cento das tropas eram do sexo masculino, os quais odiavam as tarefas mundanas da cozinha, tais como descascar batatas e cortar as cebolas em cubos. O mesmo valia para os usuários do sexo feminino.
 
-“Really…”
+Mesmo aqueles que aprenderam a habilidade culinária preferiam reunir a carne e dar para Weed cozinhar para eles.
 
+- Eu sinto muito por você. Eu realmente te devo uma!
 
-“I’m envious that she’s enjoying the meat so much!”
+Um homem disse, no segundo dia da viagem.
 
+- De modo nenhum. Você não precisa dizer isso. Eu estou fazendo isso por diversão - Weed disse.
+- Mas...
+- Você está muito desconfortável com isso? Então, que tal isso? Vamos fazer um acordo. Se você quiser pagar de volta o que você sente em débito comigo, você pode pagar pela refeição. Pelas especiarias e molhos, você sabe. Weed disse.
+- Eu gosto disso e funciona. Eu me sentirei melhor assim.
 
-Among the members in the punitive force, the bystanders’ appetite was stimulated even more by the sight of Irene and Romuna, who were having the time of their lives.
+Um excelente segundo emprego!
 
+Weed começou a cobrar uma pequena taxa para cozinhar. É claro, que era muito maior do que os custos reais dos molhos e temperos, mas ninguém reclamou sobre isso porque eles sentiram que era aceitável mesmo assim.
 
-“Do you mind if I have some of your meat?” a man asked.
+Quando as tropas pararam em uma cidade na viagem em direção a Aldeia Baran, Weed comprou uma quantidade de alimentos em uma mercearia local.
 
+Ele precisava atualizar as suas receitas para melhorar a sua habilidade culinária em um ritmo mais rápido. Além disso, novos tipos de menu que nunca tinha sido tentados anteriormente eram sempre bem recebidos pelos seus clientes.
 
-Weed freely distributed his food to others. “Help yourself. But you should bring some meat next time.”
+Com os alimentos que ele tinha comprado da mercearia, ele ficou ocupado trabalhando sobre eles durante a marcha e os cozinhava na hora das refeições.
 
+A lâmina de esculpir de Zahab, além do seu uso original, era perfeita para descascar batatas.
 
-“Oh, thank you so much.” They received Weed’s food gratefully. But it ran out before more than a few had tasted it.
+*Bem, esculpir estátuas e descascar batatas são quase a mesma coisa.*
 
+As refeições preparadas por Weed basicamente aumentavam a vida em cinco por cento e, como a sua habilidade de artesanato estava no nível intermediário, ela dava um bônus adicional.
 
-Weed began to work harder at the next mealtime because many users rushed to him with meat and asked him to cook it for them. In fact, some of them knew how to cook. They had been forced to prepare meals when they ran out of the dried food they had during a hunting mission. To put it bluntly, however, eighty percent of the troops were male, who hated mundane kitchen chores, such as peeling potatoes and dicing onions. The same goes for the female users.
+Simplificando, a habilidade artesanal intermediária complementava os efeitos originais em trinta por cento para a maestria com a espada e em cinquenta por cento para a habilidade culinária.
 
+Portanto, o efeito final sobre a vida era de um aumento de 7,5%. Pode parecer trivial, mas esta diferença poderia salvar uma vida no meio de uma batalha caótica onde ataques cegos estavam sempre à espreita por trás.
 
-Even those who learned the cooking skill preferred gathering meat and giving it to Weed to cooking it themselves.
+Rostos conhecidos se aproximaram de Weed, que estava imerso na preparação da comida. Eles estavam usando uniformes do Exército de Rosenheim.
 
+- Comandante!
 
-“I feel sorry for you. I really owe ya!” a man said on the second day of the journey.
+Apenas um punhado de NPCs abordaria Weed por esse título. Ele parou de cortar a carne, levantou a sua cabeça e viu rostos que ele já tinha visto anteriormente.
 
+- Você é... - Weed disse.
+- Saudação! Saudações para o comandante!
 
-“Not at all. You don’t need to say that. I am doing this for fun,” Weed said.
+Eles eram Becker, Hosram e Dale, os irmãos de armas que haviam lutado ao lado de Weed no Covil de Litvart.
 
+- Como vocês estão? - Weed perguntou.
+- Nós todos fomos promovidos a denarions, comandante - Becker disse.
 
-“But…”
+Quando os soldados, que tinham sido exaustivamente treinados por Weed, foram promovidos a denarions, eles não poderiam voltar para seus regimentos originais. Assim, as autoridades militares tinham atribuído a eles recrutas e uma nova missão.
 
+- Eu acho que eles lhe disseram para se juntar à força punitiva vinculada à Aldeia Baran - Weed disse.
+- Sim, comandante - Dale disse e continuou:
+- Uma vez que a missão for concluída, nós seremos destacados na aldeia para proteger a área circundante.
 
-“Are you really uncomfortable with it? Then, how about this? Let’s make a deal. If you want to pay back what you feel indebted to me for, you can pay for the meal. For spices and sauces, you know,” Weed said.
+Um número de ex-subordinados de Weed, incluindo Buran, estava sob as asas de Sir Midvale, mas o resto, agora denarions, estava atualmente servindo na força punitiva.
 
+Foi o nariz canino de Becker que cheirou a comida de Weed e o rastreou para encontrar o ex-comandante.
 
-“I like that, and it works out. I’ll feel better that way.”
+- Hehe - Hosram riu.
+- Eu sinto falta da sua comida, comandante - Becker disse.
+- Eu sinto muito que nós não estejamos indo servi-lo novamente, mas por que não nos mostra que a velha camaradagem nunca morre?
 
+Seus ex-subordinados disseram enquanto seguravam seus estômagos vazios.
 
-A great side job~!
+- Como ele conhece os soldados de Rosenheim?
+- Eles não estão soldados de infantaria. Eles se parecem com denarions.
+- Eles simplesmente o chamaram de comandante.
 
+Surka e Pale não conseguiam esconder a surpresa. Um denarion era uma posição bastante elevada e o nível desses denarions era aparentemente maior do que o deles. 
 
-Weed began to collect a little fee for cooking. Of course, it was much larger than the real costs of sauces and spices, but nobody complained about it because they felt it was acceptable, nevertheless.
+- OK. Aqui.
 
+Weed serviu o que ele estava cozinhando para seus ex-subordinados sem reservas. Não era preciso dizer que todos os suprimentos racionados para os seus pelotões começaram a ser contrabandeados para Weed, a partir daquele momento.
 
-When the troops stopped by a town on the trip toward Baran Village, Weed purchased a quantity of foodstuffs in a local grocery store.
+***
 
+Levou precisamente dez dias a pé para as tropas chegarem na Aldeia Baran.
 
-He needed to update his recipes to improve his cooking skill at a faster pace. Plus, new types of menu that had never been tried before were always received favorably by his customers.
+Weed tinha a intenção de melhorar a sua habilidade culinária na viagem. Para atingir o estágio intermediário é necessário não apenas a proficiência na habilidade, mas também uma quantidade inumana de trabalho físico.
 
+Na época do Covil de Litvart Weed tinha servido trinta e dois homens, três vezes ao dia, ou seja, noventa e seis porções diariamente, o que totalizou três mil tigelas de guisado de carne.
 
-With the foodstuffs he had bought from the grocery store, he was busy working on them on the march and cooking them in mealtime.
+Em seguida, ele criou um restaurante ao ar livre para preparar e vender refeições na Cidadela. Agora que ele estava alimentando centenas de bocas durante a marcha, era estimado que ele tivesse servido pelo menos dez mil refeições.
 
+Levando em conta que um homem come três vezes ao dia, isso leva noventa porções durante um mês, em torno de um mil e oitenta porções para o ano inteiro.
 
-Zahab’s sculpting blade, besides its original use, it was perfect for peeling potatoes.
+Weed tinha feito o que equivalia a dez anos de comida para um homem solteiro para alcançar o estágio intermediário na habilidade culinária, de modo que se você ainda não entendeu, você está seriamente perdido.
 
+Cozinhar como um hobby não é comparável à preparação de milhares de refeições a fim de obter uma taxa de aptidão para a habilidade culinária.
 
-‘Well, carving statues and peeling potatoes are kind of the same.’
+Embora a arte escultural fosse melhor para melhorar a habilidade de artesanato, Weed estava com medo de atrair atenção indesejada por esculpir estátuas durante a marcha.
 
+Cozinhar poderia passar despercebido mais facilmente, fazendo dinheiro e ganhando gratidão, além de respeito a partir dos outros usuários/NPCs.
 
-Meals prepared by Weed basically increased a diner’s life by five percent, and as his handicraft skill was in the intermediates stage, it gave off additional bonuses.
+***
 
+As tropas finalmente visualizaram a Aldeia Baran.
 
-Simply put, the intermediate handicraft skill supplements original effects by thirty percent for the sword mastery, and fifty percent for the cooking skill.
+- Estamos quase lá.
+- Que tipo de monstros vocês acham que estarão lá? Eu não posso esperar para combatê-los.
 
+Conversando despreocupadamente, Irene e Surka estavam descendo pelo caminho, enquanto Weed agora terminava de cozinhar e olhava para o céu.
 
-Therefore, the final effect on life was an increase of seven point five percent. It might sound trivial, but this difference could save a life in the middle of a chaotic battle where blind strikes were always lurking from behind.
+Não havia nada lá além das nuvens brancas que estavam preguiçosamente navegando em um céu azul.
 
+*Eu sabia. A Cidade do Céu não passava de um mito. Eu estava distraído por um mito estúpido. A Aldeia Baran... o livro dizia que a aldeia era o último lugar com qualquer conexão para a Cidade de Céu. É por isso que eu entrei nesta missão, mas eu estava errado.*
 
-Familiar faces approached Weed, who was immersed in cooking. They were wearing uniforms of the Rosenheim Army.
+Uma tênue esperança foi dissipada.
 
+Quando as tropas marcharam perto da Aldeia Baran, Darius gritou:
 
-“Commander!”
+- Alto!
 
+Darius sinalizou para todo o grupo parar imediatamente. Quando Weed nas fileiras traseiras andou para frente, ele viu um homem velho em roupas surradas e dezenas de crianças cambaleando em direção às tropas.
 
-Only a handful of NPCs would address Weed by that title. He stopped slicing the meat, lifted his head and saw faces he had seen before.
+- Qual é o seu negócio?
 
+Darius perguntou e nem sequer desceu do seu cavalo. Darius e seus asseclas eram os únicos usuários a cavalo.
 
-“You’re…” Weed said.
+- Saudações respeitável comandante. Nós somos os sobreviventes da Aldeia Baran - disse o velho e continuou:
+- Eu sou Ghandilva, o ancião da aldeia. Eu recentemente enviei Jackson para espalhar a triste notícia da calamidade da minha aldeia para a Sua Alteza e pedir por ajuda. Eu espero que vocês sejam aqueles a nos tirar da miséria.
+- Sim - Darius disse.
 
+Ghandilva era um ancião da Aldeia Baran e as crianças aterrorizadas que o seguiam tinham escapado da aldeia com ele quando ela foi invadida pelos lizardmen.
 
-“Salute! Greetings to the Commander!”
+- Nós retomaremos a Aldeia Baran muito em breve - Darius disse para Ghandilva e continuou:
+- Então, fique confortável e espere um pouco mais pela boa notícia.
+- Eu estou feliz em ouvir isso, você é um comandante respeitado. A propósito, eu tenho um pedido pessoal... - Ghandilva disse.
+- O que é?
+- Por favor, resgate meu povo que foi capturado por essas criaturas desprezíveis. É o último desejo deste humilde homem velho - Ghandilva se declarou em meio a lágrimas.
 
+Os olhos de Darius brilharam.
 
-They were Becker, Hosram and Dale, the brothers-in-arms who had fought alongside Weed in the Lair of Litvart.
+- Esta é uma missão?
+- Sim, é a missão para minha aldeia, respeitável comandante - Ghandilva disse.
+- Que recompensas você pode me dar? - Darius perguntou diretamente.
 
+Como um usuário de nível elevado, Darius não se apressava em qualquer missão apresentada a ele. Havia muitas missões ao redor e um monte delas era só perda de tempo.
 
-“How are you?” Weed asked.
+Ghandilva fez uma cara abatida e disse:
 
+- Não temos nada de valor para dar-lhe, senhor. Tudo o que eu posso dar é isso...
 
-“We were all promoted to Denarion, Commander,” Becker said.
+Ghandilva mostrou uma semente de aparência simples.
 
+- Era o que eu pensava. Que recompensas que eu esperaria de um homem velho que perdeu a sua aldeia para um bando de lizardmen simplórios? Sem tesouros, sem itens. Darius disse.
 
-When the soldiers who had been thoroughly trained by Weed were promoted to Denarion, they could not return to their original regiments. So, the military authorities had assigned them with raw recruits and a new mission.
+Darius riu friamente. Ele pensou que o velho tinha vindo a ele para causar problemas antes que ele expulsasse os lizardmen para fora da aldeia.
 
+- Então eu controlarei a aldeia rápido e, se nós tivermos mãos livres disponíveis após a batalha, eu pessoalmente farei com que algumas tropas sejam enviadas para resgatar os prisioneiros - Darius disse e continuou:
+- Nós não podemos esperar seriamente que os reféns pegos pelos lizardmen ainda estejam vivos até agora. Não teste a minha paciência, meu velho.
 
-“I guess they told you to join the punitive force bound to Baran Village,” Weed said.
-“Yes, Commander,” Dale said. “Once the mission is complete, we will be stationed in the village to secure the surrounding area.”
+Darius se afastou de Ghandilva trotando impiedosamente com o seu cavalo.
 
+Alguns usuários da força punitiva chamaram pelos nomes de seus líderes em voz baixa, mas ninguém se atreveu a se levantar para ajudar o ancião. Ghandilva foi lançado no desespero. Então, alguém agarrou as suas mãos enrugadas.
 
-A number of Weed’s former subordinates, including Buran, were taken under Sir Midvale’s wings, but the rest, now Denarion, were currently serving in the punitive force.
-
-
-It was Becker’s canine nose, that had smelled Weed’s cooking and tracked it down to find the former commander.
-
-
-“Hehe,” Hosram laughed.
-
-
-“I miss your cooking, Commander,” Becker said.
-
-
-“I’m sorry that we are not going to serve you again, but why not show us that old comradeship never dies?”
-
-
-His former subordinates said as they held empty stomachs.
-
-
-“How does he know Rosenheim soldiers?”
-
-
-“They’re not foot soldiers. They look like Denarions.”
-
-
-“They just called him Commander.”
-
-
-Surka and Pale could not hide their surprise. A Denarion was a rather weighty position, and the levels of those Denarions were seemingly higher than theirs.
-
-
-“Okay. Here”
-
-
-Weed dished out what he was cooking to his former subordinates without reservation. Needless to say, all the supplies rationed to their platoons started to be smuggled to Weed from that moment on.
-
-
-*****
-
-
-It took precisely ten days on foot for the troops to arrive at Baran Village.
-
-
-Weed had intended to improve his cooking skill on the trip. To achieve the intermediate stage of the cooking skill, it required not only proficiency in the skill but also a humongous amount of physical labor.
-
-
-Back in the days of the Lair of Litvart Weed had served thirty-two men three times a day, ninety-six servings on daily basis, and it totaled three thousand bowls of beef stew.
-
-
-Then, he had set up an outdoor restaurant to prepare and sell meals in the Citadel. Now that he was feeding hundreds of mouths on the march, it was estimated that he had at least served ten thousand meals.
-
-
-Provided that a man eats three times a day, it takes ninety servings for a month, around a thousand and eighty servings for the entire year.
-
-
-Weed had done what amounted to ten years’ worth for a single man to accomplish the intermediate stage of the cooking skill, so if you still don’t get the picture, you’re seriously lost.
-
-
-Cooking as a hobby isn’t comparable to preparing thousands of meals in order to gain an expertise rating for the cooking skill.
-
-
-Though sculptural art was best to improve the handicraft skill, Weed was afraid to attract unwanted attention by carving statues on the march.
-
-
-Cooking could pass more easily, making money and winning gratitude, if not respect, from others.
-
-
-*****
-
-
-The troops were finally within the sight of Baran Village.
-
-
-“We’re almost there.”
-
-
-“What kind of monsters do you think will be there? I can’t wait to fight them.”
-
-
-Exchanging small talk complacently, Irene and Surka were walking down the path, while Weed, now finished cooking, and looked up at the sky.
-
-
-There was nothing there but white clouds that were lazily sailing in a blue sky.
-
-
-‘I knew it. The City of Heaven was nothing but a myth. I was distracted by a stupid myth. Baran Village— the book said it was the last place with any connection to the City of Heaven. That’s why I joined this quest, but I was wrong,’ A faint gleam of hope was dispelled.
-
-
-When the troops marched near Baran Village, Darius cried, “Halt!”
-
-
-Darius signaled to the entire complement to stop immediately. When Weed in the rear ranks walked to the front, he saw an old man in shabby clothes and dozens of children staggering toward the troops.
-
-
-“What is your business?” Darius asked; he didn’t even get down from horseback—Darius and his minions were the only users on horseback.
-
-
-“Greetings, Your Respectable Commander. We are the survivors of Baran Village,” the old man said. “I am Ghandilva, the elder of the village. I recently sent Jackson to break the sad news of my village’s calamity to His Highness and ask for help. I hope you are the ones to lift us from misery.”
-
-
-“Yes,” Darius said.
-
-
-Ghandilva was an elder of Baran Village, and the terrified children who were following him had escaped from the village with him when it was raided by the lizardmen.
-
-
-“We will take back Baran Village very soon,” Darius said to Ghandilva. “So take comfort and wait a little longer for the good news.”
-
-
-“I am glad to hear that, you're a respected commander. By the way, I have a personal request…”
-Ghandilva said.
-
-
-“What is it?”
-
-
-“Please rescue my people who were captured by the despicable these creatures. It is the last wish of this humble old man,” Ghandilva pleaded amid tears.
-
-
-Darius’ eyes glinted.
-
-
-“Is this a quest?”
-
-
-“Yes, it is the quest from my village, your respected commander,” Ghandilva said.
-
-
-“What rewards can you give me?” Darius asked directly.
-
-
-As a high-level user, Darius didn’t rush into any quest presented to him. There were too many quests around, and a lot of them only wasted time.
-
-
-Ghandilva made a downcast face. “We don’t have anything of value to give you, sir. All I can give is this…” Ghandilva showed a plain-looking seed.
-
-
-“I thought so. What rewards would I expect from an old man who has lost his village to a band of lowly lizardmen? No treasures, no items,” Darius said.
-
-
-Darius snickered coldly. He thought the old man had come to him to stir up trouble before he got down to driving the lizardmen out of the village.
-
-
-“Then I will take over the village fast, and if we have free hands available after the battle, I will personally see to it that some troops will be sent to rescue the captives,” Darius said. “We cannot seriously expect that the hostages taken by the lizardmen are still alive by now. Don’t test my patience, old man.”
-
-
-Darius trotted away from Ghandilva ruthlessly.
-
-
-Some users in the punitive force called their leader names under their breath, but no one dared rise up to help the elder. Ghandilva was cast into despair. Then, someone grasped his wrinkled hands.
-
-It was Weed.
+Foi Weed.

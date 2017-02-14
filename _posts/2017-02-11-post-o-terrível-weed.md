@@ -746,11 +746,11 @@ Weed calculou o tempo de seu ataque tão precisamente que a raposa não pôde ne
     </table>
 </div>
 
- Uma janela de mensagem que era visível apenas para Weed apareceu. Acerto crítico!
+Uma janela de mensagem que era visível apenas para Weed apareceu. Acerto crítico!
 
 Aquilo apenas aparecia quando o dano era dobrado como resultado de um ataque efetivo, por causa de um excelente timing.
 
-*Glint* (NT = Nota barafael: clarão de luz)
+*Glint*
 
 A raposa foi cortada ao meio e desapareceu em um flash. Ela derrubou dois itens: pele de raposa e carne.
 
