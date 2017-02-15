@@ -74,7 +74,7 @@ Ele descobriu que o restaurante do Terceiro Tio tinha o apoio da Seita dos Sete 
 
 A cada 5 anos, a Seita dos Sete Mistérios formalmente emitiria convites para que os jovens fizessem o teste para tornarem-se discipulos internos. O teste começaria oficialmente no mês seguinte. O Terceiro Rio era um homem astuto e esperto que não tinha filhos, então naturalmente, ele pensou em Han Li, que cumpria o requisito da idade.
 
-No momento em que o normalmente dócil Father Han ouviu as palavas *Jiang Hu* and *Seita*, junto com muitas outras frases que ele nunca tinha ouvido antes, ele sentiu-se muito hesitante. Trazendo seu cachimbo aos lábios e dando-lhe uma tragada, ele se sentou sem dizer uma palavra.
+No momento em que o normalmente dócil Father Han ouviu as palavas *Jiang Hu* e *Seita*, junto com muitas outras frases que ele nunca tinha ouvido antes, ele sentiu-se muito hesitante. Trazendo seu cachimbo aos lábios e dando-lhe uma tragada, ele se sentou sem dizer uma palavra.
 
 De acordo com o Terceiro Tio, a Seita dos Sete Mistérios poderia ser considerada uma das melhores seitas a centenas de milhas.
 
@@ -84,12 +84,12 @@ Ao ouvir a possibilidade de que seu filho pudesse receber um salário mensal, e 
 
 Depois de obter a aprovação do pai de Han Li, o Terceiro Tio sentiu a alegria em seu coração. Deixando para trás duas moedas de prata, ele disse que em um mês, ele voltaria e escoltaria Han Li para a área de testes. Durante este período, o pai de Han Li teve que garantir que ele seria bem vestido e alimentado para melhorar sua constituição para facilitar a Han Li passar no teste. Depois de dar as instruções, o Terceiro Tio se despediu de Han Li e seu pai, acariciou a cabeça de Han Li, e deixou a cidade.
 
-While Han Li didn’t fully comprehend his Third Uncle’s words, he could understand that he would be able to earn money in the big city. It seemed that his dream from before was going to come true, making him so excited that he couldn’t fall asleep for the first few nights.
+Enquanto Han Li não compreendia completamente as palavas do Terceiro Tio, ele podia endenter que ele seria capaz de ganhar dinheiro na cidade grande. Parecia que seu sonho estava tornando-se realidade, deixando-o tão excitado que ele não podia dormir nas primeiras noites.
 
-After one month had passed, Third Uncle returned to the village, escorting Han Li to the testing site. Before he left, Han Li’s father repeatedly instructed Han Li on ways of proper behavior. One must be honest, have the capacity to endure, and avoid unnecessary conflicts with others. Meanwhile, Han Li’s mother urged him to take care of his health and to eat and sleep well.
+Depois de um mês, o Terceiro Tio retornou a vila, escoltando Han Li para a área de testes. Antes de ir, o pai de Han Li o intruiu repetidamente sobre as formas de comportamento adequado. Ser honesto, de ter a capacidade de suportar e evitar conflitos desnecessários com os outros. Enquanto isso a mãe de Han li pedia-lhe para cuidar da sua saúde, comer e dormir bem.
 
-The day finally arrived when Third Uncle came to take Han Li away by carriage. As his parents gradually disappeared from his sight, Han Li bit down on his lips in order to prevent his tears from flowing down his eyes.
+O dia finalmente chegou quando o Terceiro Tio veio buscar Han Li com uma carruagem. Seus pais desapareceram gradualmente da sua visão, Han Li mordeu seus lábios para evitar que suas lágrimas escorressem de seus olhos.
 
-Although he had always been more mature than other children of the same age, he was still a ten year-old child. This was the first time he had left home, so he naturally felt depressed. A homesickness developed in his heart. He was determined to rush home after he struck riches, never to be separated from his parents.
+Embora ele tenha sido sempre mais maduro que as outras crianças da mesma idade, ele ainda era uma criança de dez anos de idade. Esta foi a primeira vez que ele tinha deixado sua casa, então ele naturalmente sentia-se deprimido. Uma saudade de casa cresceu em seu coração. Ele estava determinado a correr para casa depois de conquistar riquezas, para nunca ser separado dos seus pais.
 
-What Han Li didn’t know was that, from this moment on, money has lost its meaning to him. He had already chosen to embark on a path different from ordinary mortals. He had chosen to enter the world of cultivation, walking his own path towards Immortality!
+O que Han Li não sabia era que, a partir daquele momento, o dinheiro perderia o significado para ele. Ele já tinha escolhido embarcar em um caminho diferente das pessoas comuns. Ele escolheu entrar no mundo da cultivação, trilhando seu caminho para a imortalidade.
