@@ -83,6 +83,22 @@
     
     
         <url>
+            <loc>http://0.0.0.0:8080/post-o-tesouro-perdido-no-templo/</loc>
+        </url>
+  
+        <url>
+            <loc>http://0.0.0.0:8080/post-a-cidade-de-green-ox/</loc>
+        </url>
+  
+        <url>
+            <loc>http://0.0.0.0:8080/post-a-est%C3%A1tua-da-deusa-freya/</loc>
+        </url>
+  
+        <url>
+            <loc>http://0.0.0.0:8080/post-a-terra-dos-mitos/</loc>
+        </url>
+  
+        <url>
             <loc>http://0.0.0.0:8080/post-a-aldeia-da-floresta/</loc>
         </url>
   

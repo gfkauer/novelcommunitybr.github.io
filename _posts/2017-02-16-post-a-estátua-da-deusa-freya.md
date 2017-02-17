@@ -16,7 +16,7 @@ introduction:
 tradutor: Giovane Kauer
 revisor: Giovane Kauer
 editor: Giovane Kauer
-fonte: https://lmsnovelbr.wordpress.com/2016/10/09/lms-volume-2-capitulo-2-a-estatua-da-deusa-freya/
+fonte: http://royalroadweed.blogspot.com.br/2014/11/volume-2-chapter-2.html
 ---
 
 Conforme Weed e seus companheiros se aproximavam da Fortaleza dos Lizardmen, a queda no número de monstros no caminho deles aumentou rapidamente.
@@ -160,11 +160,7 @@ Sem ver esperança, esses dois lizardmen que enfrentavam Weed foram espancados, 
 <div align="center" class="quest-center">
     <table border="1" cellspacing="3" cellpadding="0">
         <tbody>
-<tr>
-    <td>
-        <p align="center">Novo Atributo: Perseverança</p>
-    </td>
-</tr>
+<tr><td><p align="center">Novo Atributo: Perseverança</p></td></tr>
         </tbody>
     </table>
 </div>

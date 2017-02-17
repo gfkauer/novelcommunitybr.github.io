@@ -107,7 +107,7 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `sudo npm install`
 - Run `sudo npm install -g gulp gulp-cli`
 - Run `sudo gulp`
-
+- jekyll serve --host $IP --port $PORT --baseurl ''
 ## Questions
 
 Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@willian_justen](https://twitter.com/willian_justen) or file a [GitHub Issue](https://github.com/willianjusten/will-jekyll-template/issues/new).
