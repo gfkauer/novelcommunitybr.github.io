@@ -2,7 +2,7 @@
 layout: post
 novel-title: The Legendary Moonlight Sculptor
 title: "Aquele que faz o pior"
-date: 2017-02-19 00:00:00
+date: 2017-02-19 12:00:00
 image: '/assets/img/'
 description:  Volume 2 - Capítulo 4
 main-class: 'lms'
