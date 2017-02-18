@@ -2,9 +2,9 @@
 layout: post
 novel-title: A Record of a Mortal's Journey to Immortality
 title: "Penhasco Moedor de Ossos"
-date: 2017-02-18 14:51:15
+date: 2017-02-19 00:00:00
 image: '/assets/img/'
-description:  Volume 1 - Capítulo 3
+description:  Volume 1 - Capítulo 4
 main-class: 'rmji'
 color: '#637a91'
 tags:
@@ -16,7 +16,7 @@ introduction:
 tradutor: Giovane Kauer
 revisor: Giovane Kauer
 editor: Giovane Kauer
-fonte: http://gravitytales.com/novel/a-record-of-a-mortals-journey-to-immortality/rmji-chapter-3
+fonte: http://gravitytales.com/novel/a-record-of-a-mortals-journey-to-immortality/rmji-chapter-4
 ---
 
 Na frente das crianças, o chefe da divisão Yue, gritou:
